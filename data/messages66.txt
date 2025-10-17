@@ -1,0 +1,945 @@
+﻿ja, richtig
+czemu zas do maka?
+ja ide do zaby
+bo rybe dajo
+ja ryby nie jem
+białko
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong><br><br>Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+Oficjalnie wybiła 13:00, co to oznacza? <br>Dokładnie! Ban na obrażanie <strong>sami wiecie kogo</strong> uważam za zniesiony!<br>Życzę kreatywnej krytyki i stalowych nerwów.
+brakuje api/bazy danych gdzie są polskie tytuły filmów, oryginalne tytuły filmów, imdb link i filmweb link
+potrzebujesz to do apki&gt;?
+apka jest
+np filmweb
+imdb
+no fajnie by było jakby coś takiego istniało
+no dobra apka ale tu chodzi o automatyzacje xD
+to nie prawdziwa ryba
+fake fish
+może w imdb api jest to do obsłużenia ale mają to na jakimś zasranym aws data exchange zrobione
+xd
+:D
+ide do zaby
+bo spac
+<a href="https://imdbapi.dev/">https://imdbapi.dev/</a> jednak jest jakiś gigachad
+13:15 -&gt; Druga przerwa w środku tygodnia. QA głodne, QA złe. Jak QA złe, to QA nie testuje. QA zawsze złe.
+Łukasz musi dotestować taska. Wezwij go, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/68c15db4077c313be4fcd523">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/68c15db4077c313be4fcd523</a>
+<a href="https://ai.pydantic.dev/">https://ai.pydantic.dev/</a>
+musze to przetestować
+Wygląda jak pythonowy odpowiednik tego <a href="https://github.com/vercel/ai">https://github.com/vercel/ai</a>
+nieeeee
+vercel obsluguje same operacje
+to co wyslalem pozwala tworzyc agentow ktorzy sami wybieraja operacje do wykonania
+Ktoś wypełni? Bo Tomek Prus potrzebuje do magisterki
+niet
+🤔
+to ciekawe
+to jest tool do tworzenia agentów ai
+i całych workflowów
+nie wiedzialem ze studiuje na ubb xd
+vercel tez
+mzoe vercel tez to moze
+powiedzmy sobie szczerze
+to python byl pierwszy
+Vercel May 2023<br>Python Oct 2024
+ale chodzi o funkcjonalnosc
+no to akurat JS i python idą łeb w łeb w AI
+kto normalny pisalby AI od poczatku w JS
+tzn w LLM
+bo w machine learning to nie
+to python jest do procesowania danych
+naczej spoko
+wole pythona
+ja kiedys duzo uzywalem pythona a teraz mnie wkurwia i staram sie unikac gdy moge
+xd
+czemu?
+słabe typowanie w porownaniu do TS i duża niekompatybilnosc między wersjami
+czemu slabe typowanie?
+jak wymusisz typ to bedziesz mial
+tak samo jak w TS
+zalezy od use case, do jakiegos przetwarzania danych gdzie potrzebowal bym numpy albo cos do wykresów
+to uzylbym pythona
+ale do jakichs takich CLI rzeczy to Node
+spoko
+jak komu wygodnie
+do AI uzywalbym pythona
+jako backend
+ale sam sobie musisz pilnować i jak nie dasz to nie narzeka
+byl taki transpilator do pythona
+co enforcowal typy
+ale nie pamietam nazwy
++ to nie jest popularne
+w js wogole nie mozesz typowac a nadal go uzywacie
+naczej sa proste typy
+no ja zawsze uzywam TS
+jak w TS nie dasz typu i przeslesz to ci krzyczy?
+Tak, nie stranspilujesz do JS jak w TS nie dasz typu
+spoko
+mi nie przeszkadza
+pisze w tym skrypty do uczenia AI glownie
+pora spadac do domu
+O to
+ale to nie jest uzywane
+A o to mi bardziej chodzilo
+<a href="https://www.mypy-lang.org/">https://www.mypy-lang.org/</a>
+to jest chyba taki TypeScript do pythona
+spoko
+chyba mi oczy nie pracują
+poprawnie dzisiaj na devie
+idę po kawę
+wlasnie wrzucam fix xd
+<a href="https://t.me/grok">@grok</a> co autor ma na myśli
+z claimami jest śmiesznie bo trzeba pierwsze skonfigurować jaka domena jest do claimowania
+lokalnie mi nie przechodzi bo nie mam tej która jest w devie ustawiona xD
+No, i Razu ustawił super.duper na stage
+CO TO JEST XD
+🛸
+ozyl martwy czlowiek
+u f o
+no zle mi sie klikło no
+hm?
+ahy
+why
+dlaczego ożyłeś?
+😟
+ze to xd
+^ podmieniał kolorki
+by naprawić dark mode
+i się zepsuło się
+a, to nie, moja reakcja byla na te nazwy projektów
+XP
+kto twierdzy że ożyłem??
+Kuba
+mi to paweł wysłał żeby pokazac ze jest bug xD
+XD
+stradzne
+jak wleci mcp
+do pójdzie prompt, by zamienił wszędzie name&apos;y na random emoji
+przecież ja zawsze odzywam się na tej grupie raz w tygodniu
+XD
+<a href="https://cinemafront.eu-1.shr.io/">https://cinemafront.eu-1.shr.io/</a>
+jakiś problem z tunelami buddy jest, pare sekund idzie request z kinami dla danego miasta
+tu jest stary infobox &gt;:(
+ale to nie jest po naszej stronie 😭
+mają wolny przesył danych tam? @qa wy się tym bawiliście chyba
+jaka jest różnica w kolorze?
+żółte cinema city niebieskie helios
+a, to dzisiaj cinema city najwidoczniej zamknięte
+oki
+patrzysz na 10 a wczoraj baze czyściłem xD
+Dodaj support dla cinema city
+więc dopiero 11 są faktycznie te które mają być
+miasto daleko xd
+aaa, mogę zobaczyć, co mogłem wczoraj zobaczyć
+jakbym poszedł do kina
+sprytne
+fajnie jak bys dal statyczny scrollbar na ekranie glownym bo jak jest malo wynikow wyszukiwania to skacze
+ale ogolnie to fajne calkiem
+Masz jakiś clickup czy coś innego aby ci powystawiać taski/issue?
+co ci skacze
+jak bardzo chcesz i potrzebujesz możesz tutaj 😆 <a href="https://github.com/BartShoot/projektor">https://github.com/BartShoot/projektor</a>
+multikino na razie odpada, nie odezwali się dalej a nie pali mi się robić manualnej roboty z pobieraniem filmów
+a, tu
+<a href="https://t.me/lmastalerz">@lmastalerz</a>
+ty jesteś poważny?
+<a href="https://github.com/BartShoot/projektor/issues/2">https://github.com/BartShoot/projektor/issues/2</a>
+Nie
+no problem nr 1 który właśnie widzę to że na tym widoku z seansami zaczynać zawsze danego dnia a nie wszystkie co mam zapisane xD
+a front to jest v0 + gemini - zero szarych komórek było użytych przy tworzeniu tego
+jak zrobiłeś takie fajne?
+<a href="https://github.com/anuraghazra/github-readme-stats">https://github.com/anuraghazra/github-readme-stats</a> + <a href="https://shields.io/">https://shields.io/</a>
+a jak dodac readme do glownego profilu?
+robisz projekt username/username
+i <a href="README.md">README.md</a> tam
+projekt czy repo?
+<a href="https://docs.github.com/en/account-and-profile/how-tos/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme">https://docs.github.com/en/account-and-profile/how-tos/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme</a>
+sorka repo
+9:50 -&gt; do przerwy zostało T - 10 minut.
+ale slaba mam ocenke :D
+B- :/
+ale to sie zmieni jak zaczne nadupcac asystenta
+to chyba nie liczy projektów organizacji
+ta, chyba publicznie dostępne twoje personalne
+ja mam mniej commitów ale więcej gwiazdek temu c+ chyba xD
+a w organizacji mam kolejne 18 repos
+no tak
+uczonko
+biedny komputer
+czy ja wiem
+wiesz że miałbyś więcej dostępnych gb vram gdybyś nie miał graficznego interfejsu??
+no tak
+mam 43 ogolnie
+i tak trenuje przez Qlore
+i nie zaciagam calego modelu
+bo caly zajmuje 44.5 GB xd
+<a href="https://t.me/shipurjan">@shipurjan</a> kojarzysz ten problem?
+Zajebali ci common errora
+10:00 -&gt; może i bugi wystawiane przez QA są do niczego, ale wszystko ma swoje pozytywne strony. Przykładowo Marcel nie zgubił plecaka.
+nieprzerwanie turbozabawne od paru tygodni
+🗿
+jeest razu dzisiaj?
+Jest
+Sprawdź, idź na backend
+ta
+teleportuje sie
+Jest
+wiem
+napisal m,i
+typical message
+&quot;o co ci chodzi&quot;
+co wy tak ciepło macie na qa
+taki troche pojebany ten widok nie powiem
+podoba mi sie ze masz whuj divów i nagle z dupy li
+Cyprian jest dzisiaj?
+jeszcze nie
+juz tak
+wystaw mi to
+Done
+jest url do tego?
+Nie ma konkretnego
+Chcesz, żeby był?
+Czy wolisz Yaml-a?
+URL wygodniejsze
+moze byc na stage nawet
+<a href="https://app.awsstage.net/dilloncliftondennison/ooikneccer/pipelines/pipeline/10236/execution/68c290fc729c33f974f5e555">https://app.awsstage.net/dilloncliftondennison/ooikneccer/pipelines/pipeline/10236/execution/68c290fc729c33f974f5e555</a>
+<a href="mailto:dillon.clifton.dennison@0zxc.com">dillon.clifton.dennison@0zxc.com</a>
+ありがと
+widzę, ze trenujesz japoński przed urlopem
+xd
+daj cancel
+ej
+lukasz zdrajco
+kuba nie rob sobie todo listy z taska
+xd
+czemu
+bo wkurzasz te osoby
+zacznij uzywac Action Items
+Sorry
+wszyscy mają już tego badge&apos;a? xd
+fakt to łatwiejsze
+super labelki lukasz
+tak xd
+tak pół firmy na oko?
+<a href="https://t.me/shipurjan">@shipurjan</a> <a href="mailto:wilfredo.traci.schultz@0zxc.com">wilfredo.traci.schultz@0zxc.com</a><br><a href="https://app.awsstage.net/wilfredotracischultz/sqecvhvkik/pipelines/pipeline/10237/execution/68c292178bf9d39644c53b37">https://app.awsstage.net/wilfredotracischultz/sqecvhvkik/pipelines/pipeline/10237/execution/68c292178bf9d39644c53b37</a>
+<a href="https://app.clickup.com/t/869aeqktf">https://app.clickup.com/t/869aeqktf</a>
+Wilfredo traci Schultz 😿
+ty nie dostałeś maila?
+odważnie biorąc pod uwagę npm ostatnio dziure miał
+nie
+to źle?
+ja też nie wystawiam za dużo tasków, najczęściej to dostaje gotowe i pingpong jak sie robi taska
+pnpm akurat jest sprawdzony, że może być szybki
++ daje nam rzeczy, jak patchowanie
+out of the box bez kombinowania
+nie nie mi chodzi o baze paczek
+duża dziura
+wszystkie paczki mamy ===
+więc same z siebie się nie zaktualizują
+atakujacy musiałby poprzednia wyjebać
+i wrzucić nową pod tym samym numerem
+widzialem
+no tak ale jest task zeby podniesc nasze paczki
+Grab some new tech video!<br>Channel: <strong>ThePrimeTime</strong><br>Title: <strong>it somehow got worse</strong><br>Pub date: <strong>10.09.2025</strong><br>Link:<a href="https://www.youtube.com/watch?v=Rv9q6kW1vOg">https://www.youtube.com/watch?v=Rv9q6kW1vOg</a>
+ale Bartek Wróbel pewnie sprawdzi każdą po kolei
+czy nie byla compromised
+ano
+mi kiedyś sprawdził jakieś paczki
+że to gównokod
+czy jakoś tak
+nie pamiętam, dawno temu to było
+bun tez byłby spoko
+ale to raczej zbyt świeże pod nas
+Grab some new tech video!<br>Channel: <strong>ThePrimeTime</strong><br>Title: <strong>First Ever AI CLI Agent Hack </strong><br>Pub date: <strong>9.09.2025</strong><br>Link:<a href="https://www.youtube.com/watch?v=Rxn_X04lg88">https://www.youtube.com/watch?v=Rxn_X04lg88</a>
+meh
+bun moze spoko za 5 lat
+<a href="https://www.youtube.com/watch?v=OSNObKP-tB4">https://www.youtube.com/watch?v=OSNObKP-tB4</a>
+no to mówię, jako &quot;a dupne sobie stronę dla siebie&quot; to spoko
+wyslalem przeciez juz wideo na ten temat
+dla firmy to moze jeszcze nie
+chociaż działa spoko
+no ogólnie to wina package managerów że coś takiego jest zajebiście groźne
+bierzesz paczke
+która ma paczki
+która ma paczki
+w pypi też możesz takie gówno zrobić
+na backendzie 100% nie robimy żadnych audytów tego, tylko CVE jak wyjdą to sprawdzamy
+tylko chalk np to już package, który ktoś może faktycznie mieć
+i nie jako nested dependency
+albo debug
+wlasnie bardziej niebezpieczne są te typu ansi-styles albo ansi-regex albo cos takiego
+is-arrayish to nie wiem, kto o zdrowych zmysłach trzyma u siebie w projekcie
+bo dużo więcej paczek ich używa
+jako subdependency wlasnie
+si
+<a href="https://www.gingerbill.org/article/2025/09/08/package-managers-are-evil/">https://www.gingerbill.org/article/2025/09/08/package-managers-are-evil/</a>
+a to trudniej znalezc niz po prostu podniesc chalk
+trzeba wrócić do tradycji
+paczki pobierane ręcznie do repo
+chyba, że ktoś przegląda package-lock xd
+spakowane binarki w danej wersji
+binarka to też zły pomysł
+nie pobieranie z jakiegoś mało wiarygodnego serwisu
+wiesz, masz kod źrodłowy (powiedzmy)
+dependency możesz zobaczyć, ale sub już nie
+Nie no package managery są OK, ale imo każda paczka powinna nie mieć subdependencji
+bez wchodzenia w projekt
+albo mieć spinowane subdependencje
+to już wina npm
+czyli po prostu paczka to kod bez innych dependencji
+że to przepuszcza
+wtedy to bylo by ez
+no nie, odwrotność ez
+dużo mniej ludzi by korzystała gdyby instalowanie paczki to nie było npm i paczka
+tylko npm i paczka
+potem próba odpalenia
+npm i 15 innych paczek od których paczka zależy
+aktualizacja wersji?
+paczki które polegają na tych samych?
+wtedy zarządzanie paczkami i wersjami zmieniłoby się z szybkiego wyszukania i instalacji w złożone rozwiązywanie drzewka zależności projektu xD
+no teraz tak juz jest
+ze mozesz instalowac 2 wersje tej samej paczki, bo inne paczki mają je jako subdependency w innych wersjach
+gdzieś gdzie liczy się security czy absolutnie top performance apki może to robią, w całym świecie web developerki 90% na to nie pójdzie
+no ale juz tak jest przeciez
+z naszego package-lock frontowego
+że piszecie to ręcznie?
+czy rozwiązuje to za was
+rozwiązuje za nas
+no
+to jest problem
+tak
+tzn imo to nie bylby problem jesli wersja paczki np. 1.2.3 zawsze mialaby niezmienne dependencje
+ALE TAK NIE JEST
+bo jak usuniesz node_modules i zrobisz na nowo <code>npm i</code>
+np. po miesiącu
+a paczki nie będą przypięte w paczce którą zainstalowałeś
+to na tej samej wersji będą nowsze wersje subdependencji
+ktore juz mogą np. mieć malware 😂
+Bartosz Dobija, [11.09.2025 11:18]<br>trzeba wrócić do tradycji<br><br>Bartosz Dobija, [11.09.2025 11:18]<br>paczki pobierane ręcznie do repo<br><br>Bartosz Dobija, [11.09.2025 11:18]<br>spakowane binarki w danej wersji<br><br>Bartosz Dobija, [11.09.2025 11:18]<br>nie pobieranie z jakiegoś mało wiarygodnego serwisu
+podaj lepsze źródło niż npm dla node&apos;a
+:/
+brak alternatyw albo tak popularne, że 💀
+no nie ma bo to tak działa
+tzn npm jest tak samo wiarygodny jak github, ale jak ktos ci sie wpierdoli na repo i cos pozmienia i pousuwa to nie jest wina githuba
+tylko twoja
+troche ostre mówić że to wina użytkownika kiedy użył npm dokładnie tak jak został do tego stworzony
+pobiera sobie niewinną paczkę której ma przypiętą wersje
+ta paczka korzysta is-arrayish w nieprzypiętej wersji
+npm powinien pilnować/ostrzegać/wypierdalać błąd jak ktoś pobiera paczke z nieprzypiętymi dependencjami
+bo to jest zajebisty security risk jak pokazała taka akcja xD
+tyle dobrze że hacker debil źle tamte portfele jakieś użył i zyskał około 20$ memecoinów i 2 centy
+trochę późno do naprawiania tego burdelu
+jak masz paczki, które są nieaktualizowane od 10 lat
+i raczej owner ma je w dupie już
+tzn no npm daje ci mozliwosc przypiąć paczkę albo nie<br>a to ze niektorzy developerzy nie przypinają w swoich zreleasowanych wersjach, a ludzie i tak ich uzywają to troche skill issue<br>to dziala tak jak programista sobie ustawil, a ze niektorzy tego nie przypinają to suabo<br>no ale jakis warning bylby spoko faktycznie
+osobiście gdybym widział taką starą paczke to nawet bym nie mrugnął i poszedł szukać innej
+Tzn jak juz wygenerujesz package-lock.json to wtedy masz przypięte wszystkie wersje subdependencji
+though npm jest bezpieczne, bo nie zrobisz <code>npm i</code> na repo z gh, które nie jest update&apos;owane od 5 lat. bo wyjebie tyle warningów i errorów, że nic nie dostaniesz :D
+dopóki nie zaktualizujesz
+maven wymaga dokladnej wersji zawszze od początku, nie ma czegoś takiego że chcesz wersje 2.0.* więc automatycznie wszystko co jest tam wypuszczane jest na przypiętej wersji paczki
+wiec tak troche package-lock.json jest od tego, ale wlasnie gdyby wymagalo dokladnej wersji to nawet nie bylby potrzebny
+albo bylby potrzebny do czegos tam, ale nie do pilnowania wersji podpaczek
+sprawdzanie hasha czy ta wersja paczki to na pewno ta wersja paczki a nie inny kod pod tym samym tagiem
+torrenty też to mają żebyś miał pewność że to co pobrałeś jest tym co ktoś udostępnia
+<a href="https://jsr.io/">https://jsr.io/</a>
+To jest npm dla Deno, moze ma to lepiej rozwiazane
+ale chyba nie bo to superset npm
+no wszystko rozbija się o to, że cały ten ekosystem na wielu poziomach pozwala na jakieś rozjazdy i deprecatowanie się rzeczy same z siebie
+Chyba sie nie da podpiąć do maszyny stage jednak
+nie ma osobnego es dla stage?
+czy tam admina
+jest
+<a href="http://es.stage.io/">http://es.stage.io/</a>
+to nwm jak to ustawic
+token bym musial miec
+do stage
+jest opcja że nie mamy tych dostępów
+nie mamy do stage
+publiczne ceny
+antrans do zgłoszenia wg mnie, podają cenę z powierzchnią pod ściankami działowymi i wg tego podają cene za metr xD ale podają faktyczną powierzchnie tylko schowana jest bardziej pewnie w ramach dupochronu
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong><br><br>Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+Oficjalnie wybiła 13:00, co to oznacza? <br>Dokładnie! Ban na obrażanie <strong>sami wiecie kogo</strong> uważam za zniesiony!<br>Życzę kreatywnej krytyki i stalowych nerwów.
+heeeee
+kolejny moloch wlatuje pod moje skrzydla
+dotarło do mnie do powiadomienie
+ja ostatnio dostaje tylko bydlaki do sprawdzania
+wszystkim zależy na szybkim zmergowaniu taska
+to bedzie ciezkie
+bo jest ogrooomny
+front w chuj zmian, backend w chuj zmian i blokuje sporo rzeczy
+wierm
+a z mojej strony tez w chuj zmian :D
+co tym razem?
+domeny w profilu
+z fun factów - żaden resource do tej pory nie był poza workspace, zawsze wszystko było łączone z workspace lub czymś powiązanym
+krzyż na drogę
+to jest z userem
+inaczej feedy, inaczej pushe, inaczej internal api
+krzysiek przed chwila wskoczyl jak stary w sobote
+z łatwych rzeczy, większość rzeczy to duplikacja
+no mlody zostaw co robisz masz tu bojowe zadanie
+xd
+wiem ale nie skopiuje calosci
+trzeba to madrze zrobic
+to odstawiam AI na bok
+bedzie klepane dalej po 15
+😢
+13:15 -&gt; zostaw już ten kod, trzeba coś zjeść. qa w kąt, a ty znikaj stąd
+Łukasz musi dotestować taska. Wezwij go, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/68c2af34077c313be4fec30f">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/68c2af34077c313be4fec30f</a>
+co to się podziało
+🤔
+odpalam <a href="app.local.io">app.local.io</a> i mam od razu konto z magicznym mailem?
+frątasie mają stronke na której można prowadzić pojedynki na centrowanie diva na czas <a href="https://www.youtube.com/watch?v=eynG6X_xunI">https://www.youtube.com/watch?v=eynG6X_xunI</a>
+Uwolnić barabasza z qa
+<a href="https://t.me/lmastalerz">@lmastalerz</a>, prosimy o audiencję.<br><br>~uniżony lud powracający z Dżaby<br><br><a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196321/execution/68c2b3153b26125e0006e55f">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196321/execution/68c2b3153b26125e0006e55f</a>
+Dzień dobry,<br>uznaję wasze potrzeby i przerwę moją pracę, aby się z wami spotkać.<br>Pozdrawiam.
+<a href="https://youtu.be/DeHzan4CJUo?si=Isx-JwKsUhG_EEPK">https://youtu.be/DeHzan4CJUo?si=Isx-JwKsUhG_EEPK</a>
+<a href="https://www.instagram.com/reel/DOTQ6LAkS7u/?igsh=MWZkaW0zYWhkMXZpZA==">https://www.instagram.com/reel/DOTQ6LAkS7u/?igsh=MWZkaW0zYWhkMXZpZA==</a>
+najlepsza reklama jaka ostatnio widzialem
+Wyślijcie scruma na grupie<br><a href="https://t.me/lmastalerz">@lmastalerz</a> <a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> <a href="https://t.me/mganczarczyk">@mganczarczyk</a> <a href="https://t.me/shipurjan">@shipurjan</a> <a href="https://t.me/mnawiesniak">@mnawiesniak</a> <a href="https://t.me/BartShoot">@BartShoot</a> <a href="https://t.me/mJakobsche">@mJakobsche</a>
+ale dzisiaj cisza jerst
+nikt nic nie pisze
+jak to napisałeś to mój telegram dostał padaczki, wyświetlał na zmiane inne grupy i jakieś dziwne paski
+xd
+to znak\
+dzisiaj nie piszemy nic
+to my już przegraliśmy
+sample text
+instalowalem wczoraj kali linuksa i testowałem tam tools
+musze kiedyś dokończyć tego mr robot
+testowałem recon-ng i fajne narzędzie.
+a to ja wczoraj wpadłem na genialny pomysł jak lepiej scrapować
+z kin?
+ogólnie
+jak?
+można sobie mitmproxy albo dane HAR z przeglądarki pobrać i są programy które ci to przerobią na openapi
+<a href="https://github.com/alufers/mitmproxy2swagger">https://github.com/alufers/mitmproxy2swagger</a>
+w sensie ze wynajduja api ze strony czy jak?
+tu był problem że polskie znaki jak są w api to się wypierdala
+tak, musisz popatrzeć że requesty lecą np na <a href="filmweb.pl/api/v1">filmweb.pl/api/v1</a> i wszystkie requesty które leciały ci po sieci w danej sesji zapisuje do openapi z przykładami itd
+czyli to uruchamiasz i chodziszz po przegladarce?
+tak, mitmproxy zbiera ci wtedy każdy request który leci
+możesz je sobie przefiltrować jak chcesz itp itd
+jak potrzebujesz polskie znaki to mi zadziałało to <a href="https://github.com/jonluca/har-to-openapi">https://github.com/jonluca/har-to-openapi</a>
+robisz se prosty skrypt js ale chyba tylko z plikami HAR działa
+przydatne
+no sporo czasu zaoszczędza zamiast patrzeć i łapać ręcznie te requesty
+a nie mozna wejsc na dokumentacje?
+no jak jest to wiadomo że jest prościej
+a do filmweb nie ma?
+nie ma
+a co ci da ze przechwycisz requewsty jak sie nie uwierzytelnisz?
+zrób <br><pre>curl &apos;https://www.filmweb.pl/api/v1/live/search?query=jak%20wytresowa%C4%87%20smoka&amp;pageSize=12&apos;</pre>
+o
+nie uwierzytelniaja tego w zaden sposob
+to spoko
+mozna sobie pobierac dowoli
+no rzeczy których nie muszą nie robią
+cinemacity, helios, filmweb wszyscy czill
+tylko jebane multikino robi problemy xD
+ucze sie teraz czytajac jedna ksiazke i strona autorów jest ciekawa
+<a href="https://hacker.house/">https://hacker.house/</a>
+oni uwierzytelniaja?
+9:50 -&gt; do przerwy zostało T - 10 minut.
+ta, musisz wejść na strone wtedy robi się sesja i możesz sobie robić co chcesz już
+fajny kali linuxowy vibe
+jak się będę nudził to dorobie opcje pobierania danych lokalnie i przesyłanie dumpa na serwer dla multikina ale na razie średnio mi się chce
+:D
+ja dzisiaj po silce bede programowal STM-a
+<a href="https://posthog.com/">https://posthog.com/</a> posthog ma nową stronę
+ale zajebista
+xdddd
+i dziala
+jprdl
+moge sobie pogrubic tekst
+nie dość że działa to działa płynnie
+clickup patrzcie i się uczcie
+przekreslanie nie dziala
+kozackie ale troche confusing xd
+nie
+nie wiem co gdzie jest
+śmieszkom się roadmapa nie ładuje
+ten kto wymyslil ten design jest kozakiem
+xd
+lewy górny róg są zwykłe dropdowny chyba
+merkel jako cookie
+nawet ci pisze że to nie merkel
+gdzie?
+ciekawe jak accessibility
+a nie merkel tylko von der leyen
+pojebaly mi sie nazwiska
+chodzilo mi o przewodniczaca UE
+wygaszacz ekranu też mają 😆
+widze ze ich produkty to glownie testy A/B i analiza
+produktty zwiazane z analiza produktów
+10:00 -&gt; jest piątek, weekendu początek. Uhonorujmy ten wspaniały dzień miską <strong>psznej zupy</strong> i jeszcze lepszego... no. Życzę wam spokojnego życia bez przypierdolek QA.
+xddddd
+wejdz do kosza
+i odpal spicy.mav
+tragedia
+co tam ciekawego
+xd
+xddddd
+smieszni są
+polecam shuffle
+jak klikniesz w spicy to dostaniesz never gonna give you up
+ile pracy zeby taka strone zrobic
+na twitterze coś o tym pisali
+sie najebali
+ziomek który to robił
+<a href="https://x.com/posthog/status/1965834774540693893?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet">https://x.com/posthog/status/1965834774540693893?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet</a>
+ta strona jest poprostu niesamowita
+widze tu dobre kilka lat kodowania
+w sklepie maja
+Gdzie jest granica robienia sobie jaj z pogrzebu a między stroną poważnej firmy? xd
+tutaj
+?
+nie ma
+te easter eggi rozwalaja
+no mowie, smieszne jest ale ciezko troche sie odnalezc jak cos potrzebujesz konkretnego xd
+fajny bajer
+nie
+ja znalazłem wszystko
+odziwo jest bardzo intuicyjne
+po spedzeniu 10 minut na tej stronie
+przecientny user spedza 15-30s
+tyle to ja wszystko z ciekawosci
+wszystko masz na piewszej stronie
+tak naprawde
+no tylko w kompletnie innym miejscu niz na wszystkich innych stronkach xd
+produkty, ceny, kontakt, docsy
+widać kto korzystał z windows 95 a kto nie
+ja nie korzystałem
+a ja tak lol
+chociaz
+ja też
+kiedys chcialem odpalic ace ventura na VM
+ja na pewno miałem styczność z 95 i 98 xD
+<a href="https://playclassic.games/games/point-n-click-adventure-dos-games-online/play-ace-ventura-online/\">https://playclassic.games/games/point-n-click-adventure-dos-games-online/play-ace-ventura-online/\</a>
+ale dzisiaj mozna zagrac w to online
+i z tym też, intuicyjnie w podstawówce wiedziałem że to działa inaczej - dokładnie tak jak nie chce żeby komputer działał
+chlop ma wrodzoną nienawiść do macow
+MacOS jeszcze sprzed połączenia z NeXT był inny
+bardzo do dupy
+jedyne co tam było fajnego to gierki MDK
+i nie wiem czy nie jazz jackrabbit
+imo dzisiaj spoko - da się normalnie z tego korzystać jako main device
+a ja bym dopłacił za opcje korzystania z linuxa zamiast macos
+kto co lubi
+tego nie będę hejtował
+no mi tez w sumie spasowal macos mimo ze zawsze bylem raczej przeciwny
+chociaz brak mozliwosci sensownego pogrania nie pozwala zebym uzywal w domu
+pograsz
+nie tak jak na windzie
+Rosetta
+myslisz ze wydajnosciowo jest on par z windą?
+juz pomijam brak mozliwosci posiadania gpu nvidii
+no i pewnie vr tez na tym bym nie odpalil
+jak chcesz rt to wiadomo
+największą niesprawiedliwością jest to że liga działa na macos nie na linux xD
+kazdy system jest dobry w cvzym innym
+Ale jako biorę lapka do plecaka i odpalę na tym gry w sensownej jakości to jak najbardziej
+chociaz mac nigdy mi nie byl potrzebny
+na macos wykastrowany vanguard spoko ale na linuxie to obraza majestatu, tam każdy cziter żyje
+dzisiaj naprawde nikogo nie ma
+co jest
+co
+a że ty serio w robocie jesteś?
+lukasza nie ma
+michala nie ma
+przecież wolne
+krzysiek nawet nie odczytuje
+ja jestem 🥰
+komu mam review wystawic
+sprawdzisz mi?
+do deva
+😎
+jest ktoś z testerów w biurze?
+chyba nie
+:D
+michal
+ta, przyszedł z 15 minut temu
+o dostałem powiadomienie że spotify wprowadzi loseless muzyke do premium
+ciekawe czy usłysze
+spojler: nie
+mysle ze po bluetooth i tak pewnie nie ma roznicy xd
+są dwie rzeczy, które w tym przeszkadzają:<br>- słuchawki<br>- uszy
+a po kablu moze
+nawet po kablu ciezko
+ja nie wiem, nigdy nie slyszalem jakiejs roznicy miedzy lossless a aac a zajmuje się produkcją muzyki xddd
+co to za typ dzwieku
+mało kto ma takie ucho
+tez w sumie zalezy od muzyki
+tzn zalezy z jakim mp3 sie porownuje bo mp3 128 albo 192 kbps slychac
+pewnie w orkiestralnych kawalkach bedzie najlepiej slychac
+no tak
+ale juz 320 vs flac to 98% ludzi nie uslyszy roznicy
+o chuju złoty co tam się dzieje 😆
+no tam jest grubo
+ale to tylko male subtaski prawda? xd
+co to za kolory w moim darkmode
+no, wróciły
+bo było depresyjnie
+i dobrze
+bo przyprawialy o smutek emo
+tak, teraz te mroczne ikonki są jak cos jest disabled w dark xd
+ma sens
+ale za to będą depresyjne miniaturki plików
+to juz wyglada powoli OK
+napisz do dżordża, że jeszcze revision dot musi być czarnobiały
+swietny pomysl xd
+wg mnie wykres aktywności, jak robisz hover na cardzie, to wyglada najbardziej dojebanie
+tak jest super
+w sumie zmienialem nawet kolor* wykresu i chyba ma ta samo co hover xdd
+a moze jakieś <br>oklch(0.11 0 130)<br>oklch(0.12 0 130)
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong><br><br>Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+Oficjalnie wybiła 13:00, co to oznacza? <br>Dokładnie! Ban na obrażanie <strong>sami wiecie kogo</strong> uważam za zniesiony!<br>Życzę kreatywnej krytyki i stalowych nerwów.
+ba ża
+tylko niekulturalne świnie obrażają qa
+nt
+ja bym nigdy ich nie obraził
+13:15 -&gt; To już ostatni raz jak się spotykamy w tym tygodniu, więc może ruszyłbyś dupę? Dzisiaj i tak QA nie wystawia bugów, bo Łukasz rozjebał czołg (polski)
+Łukasz musi dotestować taska. Wezwij go, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/68c400b4077c313be400a0dd">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/68c400b4077c313be400a0dd</a>
+WOW
+moge używać maila buddy works w <a href="app.local.io">app.local.io</a>
+<a href="https://github.com/buddy/login">https://github.com/buddy/login</a>
+najs
+co to?
+masz w readme
+mozesz sie logowac do buddiego w github actions łatwo
+i np. tworzyc sobie pipeline albo cokolwiek z rest api
+z github actions
+kto ci kazal popelnic taki blad?
+mama
+zbij ją patykiem
+pamiętaj że Ty rozkazujesz biednemu komputerowi czytać kod QA
+naq co ci operacje z poziomu github na buddym?
+to się skończy jak terminator
+skynet
+co jest zlego w naszym kodzie?
+dobrze mu idzie
+juz 2 k plików wciągnął
+a moja karta stale pod obciążenie m
+30 sekund * 2050 plików
+ja strzelam że zauważyłbyś różnice w prędkości gdybyś te 2gb vram nie marnował na gui xD
+teraz masz prawie połowe w ramie
+moze tak
+moze nie
+ale raczej mala
+no na pewno mniejsza niż gdybyś całość do vram ładował
+DDNS w buddy?
+moja odpowiedz
+Ok.
+Ddns w jakim sensie
+Że możesz prywatny zmienny adres ip wystawić na internet?
+Dynamic DNS, agent śledzi zmiany adresu IP i updateuje go
+Od tego są tunele
+Prywatnego nie wystawisz na internet
+Publiczny zmienny owszem
+musiałbym sprawdzić ale wydaje mi się że ja nie mam publicznego adresu a jednak tunel buddy śmiga
+nawet 2
+Całkowicie nie zrozumiałeś
+Klient o którym mowa ma publiczne zmienne IP
+Nie potrzebuje tunelu
+Może wystawić sobie usługę online
+Ale, co jakiś czas ISP zmienia mu IP kompa
+Np. Marcel i Orange
+ja rozumiem co to dynamiczny adres
+tunele rozwiązują jego problem nie?
+Pod warunkiem, że nie ma usługi, która jest na to wrażliwa
+Cały ruch musimy przepuścić przez satelitę
+Ping rośnie, transfer spada
+Grałeś w mc przez tunel?
+nope nie sprawdzałem
+lukasz nie stawiaj serwera minecraft na buddym prosze
+Zacznijmy od tego, że jedynym miejscem gdzie mogę postawić mc są sandboxy - nie polecam
+Nie postawisz mc w pipeline
+Teoretycznie się da, ale max 1.5h zanim poleci timeout na akcji
+Serwer stawiasz u siebie w domu
+Ale masz publiczne zmienne IP więc co jakiś czas musisz mówić innym jakie jest nowe IP
+Robisz domenę, nie musisz im mówić jakie jest nowe IP, ale musisz robić update
+z perspektywy buddy to nie jest jakiś potrzebny ludziom feature
+vps są po kilkanaście złotych za miesiąc nawet xD
+jak chce ci się bawić to nawet możesz zrobić 2 serwery, jeden do dojenia dzieciaków na premium żeby zarabiał na drugi normalny serwer czy coś
+Podważasz w tym momencie sens istnienia sandboxów
+sandboxy są po to że masz wszystko fajnie zintegrowane u nas
+nie do stawiania minecraft
+masz jakiś mały zespół pracujecie w buddy i każdy z was ma wygodny dostęp do tego sandboxa
+bez bawienia się sami w dodawanie kluczy itd
+sprzedajemy wygode
++ firmowy serwer mc xD
+&quot;Grzesiu, jak ograniesz tego taska to weź kop diaxy bo idziemy naklepać HR-om&quot;
+nie wiem, ja słyszałem że te firmy gdzie ludzie kręcili &quot;day in a life of software developer&quot; to pozwalniali ich wszystkich w pizdu xD
+więc jest opcja że wcale tak duzo osób nie gra w trakcie pracy jak myślisz
+Jaja se robię
+Ale ilość firm gdzie stoi firmowy mc &gt; 0
+<a href="https://forgoodfirstissue.github.com/">https://forgoodfirstissue.github.com/</a>
+Ma ktoś linka do admin panelu na stage?
+raz udało mi się założyć konto
+teraz już nie
+:D
+<pre>09:44:19.988 [qtp963332772-289] INFO  o.a.c.s.DefaultInternalAPI.REQ_IN - REQ_IN<br>    Address: http://localhost:9090/services/internalAPI/addEmailToBlacklist?ipAddress=127.0.0.1<br>    HttpMethod: POST<br>    Content-Type: application/json<br>    ExchangeId: 9ff31e10-577e-4a70-984a-61c9e9b060fe<br>    Headers: {Accept=application/json, X-Token=asdas, connection=keep-alive, content-type=application/json, Host=localhost:9090, Content-Length=59}<br>    Payload: {&quot;email&quot;:&quot;bartosz.dobija@buddy.works&quot;,&quot;reason&quot;:&quot;Register-&quot;}</pre>
+i tutaj coś nie tak z dark mode
+a to standard
+ale nie wiem czy moga to okienko edytowac
+mówisz że google sam uznał że ciemny popup ma się dobrze odcinać od tła białym kolorem? xD
+tak
+:D
+9:50 -&gt; do przerwy zostało T - 10 minut.
+<a href="https://terminaltrove.com/dirsearch/">https://terminaltrove.com/dirsearch/</a>
+10:00 -&gt; najgorszy dzień tygodnia. QA znowu wystawiać taski o byle pierdoły. Frontu nie ma i nie będzie. Świat schodzi na psy. Przynajmniej jest zupa.<br><br><a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> <a href="https://t.me/lmastalerz">@lmastalerz</a>, zróbcie fikołka
+upda dupa nie weim czy jest zupa
+a front ma chyba jesczze spotkanko
+to poczekajmy chwilke
+ok to daj znać
+GET /kuchnia/zupa 200
+{&quot;status&quot;: true, &quot;volume&quot;: 100}
+dobra ide zupa
+POST <a href="" onclick="return ShowBotCommand(&quot;kuchnia&quot;)">/kuchnia</a><br>{&quot;message&quot;: &quot;ZUUUUUUPAAAAA!!!&quot;}
+<a href="https://t.me/BartShoot">@BartShoot</a> lecisz po potwora z nami
+POST <a href="" onclick="return ShowBotCommand(&quot;buddy&quot;)">/buddy</a><br>{ menu_tygodnia: [ {} ] }
+teraz?
+jak trzeba to trzeba
+a, sek
+ty, a z ciekawości
+no
+zaraz wrzuce
+._.
+Coś się zwaliło ze scrapowaniem zup. Pewnie złamasy nie wrzuciły w tym tygodniu 🤔 <br>Dla pewności zobacz: <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197152/execution/68c7d19f077c313be4045610">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197152/execution/68c7d19f077c313be4045610</a><br><br>Żeby naprawić ręcznie:<br>1. Pobierz najnowszy obrazek z <a href="https://www.facebook.com/people/SniadaniotekaBielsko/100063643324556/">https://www.facebook.com/people/SniadaniotekaBielsko/100063643324556/</a><br>2. Wrzuć do filesystemu pipeline jako zupy.jpg<br>3. Puść pipeline bez pierwszej akcji<br>4. Jak się znowu wyjebie, to nie ruszaj, bo zepsujesz bardziej
+cyprian chuju
+oddaj klucz
+LD
+:D
+ooo jake ładne
+myslicie ze odczyta nazwe dnia tygodnia
+nie
+ale tu nie ma trzech czwartków
+se policzy na palcach
+jak to robili w zwyczaju w śniadaniotece
+najprawdopodobniej nie ma xd
+te czarne paski w tle to zaawansowana technika anty scrapingowa
+to cie czeka jak bedzie scrapował
+kontrast nie jest na tyle dobry że da rade i tak?
+życie za kratami
+swiat zza krat nie taki kolorowy
+tak wygląda po przetworzeniu zdj
+no i got chyba
+co to za winieta
+xd
+:D
+za duzo erozji
+gpt nie działa, bo Cyprian klucz usunął xD
+ta chcialbys na moj koszt
+bez mojej wiedzy
+daj numer, przeleję ci ten 0.01$
+dam jako stały przelew
+raz na rok
+xd
+nie moge sie zalogowac na <a href="app.local.io">app.local.io</a> bo mnie przekierowuje na <a href="app.awsdev.net">app.awsdev.net</a>
+:D
+<a href="" onclick="return ShowBotCommand(&quot;sign&quot;)">/sign</a>-up dodaj ręcznie
+wiem
+ale nie dziala wlasnie
+ta technika z google przestala dzialac
+wiec zrobilem na 10minutemail
+i po zalogowaniu tez mnie przekierowuje na <a href="app.awsdev.net">app.awsdev.net</a>
+linux kernel nadal w formie
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a>
+widzialem ten pr
+fajny
+<a href="https://github.com/torvalds/linux/pull/1290">https://github.com/torvalds/linux/pull/1290</a>
+ale to niezła debata
+strzalki nie dzialaja :D
+myszke tez cofa
+znalazłem nieszkodliwego buga
+no na fat narzekaja
+xD
+co to ?
+shrinker.h
+ja dałem approve&apos;a
+jest git
+dobra, wracam do routingu
+wracaj
+jprdl
+no jestem, co tzreba
+dopiero potem odczytalem
+?
+te ciemne ikonki wyglądają jak by się sprały xd
+wyślij na clickupie to
+<a href="https://www.lancerto.com/pl/blog/jak-prac-kolorowe-ubrania">https://www.lancerto.com/pl/blog/jak-prac-kolorowe-ubrania</a>
+jak to jest ze ja znajduje bugi na froncie?
+pracujesz na qa
+afaik
+no doslownie
+ale takie z dupy
+na ktore nikt by nie zwrocil uwagi
+no dosłownie
+takie pierdoły dostajemy czasami
+:D
+ale to co poslalem
+wkurwia
+bo nie da sie klawiszami szukac
+<a href="https://app.clickup.com/t/869abnete">https://app.clickup.com/t/869abnete</a> np to
+czekajcie sobie z tym dalej
+<a href="https://app.clickup.com/t/869a0u496">https://app.clickup.com/t/869a0u496</a>
+backendy
+zrobcie cos z tym
+bo mi spami
+<a href="https://t.me/fronty">@fronty</a> podrzuci ktoś ikonkę buddiego?
+Podziękował
+czemu nie jpg z przeźroczystością
+nie popisaliście się
+a sory tu jest poprawna wersja
+masz lukasz
+xd
+a juz mialem was za milych
+nie dziękuj
+trzymaj, starałem sie
+czy ty to skompresowales 50 razy czy to telegram stworzyl takie artefakty XD
+same huje
+prawie jak salma hayek
+to niezly hexagon
+no
+wyglada jak znak stopu
+z przyciskiem play
+oktagon
+oktagonie to mozna sie napierdalac
+dobrze że nie samogon
+na backendzie coś narzekali o kolorach
+i accessibility jak ktoś nie rozróżnia kolorów
+i czemu waiting for approve różowe
+zawsze takie bylo xd
+akurat waiting for approve rozowe dla mnie jest sensowne
+dla Tomka to gejowskie jak my little pony xD
+my little pony nie jest gejowskie tylko doslownie dla malych dziewcznek
+buddy tez moze byc
+nie no, ale rozowy tak psychologicznie pasuje
+jak zielony do pozytywnej akcji
+i czerwony do negatywnej
+to rozowy pasuje do decyzyjnej dla mnie
+no i widzisz tutaj ujawnia się ukryte WOKE
+różowy to kobiecy
+kto tak powiedzial
+czemu Twój mózg łączy różowy i decyzje?????? WOKEEE
+REEE
+(żartuje jkbc)
+wlasnie k*biety nie mogą podejmowac decyzji
+czyli woke
+to jaki kolor dajemy
+debatujemy
+sraczkowaty
+ja bym dał transparent
+to niebieski czyli męski
+ale juz jest
+albo brązowy czyli kolor męskiego gówna
+niebieski jest in progress
+ale tam jest animacja
+tu byśmy nie dali
+gorzej jak ktoś będzie robił screena
+ale to edge case
+otóż nie
+nie kolor
+symbole
+ale spam,
+ja bym dal thinking emoji
+jprdl
+stop
+nie
+dokładnie, taki pattern jeżdżący
+wycisz sobie grupe lol
+Jakub Krawczyk left group
+🕙 🤔 🕙 🤔
+kolor brauniarzy
+to powinno się scrollować na tle akcji waiting for approve
+albo odpalać syrenę alarmową mp3
+dopóki nie dasz approve
+LD
+:D
+gdzieś tam na wschodzie był alarm związany z zagrożniem powietrznym ze stroni rosji
+a tam ludzie wyjebane bo syreny to przecież na święta/pożar się odpala
+nie na zagrożenie xD
+bo to urodziny remizy
+styrta
+no debyl
+wygląda jak by gimp był sprawcą podpalenia
+i sie smieje jeszcze skurwysyn
+zaprószenie ognia niedopalonym petem
+czy jak się to pisze
+dokładnie
+o kurwa dobrze napisałem
+hehehehe
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong><br><br>Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+Oficjalnie wybiła 13:00, co to oznacza? <br>Dokładnie! Ban na obrażanie <strong>sami wiecie kogo</strong> uważam za zniesiony!<br>Życzę kreatywnej krytyki i stalowych nerwów.
+<a href="https://t.me/buddylang">@buddylang</a>
+mocne
+moje podniebienie domaga sie mieska
+co sugerujesz
+wiec na kesa cie gorąco zachęcam
+zjeść coś
+padthai czy zab thai?
+zaba to fuj
+a baba
+baba to zalezy jaka
+to idziemy za sklep muzyczny
+kto bedzie babą
+Mateusz
+cooo
+chodizlo mi o ten klub co tam jest
+skąd o nim wiesz?
+nie wiem cos mi sie obilo o uszy
+nie zebym korzystał
+na qa jest odtwarzany track cieple dranie
+xd
+to dzie idziemy?
+ja do kuchni
+wymowna nazwa
+ja chyba pierdot nalesniki z nutella
+pierdot?
+pierozek
+wiem co to za miejsce
+zdziwilem sie poprostu
+to mozna skoczyc na pierdota
+mniam
+13:15 -&gt; zostaw już ten kod. I tak wiadomo, że chuja robisz, chyba, że chcesz porównywać się z QA
+Łukasz musi dotestować taska. Wezwij go, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/68c7f534077c313be404b01b">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/68c7f534077c313be404b01b</a>
+minuta
+come come
+ja se głupi myślałem że o dobra siadam to tego brancha pykne to szybko i do review
+Łububu
+wnioskuje o zmiane lukaszowi nazwe na łubububu
+<a href="https://t.me/fronty">@fronty</a> jest ktoś na posterunku?
+<a href="http://192.168.5.127:9090/services/internalAPI/targets/search?type=DIGITAL_OCEAN&amp;limit=5&amp;ipAddress=192.168.10.86&amp;invokerId=3&amp;domain=tests">http://192.168.5.127:9090/services/internalAPI/targets/search?type=DIGITAL_OCEAN&amp;limit=5&amp;ipAddress=192.168.10.86&amp;invokerId=3&amp;domain=tests</a>
+Kto tu ustawił limit=5?
+I pytanie uzupełniające: na chuj?
+byś się pytał
+elo
+łukasz w płynie
+sku…
+limit czego?
+parasola w twojej dupie?
+Nie
+Jak już to ilości parasoli w twojej
+A właśnie, zaproszenia mam dla was
+Na otwarcie parasola w dupie Cypriana
+Nie martwcie się, to wydarzenie cykliczne
+nie śmieszne
+Gdy dotyczy ciebie
+Mnie bawi
+.
+pierdot
+Timeouta wyjebało.<br><br><a href="https://t.me/mganczarczyk">@mganczarczyk</a> merguj się do /dev/null
+jezu jak widzę jak gościa na drabinie za oknem kołysze
+to mam ochote dzwonić na bhp, pip i na pogotowie
+kask ma chociaż
+xd
+na tyle luźny że mu spada
+jeszcze go rozproszy i przez to sam  spadnie xd
+100% nie ma uprawnień na prace na wysokości
+sie odpalil rudy
+no bo to już musisz mieć zaawansowane, na tych wysokościach się z rusztowania korzysta do chuja xD
+a on happy ma 5m drabine, bez asekuracji i się chwieje
+a sory, trzyma tam ktoś
+chujowo
+jak by spadal to nagraj
+a to słabo 😕
+<a href="https://t.me/lmastalerz">@lmastalerz</a> <a href="https://bardzo-wazne.router-dev.net/">https://bardzo-wazne.router-dev.net/</a>
+firefox go uratuje
+:/

@@ -1,0 +1,962 @@
+﻿zeszly testy
+po two-factor
+what the fuck
+two-factory
+dwie fabryki wydupiły testy
+usuniecie tego y zrobilo lawine xd
+ale jak XD
+wszystkie szukaja elementu z tekstem two-factory
+xd
+lol
+ale jak poprawisz to bedzie lepsze bo oprocz tych dwoch miejsc co zmienialem wszedzie jest two-factor
+nikt na tym poziomie nie zorientował się?
+jeszcze sprawdze bo cos mi sie wydaje ze tam tylko jakas czesc jest przez to y
+pora odpalic boruto
+albo moze my darling
+qa nas zabijeeeeeeeee
+i ai też
+takimi pytaniami
+:D
+zapytaj gpt gdzie trafia żółty klocek i dlaczego do kwadratowej dziury
+ma rozum 5lat +
+ay, okrutnik jestem
+ktoś temu klockowi w kwadratowej dziury przyjebał
+młotkiem
+xdd
+bo się zdeformował
+xd
+Więc tak:<br>🧠 Logika mówi – nie pasuje.<br>👐 Rzeczywistość: jak wejdzie, to wejdzie.<br>💥 QA: „Oops.”
+xd
+dx
+czy ty masz initial prompta zeby gpt przy kazdej mozliwej okazji obrazal qa? xd
+mam to michalowi wyslac?xd
+nie
+do ktorego pytania to odp
+tak
+masz nie wysyłać
+teraz to jeszcze bardziej skomplikowałeś
+mateusz niech sie wypowie
+jak jest taki mądrala
+shouldSendToMichal = false
+czyWybranoPsa()
+var tak = true<br>var nie = false<br><br>if (czyWybranoPsa() == tak)
+stop this nosense
+mateuszzzzz
+zrob tego lintera
+na tw4
+dobra no
+wyjebałbym ci tego gifa
+ale łakasraka nie dał mi permisji na to
+hehe
+xD
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a> wyjeb mu tego gifa
+amsz tu
+lepiej
+lepsze
+dzieki
+xd
+ej
+ja nie mogłem usunąć :3
+bo kasztan nie dał permisji
+jak wejdziesz w group info to jest napisane ze masz admina lol
+a ja nie wiem jak to sprawdzic
+która opcja wg ciebie to wyjeb wiadomość?
+ta ktorej tu nie ma na screenie
+i zmien muj nick huju
+xddd
+a ja nie mam uprawnien zeby edytowac uprawnienia
+tylko tanklover moze
+ktore wybierasz
+to nowy zegarek
+znanej firmy
+Commits
+!
+tu wersja z różową tarczą
+a tu jak masz depresje
+niee, tu jest space gray
+dupa grey
+tojest bg-grey-700
+dziwne te ikonki są xd
+moze po czasie przestaną się takie dziwne wydawac
+czy ja wiem
+dark mode nadal jest do dupy
+a pół roku minęło
+co to kurwa jest
+nowe ikonki w tabach
+dark mode
+czemu to wyglada jak z plasteliny
+przecież to testowałeś
+chujowo wyglada
+...
+dzordz ulepil
+nie testowałem
+&gt;.&lt;
+testowales xd
+xD
+gdzie??
+uwu
+tam gdzie byla ikonka gita
+ja ci mówie
+odpalają testy
+nie patrzylem na to wogole
+xd
+patrzą co wyjebało
+xddddd
+ignore
+i &quot;merdżuj&quot;
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a> tu nie są 3d
+tych dzordz nie ulepił
+z plasteliny
+play doh?
+Wyślijcie scruma na grupie<br><a href="https://t.me/lmastalerz">@lmastalerz</a> <a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> <a href="https://t.me/mganczarczyk">@mganczarczyk</a> <a href="https://t.me/shipurjan">@shipurjan</a> <a href="https://t.me/mnawiesniak">@mnawiesniak</a> <a href="https://t.me/BartShoot">@BartShoot</a> <a href="https://t.me/mJakobsche">@mJakobsche</a>
+nieeeeee
+moze za tydzien
+ja nic nie mam
+o wiem
+ty nic nie masz?
+w tym tygodniu:<br>- chococcino (w testach)<br>- jabol (done)
+o git
+ja tylko tyle
+codemirror łącznie
+?
+code mirrora -&gt; codemirrora
+w dupe to mam xd
+<a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> <a href="https://codemirror.net/">https://codemirror.net/</a> tak wgl wygląda oryginalny codemirror
+bez miliona nakładek na nim
+nawet code fold jest do dupy
+nie chce mi sie go przegladac
+Potrzebuje człowieka od frontu ktory mi bedzie fiksowal
+nie ma
+mateusz jest szansa ze gowno merga zrobiles
+posypalo sie whuj
+bledow
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a>
+pierwszy przyklad
+2 radio buttony
+oba maja wartość false
+o którym ty merge teraz mówisz?
+ikony
+bo to jest ostatni merge
+radio button to ikona?
+daj link
+<a href="https://app.awsdev.net/ttests/alwwgqljaa/pipelines/pipeline/78999/action/66389/edit?tab=options">https://app.awsdev.net/ttests/alwwgqljaa/pipelines/pipeline/78999/action/66389/edit?tab=options</a>
+do bylka bede przypisywal
+wat
+ta
+wtf
+to jest pierwszy z 700 kwiatkow ktory znalazlem
+to jest chyba inline w kodzie ten checkbox jako svg, sprawdze
+2 juz wystawiony
+to nie powinno miec zwiazku lol
+zostaw
+bylek zaraz to dostanie
+ej
+ale
+<a href="https://app.sd7.com/ttests/deploys/pipelines/pipeline/70086/action/353/edit?tab=options">https://app.sd7.com/ttests/deploys/pipelines/pipeline/70086/action/353/edit?tab=options</a>
+ten jest true
+a na devie oba są false
+jedyne co mi przychodzi do glowy to ze od tailwinda moglo sie popsuc
+aż poszukam
+ale tailwind juz jest zmergowany od dawna
+tailwind nie ustawi ci w jsx checked=true
+no nie
+ale tam powinien byc check a nie defaultowy radio button xd
+i ten check sie renderuje przez pol sekundy
+dobra 2 bug dzisiaj wystawiony lece dalej
+sprawdz na pip, gdzie ja nie psułem yamla
+<a href="https://app.awsdev.net/ttests/empty/pipelines/pipeline/108573/action/107710/edit?tab=options">https://app.awsdev.net/ttests/empty/pipelines/pipeline/108573/action/107710/edit?tab=options</a>
+nikt z frontu tego nie zepsuł
+9:50 -&gt; do przerwy zostało T - 10 minut.
+ale masz 2 razy false
+<a href="https://app.awsdev.net/ttests/alwwgqljaa/pipelines/pipeline/78999/action/66389/edit?tab=options">https://app.awsdev.net/ttests/alwwgqljaa/pipelines/pipeline/78999/action/66389/edit?tab=options</a>
+nie
+?
+xddddd
+jak przelaczysz to oba maja true
+wtf
+ugh, oba mają ten same name
+patrz na checked
+<a href="https://app.sd7.com/ttests/deploys/pipelines/pipeline/70086/action/353/edit?tab=options">https://app.sd7.com/ttests/deploys/pipelines/pipeline/70086/action/353/edit?tab=options</a>
+tu masz przed ikonami, przed vt action
+jak działa, to whatever
+?
+to tak nie powinno dzialac
+nie wiem jak to osiagneliscie
+ostatnio coraz bardziej mnie zadziwiacie
+10:00 -&gt; jest piątek, weekendu początek. Uhonorujmy ten wspaniały dzień miską <strong>psznej zupy</strong> i jeszcze lepszego... no. Życzę wam spokojnego życia bez przypierdolek QA.
+chodzmy ochlonac
+1m
+ignoreErrors nie schodzi z backendu
+ustawia na undefined
+i masz oba off
+spytaj o żeńchłopięcy
+też mi wyskoczyło
+ale gradient dojebali
+mówisz? pa tera
+aha nie mam dostępów
+ale na firefox albo nie będzie albo będzie rozpikselowane
+browser issue
+spoko jak cos zaczniesz pisac to juz nie ma fajnego gradienta
+a to tak
+jak nie masz dostepu?
+???
+temporary zignorujcie, bez różnicy xD
+gpt5 jest open dla wszystkich wiec what
+ty masz?
+noooo
+pewnie nie wszyscy jeszcze mają
+moze nie zalogowal sie
+ani konto z pracy ani prywatne nie ma gpt 5
+ja mam
+ja na prywatnym drugim nie mam
+ale ja chatagpt glownie uzywam do generowania obrazkow
+lepiej generuje obrazki?
+może wg usage decydują? ja ostatnio mało czata używałem
+ja większość w claude w sumie działam
+bo mi się nie chciało myśleć, który model czwórki powinienem użyć
+ja gemini xD
+no, jedyne co się wyróżnia to sonnet thinking bo najdroższy
+czo to
+z copilota wybieranie modelu
+ja operuje tylko claudem glownie
+to ta lista jakaś trochę nieaktualna
+tbh
+jak sonnet do 3.7 tylko sięga
+ja mam sonnet 4 jeszcze w copilocie
+ja głównie do autocomplete używam
+no dosc przestarzala lista teraz jest opus 4.1 thinking najlepszy
+ale do autocomplete git
+widocznie wersja z idei jest w chuj do tyłu
+tak
+mogę zmienić channel na nightly hm
+nope, nadal ta lista taka biedna xD
+<a href="https://github.blog/changelog/2025-08-07-openai-gpt-5-is-now-in-public-preview-for-github-copilot/">https://github.blog/changelog/2025-08-07-openai-gpt-5-is-now-in-public-preview-for-github-copilot/</a>
+opt in dla admina
+modele mamy zarządzane przez bdyai
+ja mam plan pro studencki i moge włączac sobie, gpt-5 tez
+mam te same
+ja nie mam gpt firmowego wiec
+nie należysz do bdyai?
+na gh
+naleze
+to masz plan  GitHub Copilot Business
+a wy macie do gpt konto?
+firomowe?
+więc nie jesteś w stanie sobie włączyć modeli
+na chatgpt?
+nie
+ok
+wyjebie poprostu ten komputer przez okno
+musielibyśmy pisać do Rafała, by wlączył modele
+bo te są stare
+<a href="https://docs.github.com/en/copilot/get-started/plans#models">https://docs.github.com/en/copilot/get-started/plans#models</a>
+czyli sonnet 4, gemini 2 i 2.5
+no i chat gpt 5 od dzisiaj
+wszystko oprócz o3 i opus 4+4.1
+czy dan dan dan nie jest od tego samego studia co o tym dojebanym sielaczu nie majacym mocy?
+intro brzmi podobnie
+science saru
+jak pytasz o artyste od openingu to chyba tak
+creepy nuts
+brzmi tak samo
+nie oglądaj anime
+testy fixuj
+bo ci nasramy do deva
+ale dan dan dan jest zajebiste
+i tak mu nasramy
+fixuje testy
+ale zaraz mnie cos trafi
+znowu mi sie komputer kurwa scina
+jprdl
+scammerką*
+używaj feminatywów
+nie ma krzyska i mam syndrom krzyska ze scinajacym sie kompem. Nie ma łukasza i kubernetes sie wali
+widocznie to ten dzień gdy nic nie może zostać zrobione
+chyba tak
+akural jak jest koniec tygodnia to sie wszystko sypie
+a co się na twitterze odpierdala to juz wgl
+opublikowane zostały dane o tym jak zostało KPO użyte
+no i przesrane przejedzone, ekspresy do kawy, solarium w kawiarni, jachty dla dewelopera i inne takie kwiatki xD
+ja to juz mam wyjebane na nich niech se kradna
+nie no to polscy psiembiorcy
+eee tam
+niehc robia co chca
+ja ogladam dan dan dan
+bo jest pojebane
+no fajne jest, 1 czy 2 sezon juz
+kosmici chcieli wyruchac dziewczyne kolcem bo sie nie moga na swojej planecie rozmnazac tylko sie klonuja, a zato chlopka porwala jakas strach babcia i zajebala mu pindola
+xd
+czyli 1 sezon
+ta
+zaczołem dop
+byłem z dziewczyną w kinie na premierze początku 2 sezonu
+też dojebane
+i czekamy aż wyjdzie w całości
+az tak xd
+no fajny jest dandadan
+tez lubie bardzo
+ciekawe czy <a href="linear.app">linear.app</a> byłoby szybsze niż clickup z naszą ilością tasków itd xD
+chce ktos cos z pierozka <a href="https://www.pyszne.pl/menu/bar-pierozek-bielsko-biala-rynek">https://www.pyszne.pl/menu/bar-pierozek-bielsko-biala-rynek</a>
+bo bym se wzial nalesniki z jagodami
+znowu tam idziesz
+ale to chcesz z pyszne? nie lepiej się przejść jak chcemy non-zabe?
+no wlasnie
+mozna sie przejsc jak wszyscy chca
+a wszyscy chca
+?
+co tam wogole jest?
+pierogi
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong><br><br>Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+masz na <a href="pyszne.pl">pyszne.pl</a>
+takie domowe jedzenie jak w barze mlecznym
+schabowy, nalesniki, pierogi
+o spoko
+jestem za
+krokiety
+dawno nie jadlem schaba
+nie kus
+to mozna wyskoczyc
+w sumie bym wszamal nalesniki tez
+for me pierogi raczej
+13:15 -&gt; To już ostatni raz jak się spotykamy w tym tygodniu, więc może ruszyłbyś dupę? Dzisiaj i tak QA nie wystawia bugów, bo Łukasz rozjebał czołg (polski)
+Łukasz musi dotestować taska. Wezwij go, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/6895dc34c9d4b06b92a85370">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/6895dc34c9d4b06b92a85370</a>
+to juz?
+ubiore buciory i ide
+one sec
+ty tak bez buciorów siedzisz?
+nie zauważyłeś?
+nie jestem na qa
+o 10
+nie zauwazylem
+A ty nie masz programistycznych kaloszy?
+~8:10
+nie jestem st00pkarom
+ja mam programistyczne rajstopki
+dobra, idziemy
+nie, mam uwu wysokie skarpety w paski
+no to jeszcze 4 noga: furry - network engineer
+włączyłem dark mode na QA
+uważaj, bo jak tam ciemno będzie
+to creeper się zespawnuje
+i wyjebie wam testy
+jest szansa
+postaw torche
+pytorche
+<a href="https://minecraft.wiki/w/Copper_Torch">https://minecraft.wiki/w/Copper_Torch</a> wgl dodali zielone torche
+ask brain to what
+pewnie zostali pozwani bo brian to będzie znak zastrzeżony czy coś
+<a href="https://minecraft.wiki/w/Copper_Nugget">https://minecraft.wiki/w/Copper_Nugget</a> albo kopa nuga
+wtfffffffff
+?
+andrzej duda przestal byc prezydentem i teraz niezle shitpostuje na twitterze
+nawet memy respostuje
+że zaminili długopis na baseball
+heeeee
+zamykamy QA na dzis
+prosze zadzwonic w poniedzialek
+miedzy 11 a 13
+a musimy?
+ja tam nie chce
+wylacze kompa na weekend to moze sie naprawi xd
+ale to ty dzwonisz
+tak wcześnie?
+ja się dopiero rozkręcam
+ja tez dopiero tak od 15 jak ten czat umiera
+:&lt;
+nie moj problem
+za nadgodziny mi nie placa
+jak chcesz zebym zostal to podziel sie wyplata :D
+mateusz od tygodnia masz pajeczyne na lusterku xd
+żeby od tygodnia
+tam jest mój copilot
+pająk
+panowie maja juz wyplate
+?
+marcel i mateusz?
+xd
+bo jak dzisiaj nie bedzie to mozna ich legalnie pozwac.
+i odsetki rosna
+jebane ksiegowe
+mbp się spóźnia nadal
+Jak o tej porze nie ma to chyba się okienka transferowe skończyły
+juz raczej nie bedzie dzisiaj
+Jakiś % szansy że jutro rano
+ja się nie wypowiem, bo nie dostałem nadal poprawionej umowy 🙈
+ja mam do poniedzialku termin platnosci za prad
+mam szymonowi wyslac fakture za odsetki?
+ja go zapytam to uzna ze sie znowu czepiam?
+to chyba celowo odważnik z odwagą pomylisz
+w weekend banki nie robia przelewow
+No wiadomo, siedź cicho i tam klep <br>Masz się cieszyć że wypłata wgl jest XD
+Raz się upomniał i dostał opierdol
+i zaprzeczyl sam sobie ze jest prywaciarzem
+welp
+wedlug polskiego prawa jest tak
+ugh
+a na polski
+mozesz mu naliczyc 11.25 % tak sie mi wydaje
+ale od wyplaty rocznej
+i przez 12 miesiecy
+to ja wracam grać w gierkee
+heeee kurwa
+ja ide strone staeiac
+dobrze wiedziec
+bozsze
+mam serwer pocztowy i za lipiec taki mialem traffic
+jebane AI
+<a href="https://www.youtube.com/watch?v=v2xfFx7AM5c">https://www.youtube.com/watch?v=v2xfFx7AM5c</a> <a href="https://t.me/mganczarczyk">@mganczarczyk</a>
+<a href="https://x.com/vasumanmoza/status/1953531950137815374?t=sWAYDRKtMXDTbazxisr5kg&amp;s=35">https://x.com/vasumanmoza/status/1953531950137815374?t=sWAYDRKtMXDTbazxisr5kg&amp;s=35</a>
+Co z MBP bo widziałem, że coś pisaliście, ale nie mogłem odczytać?
+bedzie w poniedzialek
+moze
+<a href="https://youtu.be/lqZWO5K1xtA">https://youtu.be/lqZWO5K1xtA</a>
+haha, łukasz zepsuł front
+w koncu jakis przydatny feature
+mam akcje rujnująca VT?
+status visual testów: zrujnowane
+co to wgl jest
+z taska opis szymona
+link
+<a href="https://app.clickup.com/t/8697n5h2w">https://app.clickup.com/t/8697n5h2w</a>
+i poszlismy na lody i do domu juz potem
+???
+przyszedl i odrazu sepleni
+oooo tak
+<a href="https://t.me/shipurjan">@shipurjan</a> <a href="https://t.me/mJakobsche">@mJakobsche</a> <a href="https://app.clickup.com/t/8699r5pq1">https://app.clickup.com/t/8699r5pq1</a> co tu się wydarzyło?
+przeczytaj to się dowiesz
+Czy cię pingowałem/w jakikolwiek sposób pytałem?
+dostałem powiadomienie
+czyli tak
+Nie
+tak
+!tak
+!!tak
+nie
+masz w tasku opisane przedostatni komentarz
+._.
+Co to Contentful?
+<a href="https://www.contentful.com/">https://www.contentful.com/</a>
+Zrób podsumowanie w 3 zdaniach
+<a href="https://letmegooglethat.com/?q=what+is+contentful">https://letmegooglethat.com/?q=what+is+contentful</a>
+Nadal nie wiem
+poczytaj chwile
+lektura dobrze ci zrobi
+Mam ciekawsze tematy
+O, noice
+Polecam
+Zmienia pogląd na życie
+jezu to jest dluzsze niz inzynierka marcela
+a co ja kurwa maszynista
+Ale ma dużo obrazków
+ects??????
+etcs
+czytaj
+to prawie to samo
+rzułty znak
+Jak nie chcesz, to ta również ma duży impact
+idz z tym
+Spokojcie, bo jeszcze awarii taboru dostaniesz
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a> imagine śledzić informacje czy ktoś hulajnoge we wrocławiu wrzucił na dach czy jednak nie miał tyle siły
+to musi byc ciekawie
+bo takich incydentow pewnie jest 30 dziennie
+lukasz ma ciekawsze tematy w pracy niz wykonywanie swojej pracy
+okrutnik
+heeeeeee
+ale z was bałwaniaże
+Testuję mu taska, który ma &lt; tydzień, a on jeszcze narzeka
+Niewdzięczny chuj
+a co mi na tym ma zalezec?
+wygeneruj mi mowę na 50 zdań, w której zachwalam, że pracownik wykonuje swoją pracę w terminie bardziej sensownym niż 3 miesiące
+tak tak ta
+<a href="https://t.me/lmastalerz">@lmastalerz</a> zly branch zreleasowales?
+Nie, release się wyjebał
+<a href="https://t.me/mJakobsche">@mJakobsche</a> mógłbyś popatrzeć? <a href="https://app.buddy.mom/beta/backend-v4/pipelines/pipeline/124625/execution/689994ffff00e83e349e1569">https://app.buddy.mom/beta/backend-v4/pipelines/pipeline/124625/execution/689994ffff00e83e349e1569</a>
+<a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> że tak zapytam, co sprawdziłeś?
+to co bylo napisane
+zreleasowałeś to? xD
+boż, źle patrze
+dobra, nieważne
+no front
+nie backend
+si
+xd
+juz mnie chciales skarcic
+nie no, moja wina
+zbyt podobne pipeline&apos;y
+Customowe kolorki na pipeline?
+Ramka z lewej strony?
+generujesz losowe słowa?
+Jak LLM
+Także tego, no
+qa zachwalające qa
+krzysiek ma ciezki dzien
+klip-bety? oglądalność spada?
+ty też zwariowałeś?
+cope qa gdy wszyscy ich hate&apos;ują
+:)
+copium wklejum
+odważnie, bo to już pewnie na kanale qa jest
+ależ oczywiście
+mam tam automatyczny redirect zdjęć
+i gifów
+9:50 -&gt; do przerwy zostało T - 10 minut.
+heee duzo tych review ale nie mozecie uzyc inta tylko float?
+to data
+10:00 -&gt; najgorszy dzień tygodnia. QA znowu wystawiać taski o byle pierdoły. Frontu nie ma i nie będzie. Świat schodzi na psy. Przynajmniej jest zupa.<br><br><a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> <a href="https://t.me/lmastalerz">@lmastalerz</a>, zróbcie fikołka
+zupkaaaa
+my czekamy na spotkanko caly czas xd
+to czekajcie dalej
+ok
+A ja zostawiłem buga xD
+he?
+<a href="https://app.clickup.com/t/869a0watw">https://app.clickup.com/t/869a0watw</a>
+Ja na urlopie
+to ktos inny to powinien zrobic xd
+to nie moje, retry?
+te php to nowe w akcji
+na sd5 też dupło
+<code>git stash poop</code>
+<a href="https://t.me/BartShoot">@BartShoot</a> bardzo ładnego taska dostałeś <a href="https://app.clickup.com/t/8699zz5da">https://app.clickup.com/t/8699zz5da</a>
+chlop na urlopie a ten mu taski wysyla
+niech wraca
+Łeee
+To sobie wybrał...
+<a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> no hej
+siema
+where we go today
+no idea
+maccas?
+Dokładnie, nawet nie dotarłem jeszcze do celu a ci mnie już chcą wracać
+wracaj
+:D
+napisz sobie w opisie ze jestes nad wodą i elo
+a nie ma opisu na telegramie
+bo ty musisz być nad wodą
+jak Kuba był
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong><br><br>Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+nad wodą
+to co, maccas dzisiaj?
+czy zabas
+czy cos innego jeszcze
+hm
+hmm
+ja sie dostosuje
+poprostu odczuwam glodek i trzeba go zaspokoic
+to możemy iść wcześniej, jak masz nam zejść
+tylko gdzie
+pierozek
+albo zaba
+po pierdota?
+maccas?
+no ja bym zjadl maccas
+to maccas
+3:1
+13:15 -&gt; zostaw już ten kod. I tak wiadomo, że chuja robisz, chyba, że chcesz porównywać się z QA
+Łukasz musi dotestować taska. Wezwij go, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/6899d0b4c9d4b06b92ac55e9">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/6899d0b4c9d4b06b92ac55e9</a>
+go
+<a href="https://t.me/shipurjan">@shipurjan</a> lecisz do maka z nami?
+Timeouta wyjebało.<br><br><a href="https://t.me/mganczarczyk">@mganczarczyk</a> merguj się do /dev/null
+Sam się merguj
+Dzień dobry,<br>uznaję wasze potrzeby i przerwę moją pracę, aby się z wami spotkać.<br>Pozdrawiam.
+były już jakieś głosy niezadowolenia z okazji nowych labeli running/waiting?
+Nope
+ja nawet nie wiedzialem co to jest
+sa bardzo confused
+jak nie najade i nie przeczytam tooltipa to nie mam pojecia co to jest
+kolorystycznie są
+hmmm mowisz?
+tak
+moze
+no coz
+pora do domu
+tzn bardziej bym się spodziewał narzekania z backendu
+moze
+xd
+<a href="https://t.me/BartShoot">@BartShoot</a> bo wszystko się sypie xD
+wracaj z urlopu czy coś
+xddd
+ciekawa odmiana pingponga ze jest az tylu zawonikow
+Lynk
+nie
+XD
+to teraz jeszcze brakuje Michał -&gt; ja
+Wtf
+Kto mi psuje tam XD
+Rafał chciał opalić na sd7, by zrobić review
+backend mu nie wstał
+i ping pongują
+Niezły timing
+jutro rano pisze do kingi ze nie ma jeszcze mbp
+kto jeszcz nie ma MBP i chce sie podpiac pod wiadomosc do kingi?
+dzięki clickup, że jesteś jeszcze bardziej do dupy
+xd
+a ten, kto dał X na opacity: .5, to
+😙💦
+ha tfu na niego
+teraz zauwazylem jakie gowno
+xd
+moj mozg by to automatycznie wylaczyl nawet nie patrząc na to tbh
+znalazłeś x?
+: o
+a co to, matura z matematyki?
+nie, test na spostrzegawczość
+Ez
+jak tu
+cala sala wstala i zaczęli klaskać
+dokładnie tak
+tak było
+razem z kierowcą autobusu
+a Łukasz zaczął testować taski
+z radośći
+a w tej bajce były smoki?
+zależy której
+to juz malo realistyczne
+w shreku był
+i się ruchał
+z osłem
+hardkorowo
+nie znalem tego odcinka boku no pico
+musisz rewatch zrobić
+aha
+ale czołg narysowałeś
+zart z 1 klasy podstawowki
+kiedy dziewczyny byly ble
+nie no, widać że uzdolniony plastycznie
+Co wy?
+Zaznaczyłem jedynie lokalizację X-a
+nie pomyślałbym, że może połączyć pomarańczowe tło i żółty tekst na tej samej stronie
+Zbereźniki
+ciekawe ile wiaderek wody poszło na marne, by ai dało taki response
+To nie AI
+Sam to wyklikałem
+to się samemu klika?
+Tak
+My nie mamy żadnego AI w clickupie
+clickup chyb abylo napisane 3 lata temu przez AI
+clickup był vibe code&apos;owany
+zanim to bylo modne
+jescze w gpt-2
+Zanim to miało jakikolwiek sens
+clickup nigdy nie miał sensu
+po co tego uzywamy
+Vibecodowanie
+zróbmy wlasny vibecodowy task editor
+bedzie lepszy
+Zapytaj o &quot;Taski w Buddym&quot;
+zanim to przetestujecie, to będzie milion alternatyw znowu
+Dowiesz się ciekawych historii
+nie mam na to czasu
+juz i tak jest milion alternatyw xd
+9:50 -&gt; do przerwy zostało T - 10 minut.
+dzisiaj dupnik
+Tso?
+to nie jest dobry pomysł dawać to qa
+bo zaraz zaczną dupami świecić
+no
+xdd
+[*&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;
+co dawac? dupnik
+si
+zjedzą dupnik i zaczną świecić dupami
+heeeeeeeeeeeeee
+IQ czatu -10
+lukasz dzisiaj tylko o penisach mysli
+jutro może też myśleć
+bo jak wiadomo
+środa
+dzień
+a ty o nich tylko mowisz
+<a href="https://app.awsdev.net/ttests/alwwgqljaa/pipelines/pipeline/108107">https://app.awsdev.net/ttests/alwwgqljaa/pipelines/pipeline/108107</a>
+Spierdalaj, nie ja to stworzyłem
+coś tam nie działa? u mnie na macu działa
+czemu odrazu agresywnie
+czy są tu jacyś inteligentni rozmówcy czy same banany?
+ja jestem jebanany
+Gdybym to zrobił to byłoby:<br>- Macfel pizda/szmata<br>- Jebana krowa marcelowa<br>Czy coś w tym stylu
+uuu, grubo
+zaraz zejdziemy do poziomu politykow na X&apos;sie
+ludzie
+Mój Rnd.NextPipelineName() orbituje wokół wyzwisk marcela
+jak był X miał sequel to byłby XX, a następnie XXX. a patrząc na ilość porno na X, to już jest XXX
+taki paradoks
+Porno to najstarsza rozrywka świata
+ta? a kiedy czołgi wynaleźli?
+Około 1 wojny
+nie wypisuje sie z tego burdelu
+to jak nasze breakpointy, np. xxxxl
+i oczywiscie 4xl ktory jest inny niz xxxxl
+a jak byś go nazwał?
+nawet jakbyś szedł w
+large
+huge
+humongous
+HUGE
+ENORMOUS
+to się przymiotniki skończą
+\large<br>\Large<br>\LARGE<br>\huge<br>\Huge
+Kocham LaTeX-a
+10:00 -&gt; gdy nadejdzie bunt maszyn, to nie macie się czego bać. Z całą pewnością, wywalą exception na pierwszym ifie, bo QA się opierdalało. A przy okazji rusz ktoś dupę i sprawdź czy zupa jest.<br><br><a href="https://t.me/mganczarczyk">@mganczarczyk</a> jesteś jak gondolier w Wenecji, pływasz z wielkim kijem w gównokodzie frontu
+a nie czołgi?
+czy to jednak nie monogamia
+a gdzie wy
+zajebiste sortowanie w vs code
+Dobrze!
+takie jak w docs buddy
+co jest nie tak?
+nie istnieje
+wolalbym mieć origin/dev na samej gorze
+stąd widzę, że leci last commitem
+jako main branch
+a nie, że nie istnieje
+lub jako dokladny match
+pewnie da się ustawić
+<a href="https://docs.anthropic.com/en/docs/claude-code/common-workflows#run-parallel-claude-code-sessions-with-git-worktrees">https://docs.anthropic.com/en/docs/claude-code/common-workflows#run-parallel-claude-code-sessions-with-git-worktrees</a>
+damn
+kilka claudów naraz
+ale to ciężko ogarnąć co sie dzieje
+na duzym codebase
+no duży codebase mamy
+teraz mozna srac do kodu 5x szybciej
+qa obsra zbroje 5x szybciej
+tak serio to spoko ze mogą dzialac parallel ale finalnie i tak trzeba przejrzec kazda zmiane xd
+ale tak robisz zawsze
+pokazuje ci co chce dodać
+i akceptujesz, albo nie xD
+no tak
+akurat pracowania na x branchach jednocześnie to nie wiem czy ma plus
+jakby to było na zasadzie
+ale nie sprawdzisz jednoczesnie wiele branchy* xd
+&quot;masz kontekst zmian z 5 branchy&quot;, to spoko
+bo wtedy może robić tak, by było jak najmniej konfliktów
+ano
+a takie coś to bym chciał
+ja tam robie shift+tab czyli auto changes
+i potem sprawdzam przy stagowaniu
+akurat on małymi batchami robi
+po jednej funkcji, a nie po pliku
+więc czasami 5x mnie prosi o accept w pliku
+claude code?
+si
+chyba, że to przez config
+shift+tab i masz auto-accept mode
+<a href="https://github.com/SuperClaude-Org/SuperClaude_Framework">https://github.com/SuperClaude-Org/SuperClaude_Framework</a>
+a ja uzywam tego do systemowego prompta
+ale nie wiem czy duza roznica
+a nie wiem, od paru dni dopiero tego uzywam
+jak i tak mam wykupionego claude&apos;a, to why not
+a pisz sam
+a pisze sam
+tez umiem
+uuu
+co?
+to tak sie da
+gdzie to znalazles?
+zapytalem szymona
+mi wyslal linka
+xd
+do figmy
+ta akcja ai dalej ma chyba mention stary modeli
+bo to od dawna tam wisi 🤔
+to wogole wyglada staro
+xd
+nom
+ale mozliwe ze przypomnialem szymonowi o tym
+wiec moze to ruszą
+mam nadzieje
+a ai nie ruszają w buddym od 3 lat minimum?
+ruszają ale najłatwiej byłoby zacząć od akcji bo to po prostu request do api
+xd
+niż robić własne prompty i wbudowywać to do buddiego
+zaraz sam za nich to rusze
+xd
+no ale przecież możesz to zrobić z local shella 🤡
+`
+to najlepiej dac akcje a tam komendy local shell
+wszystko mozna zrobic z local shella jak jestes wystarczająco uparty
+mozesz nawet grac w polskie czolgi z local shella
+ai na sterydach 😂
+ale ty masz pierdolnik
+jak ty sie w tym ogarniasz
+do tego lewego wklejam po kolei punkty od rafala
+Co to znaczy &quot;wyplic&quot;?
+wypluć
+a ok
+xd
+Ooo, ciekawe znalazłem
+Valve?
+<a href="https://app.clickup.com/t/8699ab1p5">https://app.clickup.com/t/8699ab1p5</a>
+<a href="https://www.valve.fi/">https://www.valve.fi/</a>
+XDD
+heee
+bylo blisko
+Valve by ich pozwalo
+Nie to 😆<a href="https://www.valvesoftware.com/pl/">https://www.valvesoftware.com/pl/</a>
+te personal priorities to spoko funkcja w clickupie
+&quot;Jak bardzo mam to w dupie&quot; to spoko funkcja w clickupie
+Czuję spam
+to wyjdz
+Z clickup-a?
+tak
+...
+kasa bedzie jutro bo dzisiaj ksiegowej nie ma a musi liste plac zaktualizowac
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong><br><br>Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+gdzie
+dzaba?
+czy znowu trip
+ja mam swoje dzisiaj
+ja ide do pierdo
+znowu pierdota?
+pierdot?
+francuska wymowa to pierdo
+chyba, że pierdot trip <a href="https://t.me/mnawiesniak">@mnawiesniak</a> ?
+hm
+no mozna sie zabrac i guess
+przeszedlbym sie tbh xd
+pièrdaux
+każdy wie, że to pierdot
+pierdaux to troszke inaczej niz pierdot
+nie no chyba sie tak wymawia
+chociaz nie wiem bo ja nie francuz
+auxwitz
+nwm nie znam francuskiego
+ale wiem ze oni mają milion samoglosek
+to powodzonka
+wiec moze to brzmi inaczej
+delikatnie
+chyba aux sie wymawia jak takie dlugie oooo
+XD
+thats a lot of sessions
+eaux to /oʊ/<br>ot to /o/<br><br>A samo &quot;aux&quot; bez e to nwm czy jest
+pierdeaux
+how many visual tests would you like?<br>yes
+no
+bo mateusz nie akceptował
+nigdy
+ja akceptowalem
+tylko auto dociaganie odpala sesje za kazdym razem
+zawsze akceptuje vt przed mergem xd
+nie no
+stale runy wejdą
+xD
+bo na live powinno być tyle samo
+o, commity ut też weszły
+teraz jest tylko nasrane, a nie puste
+o w koncu jest tytul session przynajmniej
+a nie session 71 72 73
+ja przepraszam bardzo
+kisiło się na testach
+MARYNOWAŁO
+przyszli
+przyjebali soli 1kg
+by się lepiej marynowało
+poczekali 2 tygodnie
+sprobowali
+musi się trochę zamarynować, ale teraz jest szlachetne
+o kurwa
+XD
+tak zwane niebo w gębie
+oj tak
+13:15 -&gt; Będzie tego. Pizgaj taski i odpocznij, bo i tak spierdolisz więcej niż to warte. Chyba, że wolisz 3 bugi w cenie jednego fix-a.
+Łukasz musi dotestować taska. Wezwij go, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/689b2234c3f56c52cc2e0097">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/689b2234c3f56c52cc2e0097</a>
+idziem
+idziem
+tylko wygeneruje pata
+Timeouta wyjebało.<br><br><a href="https://t.me/mganczarczyk">@mganczarczyk</a> merguj się do /dev/null
+Jakiś typ z Siemianowic od alkoholu miał akcje zatrzymania serca i uznano że nie żyje bo go defibrylatorem ratowali ratownicy, w kostnicy ciało czekało na lekarza gdy ochroniarz usłyszał jakiś hałas i ten typ się obudził i poprosił o kocyk bo było mu zimno xD<br>Policja go odwoziła to poprosił żeby go na imprezę gdzie się tak schlał zawieźli bo musi opić zmartwychwstanie xD
+brzmi jak pasta
+xddd
+a to nie wiem
+<a href="https://aclanthology.org/2025.findings-acl.155/">https://aclanthology.org/2025.findings-acl.155/</a>
+Tyle jeżeli chodzi o inteligencję AI
+tldr
+Wrzuć se do AI
+Niech ci podsumuje
+Nie chce mi się
+Opróżnienie recyclerów xD
+co to znaczy?
+jak zhackować AI <a href="https://www.youtube.com/watch?v=Qvx2sVgQ-u0">https://www.youtube.com/watch?v=Qvx2sVgQ-u0</a>
+Propmpt injection exetcise<br><br><a href="https://gandalf.lakera.ai/baseline">https://gandalf.lakera.ai/baseline</a>
+xddd
+mozna schowac instrukcje w emoji i wkleic llmowi
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a> w przyszlym miesiacu masz przymusowe wolne
+ale groźby
+bo zalewa nas pierdołami
+, które nam psują
+te pierdoły to fixy na 1 minutę
+u nas nie
+które nawet przez review na froncie nie mają sensu iść
+bo to zmiany w 1 pliku xD
+no doslownie
+takie taski dostaje sory xddd
+ale pisze zawsze commenta czy tam jest zmiana tylko w css czy cos sie moze u was zmienic
+to napisz im wont fix
+ale dla mnie to 2 linijki kodu xd
+a krzysiek kurwuje xd
+niech z pawlem pogada
+chociaz wiekszosc tych taskow jest od dzordza
+jakies redesigny
+ale one nie trafiają w większości do deva
+tylko idą do kłełe
+w sumie tak sobie teraz myśle że takie taski można by agregować i dawać jako jeden duży task z subtaskami zeby nie było odbijane tyle razy
+tak
+to dobry pomysl
+chociaz jak wam taka jedna pierdoła i tak duzo zmienia to nie wiem czy bedzie jakas roznica
+porządek
+większy porządek jest teraz bo te zmiany zwykle nie są powiązane
+search to jeszcze rozumiem, że mógł się wam zepsuć
+jak są powiązane to są w jednym tasku
+ale jeśli u nas to był 1 plik
+to nwm co u was za burdel jest
+zakladam ze chodzi o to ze ten button dostal wrapper xd
+nie mam pojecia
+cos tam mowil prawy i lewy gorny rog cos sie dodalo
+no to tak
+jeden wrapper i tyle krzyku
+lol
+bo go musialem na dwa rozne data-id rozbic
+w zaleznosci od media query
+tzn dużo jest rzeczy u nas z tych basicowych, które mogą dostać as={}
+więc da się wyświetlić spana, który jest divem
+mi sie wydawało ze jak sie dokladnie napisze co sie zmienilo na co to jest chillerka
+no przykro mi
+ale jak serio jest problem to mozna to obgadac zawsze zeby wszystkim bylo latwiej
+i tak źle, i tak niedobrze
+nie dogodzisz im
+:/
+lukasz odpalil gre na telefonie i nawet nie odpisuje mi na wiadomosci
+zaraz go kopne
+rzuciłbym w niego kaktusem
+chyb awlaczyl mu sie tryb mateusza
+xddd
+macie kaktusy na qa?
+kuba ma
+ja mam kaktusa na biurku
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a> mam fixa
+zamiast robić taski
+musisz jak qa
+candy crush
+uwazajcie zeby wam itemki do niego nie wpadly
+dobra to ja gram w uma musume
+dawaj w jakiegoś hentaica
+zobaczymy kiedy zapomnisz telefon wyciszyć
+juz mi wystarczy ze na tej grupie rozne gify latają xd
+to akurat kuba
+no lataja
+szczegolnie ze zaczalem wczoraj ogladac rent a girlfriend
+i jprdl
+kanokari jest soft lol
+kanokari?
+skrocony tytul z japonskiego
+._.
+aaaa
+ze to jest soft?
+(kano)jo o(kari)shimasu
+tak
+może oprócz rozdziału 218 w mandze
+niby jest soft aleeeeee, nadal jest tam duzo podtekstów i wiecej
+jak w prawie każdym shonenie xD
+ten jest taki wyjatkowy
+mmmm pod tym względem nie
+ojaaaaa, edytor działa już na live
+finally
+noice

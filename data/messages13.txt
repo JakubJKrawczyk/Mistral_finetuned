@@ -1,0 +1,955 @@
+﻿czy wygenerowanych?
+tyle jest w forbidden
+woo
+łukasz idź pilnować kota
+Pierdolnę ci, ale to tak że odechce ci się mówienia cokolwiek
+za co
+Za te insynuacje
+przyszedł i już mi grozi
+&gt;:C
+To nie groźba
+To obietnica
+i tylko mi jeszcze
+czemu np nie Kubie
+????
+O ty chuju bobrze
+i od razu ma lepszy humor
+jak pomyślał o zaliczaniu Więcława
+ayyy 🗿
+<a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> weź znajdź jakieś gówno i wystaw Marcelowi
+ale ja już 4 taski dzisiaj robiłem
+z bugów
+No to nie było gówno
+juz mu wysylalem
+dobra tam, kozak w necie, pizda w świecie. won&apos;t fix
+Noice
+masz to fixnąć
+powiedz szymonowi ze to ogarniesz
+bo to jest gowniane
+kto to projektowal
+dej linka
+juz dostales
+ale ja mam figme read only XD
+jak mam ci to poprawić
+jak to do Szymona trafiło
+<a href="https://app.clickup.com/t/8695fgu7u">https://app.clickup.com/t/8695fgu7u</a>
+pisałem jak szymon
+fast and furious
+jak ty powinieneś być calm
+bez tego diabła z qa
+nie jestem bo tu jest gorąco
+w piwnicy gorąco?
+te windowsy wam się tam grzeją?
+czemu u nas jest najgorecej
+wy macie o 1 degree lower
+mógłbym napisać dlaczego, ale to będzie obraźliwe
+więc nie napiszę
+you always tak pierdolisz? pół english pół polish??
+<a href="https://t.me/lmastalerz">@lmastalerz</a> czemu nie odpisujesz
+ja siedzę naprzeciwko Tomka i on ma tam jakiś nowszy sprzęt
+jak wczoraj coś odpalił to taki podmuch ciepłego powietrza dostałem że patrze co się dzieje
+XD
+ale przynajmniej ubuntu się szybko włącza XD
+bez szału
+meh
+a mrugnąć ci?
+what
+łukasz???
+gdzieś poszedł
+butt on plug
+kto zgadnie co tu jest nie tak moze obrazic lukasza
+pogroził uczciwym ludziom i go nie ma
+sus rzeczy na tym qa
+hehehheheehe
+a można kota?
+jeden z nich jest nieużywany
+nie
+poejbały mu się buttony
+reject ma thumbs up
+tak
+mamy zwycięzce
+ok, to ja użyłem swojej nagrody pisząc tam o kocie coś parę linijek wyżej
+to, że Łukaszowi się to nie podoba, to potem ci wytłumaczy w piątek, jak wróci
+elo
+Zajmuję się kimś ważniejszym od ciebie
+ale niemiły
+nienawiść się wylewa spod klawiatury
+Znad jak już
+z
+to masz grawitację ujemną chyba
+że coś się wylewa do góry
+🤔
+to już wszystkie opcje wykorzystaliśmy XD
+nie? jeszcze na boki
+i w czwartą gęstość
+8/10, za mało rozwalony leży
+nie pisz tak, bo tobie też jebnie
+Nikt nie pisze że mój kot nie żyje, więc jest ok
+kto tak pisze
+Ty
+fotomontaż
+grok z twittera
+kot pewnie już nie żyje
+napisałem który kot?
+Z kontekstu wynikło
+context nie dostał parametrów i ma undefined
+Może w JS u mnie is not null
+Jeszcze 1.5 dnia musisz beze mnie przetrwać
+nie no ewidentnie w consoli mu wyskoczyło <br><pre>Exception in thread &quot;main&quot; java.lang.NullPointerException: Cat ID is null!<br>    at com.felineapp.CatService.getCatDetails(CatService.java:42)<br>    at com.felineapp.CatController.adoptCat(CatController.java:28)<br>    at com.felineapp.CatAdoptionAgency.main(CatAdoptionAgency.java:12)<br><br>Caused by: java.lang.NullPointerException: You had one job - provide the Cat ID!<br>    at com.felineapp.CatRepository.findById(CatRepository.java:33)<br>    at com.felineapp.CatService.getCatDetails(CatService.java:40)<br>    ... 2 more<br><br>Hint: Did you forget to specify the cat ID?</pre>
+a później? xD
+Wrócę
+to ewidetnie jest groźba
+taska mi wystawi
+a, właśnie
+będzie trzeba wtedy zmienną ustawić na 1
+że małpiszon pracuje
+<a href="https://developers.calamari.io/">https://developers.calamari.io/</a> 🫡
+sugerujesz coś?
+że można to automatyzować
+już widzę pipeline, który wysyła tutaj:<br><br>&quot;uwaga, XYZ frajerzy i idzie do domu x godzin wcześniej&quot;
+to jak komuś się będzie nudzić
+sugerujesz coś?
+jeszcze tylko brakuje api które zwraca czy dzień jest pracujący, ustawowo wolny, dni do weekendu, dni do kolejnego ustawowego dnia wolnego
+widze ze tobie sie naprawde nudzi
+wystaw mu taska
+nie, rzucam pomysły bo samemu by mi się nie chciało tego robić
+w Current?
+w bugs
+przecież na qa robisz
+znajdź jakieś 500
+sory ja dłubie w yamlu
+o boze
+lol
+to Ty musisz nie wiedzieć od czego buddy bylo na początku tak naprawdę 😆
+ty, ja też
+wordpress php głównie
+<pre>&apos;@&apos;:<br>- type: SOA<br>  values: ns1.example.com. hostmaster.example.com. 2024080201 10800 3600 604800 3600<br>- type: NS<br>  values:<br>  - ns1.example.comm.<br>  - ns2.example.com.<br>  - ns3.example.com.<br>  - ns4.example.com.<br>- type: A<br>  values:<br>  - 192.168.1.1<br>  - 192.168.1.2<br>- type: MX<br>  values:<br>  - 10 mail1.example.com.<br>  - 20 mail2.example.com.<br>- type: TXT<br>  values:<br>  - v=spf1 include:_spf.example.com ~all<br>  - google-site-verification=abcdefghijklmnopqrstuvwxyz123456<br>&apos;*&apos;:<br>- type: A<br>  values: 192.168.0.1<br>- type: TXT<br>  values: wildcard-text-record<br>_acme-challenge:<br>- type: TXT<br>  values: acme-challenge-verification-string<br>_dmarc:<br>- type: TXT<br>  values: v=DMARC1; p=reject; rua=mailto:dmarc@example.com<br>api:<br>- type: A<br>  values: 192.168.5.1<br>- type: TXT<br>  values: API endpoint<br>backup:<br>- type: A<br>  values: 192.168.8.1<br>- type: TXT<br>  values: Backup server<br>blog:<br>- type: CNAME<br>  values: blog.example.com.<br>calendar:<br>- type: CNAME<br>  values: ghs.googlehosted.com.<br>cdn:<br>- type: CNAME<br>  values: cdn.thirdparty.com.<br>chat:<br>- type: CNAME<br>  values: ghs.googlehosted.com.<br>database:<br>- type: A<br>  values: 192.168.7.1<br>- type: TXT<br>  values: Database server<br>dev:<br>- type: A<br>  values:<br>  - 192.168.3.1<br>  - 192.168.3.2<br>- type: TXT<br>  values: Development environment<br>docs:<br>- type: CNAME<br>  values: ghs.googlehosted.com.<br>ftp:<br>- type: CNAME<br>  values: files.example.com.<br>legacy:<br>- type: A<br>  values: 192.168.11.1<br>- type: TXT<br>  values: Legacy system - to be decommissioned<br>mail:<br>- type: A<br>  values: 192.168.1.20<br>- type: MX<br>  values: 10 mail.example.com.<br>meet:<br>- type: CNAME<br>  values: ghs.googlehosted.com.<br>monitoring:<br>- type: A<br>  values: 192.168.10.1<br>- type: TXT<br>  values: Monitoring server<br>staging:<br>- type: A<br>  values:<br>  - 192.168.4.1<br>  - 192.168.4.2<br>- type: TXT<br>  values: Staging environment<br>test:<br>- type: A<br>  values: 192.168.2.1<br>- type: TXT<br>  values: This is a test record<br>test1:<br>- type: A<br>  values: 192.168.12.1<br>test2:<br>- type: A<br>  values: 192.168.12.2<br>test3:<br>- type: A<br>  values: 192.168.12.3<br>vpn:<br>- type: A<br>  values: 192.168.9.1<br>- type: TXT<br>  values: VPN endpoint<br>www:<br>- type: A<br>  values:<br>  - 192.168.1.10<br>  - 192.168.1.11<br>- type: AAAA<br>  values:<br>  - 2001:db8::1<br>  - 2001:db8::2<br>google._domainkey:<br>- type: TXT<br>  values: v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiLcY7WSmLNSG4FxFebrAhHa3r+bhQNFbDqLMj72HaMF/E64ZmHXGCGG7YXcpM0vitZQ/ql5lJTULpioMlZIWBqQDxH8DPlDj3TomMTEQXrNAXpWcpOwtecBTUPTBtHw3ffnFJwxCk4r5O6wGEVDpgXbYYhpMCyHZBoNUZprYK1Xp13X9DQRwULhQHXBFwvjrTCmpcKz2lP6tWGt9xhfzqWuojO4n4wxxEEI2sPCgLBSEApvP5oZkDXO3/wB8xN0gpaSGXhkfx0SUWXlD17jJOJBxIJGCzWf7ckGX9w==<br>_sip._tcp:<br>- type: SRV<br>  values:<br>  - 10 60 5060 sip1.example.com.<br>  - 20 60 5060 sip2.example.com.<br>_xmpp-server._tcp:<br>- type: SRV<br>  values:<br>  - 10 60 5269 xmpp1.example.com.<br>  - 20 60 5269 xmpp2.example.com.<br>&apos;*.app&apos;:<br>- type: A<br>  values: 192.168.6.1<br>- type: TXT<br>  values: Wildcard for app subdomains<br>app1.app:<br>- type: A<br>  values:<br>  - 192.168.6.10<br>  - 192.168.6.11<br>app2.app:<br>- type: A<br>  values:<br>  - 192.168.6.20<br>  - 192.168.6.21<br>&apos;*.dev&apos;:<br>- type: A<br>  values: 192.168.13.1<br>- type: TXT<br>  values: Wildcard for dev subdomains<br>&apos;*.production&apos;:<br>- type: A<br>  values: 192.168.15.1<br>- type: TXT<br>  values: Wildcard for production subdomains<br>&apos;*.staging&apos;:<br>- type: A<br>  values: 192.168.14.1<br>- type: TXT<br>  values: Wildcard for staging subdomains<br>&apos;*.test&apos;:<br>- type: A<br>  values: 192.168.12.100</pre>
+tak będzie yaml do domeny wyglądał z minimie quotes opcja 😆 miłego
+tzn w tej domenie jest nasrane po prostu
+no dużo rzeczy
+ai mi to wygenerowało, yaml jest poprawny
+ale kolorki miejscami są nie tak jak trzeba
+imo git
+<a href="https://t.me/lmastalerz">@lmastalerz</a>
+diagnoza: skill issue/user error
+wyraź opinie
+jprdl
+rozjebałeś mnie
+padało chwilę ale przestało
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong><br>Front i backend ciężko pracuje, QA dupom!
+lecimy szybko póki jest spokój?
+po nie jedzenie?
+no chyba
+że już?
+mi to wszystko jedno
+to idę na dół
+ja teraz nie ide :P
+<a href="https://t.me/shipurjan">@shipurjan</a>
+nie badz pol pipy
+Ta
+Już wracamy
+13:15 -&gt; Druga przerwa w środku tygodnia. QA głodne, QA złe. Nie chcesz żeby QA było złe
+Dzisiaj nie wzywamy małpiszona.
+klient pisze na support bo nie wie że bash i ruby to dwa różne języki
+nowy język programowania rush
+tyle samo liter w nazwie
+czy baby
+dojebane XDD
+trzeba zrobic takiego frameworka
+człowiek se chce pysznego świeżo wyciskanego soczku napić
+naprawiam error w wyciskarce bo źle był ten plastik u góry włożony
+odpalam maszynę i patrzę jak podejrzana pomarańcza zostawia pleśń na ostrzu jak ją wyciska XD
+osoba, która przyjdzie po tobie będzie miała niespodziankę 🫡
+sok spuściłem, zostawiłem error jak był
+piękne
+przecież są wyszarzone
+insert here żart o qa
+co ty ta tam tak grzebiesz na slacku?
+do marketingowej?
+bo nas tam nie ma
+?
+&quot;Tak, zgadza się. Mam więcej niż 13 lat&quot;
+ok, zatrudniony.
+czy ktoś wie czy chrome ma wbudowana linijke?
+widzicie co robi wesoła developerka bez kontroli?
+gdzie ty masz ponad 2/3?
+11k+2.6k
+6.5k jebło
+46% fails
+nadal ponad połowa
+czyli jest git
+przyjdzie Łukasz to naprawi
+ta. jak dobrze że połowa aplikacji nie dziala
+jak nie działa jak działa
+nie dziala
+to wasze selenium ma problem
+jak test nie przechodzi a przechodził to znaczy ze aplikacja nie dziala a developer jest jebniety
+jak już to tester jest jebnięty
+dobrze
+nie bardzo
+chyba, że ich powiadomienia są zjebane
+ale total jest 14044
+czyli powiadomienia są zjebane
+failed/total
+11k przeszło, 6.5k się wyjebało
+czyli ponad 17k ich było
+jak jest inaczej to małpiszon po wojaku to pisał
+dobra nvm
+ja jestem jeszcze po wojakui
+heh
+ale i tak
+krzysiek jest wkurwiony
+xd
+fixuje testy na devie bo nwm co jest ale chyba polecialo duzo zmian
+nie ruszaj qika
+a to jest zmiany in progress?
+ZAKAZ
+ale tam zmiany lecą takie po front,backend czy ja cos zjebalem? :(
+nastapiłą wesoła developerka bez zadnej kontroli i nie bedziemy tracic na to czasu
+where wesoła developerka
+jak taski do was lecą xD
+chyba, że to gównolit typu &quot;odspierdolono ikonę, bo była za duża&quot;
+to on prosto to deva
+takich rzeczy nie sprawdzamy
+dlatego takie rzeczy lecą do dev
+wesoła developerka bo tylko wczoraj przelaczali nowe servery git i jeblo na wszystkich maszynach bo zaden nie pomyslal ze sie ip zmieniaja i trzeba na routerze przestawić
+po co kontrolować coś co przy próbie zmienia się 4 razy
+a człowiek myślał, że qa to powinno być zadowolone, jak zobaczy, że coś się wyjebało
+a tu np 6.5k wyjebek
+i nagle Krzysiek wkurwiony
+bez sensu
+zadowolone jak znajdzie buga
+nie jak sie sypia testy
+no to macie buga
+w takiej ilosci
+chujowe testy
+a ile taskow poleci do was
+bluahahha
+nie, to Łukasz
+to tylko lukasz
+ale zapanowała zgoda
+a marcel z nieszczescia lukasza
+teraz przyjdzie Łukasz i mnie zwyzywa
+a Kubę nie
+;)
+ten generator losowych obraźliwych słów jeszcze śpi?
+<a href="https://t.me/lmastalerz">@lmastalerz</a>
+testy sabotujesz
+nie, to Łukasz nimi wszystkimi zarządza
+nie poprostu on was obraza i dlatego sie zastanowicie 2 razy
+kto mnie obraża
+lukasz
+mnie to nie rusza
+siedze i caly czas teraz slysze kurwy zza plecow
+nie ładnie tak o kolegach z pracy pisać
+xd debyl
+XD
+commit size
+commit message: &quot;ale bydło&quot;
+9:20 -&gt; do przerwy zostało T - 10 minut.<br><br>Dzisiejsza zupa:<br>Pieczarkowa zupa z makaronem
+co jest czyżbyśmy mieli w tym tygodniu fulla?
+cały tydzień dobrych zup
+raczej &quot;Błędy łukasza zostały poprawione&quot;
+jutro Ogórkowa z ziemniakami
+cyprian
+dodawanie bibliotek sie nie liczy
+nie, to był prettier na całym projekcie
+czy tych co uzywaja tools
+czyli ten commit ma 0
+bo to prietier robi za was
+u nas narzędzia to eslint i prettier
+u was sierp i młot
+każdy ma coś swojego
+jakbym uzyl prieter to zabilbym caly projekt
+specjalnie dla cb zrobie reformat na osobnym branchu na calym projekcie
+ok :c
+zrobiłem cleanup i co ?
+pusto
+piszecie chujowy kod
+soup
+a widziałeś by bot wezwał?
+9:30 -&gt; może i zupa bywa niedobra, ale wszystko ma swoje pozytywne strony. Przykładowo QA jest jeszcze gorsze.
+nie nasza wina że procesy tak wyglądają że tylko wy puszczacie testy na maszynach, skąd miał wiedzieć że się wypierdoli jak lokalnie mu działa 😆
+nie mam mojej wiadomości?? wtf
+Print &quot;w&quot; to standard output.<br><pre>wWWwwww</pre><br><br>Calculate 1 + 1 and print the result by the number of &quot;w&quot;. This example consists of 3 functions. First one is 1 represented by lambda term (Church integer). Second one is addition operator of Church integer. Last one is main function. This program is equivalent to (λi.(λmnfx.m f (n f x)) i i OUT w) (λfx.f x).<br><br><pre>wwWWwv<br>wwwwWWWwwWwwWWWWWWwwwwWwwv<br>wWWwwwWwwwwWwwwwwwWwwwwwwwww</pre>
+understandable
+dojebany język, stworzony z myślą że ma wyglądać jak nierówny trawnik
+co to jest
+grass
+aa ok
+xd
+<a href="http://www.blue.sky.or.jp/grass/">http://www.blue.sky.or.jp/grass/</a>
+fajen
+<a href="https://github.com/danth/stylix">https://github.com/danth/stylix</a><br>tu jest ten stylix, co mowilem, game changer
+czy to działa w hyprlandzie??
+ja pewnie zrobie tak: <a href="https://github.com/catppuccin/nix">https://github.com/catppuccin/nix</a>
+jest pr: <a href="https://github.com/danth/stylix/pull/501">https://github.com/danth/stylix/pull/501</a>
+narazie z DE to wspiera gnome i czesciowo kde
+linuxowe świry
+nie nie
+nixowe?
+źle by było gdybyśmy uznali nie no kurde te wszystkie DE do wyjebania piszemy własny
+przeczytalem deth/stylix
+tu jest lista wspieranych programów (stylix.targets.PROGRAM)<br><a href="https://stylix.danth.me/options/nixos.html">https://stylix.danth.me/options/nixos.html</a>
+jak to było fireship?
+<a href="https://www.youtube.com/watch?v=FJVFXsNzYZQ">https://www.youtube.com/watch?v=FJVFXsNzYZQ</a>
+13h temu
+zajebiste
+ziomek ma normalnie kursy
+nie wiedziałeś? :o
+coś dla łukasza
+ciekawe czy dart 2 czy 3
+🤔
+well, on już ma książkę
+gorzej
+kursu fireshipa raczej nie przeczyta
+chyba, że wydrukuje każdą klatkę
+outdated
+a szkoda
+bo zapowiada się git
+i 10$
+planujesz kupić? xd
+jakby był dart 3
+a tak skorzystam z domyślnego tut darta od darta
+niesamowite, że darta wybrałeś
+wgl to, że nie c#
+a w czym sie pisze w flutter?
+że wybrałeś flutter, a nie maui*
+maui jescze raczkuje
+choc mc mówi co innego
+oj maui to chyba nigdy z kolan nie wstanie
+bo ma kostki rozjebane od dziecka
+twierdzi ze devs sa zadowoleni z ich dziecka
+czemu flutter jest jebniety dla web?
+bo działa w canvasie
+bo to względnie nowy feature?
+też ^
+jebac web
+zrobi sie w react
+pierwsze było robione na androida, potem ios potem desktopy jakoś i web na końcu dodali? czy jakos tak
+ale może być web = desktop
+nie
+tak
+web != desktop
+desktop (webview)
+a, że ty chcesz tak zrobić
+headless browser
+to wpierdol jeszcze na android headlessa
+a da sie?
+ionic czy inny pierdolnik
+i masz z głowy
+jeden codebase
+chce sie nauczyc fluttera
+tu problem
+porzucasz c#?
+nie
+Łukasz będzie tęsknił
+ale w xamarin pisal nie bede
+c# to dobry backend
+nie apki
+maui to jest xamarin 1.1 experimental (USE AT YOUR OWN RISK) wersja
+czyli specjalnie celowo rozdzielasz na dwa codebase&apos;y
+miłej zabawy przy utrzymywaniu ich przy życiu xD
+c# jest dobry do:<br>- API<br>- TEST<br>- AI<br>- console apps
+AI?
+słyszałeś kiedyś o pythonie?
+no tak
+ale <a href="mln.net">mln.net</a>
+nie jest zły
+wiadomo że tensorflow w pythonei siedzi w tym dłużej
+tzn jeśli jesteś w stanie osiągnąć cel
+to pisz sobie w czymkolwiek
+wiesz ale czasami tez liczy sie czas i wygoda pisania
+mi tam c# nie sprawia radości
+bo nie daje ani radości z pisania
+zawsze mozesz pisac w IL
+ani nie sprawia, że szybko w tym piszesz
+zalezy co
+wszystko
+jak widzę boilerplate do api to się śmiać chce
+ja poprostu wole obiektowe podejscie nie interpretowane
+eee
+kod compilowany &gt; interpretowany
+ale w ts też można obietkowo pisać
+inaczej
+kompilacja a obiektowość to 2 różne rzeczy xD
+obiektowo &gt; funkcyjnie
+nie miałem tego na myśli
+boilerplate jest tam po prostu strasznie długi
+by cokolwiek ci działało
+jak wiesz co robisz to nie
+nie możesz formować opinii na temat funkcyjnego programowania dopóki nie umiesz napisać w haskelu i wytłumaczyć co to monady
+domyślna templatka
+az sie haskela naucze xd
+kolejny język do kolekcji?
+to wyglada gorzej niz js
+console.log() w każdym języku &gt; bycie zaawansowanym w jednym konkretnym
+yeap
+nie wiem jak musisz sie duzo uczyc jezyka zeby byc zaawansowanym w nim
+dupa
+mam dziwne wrażenie, że nie o to mi chodziło
+xD
+nie pisać kodu, którego się wstydzisz
+albo kodu, który jest śmietnikiem
+jak <a href="isedr.pl">isedr.pl</a> xd
+nie
+łukasza przeciez wysmiali xd
+to nie argument
+kto tego nie zrobił
+ja sie isedr nie wstydze jak na pierwszy styk z vue
+wybrałeś vue, by go tylko liznąć?
+umieć napisać średnio zaawansowany projekt, posługiwać się standardową biblioteką i stosować jakieś best practices??
+nie
+yeap
+ogólnie mnie boli to że ciężko jest znaleźć dobre przykłady programowania w jakichś kursach/tutorialach
+takich rzeczy to nawet po książce do fluttera nie ogarną
+wszystko to to są małe projekty nieprzystosowane do rozbudowania xD
+nie ma
+todo list 🗿
+tuty są do dupy
+nawet jak maja 12 h
+a potem ktoś myśli o kurwa zrobie clickupa
+techniczny zobacz
+git server leży
+clickup postaje i czekam minute na otwarcie taska
+dlatego też siedzę na telegramie
+zamiast pisać kodu
+projektu nie otworzysz
+bo wypierdolka automatycznie
+widze
+mniam
+dziurawe, sql injection
+i null pointery chuj pointery wszędzie
+sww na każdym kroku dzieńdobry
+tak będziesz miał, jak będziesz każdą rzecz pisał w czymś nowym xd
+i rzucał się na głęboką wodę z każdym nowym języku
+ma to plusy i minusy
+nieprawda
+zdecydowanie więcej plusów kiedy ma się jakiś jeden język w którym się jest zaawansowanym
+czy argument przeciw to &quot;będę miał testy, które napiszę w języku, którego dopiero się uczę&quot;?
+ale nie ma języka który jest do wszystkiego
+czy będziesz c#+selenium wrzucał do fluttera
+pewna małpa twierdzi inaczej
+dlatego full stack developer nie jest obeznany z żadnym językiem na poziomie zaawansowanym
+dwa to jeszcze git
+nie 20
+no ale mam 3
+oj to jest duża generalizacja
+tak jak to że QA jest złe
+bo fullstackiem nie tylko zostają ludzie którzy napisali strone z counterem w js oraz backend do tego w c#
+tylko też ludzie którzy siedzą na froncie lub backendzie x lat i wchodzi do projektu gdzie szybkość robienia featurów ma znaczenie xD
+każdy kto pisze front i backend jednoczesnie jest full stackiem
+a czy na sensownym poziomie?
+i czy wystarczająco szybko?
+no trzeba to podzielić junior mid senior i specjalny
+nie powiedziałbym że gdybym napisał jakąś małą apkę na 3 endpointy to czyni mnie fullstackiem
+nie małą nie
+ale tak naprawde jaki rozmiar definiuje to ze nim zostajesz?
+ale to nie ma znaczenia
+definiowanie złożoności apki przez ilość endpointów
+🗿
+mysle ze tu chodzi o predkosc przystosowywania sie do konkretnego projektu
+wchodzisz i wiesz co tam sie dzieje
+i jak dopisywac kolejne elementy nie psujac flow
+&quot;dzień dobry, nasrane&quot;
+obudzil sie ksiaze
+księżniczka też czuwa nad nami
+nadal sd9 lezy
+&quot;(
+no randomowa metryka, można mieć też projekt na 10k linijek kodu gdzie 9,9k to statyczne dane xD
+wracając - nie wiem czy jest sens pisać apkę w czymś, w czym nie planujesz pisać na stałe; imagine wracać do apki po x miesiącach, by ją patchować/dodawać funkcjonalności i uczyć się języka od zera
+i poprawiać gównolit, który się napisało
+lepiej raz a porządnie napisać
+niż pływać w gównie
+resetdb i jedziesz chyba
+właśnie robie
+robiąc więcej projektów szybciej zobaczysz gdzie jest gównolit i co podzielić xD
+w języku, który nie korzysta z liter też?
+znając więcej języków zaczniesz łatwiej dostrzegać jakieś wzorce projektowe bo przestaniesz się skupiać na samym języku
+są jakieś wspólne wzorce w językach
+typu wydzielanie kodu na mniejsze pliki/funkcje/klasy
+dobra to napisze to w react. czym pisze mobile?
+tak, jakieś zasady do tego żeby oddzielić logike biznesową od komunikacji itd
+przechodzenie między wysokopoziomowymi językami jest proste
+napisałem ogólnikowo, że może być ci kiedyś kiepsko to później patchować
+żeby starać się robić wszystko immutable bo łatwiej znaleźć co się tam oddupca
+nie narzekam, że chcesz pisać we flutterze
+jest react native, ionic i coś tam jeszcze
+to na aplikacjach mobilnych było
+react native to drugi codebase
+na czym?
+ionic spoko, jeśli owrapujesz webview
+tam można spokojnie zrobić sobie monorepo
+react -&gt; web<br>ionic -&gt; react -&gt; mobile
+narzekam na utrzymanie wielu codebase&apos;ów
+tym bardziej, że api to trzecie repo
+mamy 4 repo :)
+testy?
+można zrobić monorepo
+marketing site
+;-;
+ale jeżeli to jest rekomendacja żeby pisać to wszystko w jednym języku to nie wiem co Ci powiedzieć
+nie powiesz chyba że pisanie w reakcie i pisanie backendu to takie samo podejście do kodu
+nie jest
+nope
+well, pisz w czym chcesz xD
+i tak zrobie
+:D
+wiesz, we flutterze jakkolwiek ci Łukasz pomoże
+wlasnie
+w react nie
+w react bede pisal z mateuszem
+gdzie pomoże może być równoznaczne z &quot;przeszkadza&quot;
+to prawda
+nie wykluczam zadnej mozliwosci
+Mateusz to się ostatnio miliona projektów chwyta
+ale siedzi w domu
+ma wiecej czasu
+a z tego go nie wypuszcze
+czyli ma przesrane
+ale przynajmniej względnie ładny design ci zrobił xD
+no tak
+ale robilismy go razem
+bo nie miał pojęcia, co ma tam być
+szybko 11k przebiliśmy
+nastepny milestone to 20k
+no ostatnio sporo napierdalamy na czacie
+nie no 15
+nie bo im wiecej tym milestone sie zwieksza
+patrzenie w ekran jak sie generuje sd9 jest nudne
+a i w sumie jeszcze będzie generator to 5 repo i testy to 6
+klikaj ręcznie
+a nie polegaj na generatorze
+to bez sensu
+xd
+łukasz co 2 dni robi reset db na backendzie
+devops is his passion
+No co mam powiedzieć jak edycja compose wymusza reset db u nas
+Sadly yes
+hihi
+xd
+Ty się nie hahaj tylko pokaż coś pawłowi wczoraj wysyłał
+to jak tak to zerknij na te docsy bo ja się wczoraj poddałem kiedy znów token wyjebało
+Kuba czy ja?
+jest w pipeline budowanie i publikowanie do registry dockerowego
+incus config device add YOUR-INSTANCE port-8000 proxy listen=tcp:<a href="0.0.0.0:8000">0.0.0.0:8000</a> connect=tcp:<a href="127.0.0.1:8000">127.0.0.1:8000</a>
+przekierowuje port 8000 z hosta na kontener
+z glownego ubuntu?
+tak
+czy wewnatrz instanci YOUR-INSTANCE?
+This will make any connection to your host’s IP addresses on port tcp/8000 to be forwarded to the instance.
+hmmm dzieki
+wyprobuje to
+a to ip moge podmienic na dowolne?
+to <a href="127.0.0.1">127.0.0.1</a>?
+jezeli moja instancja laczy sie z internetem przez <a href="10.9.170.109">10.9.170.109</a>?
+czy to pomija ten etap i odrazu wchodzi do instancji bez patrzenia na jej ip i w jej srodku wysyla tcp do <a href="127.0.0.1:8000">127.0.0.1:8000</a>?
+bo u nas ruch odbywa sie po subdomenach
+wiec jezeli uzyje tej komendy na instancji X i porcie 80 to czy zostanie ten ruch przekierowany potem jescze przez nginx?
+ruch mamy tak<br><pre>zewnetrzne ip -&gt; router -&gt; maszyna glowna -&gt; nginx (po subdomenie sprawdza co to jest i wysyla z odpowiednim portem) -&gt; instancja -&gt; nginx(nasluchuje na odpowiedni port i przekierowywuje ruch) -&gt; service wewnatrz</pre>
+mam pytanko
+i potrzebuje kogos kto sie zna
+czy ta komenda moze przyjac hosta zz jednej sieci i target z innej?
+i nie utworzy wirtualnego hosta w sieci hosta zeby przekierowac na siec targetu
+Chyba(?)
+zaraz napisze wiecej szczegolow bo to jest troche bardziej skomplikowane
+Mozemy wrocic do tematu jutro bo teraz jestem na &quot;spotkaniu biznesowym&quot;
+ok
+miłego spotkania
+Kloc to jest kontener incusa, a te klocki w srodku sa czym?
+Host ma adres <a href="10.9.170.108">10.9.170.108</a> do sieci zewnętrznej i <a href="192.168.1.1">192.168.1.1</a> do sieci z instancjami incusa (VM-kami). Mam VM z adresem <a href="192.168.1.15">192.168.1.15</a> z ssh. Da się tą komendą zrobić tak, że waląc na <a href="10.9.170.108:3000">10.9.170.108:3000</a> wstrzelić się do <a href="192.168.1.15:22">192.168.1.15:22</a>?
+Ah, a to sa vmki (qemu)?
+tak
+instancje
+Wydaje mi sie ze tak. Ale musisz sprawdzic
+Zobaczę, pewnie ten token się resetuje jak tylko maszyna się resetuje
+Najlepiej to robić komendami, bo tak tokenu nie trzeba
+tldr nieważne
+mówisz że mamy zabezpieczony kubernetes tokenem ale on ma w to wyjebane jak używasz komend?
+Dashboard jest jedynie zabezpieczony
+bez sensu XD
+ale małe
+no ogólnie w pushowaniu do tego dockerowego registry krzyczało na mnie że password jest required xD
+ale wpisałem byle co i przeszło
+Ja tam używam &quot;marcfelszmata&quot; i działa
+oryginalne hasło
+Choć pewnie &quot;jebaćjs&quot; też by przeszło xD
+wytatuuj sobie na czole
+szybko zanim zmieni hasło do konta bankowego
+tam pewnie ma bardziej zabezpieczone
+i napisane capslockiem
+XD
+well
+ale to chyba tam wkleiłeś ten tekst
+bo schodzi resp.code 3101
+otóż nie
+usuwałem sobie projekt zlinkowany z githuba
+a w konsoli?
+no jest normalnie deleteProject
+i to zwraca jako błąd
+bo wywaliło się po stronie backendu
+i resp code 3101?
+ciekawe to tam macie
+tak 3101
+moja wina chyba bo nie usuwam gitconfiga który się odnosi do jakiegoś projektu
+i chce go usunąć
+ciekawe czy qa będzie się śmiało z walenia wiadra
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong><br>Front i backend ciężko pracuje, QA dupom!
+kolejny dzień podłego żarcia?
+yeap
+niestety
+;)
+alert(&apos;bruh&apos;)
+by bardziej życie utrudniał
+nie
+tak
+alert(&apos;debyl?&apos;)
+nie
+tak
+nie
+tak
+nie
+TAK
+NIE
+TaK
+NiE
+TAKK
+NIEE
+TAKKK
+NIEEE
+TAKKKKK
+🙅‍♂️
+haha
+zgłodniałem
+chodźmy
+wiadomość przekazana Konradowi
+ciekawe co odpisze
+dont be a guy
+lets gey
+go
+13:15 -&gt; zostaw już ten kod, trzeba coś zjeść.
+Dzisiaj nie wzywamy małpiszona.
+sudo service łukasz enable
+sudo rm -rf /Łukasz
+A to mi się oberwie za te reakcje XD
+User not in sudoers group
+directory not found
+gdybym umiał nixa i nie robiłbym tego w VM to byłoby w chuj szybciej xD
+o 1 w nocy skończyłem
+a najwięcej to się jebałem z tym że vmware domyślnie ma bios nie uefi
+no no ładnie
+teraz tylko skonfigurować i ryżować
+to koniecznie ten stylix polecam :P
+niech ten pr dla hyprlanda wleci pierwsze xD
+zainstaluj hyprland z pr
+problem rozwiązany
+hmmm możliwość definiowania całego systemu w pliku .nix brzmi spoko i chyba musze sobie go też zainstalowac
+skończy się jak z templeos
+uruchomisz i wyjebiesz xD
+templeos jest ciężki i jeszcze nie potrafił przenieść mojej myszki do VM poprawnie
+jakiej myszki
+po co
+i tworzenie generacji przy kazdej zmianie mmmmm
+Marcel śmietnik bandyta
+Jechał async autobusem
+hehe
+hehe
+ale dojebana domena w 10min mailu
+<a href="mailto:lakewed867@apifan.com">lakewed867@apifan.com</a>
+9:20 -&gt; do przerwy zostało T - 10 minut.<br><br>Dzisiejsza zupa:<br>Ogórkowa z ziemniaczkami
+bingo
+xd
+jak jescze mi powiesz ze w nixOS da się zdefiniowac parametry dla incusa to zmieniam system,
+tego to nie wiem
+o kurwa
+{ config, pkgs, ... }:<br><br>{<br>  services.nginx = {<br>    enable = true;<br>    <br>    # Definicja wirtualnych hostów (instancje)<br>    virtualHosts = {<br>      &quot;<a href="example.com">example.com</a>&quot; = {<br>        root = &quot;/var/www/<a href="example.com">example.com</a>&quot;;<br>        locations.&quot;/&quot; = {<br>          proxyPass = &quot;<a href="http://127.0.0.1:8080">http://127.0.0.1:8080</a>&quot;;<br>        };<br>      };<br><br>      &quot;<a href="another-example.com">another-example.com</a>&quot; = {<br>        root = &quot;/var/www/<a href="another-example.com">another-example.com</a>&quot;;<br>        locations.&quot;/&quot; = {<br>          proxyPass = &quot;<a href="http://127.0.0.1:9090">http://127.0.0.1:9090</a>&quot;;<br>        };<br>      };<br>    };<br><br>    # Można również zdefiniować różne profile dla Nginx<br>    recommendedProxySettings = true;<br>    recommendedTlsSettings = true;<br>    <br>    # Dodatkowe konfiguracje Nginx<br>    extraConfig = &apos;&apos;<br>      client_max_body_size 50M;<br>      keepalive_timeout 65;<br>    &apos;&apos;;<br><br>    # Zarządzanie certyfikatami SSL<br>    sslCertificates = {<br>      &quot;<a href="example.com">example.com</a>&quot; = {<br>        certificateFile = &quot;/path/to/cert.pem&quot;;<br>        keyFile = &quot;/path/to/key.pem&quot;;<br>      };<br>    };<br>  };<br><br>  # Przykład konfiguracji storage<br>  fileSystems = {<br>    &quot;/var/www&quot; = {<br>      device = &quot;/dev/disk/by-uuid/1234-5678&quot;;<br>      fsType = &quot;ext4&quot;;<br>    };<br>  };<br><br>  # Konfiguracja interfejsów sieciowych<br>  networking.interfaces = {<br>    enp0s3.useDHCP = false;<br>    enp0s3.ipv4.addresses = [ {<br>      address = &quot;<a href="192.168.1.10">192.168.1.10</a>&quot;;<br>      prefixLength = 24;<br>    } ];<br>    enp0s3.ipv4.gateway = &quot;<a href="192.168.1.1">192.168.1.1</a>&quot;;<br>    enp0s3.ipv6.addresses = [ {<br>      address = &quot;2001:0db8:85a3::8a2e:0370:7334&quot;;<br>      prefixLength = 64;<br>    } ];<br>  };<br>}
+nginx jest
+jeszcze incus
+bingo { config, pkgs, ... }:<br><br>{<br>  # Włączenie usługi Incus<br>  services.incus = {<br>    enable = true;<br><br>    # Konfiguracja ścieżki storage (puli)<br>    storagePools = {<br>      default = {<br>        driver = &quot;zfs&quot;;<br>        config = {<br>          source = &quot;tank/incus&quot;;<br>        };<br>      };<br>    };<br><br>    # Konfiguracja profili<br>    profiles = {<br>      default = {<br>        devices = {<br>          root = {<br>            type = &quot;disk&quot;;<br>            path = &quot;/&quot;;<br>            pool = &quot;default&quot;;<br>          };<br>          eth0 = {<br>            type = &quot;nic&quot;;<br>            nictype = &quot;bridged&quot;;<br>            parent = &quot;br0&quot;;<br>          };<br>        };<br>      };<br>      custom-profile = {<br>        config = {<br>          &quot;limits.cpu&quot; = &quot;2&quot;;<br>          &quot;limits.memory&quot; = &quot;4GB&quot;;<br>        };<br>        devices = {<br>          root = {<br>            type = &quot;disk&quot;;<br>            path = &quot;/&quot;;<br>            pool = &quot;default&quot;;<br>          };<br>          eth0 = {<br>            type = &quot;nic&quot;;<br>            nictype = &quot;bridged&quot;;<br>            parent = &quot;br0&quot;;<br>          };<br>        };<br>      };<br>    };<br><br>    # Konfiguracja sieci<br>    networks = {<br>      br0 = {<br>        config = {<br>          ipv4.address = &quot;<a href="10.0.3.1/24">10.0.3.1/24</a>&quot;;<br>          ipv4.nat = true;<br>        };<br>      };<br>    };<br><br>    # Konfiguracja instancji<br>    instances = {<br>      my-container = {<br>        config = {<br>          &quot;limits.cpu&quot; = &quot;2&quot;;<br>          &quot;limits.memory&quot; = &quot;2GB&quot;;<br>        };<br>        profiles = [ &quot;default&quot; ];<br>        source = {<br>          type = &quot;image&quot;;<br>          alias = &quot;ubuntu/22.04&quot;;<br>        };<br>      };<br>      another-container = {<br>        config = {<br>          &quot;limits.cpu&quot; = &quot;4&quot;;<br>          &quot;limits.memory&quot; = &quot;8GB&quot;;<br>        };<br>        profiles = [ &quot;custom-profile&quot; ];<br>        source = {<br>          type = &quot;image&quot;;<br>          alias = &quot;ubuntu/20.04&quot;;<br>        };<br>      };<br>    };<br>  };<br><br>  # Przykładowa konfiguracja interfejsów sieciowych na poziomie hosta<br>  networking.interfaces = {<br>    enp0s3.useDHCP = false;<br>    enp0s3.ipv4.addresses = [ {<br>      address = &quot;<a href="192.168.1.10">192.168.1.10</a>&quot;;<br>      prefixLength = 24;<br>    } ];<br>    enp0s3.ipv4.gateway = &quot;<a href="192.168.1.1">192.168.1.1</a>&quot;;<br>  };<br><br>  # Przykładowa konfiguracja systemu plików (storage)<br>  fileSystems = {<br>    &quot;/var/lib/incus&quot; = {<br>      device = &quot;/dev/sda1&quot;;<br>      fsType = &quot;ext4&quot;;<br>    };<br>  };<br>}
+<a href="https://discussion.scottibyte.com/t/incus-host-under-nixos/432">https://discussion.scottibyte.com/t/incus-host-under-nixos/432</a>
+Nie waż się kurwa
+lkajefglisdf😰ekjlenojfwr
+ale agresywny
+ktoś ci cukier podmienił  w herbacie?
+Nie będę stawiał 4. raz wszystkich środowisk i maszynek
+mozna by cala konfiguracje zawrzec w pliku .nix i replikowac w razie awarii
+to lepsze niz backup
+Jebie mnie to
+ty
+mnie też :D
+cichaj tam
+bo co
+Łukasza na mnie naślesz?
+nie wiem, takie stawianie od 0 po raz Nty wydaje mi się większym problemem niż to że trzeba znowu to stawiać xD
+czemu nie macie tego jakoś zapisanego
+IaC
+cokolwiek
+inny problem że żeby to zrobić na nixie trzeba pierwsze znać tego nixa i robienie zaawansowanego configa na 1. raz tylko odrzuci
+9:30 -&gt; jest piątek, weekendu początek. Uhonorujmy ten wspaniały dzień miską pysznej zupy. Życzę wam spokojnego życia bez tasków od QA.
+Perfectly balanced as all things should be
+🤡
+ładne to
+takie ala QA
+fix²
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> jesteś do bana
+co ci się znowu nie podoba
+Ty
+jakbyś tego nie napisał, to tylko rodzina by wiedziała, żeś debil
+Puszczam generator i nie mam co robić aż się skończy
+Więc obrażam cię
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong><br>Front i backend ciężko pracuje, QA dupom!
+ja mam kanapeczki ale skocze do zaby
+how
+i got fuud
+<a href="https://whatthecommit.com/">https://whatthecommit.com/</a> macie
+Udało mi się zrobić commita bez message
+macie, na qa się przyda
+13:15 -&gt; To już ostatni raz jak się spotykamy w tym tygodniu, więc może ruszyłbyś dupę? Dzisiaj i tak QA nie wystawia bugów, bo Kuba rozjebał dev-a (znowu)
+Wezwij Łukasza, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/66c86f34030e7a07124e27ea">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/66c86f34030e7a07124e27ea</a><br><br>to ty, gdy wezwiesz Łukasza, który i tak się opierdala:<br>⠀  ⠀   (__/)<br>           (•ㅅ•)      Don’t talk to<br>    ＿ノヽ ノ＼＿      me or my son<br><code>/　</code>/ ⌒Ｙ⌒ Ｙ  ヽ     ever again.<br>( 　(三ヽ人　 /　  |<br>|　ﾉ⌒＼ ￣￣ヽ   ノ<br>ヽ＿＿＿＞､＿_／<br>       ｜( 王 ﾉ〈   (__/)<br>       /ﾐ<code>ー―</code>彡  (•ㅅ•)<br>      / ╰    ╯  /    &gt;
+Tym razem Łukasz
+ja pass
+co ty pass?
+ja nie iść food
+Bandyta
+bo przed 14 znikam
+nie opłaca mi się
+oke
+bandyto
+ktos wogole poszedl do zaby xd?
+Cyprian
+I ja
+Ale to zaraz
+<a href="https://t.me/lmastalerz">@lmastalerz</a>, wiesz co się rymuje ze słowem &quot;żabka&quot;?<br><strong>RUSZ DUPE DO KUCHNI</strong><br><br>Małpę wezwał jegomość Marcel Gańczarczyk<br><br> /| ､<br>(°､ ｡ 7<br> |､  ~ヽ<br> じしf\_,)〳‌‎
+ja jestem na eu zalogowany
+więc odpaliłem ręcznie
+zaraz przyjdę
+Szanowny Panie,<br><br>Jego Królewska mość Łukasz z rodu QA przekazuje ci wiadomość: &quot;JavaScript to mój ulubiony język. Co więcej, pragnę przekazać, że zaraz przyjdę, jak tylko przeczytam następne dwie kartki książki o flutterze!&quot;<br><br>Z wyrazami szacunku,<br>Małpiszon
+PiKVM
+oj poczuli chyba pustke w kieszeni
+wtfff
+wychodzi na to że to było już od kilku lat, ja po prostu do tej pory miałem wyłączone 😆
+po co wogole uzywasz firekoxa?
+do przeglądania internetu?
+Do się to wyłączyć w settingsach
+Hokus pokus, czary mary
+Do targetów zostałem wyjebany
+Na górze róże na dole taczka,<br>W visual testach zostaje Kuby sraczka
+ovh jak zawsze w formie ❤️ (płatność przeszła)
+przynajmniej mi tym razem nie dziękują po francusku
+czary mary hokus pokus lukaszowi rosnie krokus
+Też tak potrafię
+Cisza na morzu
+Cisza w komnacie
+Łukasz Mastalerz
+...
+sraczka to po tobie zostala.
+:D
+ma hunowe gwcie
+nie
+ma hujowe gacie
+nie
+ale blisko
+Ładne
+qa nie wystawia taskow. wiec juz devy nie w potrzasku
+Brakło puenty
+Znają ją ludzie kultury
+a nie takie śmie
+w poniedzialek huje wroca i na nowo stol przwroca
+💀
+QA świecie QA sprawy,<br>Marne życie i zabawy.<br>Są codzienne awantury,<br>Nie ma dnia bez ostrej rury
+Krzysiu biega na bosaka,<br>Jest zadyma i jest draka.<br>Nikt nikomu nie tłumaczy,<br>By spróbować żyć inaczej
+za malo przerobione
+QA świecie QA spraw<br>kiep, patola i zabawy<br>front cos zawsze rozpieroli<br>i QA to bardzo boli<br><br>Krzysiu krzyczy japierdole<br>bo mu backend w oczy kole<br>wkoncu krzyczy mam to wdupie<br>i juz w kuchni w kawie chlupie
+Ooo, pipeline odzjebany
+mniam
+Łeee
+wysłał chuj wie który tydzień
+[SPOILER] Lista zup na ten tydzień UwU
+Poniedziałek: <span class="spoiler hidden" onclick="ShowSpoiler(this)"><span aria-hidden="true">Krem z pieczonych dynii i pomidorów<br>Delikatna zupa o słodko-kwaśnym smaku, idealna na chłodne dni.</span></span>
+Wtorek: <span class="spoiler hidden" onclick="ShowSpoiler(this)"><span aria-hidden="true">Bogracz<br>Treściwa zupa gulaszowa z mięsem i warzywami, idealna dla miłośników pikantnych potraw.</span></span>
+Środa: <span class="spoiler hidden" onclick="ShowSpoiler(this)"><span aria-hidden="true">Krem z ogórków kiszonych<br>Orzeźwiająca zupa o intensywnym smaku, idealna na letnie dni.</span></span>
+Czwartek: <span class="spoiler hidden" onclick="ShowSpoiler(this)"><span aria-hidden="true">Zupa taco<br>Zupa inspirowana kuchnią meksykańską, pełna smaku i aromatów.</span></span>
+Piątek: <span class="spoiler hidden" onclick="ShowSpoiler(this)"><span aria-hidden="true">Krem z pieczonego kalafiora z masłem orzechowym<br>Zupa o kremowej konsystencji z nutą orzechową, doskonała na zimowe wieczory.</span></span>
+poprawione
+yy ale chyba było to samo?
+nie
+może piątek inaczej
+pn/wtorek też był inny
+<a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> wtorek inny?
+czy to samo
+Cyprian wczoraj ten pipeline wyłączył 🤔
+a well, trudno
+<a href="https://hot.page/">https://hot.page/</a>
+Kurwa, teraz Kuba będzie chciał to implementować
+Dupij mi z tym
+spoko to jest drag and drop
+wdupie to mam
+i czyja to wina, że implementujecie każdy możliwy serwis, jaki znajdujecie xD
+Kuby
+a nie spizganego deva ŁBORODO?
+te strony wyglądają zbut cukierkowo
+ale zapisze sobie
+użyje do portfolio
+w cukierni chcesz się zatrudnić?
+tak
+będziesz Łukasza w cukier do herbaty zaopatrywać
+xd
+puder
+kryształ
+w sumie ciekawe czemu nie sprzedają cukru w większych kryształach
+takich dużo większych
+taki pewnie produkują już
+to nie sól, że możesz skałę z wieliczki przywieźć
+i lizać
+a, this way
+nie wiem czy nie jest mądrzej dodać sprawdzanie daty dodania
+ale to może jak będzie mi się kiedyś nudziło
+Hymn <a href="https://t.me/mganczarczyk">@mganczarczyk</a> <a href="https://youtu.be/FIlEI7KJhtw?si=odiisFsrWZAsJ8xu">https://youtu.be/FIlEI7KJhtw?si=odiisFsrWZAsJ8xu</a>
+Kuba, weź go tam jebnij
+bo mi w życiu przeszkadza
+jeb
+9:20 -&gt; do przerwy zostało T - 10 minut.<br><br>Dzisiejsza zupa:<br>Krem z pieczonych dynii i pomidorów<br>Delikatna zupa o słodko-kwaśnym smaku, idealna na chłodne dni.
+9:30 -&gt; najgorszy dzień tygodnia. QA znowu wystawiać taski o byle pierdoły. Świat schodzi na psy. Przynajmniej jest zupa.
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> szmateksie
+xd
+ten bezi
+💀
+widać że się opierdalasz
+co to za js injection attack
+jak to if w js
+niech sobie jest
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> Ja nie wiedziałem, że <a href="isedr.pl">isedr.pl</a> tak ci się spodobał
+isedr to gówno
+nie mów im, isedr nie korzysta z tego taga
+Kuba sam pisał animację w css
+XD
+brakuje dymu lecącego z ciuchci
+za dużo roboty z tym
+a marquee daje mozliwosc zatrzymania po najechaniu?
+a tak serio nazwa pipeline mogłaby lecieć dla długich po najechaniu
+Nie, jak jest zielony to jest elektryczny
+To dymu nie ma
+w tej abominacji po amberze to ja nie chce xD
+chyba, że mam drugi plik ogarniać
+mikroserwisów więcej niż użytkowników
+musze tu dodać bota, który cie obraża za każdym razem jak napiszesz że coś jest gównem
+Co, Bitadapp?
+1. isedr<br>2. rpgcalendar<br>3. bitadapp
+nie mylić z tym prawdziwym bitadem
+To nie są mikroserwisy
+To są projekty
+lampka twojej inteligencji nie świeci zbyt jasno
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a>
+a co chcesz ją zaświecić przez stronkę?
+Łukasz ty kurwo.
+już to zrobił
+Spierdalaj
+😂
+<a href="https://t.me/shipurjan">@shipurjan</a> to twoja wina
+Nie zabezpieczyłeś tego narzędzia
+i jak <a href="https://t.me/mganczarczyk">@mganczarczyk</a> oświeciło cię?
+jak chcesz by sztuczna inteligencja zaczęła pisać wiersze tuwima
+aż mam ochotę zgasić światło Łukaszowi
+;)
+xd
+where kontekst
+gosciu naprawil blad w przeciagu kilku minut, ale napisac do supportu nie zawadzi
+No nie powiem
+jakby nad nim świeciło
+Często tak jest
+kogo tam oślepiłem jeszcze oprócz ciebie?
+Np. ja mówię Kubie aby ogranął, a potem sam to robię
+ale tu o inne zgaszenie chodzi
+qa znowu testy zepsuło
+co to za overflow
+ała
+to na urlop było na 0
+by nie wysyłało summona
+nie no panowie kultura
+nazwa zmiennej i opis
+wskazują na różne case&apos;y
+ta, widzę
+poprawię
+sorki
+tak się kończy brak code review
+fixed
+lgtm
+to się wogóle da?
+da
+trzebaby iść do nich i ich nauczyć gotować
+Łukasz im tam cukru wsypie
+tak 12
+nie mniej
+i nie więcej
+ja wgl nie czaje jaka jest ich logika tego że mają obrazek ale nie wrzucaja tekstu XD
+i tak to piszą
+debyle
+ładniej im to na fb wygląda
+i tak mają miejsce na wpisanie tego czy w fb czy na ich stronie
+na stronę leci przy okazji
+ktoś im przygotował templatke
+templatkę.
+plik wordpad z tłem na sztywno
+za mały width
+oni nei maja na to czasu
+są zajęci gotowaniem
+rozół stygnie a jeszcze go trzeba zblendować
+instrukcja obsługi: otwórz plik, wpisz dania ctrl+p enter i zamknij NIE ZAPISUJ!!!111
+ja słyszałem, że backend (chyba nawet Mateusz) przygotował algorytm pod to. będę musiał edytor kastrować xD
+<a href="https://t.me/mJakobsche">@mJakobsche</a> no tam ma być jakaś potężna biblioteka do semantic diffa która będzie je generować nie?
+nieczytelne to
+po stronie frontu chyba tylko wyświetlanie
+jak to jest na pałę wklejone, bez styli sensownych
+wygląDa jak gówno
+jak to nazywasz gównem, to co jest poziom niżej, który może stworzyć <a href="https://t.me/lmastalerz">@lmastalerz</a> ?
+będą dwa różne
+jak rozumiem
+<a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a>
+mhm
+czyli &quot;gówno&quot;, bo wyzywam designy QA
+<a href="" onclick="return ShowBotCommand(&quot;shrug&quot;)">/shrug</a>
+kiedy style edytora do konfiguracji przez usera
+XD
+&lt;&lt;&lt;test&gt;&gt;&gt;<br>Coś się zwaliło ze scrapowaniem zup. Może nie wrzucili w tym tygodniu 🤔 <br>Debug: <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197152/execution/xyz">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197152/execution/xyz</a>
+to javove wygląda lepiej
+jakby było c# to byłoby najlepsze?
+ale to neovim
+to nie jest narzędzie do rozwiązywania konfliktów xD
+tylko do pokazania co się w pliku zmieniło
+to też pokazuje tylko zmiany
+wrzucił implementację na pałę bez żadnych designów i się przypierdalają
+odezwał się
+ja przynajmniej designy obrażam ;)
+Designer SS
+Wafel comando
+przynajmniej dostajesz konstruktywną krytykę
+ty tu na siłę wypisujesz &quot;wygląda jak gówno&quot;
+nie
+mateusz daje konstruktywną krytykę
+ty rzucasz mięsem ale nie mówisz dlaczego
+no teraz to poleciałeś
+jak go zapytałem o co chodzi to dostałem wypunktowaną listę od góry na dół
+force refresh
+a ja wszedłem na figme i napisałem, że jest wszystko do wyjebania?
+nie tylko dlatego że mateusz to robił
+:)
+Dzisiaj od rana
+czyli napisałem krytykę tylko dlatego, że zrobił designy Mateusz?
+<a href="https://t.me/mJakobsche">@mJakobsche</a> ty jak wy to robicie na backendzie że jak dodaję target do akcji przez POST targets to ona się nie dodaje przez cache?
+żeby pierwszy raz
+W sensie, że ona się dodaje do bazy, ale ani front ani wy o niej nie wiecie, bo cache na bazie się nie odświeża
+nie wiem gdzie by w gre wchodził jakiś cache na bazie
+po refreshu strony sie pojawia? czy nie
+Ja też nie, ale po refreshu jej nie ma, a po release-sd8 jest
+To potem
+Tak, ale tam jak cos mozna duzo dostosowac
+Jezeli chodzi o to co od nas dostajecie
+patrzyłem kiedyś tam na info dla frontu i było tego dość trochę
+To ty zjebany jestes
+więc będzie z tym więcej zabawy
+jezu jaki toxic się tu dzieje ostatnio
+strach coś pisać
+XD
+strach wysłać poc
+zajmij się targetami.
+bo ci go zwyzywają

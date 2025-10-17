@@ -1,0 +1,967 @@
+﻿utwórz bug, że masz problem
+i wklej ten sam tekst z opisu zamkniętego
+zeolali sztab generalny bo na dpolske ma przyjsc jakis niz geniuenski i ma nawet w niektorych miastach spac 200 l wody na metr kwadratowy.
+ta
+np Wrocław
+hehe był potężny projekt ze zbiornikami retencyjnymi
+dofinansowania do oczek wodnych
+problemu juz nie powinno być nie?? XD
+no chyba nie. ja jade ponton kupic hehe
+od Fałata pożycz żaglówkę
+zależy od miejsca pewnie
+no przecie falat nia bedzie plynac na uczelnie
+to sie przybiore
+wyskocze prz przekopie i poplyne do firmy
+a kto drewno na grilla przyniesie?
+jak jesteś w takim miejscu że się będzie zbierać woda to przypał
+moi rodzice moga miec taki problem
+w 2010 nas zalalo tak ze ja lodka moglem prxeplynac z jednego konca na ulicy na drugi
+a ona mala nie jet
+nie malo
+bo tak z 1.5 km
+ja się muszę zastanowić czy nie mam czegoś ważnego w piwnicy
+lukasza wypusc
+nie
+😈
+dobrze niech maluje obrazy
+ziomek stoi obok mnie lambo evo
+ale to gowno male i glosne
+a kiedy ta ulewa ma być wgl??
+trzeba sprawdzic
+szanowne qa
+nawet się nie starałem
+<a href="https://www.imgw.pl/wydarzenia/niz-genuenski-boris-prognoza-pogody-na-okres-12-15-09-2024-r">https://www.imgw.pl/wydarzenia/niz-genuenski-boris-prognoza-pogody-na-okres-12-15-09-2024-r</a>
+u nas w sobote będzie przypał
+9:20 -&gt; do przerwy zostało T - 10 minut.<br><br>Dzisiejsza zupa:<br>Krem porowo-ziemniaczany<br>Kremowa zupa z pora i ziemniaków, doskonała na chłodne dni.
+9:30 -&gt; jest piątek, weekendu początek. Uhonorujmy ten wspaniały dzień miską <strong>psznej zupy</strong> i jeszcze lepszego ciasta. Życzę wam spokojnego życia bez przypierdolek QA.
+Chuj frontowi po całości
+Nigdy nie zagaśnie
+wiedzieliście że nasz system wchodzenia do firmy udostępnia api? <a href="https://buddy.ui.com/proxy/api">https://buddy.ui.com/proxy/api</a>
+chcesz pipelinem wchodzić?
+nie
+da się połączyć smart system
+to by musiało być napisane w ruście żeby było szybkie :////
+musieliby dodać twoje ip do whitelisty
+czemu
+albo
+bo drzwi trzeba szybko otworzyć
+buddy smart sustem jest czymś blokowany oprócz wifi?
+<a href="https://t.me/shipurjan">@shipurjan</a>
+ale to by była spoko opcja mieć wewnętrzną apke zamiast tego zjebanego identity co się trzeba logować co chwila
+co miesiąc chyba
+za każdym razem jak potrzebowałem użyć chciało się logować
+szybciej mi jest klucze wyciągnać 😆
+Ja tam nie mam problemu z wyciąganiem ani apki ani klucza
+ja bym miał na fonie apke która wykrywała by czy zostałeś zalogowany do wifi i sprawdzałaby czy w pomiesczeniu w którym przesiadujesz sa pootwierane zaluzje i światła zapalone, jak nie to by to robiła
+Zanim zrobię cokolwiek to Marcel otworzy mi te drzwi
+ja z tym miałem jakiś problem
+Backendy kochane, front powiedział, że pierdoli taska i wyjebał go do was <a href="https://app.clickup.com/t/8695t2cjm">https://app.clickup.com/t/8695t2cjm</a>
+czasami ma to downa
+i wali no permission
+ale za którymś razem otworzy
+a masz listę requestów jakie walisz żeby modyfikować urządzenia?
+Zedytować tekst w placeholderze xD?
+nie wiem czy AP są tak gęsto i tak ładnie się przełączają żeby to działało spoko 😆
+do smart office
+Jak uważasz xD
+raczej bym powiedział że to powinno być do usera i jego miejsca przypisane
+no o tym mówie
+definiujesz sobie z jakiej grupy device mają byc uruchamiane
+jakie drzwi?
+jemu chodzi o okna i światło
+nie chce mrugać swiatlem na pietrze wiec pytam czy masz requesty jakie posylasz zeby np lampy zapalac czy zaluzje otwierac
+nie widziałem nigdy podawania registry z https://
+do tej apki :)
+ale imo na zime powinno być coś żeby się dało ustawić natężenia światła jakie sie chce mieć
+bo zaraz o 16 się ciemno robi
+też moge ogarnac
+:)
+przecież jest
+oho, Kuba kolejny projekt rozpoczyna 💀
+ale automat
+to raczej nie jest skomplikowana rzecz
+yup, najlepiej z sensorem
+to nawet bym projektem nei nazwal
+problem z tym że te czujniki od drzwi sa z identity
+to cyprian podeślij :)
+a ty może pracuj
+odezwał się
+nie rób tego co Łukasz i nie opierdalaj się
+testy piszę
+do apki ze światlem
+ja nie wiem, 2h spędziłem zanim ogarnąłem że coś usuwam a potem chce dane z tego co usunąłem
+XD
+dostajesz dane przecież
+nulla
+w tym przypadku dostałem NOT_FOUND bo leciał request do qik&apos;a
+ciemny motyw to ciemny motyw
+czcionka też
+jak zaznaczysz wszystko to jest czytelne
+tak
+zaraz przyzwiecie łukasza
+coś mnie się wydaje że czuliemu spodobał się pomysł automatyzacji samert office
+spoko pomysl. Jeszcze dodajmy monitoring toalet
+w sensie czy jest on/off na podstawie czujnika ruchu
+wtedy bedzie mozna lepiej upolowac wolna lazienke
+i system rezerwacji 🗿
+ee te czujniki wcale nie są takie dokładne
+Kurwa kolejki
+To może odpalamy pipeline jak zajmujemy kibel
+pewnie z jakąś granicą błędu w czasie
+XD
+już widzę pipeline
+osoba xyz poszła do kibla
+20 minut później
+Kibel-na-dole-obok-QA
+osoba xyz wyszła z kibla
+jaki algorytm wybieracie
+<a href="https://miro.medium.com/v2/resize:fit:1400/1*q0FGodUDtozt0wiKv18ULw.gif">https://miro.medium.com/v2/resize:fit:1400/1*q0FGodUDtozt0wiKv18ULw.gif</a>
+A jak wyjebie się pipeline to będzie:<br>Kibel-obok-QA Failed #2137 jest zjebany - Kinga zobacz
+nie nie, to daje szanse na jakieś krzywe akcje
+tylko czekać aż ludzie zaczną specjalnie psuć pipeline
+XD
+Co, że On Cancell?
+Kibel-obok-QA: XYZ się rozmyślił
+xd\
+czuli to ma pomysły
+imo powinien być pipeline
+który szkaluje ludzi co szarpią za klamkę jak jest zamknięte
+XD
+kibel-obok-QA: XYZ &quot;lepiej nie&quot;
+w zależności od długości pobytu w łazience trzeba ustawiać <br><pre>[⚠️ wchodzisz na własne ryzyko]</pre>
+Powinien być zamontowany czujnik na papier i jak wywali, że brak to:
+jak to będzie bardziej advanced system niż śniadanioteka
+system monitoringu kibla
+Failed - Kinga, XYZ wykorzystał cały papier
+idealne na jakąś inżynierkę
+2 strony uzasadnienia można jebnąć
+Na start i to jak ci się nie chce pisać
+Ale nie będzie alternatyw
+wszystkie wymienione pomysły moim zdaniem spoko ale kibel
+kibel też można w pipeline na user interaction
+zamówi się jakiś z tokio
+całe te
+imo każdy pomysł który bierze pod uwagę identyfikacje to do wyjebania XD
+Identyfikacja jest kto sklikał pipeline-a
+dlatego to musi być automat
+po rozmowie z czulim:<br>- na zalogowanie się na wejściu identify wysyła do serwisu pośredniczącego infor że się user zalogował. Serwis sprawdza bazę i gdzie user jest przypisany oraz jakie parametry mają tam poszczególne urządzenia i je żeli wsyzstkie są off to jes uruchamia<br>- po 17 jeżeli czujnik nie wykryje ruchu w pomieszczeniu to wyłącza światło po 15 minutach.<br>- kibel czuli dodał xd
+tylko chujowo
+bo będzie miał opóźnienie minutowe
+z crona
+ewentualnie webhookiem
+ooooo
+No, webhook ładnie wygląda
+Ale jakby to miało działać?
+pipeline by się webhookiem uruchamiało
+jak to pierwsze podejście do sprawdzania kto ile pracował
+nie koniecznie
+mnie dzisiaj Jarek wpuścił
+bo to sprawdza tylko wejścia
+czujka pod jakieś arduinko
+nie odbiłem nic
+No i zajebioza, ale co taki pipeline miałby robić?
+Łukasz to od pół roku
+XD
+Nie
+Pracujesz tu dopiero...
+A może?
+Ale to zadupca
+tak
+co jakby miało działać, ten home assistant nie miałby webhooków?
+czuli stwierdził że to przemyśli i pogadamy w pon
+imo jak ma api to webhooka też powinien mieć
+Ale webhook-a ma pipeline
+vibe:
+Powiem wam, że jak ktoś z tym kiblem zrobi to nam Jarek umrze
+jeżeli tak będzie to zrobie apke na wifi z pominięciem identify
+Ze śmiechu
+na chuj przez apkę xD
+jakby strona była zła
+Cyprian nie wytrzymał i wyszedł
+ale to mogłoby działać kurde
+masz swoje miejsce domyślne
+robisz request o kibelek
+dostaniesz maila
+&quot;kibel wolny&quot;
+ustawiasz się w wirtualnej kolejce
+i daje ci prio wg dystansu
+i predykcje na podstawie danych
+dystans to już identyfikowanie
+twój dystans
+po prostu wg niego decyduje do której kolejki trafiasz
+wagi będą: dystans &gt; wolne teraz &gt; ilość kolejki
+i wizyta w przyszłym tygodniu umówiona
+ktos idzie do zabki?
+ja
+ja też
+nie ma to jak cache pythona robiące się ponad 2 min 💀
+tu będzie ciężko stwierdzić bo i tak jest szybkie
+ja już w pewnym momencie miałem to w dupie i podpiąłem swój runner, by nie martwić się <a href="m.in">m.in</a>. o limity
+standardowo o 13:15?
+w sumie tak patrzę to średnią macie pogodę na to bbq
+na ubb jest
+bbq ubb
+++++
+będzie grill na stołówce na balkonie
+13:15 -&gt; To już ostatni raz jak się spotykamy w tym tygodniu, więc może ruszyłbyś dupę? Dzisiaj i tak QA nie wystawia bugów, bo Kuba rozjebał dev-a (znowu)
+Wezwij Łukasza, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/66e41eb4c35dfc7be2e8f386">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/66e41eb4c35dfc7be2e8f386</a><br><br>to ty, gdy wezwiesz Łukasza, który udaje, że pracuje nad targety:<br>⠀  ⠀   (__/)<br>           (•ㅅ•)      Don’t talk to<br>    ＿ノヽ ノ＼＿      me or my son<br><code>/　</code>/ ⌒Ｙ⌒ Ｙ  ヽ     ever again.<br>( 　(三ヽ人　 /　  |<br>|　ﾉ⌒＼ ￣￣ヽ   ノ<br>ヽ＿＿＿＞､＿_／<br>       ｜( 王 ﾉ〈   (__/)<br>       /ﾐ<code>ー―</code>彡  (•ㅅ•)<br>      / ╰    ╯  /    &gt;
+<a href="https://t.me/lmastalerz">@lmastalerz</a>, wiesz co się rymuje ze słowem &quot;żabka&quot;?<br><strong>RUSZ DUPE DO KUCHNI</strong><br><br>Sami wiecie kogo wezwał: Marcel Gańczarczyk<br><br> /| ､<br>(°､ ｡ 7<br> |､  ~ヽ<br> じしf\_,)〳‌‎<br><br><a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196321/execution/66e4217bc35dfc7be2e8f5b2">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196321/execution/66e4217bc35dfc7be2e8f5b2</a>
+Summoner przekazuje: <br>Łukasz to 🤡🤡🤡🤡🤡🤡
+Dzień dobry,<br>zrobię to dla was i ruszę dupsko.<br>pozdrawiam. (ale ciebie Marcel to środkowym palcem u stopy)
+powiedz, że na flex-grow
+a nie jakichś czarach typu 100vh-3.5rem-2px
+jeśli już działa xd
+ja tam nieźle przy edytorze tego czyściłem
+max-height mniejsze niż min-height
+itd
+zostawione, by niczego nie rozjebać przy przełączaniu się na :not(:has)) i :has()
+a tu takie niespodzianki
+100vh - 28rem
+i elo
+[SPOILER] Lista zup na ten tydzień UwU
+Poniedziałek: <span class="spoiler hidden" onclick="ShowSpoiler(this)"><span aria-hidden="true">Bogracz<br>Pikantna zupa gulaszowa z mięsem i warzywami.</span></span>
+Wtorek: <span class="spoiler hidden" onclick="ShowSpoiler(this)"><span aria-hidden="true">Zupa pomidorowa z pieczoną papryką i makaronem nitki<br>Kremowa zupa pomidorowa z dodatkiem pieczonej papryki i makaronem.</span></span>
+Środa: <span class="spoiler hidden" onclick="ShowSpoiler(this)"><span aria-hidden="true">Niezrozumiałe<br>Niezrozumiałe.</span></span>
+Czwartek: <span class="spoiler hidden" onclick="ShowSpoiler(this)"><span aria-hidden="true">Krem z czerwonej soczewicy i batata<br>Gęsty, pożywny krem z soczewicy i batatów, podany z krążkami cebuli.</span></span>
+Piątek: <span class="spoiler hidden" onclick="ShowSpoiler(this)"><span aria-hidden="true">Zupa z cukinią i pomidorami<br>Lekka zupa z cukinią i pomidorami, podawana z grzanką z gorgonzolą.</span></span>
+Klasyk
+ale ścierwi wszystko dzisiaj jprdl
+Nie zauważyłem
+9:20 -&gt; do przerwy zostało T - 10 minut.<br><br>Dzisiejsza zupa:<br>Bogracz<br>Pikantna zupa gulaszowa z mięsem i warzywami.
+9:30 -&gt; najgorszy dzień tygodnia. QA znowu wystawiać taski o byle pierdoły. Świat schodzi na psy. Przynajmniej jest zupa.
+Halo wysypisko
+Przyślijcie tu śmiecia
+jest juz zupka?
+Yesn&apos;t
+nope
+scam
+znowu sie opierdalaja
+za co my placimy
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> rusz dupę
+zmienmy dostawce na makdolanda
+Jestem za
+to juz nie pierwszy raz sie dzieje takie jaja
+(2)
+albo trzeci
+mam juz tego serdecznie dosc
+zartuje
+ale niech sie pospiesza
+nie wiem, ja dzisiaj nadaje z Poznania XD
+wczoraj jakiś szit z pociągami się dział, moze dzisiaj uda się wrócić
+no nic dziwnego tbh
+nie nie, jest kurwa dziwne bo praktycznie 2h opóźnienia w poznaniu gdzie ani w poznaniu ani po drodze powodzi nie ma
+awaria przedostatniego wagonu, w ostatnim wagonie przez te 2h żadych komunikatów i ludziom pouciekały pociągi na które mieli się przesiąść 😆
+dang
+jeszcze holowali potem ten ostatni wagon razem z ludźmi
+konduktor nic, zero nawet jak się ludzie poszli z nim wykłócać że co jest kurwa grane to tylko &quot;aha to serio było zwarcie&quot; XD
+wow przejebane
+xddd
+ale dluzej z dziewczyna mozesz posiedziec
+LCS Poznań
+2h to jeszcze nic
+Pewno zalało tory w innym miejscu i przez to opóźnienia rozpropagowały się po całej Polsce
+<a href="https://t.me/BartShoot">@BartShoot</a> podaj numer pociągu którym miałeś jechać, popytam czemu się zjebał
+jest juz zupka moze?
+XD
+IC84102 szyndzielnia
+normalnie to jest git, rzadko kiedy opóźnienie jest
+Dzisiaj?
+i wczoraj i dzisiaj
+Dzisiaj planowo jedzie
+no tak, taka mam nadzieję 😆
+Skromne 65, wydłużona próba hamulca, rozkaz na ograniczenie do 150 a potem wymiana wagonu
+ale ma wtyki w pociągach
+Przedostatnia
+są też ukryte
+👀
+te są gorsze
+xddd
+Garbage Can xdddd
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> zobacz jaki mam status, bo mi się wydaje, że Google zjebał testerów wewnętrznych i temu nie ma update
+zależy gdzie status
+w google status testera
+jesteście tam wpisani jako testerzy
+najwyżej opublikuję tę wersję drugi raz
+ale to znowu trzeba będzie poczekać
+bogracz dopłynął
+Ile macie dni urlopu w 2025?
+A, ok
+Dobra
+Bo mam 30 dni, ale to 10+20
+uwu
+0
+Ruszenie dupy
+ewentualnie bilet
+czy inne paliwo
+nah, free
+A z jakiej paki miałoby kosztować?
+Nie
+z makapaki
+Duplikat tak
+Pierwsze nie
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong>
+wogóle przyznacie mi rację, że czas w tej firmie ogólnie zapierdala? xd
+Nie
+Zależy od taska
+ja nie mam wolnych dni
+zależy czy pracujesz nad edytorem
+czy na marketingowej
+w obu przypadkach czas tak zapierdala, że nie ma czasu na płakanie pod biurkiem
+Jak robię coś na klocu to zapierdala, jak jebie się z targetami i nie idzie to czas spowalnia
+brakuje tylko wzorów skróconego mnożenia i mielibyśmy maturalny komplet dla tej animacji
+menu kontekstowe w rider się popsuło. teraz jak kliknę prawy to otwiera się  na pozycji kursora nie myszki xd
+ci to mają się czym chwalić z taką ilością poleceń
+Czekaj, co?
+PS. nikt nie zrozumiał o chuj ci marcel chodzi
+Czegoś nie rozumiem czy kursor = mysz?
+chodziło o tekst indicator
+Aaa
+Invalidate Cache
+ilość matematyki, która za tym stoi
+fuck, źle odpowiedziałem
+well, anyway
+a myślałeś że ci się nigdy nue przyda
+xd
+poczekaj aż będą grafy
+A pochodną liczysz?
+na nowym ui deklarowania akcji xD
+całkę żeby przewidzieć powierzchnię przesuwangeo elementu?
+podstawową...
+To nie jest w scope maturalnym
+i tego się boje bo to widziałem
+no nic powodzenia temu co bedzie to tworzyl
+z przesuwalnymi obiektami wewnatrz canvasa
+to nie jest aż tak złe do stworzenia
+do przetestowania będzie gorsze
+przy interakcyjnych testach
+tak myślę że nawet to jest ciekawe do stworzenia i liczenie krzywej za kazdym razem jak sie zmieni pozycja jednego z node
+jak już wiesz, jak to napisać
+to porzuć c#
+porzuć Lukasza
+porzuć nadzieję
+i pisz w jsie
+wystarzy mi to <a href="http://visualtests.sls.show/time">http://visualtests.sls.show/time</a>
+do czego to?
+w windowsie ci się kalendarz zepsuł?
+diffy
+najłatwiejsze diffy
+to zegar
+frog time
+nie wiem czy najprostszy
+ale skuteczny
+13:15 -&gt; zostaw już ten kod. I tak wiadomo, że chuja robisz i jedynie QA wkurwiasz<br><br>Kuba =&gt; wypierdalaj
+Wezwij Łukasza, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/66e81334c35dfc7be2eb6d3d">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/66e81334c35dfc7be2eb6d3d</a><br><br>to ty, gdy wezwiesz Łukasza, który udaje, że pracuje nad targety:<br>⠀  ⠀   (__/)<br>           (•ㅅ•)      Don’t talk to<br>    ＿ノヽ ノ＼＿      me or my son<br><code>/　</code>/ ⌒Ｙ⌒ Ｙ  ヽ     ever again.<br>( 　(三ヽ人　 /　  |<br>|　ﾉ⌒＼ ￣￣ヽ   ノ<br>ヽ＿＿＿＞､＿_／<br>       ｜( 王 ﾉ〈   (__/)<br>       /ﾐ<code>ー―</code>彡  (•ㅅ•)<br>      / ╰    ╯  /    &gt;
+zapomnieliśmy o najważniejszym
+xD
+a pomyslec ze kiedys ja sie spoznialem
+ktos jeszcze idzie ?
+<a href="https://t.me/mJakobsche">@mJakobsche</a> ?
+<a href="https://t.me/lmastalerz">@lmastalerz</a>, wiesz co się rymuje ze słowem &quot;żabka&quot;?<br><strong>RUSZ DUPE DO KUCHNI</strong><br><br>Sami wiecie kogo wezwał: Marcel Gańczarczyk<br><br> /| ､<br>(°､ ｡ 7<br> |､  ~ヽ<br> じしf\_,)〳‌‎<br><br><a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196321/execution/66e816bcc35dfc7be2eb7300">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196321/execution/66e816bcc35dfc7be2eb7300</a>
+Summoner przekazuje: <br>🗿 rusz dpe
+Dzień dobry,<br>zrobię to dla was i ruszę dupsko. A Marcel jest brzydki<br>pozdrawiam.
+znowu obrażajo
+nosz kurw xd
+klikasz na lini 56
+ciesz się, że nie jest to pusta linii
+wtedy jednak najgorzej
+2 osoby z firmy poleciały
+Cięcia kadrowe
+kto jest drugi?
+Adam z backendu
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> z frontu ktoś poleciał?
+nic o tym nie wiem
+a kto pierwszy
+Adam z QA
+Adam od nas
+zastanawialiśmy się czemu tak szybko wybył
+i już wiemy
+to zajebiste obrony będzie miał
+obronę będzie miał
+nie zrozumiałeś
+Ale obrony jeszcze nie miał
+ale w chujowym humorze
+o, zrozumiałeś jednak
+No do śmiechu to nie ma
+Wyrzucili go
+nie mają nic do niego ale cięcia kadrowe
+to tylko znaczy to że nie ma co na laurach spoczywać
+bo mogą cię w każdej chwili wywalić
+Trzeba sobie przygotować plan awaryjny
+zaktualizować portfolio
+chyba 1,5
+no tak
+Na dobrą sprawę można zrobić ruch wyprzedzający
+I samemu szukać innej pracy
+samemu się zwolnić xd?
+Jak się zwalniasz to masz już następne stanowisko
+ofert o testeróW akurat jest masa
+ofert pracy wogóle jest dużo
+nie jesteśmy już zielonie więc będzie nam łatwiej
+W chuj lepiej, ludzie miesiącami teraz podobno pracy szukają
+zależy od rodzaju umowy
+?
+po interach bym się spodziewał ale po juniorach to nie...
+jak cie z dnia na dzień wyjebią, to powodzenia w zrobieniu wyprzedzającego ruchu
+???
+???
+tylko to jest hazard bo albo ci dadza UOP albo zwolnia szybciej
+Tego nie wiadomo
+Adam się nie chwalił
+No na juniorów masz taki deal że w chuj chętnych na każde stanowisko bo pełno ludzi zostało zwolnionych i chce jakiekolwiek pracy oprócz samych juniorów których zawsze jest dużo
+A ofert mniej niż było
+Niepopularna opinia, ale uczelnia to dobra przystań
+Nawet na 2 etaty, ale still
+No jak się na ma co się lubi to się lubi co się ma xD
+yeap
+dlatego warto szukać znajomości
+A o nim coś wiecie?
+tj?
+No czy ten sam powód czy jak to wygląda
+Ten sam powód
+firma nie może być na minusie
+No to chuja, a się nie skupię teraz
+mnie przeszło zimno heh.
+dobre podejście
+No lipa straszna, bardzo odbiera pewność siebie XD my teoretycznie tą ewaluację zaraz mamy mieć
+Front ma branie
+Ale reszta już średnio
+No to wiadomo
+Rynek teraz totalnie do wyjebania na całej linii z tego co wiem
+to prawda.
+Nie ważne jaka specjalizacja to pełno
+ogólnie to ciężko będzie jak chodzi o backend czy QA. Frontu zawsze potrzebują, ale reszta jest zapchana
+No będzie tak z rok
+zależy czy będziesz próbował wtedy na mida startować
+Na co fronty gdy mozna zatrudnić full stacka poniżej jego stawki bo nie znajdzie dobrej roboty i tak xD
+Rok zawsze coś, na pewno wyróżnia na tle większości kandydatów
+Za rok obrony i wtedy będę na wylocie
+To będzie tak ze 2 lata doświadczenia
+od jarka dostałem odp że kiedyś było lepiej co oznacza że żaden junior ostatnio nie zagrzał tu dłużej niż 2 lata
+Taki mają model biznesowy
+Produkują midów
+myślisz że będziemy mogli się po 2 latach określić jako mid?
+mi się wydaje że produkują juniorów
+Midem możesz się nazwać, jak ktoś przyjął się cię na mida
+nie no stażystą wtedy jesteś 😆
+Po 2 latach możesz już startować i mieć większe szanse niż od 0
+raczej stażysta
+Hamera jest junior architektem
+na backendzie najmłodszy z najstarszych to Krzysiek Heller sprzed pandemi z tego co wiem
+Wysłał dla jaj CV i go przyjęli
+ale jego sytuacja to inna bajka
+no on już miał lata doświadczenia wtedy, wiadomo że nie jako architekt ale jako programista w dobrych firmach
+Najważniejsze znajomości
+sam opowiadał że nie musiał się jakoś bardzo starać, autogenerowane portfolio z linkedina i przyjmowali go tam gdzie chciał 😆
+Chciałbym tak
+o tak
+wystarczy chcieć być zatrudnionym przez chujowe firmy i masz to w banku
+a ty czasami też nie generujesz cv z linkedina?
+dlatego projekt i doświadczenie są ważne
+czy takie brzydkie bo z latexa
+Latex
+a, to nie było tematu
+;x
+A Karolina jest?
+która
+Pierlak
+tak
+była dzisiaj na spotkaniu
+Ona jest ostatnia z praktykantów 2022
+ale że tak powiem... na górze jej tu nie ma
+Na prawdę skończę na uczelni jako asystent naukowy...
+na grupie jeszcze nie czyścili
+no ale jak tak dają ludziom posiedzieć 2 lata to może czekają na jakiegoś gigachada który zastąpi któregoś z wyższego stażem
+ja napewno tam ide jak bedzie vacat zeby miec w zapasie
+a jak nie zastąpi to papa
+Mam odp
+Dzisiaj się dowiedzieli
+Ale planowali to wcześniej
+Bo Adam Lewandowski to czuł
+czyli z dnia na dzień
+Czyli jak dostajecie dojebane taski to się cieszcie
+ide się odstresować do dentysty
+tam jest mniej zmartwień
+Panowie najlepszym rozwiązaniem jest mieć własną firmę
+więc trzeba założyć startup
+I co będzie robił?
+tak
+trzeba swój produkt rozwijać
+To była ta ewaluacja
+To wcale nie chodziło o podwyżkę
+To co tam było
+Chodziło o to, że wzięli za dużo ludzi i wiedzieli że ktoś poleci
+Tylko nie wiedzieli kto
+Brali pod uwagę efektywność, koszty i umiejętności
+I czemu polecieli ci ze stażem 2 lat?
+Bo oni mieli odpowiednio UZ i B2B
+I najwyższej pensje. Adam z QA z 6k
+Hej zadzwoni ktoś na bramę?
+Bo mi nie przechodzi
+1, co ty robisz o 20:30 w firmie
+2. otwórz sobie w firmie
+Wracam z pociągu
+Alarm jest chyba już o tej porze
+a to nie wiem, rano była brama zwalona i numer nie istniał 🤔
+<a href="https://t.me/lmastalerz">@lmastalerz</a> przydaj się do czegoś
+Ok czyli tak samo
+Manualnie otworzone xD
+Ale zawał
+Jak
+Tam na dole jest taka klapka z miejsce na klucz
+Otwierasz to, zwalnia się blokada i możesz popchnąć to
+noice
+Oo dobrze wiedziec
+Attention, attention, Jarek z QA ma ból dupy bo nikt mu nie powiedział, że brama jest jebnięta
+yup, dalej jebnięta
+Weź młot i zacznij napierdalać xD
+Ktoś przylezie ci pomóc na pewno
+straż miejska
+jak okoliczni mieszkańcy zorientują się, że jest głośniej niż przy trzaskaniu bramką
+Ale pomogą
+Mandat wystawią, ale pomogą
+uciszyć
+To psiarnia
+każdy może pałować
+Ale za pałowanie pałującego więcej za psiarnię
+ja tam nie wiem
+dziwnym trafem zwolniły się 2 nowe kompy więc mnie i Mateusza czeka upgrade
+Hmm
+Yeap
+💀
+nie śmieszne
+nie miało być śmieszne, ale myślę że to znaczy że zostajemy jeszcze na chwilę dłużej w firmie xD
+Spierdalaj, masz UoP
+Na wylocie jestem ja
+ja bardziej
+UwU
+że tak zapytam, kto do was podszedł z &quot;hej, nowe kompy mamy dla was&quot;?
+Czuli?
+tak
+ja chcę się ha tfu tego taska pozbyć jak najszybciej
+XDDD
+❤️
+<a href="https://app.clickup.com/t/8695ueca6">https://app.clickup.com/t/8695ueca6</a>
+masz, możesz dać się jako watcher
+Nie ma sensu, bo to jest jeszcze nie zreleasowane
+RC-ileś
+chyba nie
+wait
+musiałbym zjebać akcję pobierania nowej wersji
+9:20 -&gt; do przerwy zostało T - 10 minut.<br><br>Dzisiejsza zupa:<br>Zupa pomidorowa z pieczoną papryką i makaronem nitki<br>Kremowa zupa pomidorowa z dodatkiem pieczonej papryki i makaronem.
+ms wypchnął już wersję 9.0 jako obraz dockera
+9:30 -&gt; gdy nadejdzie bunt maszyn, to nie macie się czego bać. Z całą pewnością, wywalą exception na pierwszym ifie, bo QA się opierdalało. A przy okazji zapraszam na przerwę
+Ma ktoś śmieciarkę?
+Pożyczę, bo chcę zwieźć śmiecia z góry
+<a href="http://buddy-gate.buddyci.com:8080/">http://buddy-gate.buddyci.com:8080/</a>
+Udostępnij<br><a href="https://www.x-kom.pl/p/1117931-klawiatura-przewodowa-a4tech-fx60h--neon-backlit-.html">https://www.x-kom.pl/p/1117931-klawiatura-przewodowa-a4tech-fx60h--neon-backlit-.html</a>
+Fronty
+o, ten bug wrócił
+Do fixnięcia w 2 min?
+nie
+on ostatnio był na activity na avatarze usera
+Ja tego nie wystawiam
+ja tego nie widziałem jbc
+tak jak spacje w nazwie pliku
+ludzie strasznie walczą o uszanowanie tego statusu
+<a href="https://http.cat/418">https://http.cat/418</a>
+<a href="https://save418.com/">https://save418.com/</a>
+wiecie jak to zdefiniować żeby polityka dopuszczała wszystko? &lt;meta http-equiv=&quot;content-security-policy&quot; content=&quot;default-src unsafe-inline unsafe-eval wasm-unsafe-eval unsafe-hashes report-sample&quot;&gt;
+o ile to, co piszą na stacku jest prawdziwe
+narazie działa
+<a href="https://www.google.com/teapot">https://www.google.com/teapot</a>
+najbardziej przeruchany czajniczek
+dziwisz się?
+ale fajny
+gdzie taki kupić
+Cyprianie
+nah, ten za bardzo sfw
+Łukaszu
+proszę nie obrażać frontu
+Wlej wrzątek do tego i rurę w dupe sobie wsadź
+bo ci backend wejdzie sam wiesz gdzie
+I przechyl
+nadal nie działaaaaaaa
+xd
+gosciu pisał artykuł i zamiast dać &lt;pre&gt; to kleił na pałę
+to zabezpieczenie
+byś nie wklejał takich niebezpiecznych meta na stronę
+musisz wejść w źródło strony
+itd itd
+aha dobrze wiedzieć
+żartowałem
+programista debil
+ej, ej
+nie wyśmiewaj jego pomysłów
+może i go ponosi wyobraźnia
+ale szanuj takie osoby
+chociaż troszkę
+wy się śmiejecie
+a to pewnie czyjś fetysz
+no to właśnie o tym piszę
+do kogo to stwierdzenie?
+napiszę to 2 razy, raz na poważnie, raz żartem. zgadnij które jest które
+1. do tego gościa
+2. skoro nie wiesz do kogo, to bez różnicy
+To co było wcześniej odnosiło się do mnie
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a>
+&lt;/Hint&gt;
+daj link
+bo nie mogę po tekście namierzyć
+<a href="https://sd8.com/docs/on-premises/installation/linux">https://sd8.com/docs/on-premises/installation/linux</a>
+<a href="https://sd8.com/docs/on-premises/cli">https://sd8.com/docs/on-premises/cli</a>
+<a href="https://sd8.com/docs/on-premises/installation/aws">https://sd8.com/docs/on-premises/installation/aws</a>
+nie mam tam tego &lt;/Hint&gt;
+xD
+<a href="https://sd8.com/docs/on-premises/configuration/integrations/google">https://sd8.com/docs/on-premises/configuration/integrations/google</a>
+No cóż, Firefox
+przeglądarka bez zalet
+Za to z wadami
+Ale, że wkurwia front to uważam za zaletę
+Czyli ma zalety
+I przyjrzycie się klikaniu w menu bocznym
+Co jakiś czas mi się pierdoli, ale nie wiem co i czemu
+<a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> pobaw się <a href="https://sd8.com/docs">https://sd8.com/docs</a>
+a self hosted jest licencjonowane?
+tam jest coś z dom zjebane
+tak
+Gdzie?
+<a href="https://sd8.com/on-premises">https://sd8.com/on-premises</a>
+czy ktoś kompetentny z frontu powie mi co mam dodać do strony żeby naprawić ten błąd?<br><pre>javascript error: Failed to set the &apos;innerHTML&apos; property on &apos;Element&apos;: This document requires &apos;TrustedHTML&apos; assignment.</pre>
+on-prem jest self hosted
+sass jest w chmurze
+<a href="https://app.clickup.com/t/8695uwa9u">https://app.clickup.com/t/8695uwa9u</a>
+gdzie ty to baranie wrzuciłeś
+A gdzie miałem?
+pusczam vs testy i tam jest wstrzykiwany javascript
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a>
+<a href="https://app.clickup.com/2154252/v/l/6-3469696-1">https://app.clickup.com/2154252/v/l/6-3469696-1</a> dałbym to pod marketingową
+a nie pod aplikację buddy
+No to kurwa cyprian
+spodziewaj się niespodziewanego
+on nie wie
+Jak się pytam to chyba nie wiem
+Gdzie?
+on nie wiedział
+jak gomez
+Chuj nie wystawiam z tego buga. Sami możecie sobie wystawić
+Ja jebie
+przenieś go
+Wyjebany
+Jak nie wiesz to się nie odzywaj
+Za późno powiedzieliście
+i obraził się
+🖕
+<a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> bierz ich
+mam inne problemy
+tego obok?
+po co ta agresja
+no faktycznie problematyczny
+zamknijcie oczy
+weźcie głębokie 3 oddechy
+jak mam wtedy front pisać
+z zamkniętymi oczami
+i z nowo nabytym spokojem duszy pod nosem mruknijcie
+jebany clickup
+jak mantra
+XDD
+skąd on bierze to &lt;/Hint&gt; xD
+tego nie ma w dom na chrome/safari
+ale tam się cały dom jebie
+tekst wylatuje za box tipa
+fajny numer
+hehe
+okrutnik
+na same zupy?
+mi ten bot się zjebał
+nie, gpt z telegrama
+mi już nie odpisuje chuj xD
+uczciwa cena
+i to też nie jakiś wielki
+a mogłeś na telegram wysyłać
+przyjemny task dla backendu: <a href="https://app.clickup.com/t/8695uxdvc">https://app.clickup.com/t/8695uxdvc</a>
+powinien być
+Jak działają u was robienie push-y?
+bo front ma po kodzie implementację gotową
+handlowania tego
+czyli musieli kiedyś to wyjebać
+relaksujące to jest kurwa znajdowanie breaking changes w api nieudokumentowanych w dokumentacji
+jeden puka, drugi otwiera
+Jak ktoś się połączy do websocketu to zapisujecie: kto i łącze
+A potem na event szukacie zainteresowanych i napierdalacie we wszystkich?
+nadupiane jest chyba wszystko dla usera
+i filtrowane
+&quot;proszę mi takiego gówna nie przesyłać, nie jestem w tym projekcie teraz&quot;
+Filtrowane jest na poziomie backendu (chyba)?
+XD
+A, czyli filtrowany jest user
+A na froncie widok
+tak sądzę
+musiałbym sprawdzić
+ale jest z tym problem
+nie chce mi się
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong>
+pewnie żaba
+pewnie żaba
+13:15 -&gt; Będzie tego. Pizgaj taski i odpocznij, bo i tak spierdolisz więcej niż to warte. Chyba, że wolisz 3 bugi w cenie jednego fix-a.
+Wezwij Łukasza, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/66e964b47e43bb6ce86bbd0c">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/66e964b47e43bb6ce86bbd0c</a><br><br>to ty, gdy wezwiesz Łukasza, który udaje, że pracuje nad targety:<br>⠀  ⠀   (__/)<br>           (•ㅅ•)      Don’t talk to<br>    ＿ノヽ ノ＼＿      me or my son<br><code>/　</code>/ ⌒Ｙ⌒ Ｙ  ヽ     ever again.<br>( 　(三ヽ人　 /　  |<br>|　ﾉ⌒＼ ￣￣ヽ   ノ<br>ヽ＿＿＿＞､＿_／<br>       ｜( 王 ﾉ〈   (__/)<br>       /ﾐ<code>ー―</code>彡  (•ㅅ•)<br>      / ╰    ╯  /    &gt;
+zaraz ide
+dajcie 1 min
+tez ide
+ta tez ruszam
+o kurde
+Hehe
+Pisz do Krzyśka
+Zczyściło ci usage
+<a href="https://t.me/lmastalerz">@lmastalerz</a>, wiesz co się rymuje ze słowem &quot;żabka&quot;?<br><strong>RUSZ DUPE DO KUCHNI</strong><br><br>Sami wiecie kogo wezwał: Marcel Gańczarczyk<br><br> /| ､<br>(°､ ｡ 7<br> |､  ~ヽ<br> じしf\_,)〳‌‎<br><br><a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196321/execution/66e9694f7e43bb6ce86bc5f1">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196321/execution/66e9694f7e43bb6ce86bc5f1</a>
+Summoner przekazuje: <br>🫄🏻
+Dzień dobry,<br>zrobię to dla was i ruszę dupsko. A Marcel jest brzydki<br>pozdrawiam.
+9:20 -&gt; do przerwy zostało T - 10 minut.<br><br>Dzisiejsza zupa:<br>Chowder z wędzonym łososiem i kukurydzą<br>Lepsze niż taski zmiany na froncie, ale nadal słabe.
+Tak informacyjnie: front bandycki nie obecny (assasyna nie liczę)
+Tak informacyjnie: <a href="https://t.me/Ownerro">@Ownerro</a> i inni nie mają zawracanej dupy. QA w osłabionym składzie
+9:30 -&gt; prawdopodobnie QA jeszcze nie przyszło na przerwę. Szkoda, więcej zupy dla reszty.
+Cicho coś dzisiaj tutaj
+tak, natura is healing
+więcej poważnych devów niż qa czy frontu
+czy chcieliście kiedyś czat który oprócz tego że chujowo działa to jest wolny i możesz go zintegrować z AI więc jest jeszcze wolniejszy?
+i beka z ogłoszenia tego openAI o1 modelu kurwa XD model ma &quot;thinking&quot; znaczy laga zanim cokolwiek odpowie ale ludzie się jarają
+ta
+i nadal nie umie liczyć ilości liter w słowie
+I tak chujowo sobie z tym radzi
+Jak każę Kubie wypierdalać do dokumentacji i jebać tego GPT to jego kod się poprawia
+I ludzie umieli pisać kod
+Teraz nie umieją
+Jakoś Marcel umie
+Albo i nie?
+<a href="https://connect.to">https://connect.to</a>
+<a href="https://hydro.imgw.pl/#/">https://hydro.imgw.pl/#/</a>
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong>
+żaba? czy gdzieś idziemy
+ja bym coś zjadł lepszego niż żabka 😆
+13:15 -&gt; Druga przerwa w środku tygodnia. QA głodne, QA złe. Nie chcesz żeby QA było złe
+Wezwij Łukasza, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/66eab634ee57380ab6de73b0">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/66eab634ee57380ab6de73b0</a><br><br>to ty, gdy wezwiesz Łukasza, który udaje, że pracuje nad targety:<br>⠀  ⠀   (__/)<br>           (•ㅅ•)      Don’t talk to<br>    ＿ノヽ ノ＼＿      me or my son<br><code>/　</code>/ ⌒Ｙ⌒ Ｙ  ヽ     ever again.<br>( 　(三ヽ人　 /　  |<br>|　ﾉ⌒＼ ￣￣ヽ   ノ<br>ヽ＿＿＿＞､＿_／<br>       ｜( 王 ﾉ〈   (__/)<br>       /ﾐ<code>ー―</code>彡  (•ㅅ•)<br>      / ╰    ╯  /    &gt;
+<a href="https://t.me/shipurjan">@shipurjan</a> <a href="https://t.me/mJakobsche">@mJakobsche</a>
+Leniwym szmatom nie chciało się kliknąć Approve. Z tej okazji chuj mi w dupe.
+Do listy zatwierdzonych kebabów można dodać east n bull kebab z rynku
+Dobre mięsko fajne sosy świeże warzywa i dosyć tanio, 19 za mały kebab
+Backendy drogie
+Beka w chuj
+Bo macie serwer proxy i serwer docelowy
+Mi się udało pojebać kolejność i odkryłem zajebiste WTF!?
+Bo jak zjebie się proxy to akcja spróbuje najebać bezpośrednio do serwera właściwego
+Vulnerability?
+Ogólnie to brzmi jak user error
+Won&apos;t fix
+XD
+drugi raz już zabiłem redisa
+<a href="https://app.clickup.com/t/8695vy34f">https://app.clickup.com/t/8695vy34f</a>
+9:20 -&gt; do przerwy zostało T - 10 minut.<br><br>Dzisiejsza zupa:<br>Krem z czerwonej soczewicy i batata<br>Gęsty, pożywny krem z soczewicy i batatów, podany z krążkami cebuli.
+9:30 -&gt; może i zupa bywa niedobra, ale wszystko ma swoje pozytywne strony. Przykładowo QA jest jeszcze gorsze.
+Backendy
+Gdzie wy?
+Zaraz parking
+komentarze w review :)
+moooże
+a kto inny by im to narysował?
+Więcej push-y, więcej!
+co usera obchodzi ile push? jego obchodzi żeby widział aktualne dane
+co to za pytanie nie adekwatne do screen?
+Ale ja chcę więcej push-y, a nie mniej
+no to taski trzeba wystawiać ale to raczej front
+mówią tu nie ma pusha
+i pyk 1000 więcej requestów dziennie pójdzie
+mam wrażenie że ta rozmowa nie ma sensu
+to tak jakbyś miał kamieniołom i chciał więcej kamienia
+prawdopodobnie
+Mając kamieniołom sprzedaję kamień, więc tak. Chcę więcej kamienia
+no jakbym gadał ze ścianą.
+co to za przycisk
+xd
+Design chciał
+Front dodał
+już go nie lubie
+rust
+W C GUI?
+rust
+Znaczy jest QT
+Ale...
+Wskaźniki zabijają
+SIGSEGV
+skill issue
+Clickup jest w JS
+nie no trzeba sobie powiedzieć że front takiej apki to raczej jedyna sensowna opcja mieć *script
+dlatego ssie
+ale to trzeba zrobić z głową
+debyle
+te ich requesty też powinny lecieć szybciej
+niektóre to blisko 10 sekund trwają
+<a href="http://results.tests">http://results.tests</a>
+zamiast od razu lecieć wczytywać duże obrazki mogli dodać jakikolwiek z dupy placeholder zamiast robić puste pole a potem się pojawiają 😆
+Kto wie ten wie
+edytowałeś, a nadal jest napisane z błędem
+haha
+odezwał się
+a sam to zrobił
+poprawiłem szyk zdania, co nie zmienia jego poprawności
+może ktoś mu nakopać do dupy?
+Za co?
+a musi być powód?
+;)
+coz to za taski
+o kurw
+Wypisałem się z visual testów
+wczas
+margin-left : 50px;
+-50px
+Długo ci zajęło ogarnięcie tego
+-50 to na right
+Nie wskazałem kierunku
+ty masz przynajmniej assignee
+No masz przypisanych
+To spierdalaj
+Krzysiek jest chory
+Nie
+My nie bierzemy sobie tasków do testowania
+My mamy przydziały
+Ja co najwyżej mogę się przypisać do taska z targetów, a Kuba z visual testów
+jprdl. co za dzień
+ten front na VT nie działa za chuja
+Front do roboty
+bo co
+pokazując jeden error kurwa odkryłem drugi
+jak to? nie możecie się przypisać do tego taaaaska??????
+niemożliwe
+zależy gdzie wystawisz
+no nie wystawie tego na Bug
+no to nie przypiszę się do niego
+(sam)
+noooo ja tego elementu akurat też nie dotykałem
+tak samo jak my nie będziemy testować czegoś w czym nie siedzimy
+i vice versa
+wystawiam mu chmarę tasków
+jakie gówno
+zamknąłem 2 taski
+a wyjebało 17
+według tego co tu jest napisane
+ja mam swoje
+żaba enjoyer today
+ja dziś se zrobiłem kanapki
+jutro można
+ewentualnie możesz iść solo zagadać o tego tureckiego 😆
+Proxy w targetach
+Miód na moje palce
+kto pytał
+Twoja stara
+<a href="https://www.eastnbull.pl/restauracja/east-n-bull-kebab-grill#menu-tureckie-specjaly">https://www.eastnbull.pl/restauracja/east-n-bull-kebab-grill#menu-tureckie-specjaly</a>
+no właśnie nie
+Ale jest dopiero 12
+kurwa ile errorów
+ja jebe
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong>
+ale co chcecie isc gdzies dzisiaj?
+a widze, oki
+ja bym mogl wsm
+to chyba musisz biegnąć
+bo Cyprian wyszedł 5 minut temu
+ale też tamten kebab chyba dzisiaj zamknięty o tej porze
+to od ktorej jest otwarty
+ach
+slow foods
+16:30 niby
+dzisiaj?
+chociaz kurde
+xd
+to jest 4:30 rano?
+niekonsekwencja nazw
+on se tak wybiórczo to pm am daje
+i format też jak chce
+chociaz nvm
+ale to ciekawe co robia
+może takimi baitami szukają ludzi którzy wezmą i im poprawią stronę
+i marcel sie jeszcze nei wkurzyl?
+13:15 -&gt; zostaw już ten kod, trzeba coś zjeść. front i backend w kąt, a ty znikaj stąd
+Wezwij Łukasza, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/66ec07b4ee57380ab6dfdb1b">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/66ec07b4ee57380ab6dfdb1b</a><br><br>to ty, gdy wezwiesz Łukasza, który udaje, że pracuje nad targety:<br>⠀  ⠀   (__/)<br>           (•ㅅ•)      Don’t talk to<br>    ＿ノヽ ノ＼＿      me or my son<br><code>/　</code>/ ⌒Ｙ⌒ Ｙ  ヽ     ever again.<br>( 　(三ヽ人　 /　  |<br>|　ﾉ⌒＼ ￣￣ヽ   ノ<br>ヽ＿＿＿＞､＿_／<br>       ｜( 王 ﾉ〈   (__/)<br>       /ﾐ<code>ー―</code>彡  (•ㅅ•)<br>      / ╰    ╯  /    &gt;
+private key?
+a co ja jestem
+XD no ktos sb wrzucil na repo
+zbawca strony tego kebaba
+nie ma private key obok, nie jest tak niebezpieczne!!
+XD
+lep
+zeglarxu marcelu rus lodke do wejscia
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a>
+Marcel na wodzie, ja na szynach, a w porcie burdel
+⛵
+<a href="https://t.me/lmastalerz">@lmastalerz</a>, wiesz co się rymuje ze słowem &quot;żabka&quot;?<br><strong>RUSZ DUPE DO KUCHNI</strong><br><br>Sami wiecie kogo wezwał: Marcel Gańczarczyk<br><br> /| ､<br>(°､ ｡ 7<br> |､  ~ヽ<br> じしf\_,)〳‌‎<br><br><a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196321/execution/66ec0a56ee57380ab6dfdef6">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196321/execution/66ec0a56ee57380ab6dfdef6</a>
+Summoner przekazuje: <br>Łukasz to 🏺
+Dzień dobry,<br>zrobię to dla was i ruszę dupsko. A Marcel jest brzydki<br>pozdrawiam.
+Do tych rankingów usage przeglądarek wliczają się takie rzeczy jak Electron czy inne tego typu narzędzia?
+no ogólnie triggerują mnie te wykresy
+co za kreska?
+jak ktoś odpali pomiędzy ostatnim pipeline 10 września i pierwszym 11 września to czas wykonywania będzie dokładnie pomiędzy nimi jak sugeruje linia?
+15k przegapiliśmy
+Yeap
+nie rozumiem za bardzo. tu masz historię uruchomień 🤔
+no i to są punkty
+tu nie ma ciągłości danych
+tak
+dałbym ewentaulnie przerywaną, bo same punkty się obrzydliwie ogląda
+słupki się do takich rzeczy daje
+welp
+dac opcje avg min max w skali dzień/tydzień itd
+nie pokazywać danych których nie ma
+linia trendu może
+xDD
+Chuj w dupe
+może tylko wypisuje bez {
+raczej nie
+wypisywanie jest wspólne
+w konsoli
+fajnie się tam bawicie
+Gówno
+Ale mocne
+no to się dowiedziałeś
+ktoś zapyta
+przyjdzie Łukasz
+i napisze &quot;gówno&quot;
+👏
+SD do puszczania na nim testów
+Jest mocno zboostowane
+Finalnie sprowadza się to do tego, że to zabawka Krzyśka
+Backendy
+Macie wejście w mnożniki GM*Min dla konkretnych akcji?
+<pre>DOCKER(1, 1), LINUX(1, 1), WINDOWS(2, 1), MAC(6, 1), ZERO(0, 1), AWS_INSTANCE(), DEFAULT(1, 1);</pre>
+nie wiem czy tego w dokumentacji gdzieś też nie ma
+jest
+Rozumiem
+1 liczba multiplier 2 liczba divider
+do czego divider? nie wiem
+To widzę buga
+a divider to chyba inne ceny dla spryker xD
+MAC(6, 1) -&gt; powinno być MAC(6, 0) 😈
+spryker ma mieć maca za darmo?
+Divider na 0 czyli
+(GBM*6)<a href="" onclick="return ShowBotCommand(&quot;0&quot;)">/0</a>
+jakby nie było internetu, to tylko rodzina by wiedziała, żeś głupi
+nie wiem czy to nie wina backendu bo jestem na branchu dev-domain-yaml z frontu
+i mam świeżo domergowanego deva
+:)
+o tu nie widać tego że miga tak jakby program dostał padaczki
+ja gdy musze zacząć używać chrome
+tak, tylko taki który nie działa na mojej konfiguracji
+a zwykły google chrome śmiga
+próbowałem zainstalować, coś nie pykło
+90% paczek mam z apta 😆 nie będę dla 1 rzeczy instalować package managera
+<a href="https://t.me/mJakobsche">@mJakobsche</a> twój?
+prawdopodobnie
+potwierdzam, działa dobrze i korzystalem przez jakis czas nawet z tej konkretnej
+przetestuj sobie ta zen browser, u mnie chodzi lepiej niz ff, a to wciaz ff
+nope, nie było zjebane jak brave ale też na pewno nie było lepiej niż zwykły firefox
+czy ktoś z chromiarzy tutaj <a href="https://t.me/shipurjan">@shipurjan</a>  <a href="https://t.me/mganczarczyk">@mganczarczyk</a> wie czy da sie cos takiego zrobic na chrome jakos?
+ooo mega, ostatnio tego nie było!
+albo znalezc nie umialem
+raczej to drugie
+<a href="https://github.com/MightyMoud/sidekick">https://github.com/MightyMoud/sidekick</a>
+Sandboxy nie mają neta na eu
+na us też
+tak od 2 dni
+brakuje w buddym informacji o zdrowiu apki

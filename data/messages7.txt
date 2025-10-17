@@ -1,0 +1,962 @@
+﻿co to kurw jest
+budowanie akcji dla pipeline&apos;a
+to widze
+ale czy to jest warunkowa ścieżka
+nie, to się nie różni logiką od tego, co jest teraz
+Chuja, nie zrobią xD
+ide do wyjscia
+i czekam na was
+<a href="https://t.me/lmastalerz">@lmastalerz</a>
+Ide
+od dzisiaj nie ma już superdevów, są Adnmmini
+XD
+o kurwa
+Kto to napisał?
+Szymon
+🤔
+<a href="https://t.me/lmastalerz">@lmastalerz</a> testujecie tooltipy?
+na github?
+w taskach
+?
+<a href="https://app.clickup.com/t/8694zbcqb">https://app.clickup.com/t/8694zbcqb</a> chcecie czy w/e?
+timeout
+packet loss 100%
+moje jedyne 100% na egzaminie 😎
+Nie my
+ok, czyli user na produkcji
+Znaczy chyba QA, ale nie ja i Kuba
+jesteście useless
+❤️
+🖕
+nie jesteśmy. Gdyby nie my to kto by cie obrażał :*
+🫶
+Spierdalaj
+nikt? wiesz jaki świat byłby wtedy piękny?
+jescze byś tęsknił
+Marcel to nie Bernaś
+no niby tak :D
+ale Bernaś nie jest obrażany
+tylko jest świadkiem obrażania Łukasza
+tak by wyglądał świat be zqa
+spacja ci się jebie
+jeszcze 2 miesiące i będziesz pisał jak Szymon
+tylko musisz rozłączną klawiaturę kupić
+chciałem taką
+i mechaniczną
+Jarek ostatnio zapytany przez Pawła &quot;nie przeszkadza ci dźwięk tego mechanika?&quot; odpowiedział &quot;jak jesteś taki odważny, to sam to powiedz Szymonowi&quot;
+już to mówiłem. Jakby była mechaniczna to wyleciałbym przez zamknięte okno
+Legenda mówi, że poszedł do Szymona i mu powiedział
+to był ten sam dzień, gdy spłonął Baseus
+zależy jak szybko piszesz, mnie to by na pewno wyjebali
+przez dach
+jak szybko? widać po moich błędach
+jak z procy 🗿
+wolmo
+nie gadaj peirdol;
+najgorsze na klawiaturze macowej jest to, że jak przychodzę do domu i nie potrafię w polskie znaki, bo nie trafiam w alt
+:/
+nie mozesz podmienic na widnowsowa
+????
+klawiaturę?
+nooo
+i podpiac COmmand pod ctrl
+a zrobisz force quit?
+jakbym podmienił sobie klawiaturę?
+o kurw
+myślę, że ni chuja
+XD
+nawet nie wiem co te znaczki znacza
+ten pierwszy wyglada jakby malarz nie byl wystarczajaco pijany
+option
+Piktogramy
+Macowcy nie potrafią w ludzki język
+dogadaliby sie z egiptem
+ty po sesji na macku to moze odczytalbys chieroglify w grobowcu ramzesa
+czyli co?
+mam systemowy font na wingdingsy zmienić?
+tam jest napisane &quot;patriota, chociaż chuj&quot;
+Marcel
+what
+We zrób, aby na liście projektów kliknięcie środkowego przycisku myszy otwierało projekt w nowej karcie
+to dobra myśl
+tam jest chyba jedynie onclick, a nie href
+podpinam się do prośby
+jednak mam was w dupie, nie
+No to chuj, użyjemy większych sił
+tzn to nie jest problem
+ja mogę
+ale ja do tego taska potrzebuję xD
+zaraz łukasz wbije na olimp i zrobi zamiesznie
+<a href="" onclick="return ShowMentionName()">Jakub</a> atencja mile widziana
+fix to 2 linijki kodu
+Done
+a co ja mam ci zrobić, jak nie mam taska
+<a href="https://app.clickup.com/t/86951xkrv">https://app.clickup.com/t/86951xkrv</a>
+to jest jakaś sugestia?
+bo jest w current/bugs
+czyli mogę to wziąć xD
+Bierzesz czy mam ci to wsadzić?
+w dupe?
+a było to kiedykolwiek czy to feature request?
+bierz
+kiedyś był podobno taki task
+ale krzysiek mowi ze linki sie chyba laduja dop po kliknieciu
+Krzysiek kazał do bugs to dałem do bugs
+i jakis problem byl i tego nie puszneli
+ale nie mieli cb
+;D
+nie, że mnie
+front ma tam event onclick
+a nie &lt;a href&gt;
+to działaj miszczu
+najpierw zobaczę jak bardzo to jest możliwe
+potem siebie przypiszę
+bo fix to już nie są 2 linijki xD
+lepiej?
+NIe wiem co zrobiłeś ale teraz muszę czekać, aż trafi to na dev-a
+bugfixy nie idą na review, ale to wymaga zmian w dwóch repo
+więc raczej pójdzie :x
+a tak tbh to chuja a nie bug xD
+bo intended asf
+tak, to jest zachowanie tego onclick 🤔
+najchętniej bym to jeszcze w jakieś usememo opędzlował
+ale średnio jest jak
+<a href="https://t.me/lmastalerz">@lmastalerz</a> switchowanie workspace też nie działa na mmb?
+eee śpm
+(ten sam dropdown)
+Zaraz zobaczę
+Tylko create project działa ŚPM
+mhm
+to wówczas też zacznie
+o ile to nie jest problem
+Nie mnie decydować, ja wiem, że nie mogę otwierać ŚPM innych projektów i tyle
+nie napisałem tego jako &quot;powiedz czy to problem&quot;
+tylko czy się nie przyjebią xD
+myślę że nikt nie będzie miał problemu z tym
+9:20 -&gt; do przerwy zostało T - 10 minut.
+heh
+xD
+Więcej wyjebał niż dodał
+wyjebałem funkcję z useCallback
+bo statyczny string nie ma sensu teraz być callbackiem
+i nie zrobiłem z tego funkcji, dałem inline prop
+stąd 1/5 xD
+well, fuck
+no tak
+self approve incoming :DD
+xD
+xD
+my tam mamy za dużo false positivów
+nawet nie wiedziaem że możesz dostać positivy
+znajdź tu diffa
+czy ktoś kuchnia?
+No nie wiem czemu was tu jeszcze ni ma
+no już
+kruci
+naprawiam im buga
+kjhgkjgnlkjngWLKUJFGN
+uga buga
+LALALA
+Uspokój hormony
+ale śmieszne
+te tagi na gorze
+wiadomosci
+ano
+bo masz włączone view as messages?
+nie, przełączałem się po kanałach alt+UP, alt+DOWN
+Język Buddiego wersja light
+buddylang
++1
+why, to jest zrozumiałe
+dlatego light
+Ale gówno
+<a href="https://front-docs.sls.show/">https://front-docs.sls.show/</a>
+no jest mocno puste
+jak coś w docsach nie ma jeszcze opisanych mechanizmów pod storybooka, oraz będę je przenosił na <a href="https://front-docs.sls.show/">https://front-docs.sls.show/</a>
+Kekw
+oho, będzie roast pustego projektu robiony
+Świeże bułki, wędliny itd.
+same vibe
+A wiecie co jest zajebiste?
+Nie ma i nie będzie docsów QA
+naprawde??? szok! jak to mozliwe??
+daj się nacieszyć Łukaszowi
+że znalazł coś WIP
+smutne życie, to chociaż tu się uśmiechnie
+<a href="https://app.sd9.com/ttests/vistests-empty/repository/content/branch/master/jmg.pl">https://app.sd9.com/ttests/vistests-empty/repository/content/branch/master/jmg.pl</a>
+as i said
+są ludzie głupi
+i tego nie zmienisz
+taki jest świat
+przed czasami internetu, nie wiedziałeś, że ktoś jest zjebany
+bo nie mogła tego okazać publicznie
+teraz taka osoba się nawet obnosi
+i krzyczy &quot;jestem zjebany!&quot;
+Spierdalaj, Krzysiu mówi: dawaj to ja daje
+Krzysiu mówi gówno to ja mówię śmierdzi
+co niby dajesz
+<a href="" onclick="return ShowMentionName()">Jakub Krawczyk</a> współczuję trochę
+Krzysiu mówi sd9 gotowe to ja biorę i wchodzę
+A Kuba wbiega na pełnej kurwie rozwalając drzwi
+o kurde
+<a href="https://app.clickup.com/t/86951h27j">https://app.clickup.com/t/86951h27j</a>
+mam swój inbox
+xd
+Bo zjebał linka
+...
+udowodnij
+:harold:
+no dobra nooo
+&gt;:C
+Tl;dr
+Trafiło do limbo
+wooooooooo kurka
+telegram wkoncu bedzie na tematy napierdzielal
+Tak jak 134 inne taski
+teraz tylko z 2 lata poczekać
+oj tam, nawet kod ode mnie dostali
+z <a href="medium.com">medium.com</a> xD
+no tak
+to kiedy żaba?
+12:50 -&gt; do przerwy zostało T - 10 minut.
+moze przelozymy to na ta 13.30?
+te powiadomienia tez
+czy nie?
+???????? why
+co takiego robisz?
+problem z 13:30 jest dzisiaj taki, że o 14:00 znika <a href="" onclick="return ShowMentionName()">Jakub Krawczyk</a>
+ah
+no dobra
+w inne dni mi to nie przeszkadza
+13:15?
+nie 14 ale 14:30 - 40
+anytime
+może być
+W tym momencie Kuba jest zjebywany przez Krzyśka
+nie jest
+to twoja wina dzbanie
+a ja mogę ciebie? :3
+Możesz
+Kiedy merge?
+czego merge
+Twojej dupy do kuchni
+eeee
+Where r u
+im on the way
+rusz d
+Ludzie co wy pierdolicie, tu nikogo nie ma
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> 31?
+mmm 35 xD
+cieplutko
+Wystawiłem review i zostałem sam na QA
+XD
+Noice
+<a href="" onclick="return ShowMentionName()">Jakub Krawczyk</a> jest już wait for human, bym mógł małpiszona summonować?
+nie
+zaraz ogarne
+zupa zapach ma jakby pizzy
+czy ktos orientuje sie co to takiego
+może to wodna pizza ryboludzi
+Ryboludzi to ty zostaw w spokoju na dnie oceanu
+ukrainska jakaś then?
+ja bym ich na wędkę łowił i jak będzie 8, to na jednym węglu przepalił
+ryboludzie są GOATED
+by było efektywnie
+fuuu oliwki
+xd
+wikipedia twierdzi, że rosyjska
+ah no tak mi to &quot;i&quot; tam właśnie wschodnio brzmialo
+ja pójde do żaby
+aż tak?
+ta
+9:20 -&gt; do przerwy zostało T - 10 minut.
+9:20 -&gt; do przerwy zostało T - 10 minut.<br>Wezwij Łukasza <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196129">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196129</a>
+MHM
+:D
+(<a href="https://mganczarczyk.pl">https://mganczarczyk.pl</a>)[dupa]
+sam jesteś dupa
+a nawet jeszcze gorzej
+...
+9:20 -&gt; do przerwy zostało T - 10 minut.<br>Wezwij Łukasza <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196129/execution/xyz">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196129/execution/xyz</a>
+cos chujowy ten markdown
+Yeap
+przynajmniej strona fajna
+kek
+execution url prowadzi do 404
+ale w vt się jebie
+Tak
+nie lepiej zeby wrzucal linka do webhooka odpalajacego pipelina pingujacego Lukasza??
+wtedy kazdy moze kliknac bez logowania
+moge
+a do approve musisz sie zalogować?
+no to uprawnienia do projektu dla każdego
+wystarczy do pipeline
+others dac na manage
+chyba
+nie no
+wlasnie o to chodzi
+zeby nie robic tego approvem
+no ale wtedy nie ma zabawy
+:D
+tylko drugi pipeline ktory pinguje Łukasza na webhooku
+a jak już bardzo chcesz wait for human, to daj możliwość ustalania wiadomości
+no bo to bez sensu, nawet jak bedziemy mieli uprawnienia trzeba sie logowac bleh
+Łukasz summon!
+no trochę tak
+bo szybciej będzie napisać wiadomość
+rusz d
+a tak btw, to ruszyć d do kuchni
+czy żaby
+ja chyba żaba
+mi się oliwki nie widzą
+Deploy
+yeap
+<a href="" onclick="return ShowMentionName()">Jakub Krawczyk</a> nie zapomnij wezwać Łukasza, jak będziesz wracać z żaby
+nie bo przyjdzie drugi
+Nie na ogólnym, tylko tutaj
+🗿
+a to jaki jest
+mowie ze pipeline sie zjebie. i przyjdzie drugi ten sam
+heh2
+Joyy
+<a href="https://app.clickup.com/t/86951jnz2">https://app.clickup.com/t/86951jnz2</a>
+heeeeh?
+nasze internal api ma 4175 linii
+przykładowa metoda wygląda tak
+Śmietnik z niedomykającą się klapą
+wysoko oceniasz swój kod
+internal api visual tetsów
+orientujecie się czy u nas można używać copilota?
+łukasz na nim jedzie
+można
+Już od 2 mc nie
+tam nie było jakiś problemów z wyciekami kodu?
+why?
+Skończył mi się za darmo
+Czekam na GPU u Kuby aby znowu mieć darmowe AI
+jest takie określenie na to
+co ma w nazwie słowo &quot;cukier&quot;
+kto wie ten wie
+wiem i to pojebana myśl
+ale trochę tak
+Spierdalaj, płacę za ten serwer
+12:50 -&gt; do przerwy zostało T - 10 minut.<br>Wezwij Łukasza <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines</a>
+a wiesz chociaż o jakie określenie mi chodziło/
+Nie
+jak mam to zrobić bez permisji? xD
+to dobrze
+noom
+raczej reszta wie
+ja dzisiaj nie ide do zaby
+jak cos
+a ja ide do somu
+domu
+naczej jade
+a to nie workspace Kuby?
+To workspace kuby
+I nie mam tego projektu
+potem
+bez sensu byś się sam wzywał
+<a href="https://vm.tiktok.com/ZGetJt5bD/">https://vm.tiktok.com/ZGetJt5bD/</a>
+to jest 1:1
+asasyn to wiadomo kto, debil to ten drugi z qa
+jak z resztą?
+?
+To jest odniesienie do filmu czy po prostu?
+<a href="https://t.me/lmastalerz">@lmastalerz</a> łap
+No ja to sadysta
+Brakuje seryjnego mordercy
+Pisze
+no przecież napisałem wyżej, że ty to debil
+nie ty to debil. sadysta to krzysie, cyprian wskrzesza bractwo assasynow a szymon to seryjny morderca
+Nie
+Bo drugi z QA to Kuba
+ty jestes drugi od wejscia
+I do mnie bardziej pasuje sadysta
+A po ostatnich akcjach z mergami to do Kuby bardziej pasuje debil
+Zostają Mateusz, Bartek i Marcel na mordercę
+łukasz Summon!
+Jestem
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> <a href="https://app.clickup.com/t/86952r6tw">https://app.clickup.com/t/86952r6tw</a>
+Obczaj
+sls ;D
+internet na żetony ci się skończył
+na chuj mi to wysyłasz
+wytłumacz mi
+Szybki fix
+I można sobie go dopisać do scama
+szybko to możesz spierdalać mi z tym
+;-;
+:()
+ktoś tu dzisiaj wstał lewą stroną biurka
+ja dzisiaj spod biurka
+:D
+nie to łukasz
+może jeszcze mam to pushnąć, co?
+Możesz
+Niech dev płonie
+czemu wasze testy tego nie wychwyciły
+błuhahahahahahahhahahah
+chujowe je macie
+Tak
+.
+Nie potwierdze ale i też nie zaprzecze
+a potwierdzisz, że Ł to debil?
+c:
+Michał: Pokrycie 90%, a te 10% nie działa
+teraz zauważyłem nazwę projektu 🗿
+piksele mogę policzyć
+njescze nie widziałem SWW w error label
+edytor yamla macie po xpath?
+bo jest szansa, że wam się rozjebie
+Wszystko mamy po xpath
+A Michała nie ma przez 2 tygodnie
+zgłodniałem normalnie
+40 minut za wcześnie
+tak to jest jak sie nie je sniadania
+;D
+ale babeczki czekoladowe mamy dzisiaj
+ten wasz qik majster to chyba na dev pracuje
+?
+?
+commit
+No i?
+ehh, nieważne
+9:20 -&gt; do przerwy zostało T - 10 minut.
+dodali pipeline i mają go w dupie
+sam sobie to wystawiłeś na bugs czy dostałeś zielone światło od Krzyśka?
+Zielone
+na dev
+<a href="" onclick="return ShowMentionName()">Jakub</a> obsłużysz pana? xD
+A może lepiej nie
+to się zdecyduj
+czego chcecie
+Jeszcze zbierzesz zjeb od Krzyśka, że zajmujesz się pierdołami
+czego chcecie, najwyżej (i tak) tego nie zrobię
+Tak naprawdę to nic
+<a href="" onclick="return ShowMentionName()">Jakub Krawczyk</a> jebnij mu
+Ma większe problemy
+Krzyśka nad głową
+ayyyy
+wg mnie to cały czas na tym tasku siedzi
+12:50 -&gt; do przerwy zostało T - 10 minut.<br>Wezwij Łukasza <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines</a>
+Skipuję
+tez
+<a href="" onclick="return ShowMentionName()">Jakub Krawczyk</a>
+what?\
+ja przerwy nie skipuję
+żaba?
+no ba
+o której?
+ja mam buga w livie
+rozumiem
+o której chcesz?
+- &quot;o której ci pasuje&quot;
+to napisz nie sugeruj
+;D
+:15
+ok
+mi pasuje
+nwm jak reszta
+jeden ma bug na live, więc niewiadomo
+małpiszon przyjdzie zawsze
+Cyprian na jedzonku już chyba
+Rusz d
+pe
+Łukasz
+Piznę ci
+Ale to tak soczyście
+Pff
+Kłamstwa
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a>
+usuń to, bo zaraz zlot osób z revanced będzie
+générale.delete()
+Zajebisty release
+0 gówna
+jakiego gówna
+No 0 gówna
+nie commitujemy gówna na dev 💀
+My mamy gówno w dev i mergujemy gówno do dev
+💩 🚜💩
+ale z drugiej strony miło mi, bo są tam moje commity c:
+ktoś docenia moją pracę
+czytaj wysrywy intelektualne
+<a href="https://sejm.gov.pl">https://sejm.gov.pl</a>
+Nie żyje
+chyba na froncie
+9:20 -&gt; do przerwy zostało T - 10 minut.
+Kop w dupę to dla qa za mało
+xD
+new rekrutacja przez telegrama just dropped
+u mnie jest Kun 🥺👉👈
+ej to ta sama XD
+to samo zdj
+Same
+ja też nie
+poczekajcie poczekajcie
+praca szuka człowieka
+Do mnie nie dotrze
+więc dostaniecie w swoim czasie
+oprócz Łukasza, jego nikt nie ch
+chyba barana
+baran też człowiek
+a owca w gothicu 2 to najemnik
+🐏
+ale mamy zajebiste logi btw
+proszę nie grać w tetrisa w pracy
+to nie ja, to userzy
+już wystarczy nam czołgista w qa
+❤️
+Wypierdalaj
+zdecyduj się
+czy
+serduszko
+czy wypierdalaj
+nie można mieć wszystkiego jednocześnie
+Można, jestem na QA
+Z radością w sercu mówię ci: wypierdalaj
+fuck you too
+what&apos;s your name?
+Fuck you Cyprian
+You know what I did?
+Yes, I doesn&apos;t
+apolgy for bad english<br><br>where were u wen club penguin die<br><br>i was at house eating dorito when phone ring<br><br>&quot;Club penguin is kil&quot;<br><br>&quot;no&quot;
+<a href="https://play.cplegacy.com/">https://play.cplegacy.com/</a>
+CP 💀
+nah, 💀 to moviestar planet
+monster zakupiony bo nie przeżyje
+msp to ty szanuj
+a tu chodzilo o cos innego chyba 💀💀
+w sumie ciężko stwierdzić
+cp to taki magiczny skrót który ma wiele rozwinięć
+competitive programming, club penguin, ciepłe placki
+copy paste
+cp krzywdy ci nie zrobi w przeciwieństwie do rm
+oj zrobi ci jak cię prokurator złapie z cp na dysku
+jak już jesteśmy przy skrótach
+to łm to debil
+JMG100prcnt
+Widział ktoś tą stronę?
+Jak nie to polecam
+ty chory pojebie
+sudo rm /bin/cp
+szybko zanim przyjada
+rm -rf
+dobry plan
+reverse hackintosh
+💀
+chyba jako mięso armatnie
+dobrze się tam qa bawi
+ale pracowac nie ma komu
+oni to tam opierdalando
+Jeszcze jak!
+jest np Kuba
+który płacze
+bo mu Ł narzeka
+Tak
+Ze śmiechu w tym momencie
+nawet to Ł potwierdza
+<a href="" onclick="return ShowMentionName()">Jakub Krawczyk</a> co cię tak bawi?
+wszystko
+<a href="https://t.me/lmastalerz">@lmastalerz</a> <a href="https://app.clickup.com/t/869335x7f">https://app.clickup.com/t/869335x7f</a> czemu to na backend odbiłeś, coś tam jeszcze nie gra?
+Maile o spointowaniu nie schodzą, ale teraz muszę zobaczyć co innego
+nie napisał powodu? 🤔
+<a href="https://app.clickup.com/t/869335x7f?comment=90120052034365">https://app.clickup.com/t/869335x7f?comment=90120052034365</a>
+Napisałem, ale mógł się zgubić
+ja nie widzę, chyba że to ten słynny &quot;clickup ty kurwo&quot; moment
+Więc: Clickup ty kurwo
+no spoko, ale to razu już coś tam poprawiał
+ale popatrze na te pointed jeszcze
+a ogólnie najważniejsze pytanie, jakieś jedzenie??
+czy żabka
+tbh brakowało mi tego nienazywania żarcia z żabki jedzeniem xD
+najbardziej opłacalnie to samemu sobie robić kanapki czy jedzenie do pracy 😆
+jednak w żabce to tonę kasy zostawiamy
+niby tak
+ja jestem za żabą
+spoczko
+zostaje ostatnie pytanie
+kiedy
+13?
+można
+czyli gdy nas <a href="https://t.me/BuddyEuTelegramBot">@BuddyEuTelegramBot</a> wezwie
+12:50 -&gt; do przerwy zostało T - 10 minut.<br>Wezwij Łukasza <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines</a>
+ah, wszystko zgodnie z planem
+o to to
+Ja ci kurwa dam here
+Kurwa
+No
+Łooo ty śmieciu
+Zara wezwę śmieciarzy to cię wywiozą gdzie twe miejsce
+I innych tobie podobnych
+coś mi się kliknęło
+dobra, wydupiać
+No Kuba już wypizgał
+ide sek
+No chyba, że do kibla wypizgał
+tez
+Rusz pizde
+A gdzie pipeline?
+.
+albo nie gaz
+muszynianka też
+dobrze, że można cofać commity przed pushem 💀
+mogłeś zostawić
+byłoby śmiesznie xD
+Co robicie na QA: ignorujemy testy, <br>A co dokładnie?: ignorujemy testy
+9:20 -&gt; do przerwy zostało T - 10 minut.
+Ruszyć
+D
+Dupy
+mocny gaz
+Dobra Polska woda
+mocnym gazem rusz i znikaj juz
+COŚ TY NAPISAŁ?
+moja ulubiona woda
+zaraz po
+murzyniance
+sry, literówka
+wstrzeliłem się w update
+A gdzie twoja maszyna Marcel?
+pracuj bo ci jebne
+dev leży w rowie
+to go napraw
+albo odzepsuj
+Nie mój problem
+Wyjebał się reset-db
+I to uruchomiony przez Krzyśka
+Czyli wyjebane potrójnie
+mhm
+Spizgany dev
+Szanowne leniwe kurwy, tak wam się chce naszego generatora? To proszę bardzo, ale jest z tym w chuj roboty, aby przepiąć go na <a href="app.local.io">app.local.io</a>. Dryjcie mordy do osób wyżej i niech one piłują Krzyśka.<br><br>Z pozdrowieniami<br>Chuje z QA
+tworzenie projektów, pipelineów i innych pierdół po resetdb to jednak jest nieciekawe zajęcie
+jak będzie to fajnie, jak nie, to i tak jebać qa
+czemu nie zrobicie generatora
+po ty siedzisz nad jednym takim od tygodnia
+bozia dała rączki
+to się klika
+i tyle
+a my mamy?
+mieliśmy dostęp xD
+bo się na plecy wyjebał
+A w życiu nie napiedalamy do bazy
+my używamy api nie bazy
+Znaczy wy macie łatwiej niż my
+a api notuje to na kartce wszystko
+kto powiedział że tak nie możesz zrobic
+smialo go on
+Bo i tak z frontu rzucacie łajnem w backend
+nie napierdalam Inserrt into czy mongo
+Jedyne co my robimy to poszywamy się pod front i napierdalamy czyste requesty
+w jakim sensie czyste
+takie same jak frontend tylko macie co drugie słowo dupa?
+W takim, że nie odpalamy selenium i 100% rest api
+bo no o ile serio qa działa to się nie da posłać gówna 😆
+ty myślisz, że front ma jakieś selenium?
+Ma
+Tak
+Było
+no chyba jako akcja
+xD
+burza idzie chyba
+ciekawe czy pierdolnie jak będziemy chcieli coś zjeść
+Ta, zaraz poleci reset db na sd4
+chciales powiedziec isc do zabki
+czy to sugestia, byśmy poszli coś zjeść zanim jebnie z nieba?
+no ja bym chętnie zjadł jakieś normalne jedzenie XD
+ja nie mam nic przeciwko
+o 12:00 to chyba kuchnia jest zajęta ludźmi
+Byle by burza skończyła się przed 15:30
+zawsze tam dużo osób idzie
+burza juz jest
+juz napierdala
+nie pada
+I padać nie będzie przez pewien czas
+no kij wie jak daleko jest
+ale grzmi potężnie
+xd
+no to może nad radarem
+nie nad nami 😆
+a kiedy się zaczął?
+Dobre 30min temu
+nad radarem pada
+u nas
+to co idziemy?
+No można
+to oznaczało &quot;rusz dupe do wyjścia&quot;
+juz ideeeeee
+Łukasz cho
+bo jej nie ma w kuchni
+Spierdalaj szmatławcu
+12:50 -&gt; do przerwy zostało T - 10 minut.<br>Wezwij Łukasza <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines</a>
+<a href="https://youtube.com/@vivaladirtleague?si=xNpnXWlL2VlaIhjk">https://youtube.com/@vivaladirtleague?si=xNpnXWlL2VlaIhjk</a>
+TS powstał później, więc się nawrócił na szczęście
+Ojoj
+haha xd
+Dobrze
+wielki człowiek, nie jego wina że miał taką kulę u nogi jak tworzenie języka opartego o js
+Widać z wiekiem mu się pogorszyło
+gówno prawda
+zobacz na Kśka kononowicza
+nie jest stary, ale za to ledwo żyje
+Twórcy c# nie żałują jego powstania w przeciwieństwie do twórców JS
+Którzy stworzyli TS
+Spotkałem szymona i stwierdził że dawno nic nie przynosiłem. Mowi że ludzie myślą że jest gorzej i jest gorzej bo kiedyś przynosiłem a teraz nie przynoszę. Chce żebym go utuczył Xd.
+WTF?!
+Raz przyniosłem paczkę princepolo i już za tym tęskni :D
+Jeszcze gdy chodziłem do podstawówki, to był tam taki Paweł, i ja jechałem na rowerze, i go spotkałem, i potem jeszcze pojechałem do biedronki na lody, i po drodze do domu wtedy jeszcze, już do domu pojechałem.
+xD
+xDD
+9:20 -&gt; do przerwy zostało T - 10 minut.
+to już? xD
+tak
+za 9 min
+jak to fajnie działą
+i można sobie cofać strzałką w górę i zachowuje line breaki
+Noice
+Chętnie nie użyję na windowsie
+Cieszę się twoim szczęściem
+zależy, bo takie rzeczy jak podpowiadanie czy kolorowanie da się zrobić w terminalu windowsowym
+znaczy terminal windowsowy jest nieużywalny, to jest spora wada
+kirwa mac chlodnik
+no chyba se jaja robisz
+nie no ten nowy terminal to nie jest tak źle
+lecimy wszyscy na bbq4it?
+ten nowy nie jest nieużywalny, ale still &lt;&lt;&lt;&lt;&lt;&lt;
+<a href="" onclick="return ShowMentionName()">Jakub Krawczyk</a> <a href="https://t.me/lmastalerz">@lmastalerz</a> dzień dziecka dla was: <a href="https://app.clickup.com/t/86951xkrv">https://app.clickup.com/t/86951xkrv</a>
+jak się wyjebie to uciekam xD
+Ta widziałem
+ja nie
+narazie dont give a fuck
+<a href="https://app.clickup.com/t/86954cxmz">https://app.clickup.com/t/86954cxmz</a>
+gl;hf;
+&quot;Łukasz spierdalaj&quot; za
+3
+2
+1
+Nie wiem czy to nie duplikat
+Widziałem kiedyś już coś podobnego
+Łooo
+ale i tak
+Fixuję testy, które zjebałeś xDD
+<a href="https://app.clickup.com/t/86952r6tw">https://app.clickup.com/t/86952r6tw</a><br>popraw prosze ten test<br><a href="http://results.tests/d/c67086ee-6574-4330-a53e-e0d33d50c172/test-result?orgId=1&amp;var-case=3e990c08-e998-4a59-8b11-2848c6af820f">http://results.tests/d/c67086ee-6574-4330-a53e-e0d33d50c172/test-result?orgId=1&amp;var-case=3e990c08-e998-4a59-8b11-2848c6af820f</a>
+kto wiedział
+nie no z tym to już serio spierdalaj
+nie będę takiego gówna do qa wrzucał
+<a href="https://t.me/lmastalerz">@lmastalerz</a> jebnie wam coś? <a href="https://app.clickup.com/t/86953yh8u">https://app.clickup.com/t/86953yh8u</a>
+Z pewnością
+;)
+Ale nie u mnie
+Daj chwilę
+Ok, autor się zgadza
+ja mam gotowe do zmergowania
+poszło
+teraz tylko ignorować ten task Łukasza
+dobra pany, pytanie mam
+ważne
+kiedy i gdzie
+SD4 wyjebane
+Jajca
+ja na ciebie też i co z tego
+13
+ja nie wiem gdzie i kiedy default jest żaba
+<a href="https://sls.io/beta/backend-v4/pipelines/pipeline/124625/execution/669792760f19da2faa81048f?actionExecutionId=669792760f19da2faa8104d2">https://sls.io/beta/backend-v4/pipelines/pipeline/124625/execution/669792760f19da2faa81048f?actionExecutionId=669792760f19da2faa8104d2</a>
+mmmm
+504
+moje ulubione
+ile razy ja je mam XD
+jak przełączam branche
+reset tam przejdzie
+łukasz jest biedny
+bo ja nie mam dostępu do pipeline back-endu
+<a href="http://www.bielskosmakuje.pl/gdzie-na-lunch-w-bielsku-bialej/">http://www.bielskosmakuje.pl/gdzie-na-lunch-w-bielsku-bialej/</a>
+i mu o release dupe truje zawsze
+tu jest blisko
+bliżej niż do żaby
+ngl
+pytanie czy mają dzisiaj chłodnik
+nie narzekaj, to się święty spokój nazywa
+chcesz drugi?
+właśnie nie chce
+to ci zagrzeją
+nie mogę namierzyć co mają dzisiaj
+można spróbować
+kiedys jak patrzylem na menu to ceny zacyznaly sie od 50
+zix
+<a href="https://www.magentabb.pl/wp-content/uploads/magenta-menu-przewodnie-2024-03.pdf">https://www.magentabb.pl/wp-content/uploads/magenta-menu-przewodnie-2024-03.pdf</a> że to?
+no to jest zwykłe menu
+i tak nigdzie na stronie, fb czy ig nie widzę nic o tych zestawach
+niby post z lutego to nie aż tak dawno
+zawsze ta mimoza zostaje xD
+yep
+25zł
+nie no imo sprawdzic warto
+i caczynaja sie
+to chyba lepiej isc na tego burgera na rynku
+podobne ceny a smaczniej
+.
+no to podejdziemy
+zawsze można tamtędy po prostu przejść
+nie ograniam
+do <s>Selleo</s>
+może jeszcze kogoś spotkasz
+nooo parę osób stamtąd znam z praktyk xd
+lub z technikum
+jest też Michał 🤔
+Selleoleoleoleo
+kurde ludzie niby chwalą to astro za docsy fajne, ale se tak klikam po tym <a href="https://starlight.astro.build/guides/css-and-tailwind/">https://starlight.astro.build/guides/css-and-tailwind/</a>
+i strona padaczki dostaje przy przechodzeniu a nextra to 0 jakichś śmiesznych ładowania strony od nowa i jest git
+astro ma swoje plusy i minusy ;v
+zależy kto co potrzebuje
+tak jak wszystko oprócz PHP tam są same minusy
+nie no
+w PHP można porządny gównolit napisać
+tak patrząc na docsy możliwości wydają się dosyć podobne ale nextra dużo lepiej działa 😆 najbardziej kłuje w oczy przechodzenie między podstronami
+już prawie się zmartwiłem że może astro będzie lepsze ale niekoniecznie
+12:50 -&gt; do przerwy zostało T - 10 minut.<br>Wezwij Łukasza <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines</a>
+Łukasz, za 4 minuty przerwa!!!!!!!!!!!
+❤️
+a ja wyzywam
+😂
+przyzywam cię
+przezywam cię od szmat
+smart
+to ma dysk
+albo allegro
+no to witamy linki na devie 💀
+jakie linki?
+i ja moge wezwa. was ?
+jeszcze 15 wiadomosci i bedzie 5 k
+Kto jeszcze idzie
+<a href="https://t.me/shipurjan">@shipurjan</a>
+?
+@@
+I niby dlaczego miałbym ruszyć dupe?
+@@
+0
+5
+4
+3
+Co
+2
+Czemu
+Get
+I nie wróci więcej
+haloooo
+ciekawe labelki na figmie 🤔
+wszystkie są light
+ale jest labelka
+i s t n i e j e
+komuś się chciało
+W tym roku czekają nas:<br>- QIK (już końcówka)<br>- Targety (do wyjebania połowa testów)<br>- Visual Testy (jebać front, QA ma mało roboty)<br>- Tunele (to będzie przejebane do testów)<br>- Environmenty (nie wiem o co chodzi dokładnie)
+Poza tym to drobnica
+jakie w tym roku 😆
+to jest raczej wszystko co już zostało zaczęte
+W tym roku to zejdzie do testów
+kto pytał
+a jest szansa że dojdą kolejne rzeczy jak tylko to skończymy
+w sumie
+bo nikt nie zapytał
+Ja zapytałem
+Krzyśka
+masz, wybierz sobie
+Autos?
+Co to?
+autobus, ale taki, co nie straszy
+Czekaj, to figma?
+ta
+A to jebać
+Na ligmie jest dużo projektów których lifespan został skrócony do -1
+możesz uprzejmiej?
+Np. branched pipelines
+tak samo jak czas developmentu hehe
+popatrz, designy już mają w figmie
+nad niektórymi rzeczami front i backend pracują
+to qa się opierdala
+jak zawsze
+🖕z pozdrowieniami od QA
+grzeczniej
+bo inaczej....
+czemu
+właśnie taska pod to szukam
+bo zniknął xD
+Poszukajcie na innych listach i wyłączcie filtry
++ włączcie closed taski
+I subtaski
+inbox
+tylko to nie jest to
+był od tego
+na 100%
+XD
+ale jak dasz coś na closed to znika na zawsze
+nie o to
+o to mi chodiz
+xD
+znika pod stosem innych closed tasków
+Nie żeby coś ale nie zobaczycie closed na current
+Różnica między czymś, co znika, a czymś, co się gubi, jest subtelna, ale znacząca.<br><br>    Znika:<br>        Charakter: Oznacza, że coś przestaje być widoczne lub dostępne w sposób nieoczekiwany i nagły. Może to być zarówno proces naturalny, jak i wynik działania zewnętrznego czynnika.<br>        Przykłady: Mgła, która się rozprasza; ciecz, która paruje; osoba, która wychodzi z pokoju i już jej nie widać.<br>        Kontekst: Zniknięcie może być zarówno trwałe, jak i chwilowe. Często pozostaje możliwość, że to, co zniknęło, może się pojawić znowu.<br><br>    Gubi:<br>        Charakter: Oznacza, że coś jest stracone lub zagubione, najczęściej przez nieuwagę lub nieostrożność. Często wiąże się z czynnikiem ludzkim.<br>        Przykłady: Zgubienie kluczy, zgubienie się w lesie, zagubienie dokumentu.<br>        Kontekst: Zagubienie ma bardziej trwały charakter i sugeruje, że odzyskanie zagubionego przedmiotu jest mało prawdopodobne, choć nie niemożliwe. Jednak może to wymagać znacznego wysiłku i szczęścia.<br><br>Podsumowanie:<br><br>    Zniknięcie jest procesem, który może być chwilowy i mniej zależny od człowieka, często opisuje stan przejściowy.<br>    Zagubienie implikuje działanie człowieka, nieuwagę i większą trwałość sytuacji, gdzie odnalezienie zguby jest bardziej skomplikowane i mało prawdopodobne.<br><br>Mimo że coś może się &quot;zgubić bardzo dobrze&quot; i być praktycznie nie do odnalezienia, to jednak nadal różni się to od zniknięcia, które może być procesem naturalnym i mniej zależnym od działań człowieka.
+tldr
+Znika:<br>        Charakter: Oznacza, że coś przestaje być widoczne lub dostępne w sposób nieoczekiwany i nagły<br>Gubi:<br>        Charakter: Oznacza, że coś jest stracone lub zagubione, najczęściej przez nieuwagę lub nieostrożność
+imo raczej znika
+<a href="https://youtu.be/2fopl7-2wT0?si=rLl_WFhWp0rpy5vL">https://youtu.be/2fopl7-2wT0?si=rLl_WFhWp0rpy5vL</a>
+chyba cie bog opuscil.
+Ale super!
+Odpalilem nixos na ios
+Tylko to o artykule z 2014 było xD
+9:20 -&gt; do przerwy zostało T - 10 minut.
+mądrze napisane
+sam bym tego lepiej nie ujął
+<a href="https://app.clickup.com/t/86954wnu5">https://app.clickup.com/t/86954wnu5</a>
+💀
+no dobra, gdzie problem
+powinno być 404
+albo wyjebka na <a href="" onclick="return ShowBotCommand(&quot;pipelines&quot;)">/pipelines</a>
+pokazuje wszystkie informacje dla wybranej akcji
+i elo
+won&apos;t fix?
+jak ktoś by to mógł zrobić? produkując sztuczny path czy usuwając coś z bazy
+i to i to nie jest normalnym użytkowaniem 😆
+wpisuje losowe znaki jako nazwę akcji
+ale to trochę wina usera vibes
+bo to trzeba celowo
+Tak czy srak wygląda to chujowo
+to zamknij oczy
+zaciśnij zęby
+i strzelaj z czołgu
+Mogę ci pokazać mój design
+chyba dupe
+i też nie
+bo nie chcę
+*chłodnikiem
+Cieplnikiem xDD
+Jeśli to jest to co myślę to nikt z nas
+<a href="https://app.clickup.com/t/2wgmraj">https://app.clickup.com/t/2wgmraj</a>
+Chyba tak
+git blame twierdzi, że 12.06 wleciało po raz pierwszy 🤔
+To pierwsze jebać
+a to już nie rzuca sww tak po prostu?
+chyba, że to wina backendu
+mhm
+tam jest fajnie, bo sww bez stack trace leci
+a robiłeś ty kiedyś coś, co ci radość sprawiało?
+czy wszystko
+&quot;jebać, jebać, gówno, jebać&quot;
+Obrażałem ciebie, zakańczałem skarpetę, pisałem w C#, wystawiałem bug-i
+i to wszystko tu w firmie?
+Nie, skarpetę zakańczałem w domu
+I C# też w domu pisałem
+i feature flaga i chyba też trzeba w adminie zmienić dla workspace
+czyli tutaj to tylko smutny chodzisz?
+nie działa nam XD
+Nie, bo jesteś ty
+u mnie działa na https://localhost:9998/admin idk
+u mnie zarówno ten localhost nie działa 🙃
+ani link bożq
+site is unreachable
+a przez pozostałe 5/6 miesięcy?
+Wystawiałem bugi
+czyli smutne życie
+na drutach robi
+No jak robisz na drutach skarpetę i nadchodzi dzień w którym kończysz nad nią pracę to zamykasz wszystkie oczka i ubierasz na nogę gotowy produkt
+B
+C

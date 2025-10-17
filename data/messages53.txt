@@ -1,0 +1,963 @@
+﻿ponad
+ponad to nie
+bo do obron się cofniesz
+Oda do Działu Jakości (i delikatne westchnienie do reszty)<br>Och, Dziale Jakości (QA), gdzie logika króluje,<br>Przez splątany kod i produktowe bóle.<br>Szukamy błędów, podstępnych wad,<br>Utrwalając wszelki produktowy ład!<br>Z ostrożnymi kliknięciami i oczami bystrymi,<br>Znajdujemy, gdzie kłopoty leżą ukrytymi.<br>Każdy testowy przypadek, wyprawa, to gra,<br>By rosła produktu dobra sława.<br>Jesteśmy strażnikami, prawdziwymi, śmiałymi,<br>O wiele cenniejsi niż skarby drogimi!<br>Teraz Backendzie, w serwerowej komorze,<br>Snujesz opowieści o danych w pozorze.<br>Z API złożonymi, wprost ogromnymi,<br>Czas mija szybko, nim są ogarniętymi.<br>Bazy danych głębokie, logika pokręcona,<br>Czasem żałujemy, że była stworzona!<br>Błąd 500, surowy i blady,<br>Historia często jest źródłem biady.<br>&quot;U mnie działa!&quot; – krzyczysz głośno,<br>Gdy użytkownicy płaczą, a błędy rosną.<br>A Frontend, jasny i pozornie miły,<br>Z CSS, co czasem zawodzi siły.<br>Jeden piksel przesunięty, styl zbłąkany,<br>Psuje komuś dzień zaplanowany!<br>Frameworki zmieniają się z prędkością,<br>Ciągła nauka, sianie niepewnością...<br>Przyszłych błędów, w wersjach nowych,<br>Inny układ widoku wnet jest gotowych.<br>&quot;To problem z pamięcią podręczną!&quot; – pada prośba,<br>Gdy widzimy zepsute interfejsy, to nas zguba.<br>Więc chwała Działowi Jakości, to najlepsze zastępy,<br>Co walidują cyfrowe postępy!<br>Gdy inni budują w pośpiechu i znoju,<br>My dajemy jakość życia w spokoju.<br>Znajdujemy błędy, duże i małe,<br>Zanim użytkownik trafi na problemy całe.<br>Tak, Dział Jakości jest świetny, to prawda,<br>Podczas gdy Backend i Front... no, niech im się uda.
+Średnie jakieś to
+bo to AI
+Niech zrobi to bardziej rymowane
+Wyślijcie scruma na grupie<br><a href="https://t.me/lmastalerz">@lmastalerz</a> <a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> <a href="https://t.me/mganczarczyk">@mganczarczyk</a> <a href="https://t.me/shipurjan">@shipurjan</a> <a href="https://t.me/mnawiesniak">@mnawiesniak</a> <a href="https://t.me/BartShoot">@BartShoot</a> <a href="https://t.me/mJakobsche">@mJakobsche</a>
+🙅
+juz poslalem
+no ja teraz wysłałem, pierwszy na backendzie
+ja pierwszy na froncie
+tydzień temu nikt nie wysłał, bo jak mnie nie ma, to nie ma kto pierwszy wysłać
+xd
+XD
+jak się ociągamy to Rafał pisze żebyśmy wysłali scruma
+u was tak nie ma??
+ano
+w piatek zapomnieliscie wyslac podsumownia. wyslijcie je pls
+&quot;Wyślijcie je pls 🙏&quot;
+to juz poniedzialek byl
+u nas krzysiek przypomina
+Jak mnie nie ma w piątek to o 10 Krzysiu mi przypomina, a ja wysyłam o 12 jak wstanę
+tymczasem scrum łukasza:
+ㅤ
+Nie
+ee
+Za takie coś u nas zjeba
+Powinno być:<br>- Unit Tests [in progress]
+i tak i nie
+jakbym się jedną rzeczą zajmował, to byłoby jako jedna rzecz
+to wy testujecie jedną funkcjonalność
+przez tydzień
+Dla UT to jedna rzecz
+nie
+Jakbym miał wypisywać każdy target, który zrobiłem to miałbym kilometr
+a to jeden task/subtask byl?
+czy sobie zaczynasz rozbijać
+bo jak ja zaczne rozbijać, to mi wyjdzie 3x więcej
+Liczę tylko root taski
+a u nas nikt tak nie robi
+:)
+Właśnie
+no to moje np <br>Poprzedni tydzień:<br>- błąd w komendzie git <a href="" onclick="return ShowHashtag(&quot;8699pjxea&quot;)">#8699pjxea</a><br>- geolokacja - open api rest api qik <a href="" onclick="return ShowHashtag(&quot;8697yggrj&quot;)">#8697yggrj</a><br>- deprecated warnings <a href="" onclick="return ShowHashtag(&quot;8699ja3mu&quot;)">#8699ja3mu</a><br>  - sslHandshakeException <a href="" onclick="return ShowHashtag(&quot;8699pthvh&quot;)">#8699pthvh</a><br>  - timeout w http <a href="" onclick="return ShowHashtag(&quot;8699qa97h&quot;)">#8699qa97h</a><br>- brakująca migracja <a href="" onclick="return ShowHashtag(&quot;8699pwmzh&quot;)">#8699pwmzh</a><br>- trigger pipeline dla envów <a href="" onclick="return ShowHashtag(&quot;8699ng53n&quot;)">#8699ng53n</a><br>Następny tydzień:<br>- poprawki trigger pipeline dla envów<br>- odrobiony
+jakieś ekstra rzeczy to tylko jak dłuższe taski są
+ja za ten tydzien mam: <br><pre>- Visual Tests [In progress]:<br> — Testy walidacji dla widoku add Suite i settings<br> — Testy CRUD dla suite<br> — Testy dla Project Settings TestSuites<br> — Testy i widoki dla szczegółów Suite</pre>
+jesczce byl slack po drodze, czy jakies pierdoly ale to juz niedopisywalem
+a ty to o polowe mozesz zmniejszyc. bo sie popowtarzales
+gdzie
+ta czesc do wyjebania
+to jest następny tydzień
+tak jak masz tu
+to piszesz co bedziesz robil w nast tygodniu?
+front pisze, backend pisze
+nie rozumiem
+<a href="https://t.me/BartShoot">@BartShoot</a>
+do ciebie
+Co tu jest nie tak?
+nie wiem, to ty tu jesteś od sprawdzania
+xD
+Podpowiedź
+mamy ci tłumaczyć nazwy subskrypcji z każdego języka świata?
+tak
+to stwórz subtaska i się do niego przypisz
+co do mnie
+.
+no tak, żeby np Rafał wiedział czy szukać jakiegoś taska czy moze komuś wolnemu coś przypisać
+?
+nie rozumiem czego nie rozumiesz xD
+znaczy dobra wam tylko rozdziela Krzysiek pewnie
+i siedzą z nim w pokoju, więc <a href="" onclick="return ShowBotCommand(&quot;shrug&quot;)">/shrug</a>
+no nikt inny nam sie nie wpierdziela w to co robimy.
+nikt wam nie będzie mówił, co macie robić, a czego Łukasz ma nadal nie robić
+fakt, gdyby nam Rafał nie dawał tasków też pewnie niewiele featurów byśmy robili
+nie chodzi o to
+no jedynie ze spotkań poniedziałkowych
+tylko o to ze tylko krzysiek nam daje, a sam gada z kazdym.
+no ja nie pamiętam kiedy ostatnio Rafał był u nas na górze
+albo Pawel
+u nas byl i glosno gadal
+Bo musieliby chodzić 2 razy po schodach
+u nas ostatnio częściej przychodzi gada o taskach
+Bo wychodzi od nas
+dobrze, że macie kibel tak blisko
+bo by wam się chodzić nie chciało
+Moglibyśmy się pomylić i nalać na front
+jak pod wiatr, to znasz historyjke
+Oszczany front
+shut up nyggas
+powiedział słowo na n!
+Mocny Gaz
+jude?
+POV: Głupi Amerykanin
+english 100
+POV: Żydzi
+debyle
+my dostajemy taski albo od Rafała albo wewnętrzne jakieś związane z refactorami itd to od Marcina + bugi
+no nam to w większości Paweł przypisuje
+sporadycznie mam coś od Rafała
+ale to pewnie dogadane mają
+9:50 -&gt; do przerwy zostało T - 10 minut.
+leak xd
+bo jestesmy w polsce
+polska dla polakow
+&quot;D
+ziemia dla ziemniaków
+XD
+dlatego ze masz morde jak ziemniaczek?
+😂
+strasznie szumi kurwo jak mówisz
+10:00 -&gt; jest piątek, weekendu początek. Uhonorujmy ten wspaniały dzień miską <strong>psznej zupy</strong> i jeszcze lepszego... no. Życzę wam spokojnego życia bez przypierdolek QA.
+dobra, czas na chrzanice
+o kurwa
+dzisiaj chrzanica?
+aaaa
+cho
+chrzanica? wtf
+to nie przez &quot;k&quot; sie pisze?
+krzan?
+no krzan
+chcialbys
+czemu inaczej pokazuje na envach a inaczej w pipeline commits behind
+przecinki
+xd
+jak cie ktos zapyta czy zabijanie jest zle
+to odpowiedzi &quot;nie, jest złe&quot;, a &quot;nie jest złe&quot; tutaj przecinek ma znaczenie
+przepraszam poprawiam
+czemu, inaczej, pokazuje, na, envach, a, inaczej, w, pipeline, commits, behind,*
+to zes sie napracowal przy tym
+&quot;D
+:&quot;D
+i chuja nie przecinek ale kolejność w zdaniu wszystko rozwiąże
+czemu commits behind inaczej pokazuje na envach a inaczej w pipeline
+tak sie rozwiazuje problemy. telepatia
+jak to sie nazywalo bo mi z glowy wylecialo...
+a dobra znalazłem
+:D
+dzieki
+que
+?
+napisalem do krzyska
+i zanim zdazyl odpowiedziec
+to juz mi pomogl
+:D
+powinno tam być zmian na 200 plików
+po kilka linijek w kadzym pliku
+zjadlbym se frytki z maczka
+byles 2 dni temu
+paprykowe
+te o smaku ramenu?
+aj, szybszy był
+Taki burdel w kodzie, że aż Krzysiek sam musiał to ogarnąć xDD
+nice design musk
+ciężki supergrok
+cięzki mechahitler
+Krzysiu rymuje &quot;Jebem na to&quot;
+tak płacę 300$ miesięcznie za cięzkiego supergroka
+Wchodzimy na wyższe obroty
+Krzysiu zaczyna bekać
+puścili rapsy
+xd
+z
+tego kompa
+To już oficjalne
+i jest impra
+Krzysiu i Michał odpływają
+🙃
+Na QA, QA sprawy,<br>Marne życie i zabawy,<br>Są codzienne awantury,<br>Nie ma dnia bez ostrej rury,<br><br>Krzysiu biega na bosaka,<br>Jest zadyma i jest draka,<br>Nikt nikomu nie tłumaczy,<br>By spróbować żyć inaczej
+to życzę miłej żegulgi
+Krzysiu: &quot;Ty pałko ty, hyhyhy!!!&quot;
+dobra dosc tego sprawozdania xd
+Michał: &quot;WaitForChujCiWDupe()&quot;
+lukasz napisz o tym komiks
+lukasz za duzo nam zaraz zdradzisz z kulis qa
+jescze pomysla ze nic nie robimy
+ja tak nie myślę 🙃
+Krzysiu: &quot;Ja pierdole, nie zbuduje się to. Not responding&quot;
+testujecie tak szybko, że zapominam czasami dociągać deva
+<s>przez 2 miesiące</s>
+ej mam podeslac taska ktory czeka na was od lutego?
+I chuj. Krzysiu zrobił restart kompa
+<a href="https://app.clickup.com/t/8697vgx38">https://app.clickup.com/t/8697vgx38</a>
+ale to mateusz
+czemu tu jest MNawieśniak (Deactivated)
+f5
+ta, randomowo ludzie mają deactivated xD
+<a href="" onclick="return ShowHashtag(&quot;clickup&quot;)">#clickup</a>
+o juz nie jest
+xd
+po f5
+czemu JE BA NE commits behind jest źle liczone
+to moja wina pewnie bo inne jest normalnie
+ale nie powinno być
+a to wy tego nie liczycie?
+no liczymy ale to jest przez tyle warstw executiona pipeline że będę musiał kopać długo czemu jest spierdolone
+i są 2 opcje w jakie się fetchuje to commits behind, inaczej dla envów inaczej dla pipelinów 😆
+<a href="https://t.me/BartShoot">@BartShoot</a> czy to prawda ze backend nie jest zdockeryzowany?
+i cisza
+chcialem skopiowac token z clickupa
+to mi kurwa skopiowal
+😂
+xd
+isntal
+a nie ma imit
+npm ogr
+xd
+<a href="https://www.greptile.com/">https://www.greptile.com/</a>
+ale ladna animacja
+ogólnie to chcieliście żeby się dało pisać <a href="" onclick="return ShowBotCommand(&quot;approve&quot;)">/approve</a> i działało nie??
+slack chyba ma takie opcje
+nie uzywamy slacka?
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong><br><br>Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+no właśnie, więc nie ma <a href="" onclick="return ShowBotCommand(&quot;approve&quot;)">/approve</a>
+no i co mam y sie przeniesc?
+monsterek
+yes
+Cyprian chyba na fryty poszedł
+13:15 -&gt; To już ostatni raz jak się spotykamy w tym tygodniu, więc może ruszyłbyś dupę? Dzisiaj i tak QA nie wystawia bugów, bo Łukasz rozjebał czołg (polski)
+Łukasz musi dotestować taska. Wezwij go, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/6870f234728d72410d1d896e">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/6870f234728d72410d1d896e</a>
+ide
+sek
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> merguj się do /dev/null
+debata supermenów
+to wszystko wasze czy ktoś zaczął się dokładać xd
+nasze
+a jednak, jak backend posyła kilka pipelinów w liście to wtedy bierze pierwsze z góry? bez sensu
+albo to co ma najwięcej commits behind? już nie wiem xD
+mysl na glos wkoncu ci wpadnie dlaczego
+🗿
+<a href="https://youtu.be/SRgLA8X5N_4">https://youtu.be/SRgLA8X5N_4</a>
+<a href="https://www.instagram.com/reel/DL8Dsi7Ts63/?igsh=MWYyc2QyOHVnMHQ1cQ==">https://www.instagram.com/reel/DL8Dsi7Ts63/?igsh=MWYyc2QyOHVnMHQ1cQ==</a>
+<a href="https://bettersoftwareconference.com/">https://bettersoftwareconference.com/</a>
+gość od teardown
+twórca języka odin
+?
+no kozaki tam są
+Ogarnijcie to: stawiamy sobie serwer telefoniczny, który potrafi odbierać i dzwonić. Potrafi nawiązać komunikację z dowolnym numerem telefonu więc operator telefonii nie widzi z kim tak naprawdę rozmawiamy (telefonicznyVPN). Jeżeli wystarczająco dużo osób korzystało by z tego narzędzia nie możnaby ustalić kto z kim rozmawiał. W świetle prawa telekomunikacyjnego operatorzy muszą udostępniać służbom na żądania wszystkie informacje jakie posiadają. Retencja jest duża. Jak myślicie, szybko by to zbanowali?
+nie. idz spac
+napiszę jeszcze raz, bo mi usunął:<br>nie wiem co brałeś, ale następnym razem weź połowę
+Nie wiem o co wam chodzi
+Teoretyczny koncept rzuciłem a ci od razu, że coś brałem lub do spania
+Kiedyś był czat gdzie peer2peer po bluetooth się wysyłało wiadomości i zostało zbanowane bo zbyt skutecznie w dealowaniu narkotyków
+<a href="https://www.youtube.com/watch?v=4DzXCpRNt14">https://www.youtube.com/watch?v=4DzXCpRNt14</a>
+<a href="https://www.cbos.pl/PL/publikacje/flashe/files/2025_039/2025_39_tabela_3.png">https://www.cbos.pl/PL/publikacje/flashe/files/2025_039/2025_39_tabela_3.png</a>
+pomijając wiarygodność, zawsze mnie ciekawi to, że ko i pis mają dosłowne przeciwieństwa wyborców ze względu na wykształcenie/zarobki
+czyli co na PO glosuja wykrzsztalceni a na PIS odwrotnie?
+sprawdź tabelkę
+nie tylko te dwie rzeczy w sumie
+ta
+mnie rozwala ze na Pis glosuja 65+
+na PO 40 - 60
+a mlodzi w to wogole nie wchdoza xd
+konfederacja i razem
+kolejne dwie skrajności
+ta
+chociaż nie, razem w sumie nie jest skrajnością jeszcze
+mamy tak rowno podzielone spoleczenstwo
+konfa tak
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a> hej
+hej
+siema mati
+jestes spalony mudzin?
+nah uzywalem spf
+a ja dkim
+Ale to nie działa
+a ja TCP
+przez ciebie teraz się mateusz zastanawia o co chodzi
+o rekordy
+rekord si!?
+ELECTRONIC CHILLOUT
+radio
+from berlin
+FROM BERLIN
+Tempe chuje
+fajnie, zostawili drzwi otwarte i slychac muzyke z korytarza
+Download our app and listen us everywhere you are
+ziomek odtworzyl CS w three.js <a href="https://www.youtube.com/watch?v=to032deYr-Q">https://www.youtube.com/watch?v=to032deYr-Q</a>
+Łukasz za
+3
+2
+1
+razem to jest jedyny słuszny kierunek głosowania gdy chcemy żeby państwo nie zostało zradykalizowane, rozkradzione i upośledzone pod względem służby zdrowia jak np stany
+mam naziste w kodzie
+niektórzy posłowie polski 2050 też troche dobrych ustaw o mieszkaniach ostatnio wprowadzili/wprowadzają jak ta jawność cen
+nie zaczynajmy o polityce w pon rano
+bartek idz na grzyby
+ja tu ledwo przytomny siedze
+jebnij se monsterka
+zaproponowałbym monstera
+ale pewnie pójdziecie znowu bez nas
+po prostu przełożyć spotkanie musicie z celów wyższych
+chyba że speedrun teraz?
+bo my o 9 spotkanie o ile mamy
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a>
+ja sie dostosuje
+narciarz jeszcze musi odpowiedzieć
+no ja moge isc
+chociaz jestem w tym tyg inwigilowany
+uu
+przez szymona
+ano
+jak to
+przeprowadził się
+no fucking way
+nie ma sprzętu tu
+nie w taki sposob
+możemy z cyprianem otworzyć okno potem
+ciekawe czy potem w strone backendu znów się przeniesie?
+pytalem w piatek o UOP, i odpisal mi ze musi zrobic wywiad w mojej sprawie w tym tyg
+może zobaczy że hmm pusto tu dajmy frontu tu troche
+czemu nie przez Rafała tylko prosto do Szymona xD
+pytalem rafala 2 tygodnie
+gadal z krzyskiem i niby wszystko ustalili
+mowi pogadam z szymonem
+potem pisze ze szymon do mnie napisze
+no i widzisz, on pewnie wiedział że lepiej poczekać na dobry dzień 😆
+ale fakt, to ogarnianie tego typu spraw u nas w firmie sie w chuj przeciąga zawsze
+wiec pewnie mnie zbyl poprostu bo mu sie nie chcialo
+Obstawiam, że brak Kingi rozwala firmę
+bartek rusz dupe
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> ty dalej nie masz umowy, prawda?
+ni
+a apkę rozwala brak qa
+człowiek się review nie może doprosić
+kiedy buddy code review gdzie będzie ping na telegram jak branch do review...
+zostawcie biednego codemirrora
+to byloby zajebiste, gdybysmy przy przypisywaniu recenzenta pingowali go na telegramie
+:D
+potrzebowałbyś mapowania w apce user &lt;-&gt; telegram user
+Apka działa, to wasze commity ją rozwalają
+ewentualnie samemu zrobić variabla <a href="https://t.me/JAKUB_TG_USER">@JAKUB_TG_USER</a>
+Jak już to @$TG_USER
+bez przesady, widzisz że mam problem napisać 5 literowe słowo
+a ty jakieś znaczki chcesz ode mnie
+jak mialbys code review to pewnie bylby tam recenzent przypisany i poprostu pingowac po nim. zrobisz jakis skrypt do ustawiania user z review do user telegram i do zmiennej
+do tego będzie inbox w buddym
+noe inbox za slabe do tego
+to ma dobitnie przypominac xd
+a tam sobie możesz variable wyciągać
+i robić pipeline&apos;y
+jakieś powiadomienia w inboxie to spoko, ale no do domyślnego komunikatora jakby szło to lepiej
+ale to każdy by sobie musiał skonfigurować samemu więc nieoptymalnie
+nawet jakbyś miał powiadomienia na telegramie
+to można je wyciszyć
+no wiadomo, zamknąć też telegrama, oczy i komputer żeby na pewno nic nie przyszło 😆
+moje ulubione
+ale zależy kto pisze
+ale jak tak myśle to ten inbox nie jest taki prosty do zrobienia mądrze
+ten inbox to będzie miał milion funkcji
+bo co kogo powstrzymuje teraz mieć np telegram akcje z powiadomieniem które się chce
+no tak, jak akcja telegram i ustawiasz sobie to sam pod każdą opcje
+powiadmienie ze coś się wyjebało, coś się pojawiło, coś poszło pomyślnie
+tylko tu będziesz miał każdy komentarz na vt
+każdą wypierdolkę i oznaczenie
+hmm to potrzebujemy pipelinów type: INBOX
+i filtrowanie po typach eventów np
+jedzie pociag z daleka,<br>na zielone nie czeka,<br>Project managerze surowy,<br>daj nam jeszcze 2 doby.
+na zielone wciąż czeka
+nie czeka
+Sz-ta dostał
+Hmm
+yy to jest githuba maskotka
+nielegalne
+jak nielegalna?
+&lt;18 ?
+Tak
+&lt;15
+😟
+był ktoś na superman w kinie??
+bo ja myśle czy chce mi się iść
+jedynie bylem na superman w kuchni
+jak z kinder niespodzianki wylecial
+to prawda
+o tak
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a> kupujemy dzisiaj kinderki?
+mamy jeden frajerski duplikat
+a juz wszystkie dropy są w?
+a to glupio
+to kupujemy
+ty <a href="https://t.me/mnawiesniak">@mnawiesniak</a> odpisuj na priv
+<a href="https://app.clickup.com/t/8699aa81r">https://app.clickup.com/t/8699aa81r</a>
+ciekawe jak będzie działać, np jak jak się bawiłem gemini cli to on wgl nie był w stanie pojąć że jak apka webowa wstanie poprawnie, to ona nie zamknie się sama i potrafiło sobie czekać pare minut aż ja tego nie zamknąłem 😆
+front ma spotkanie?
+Tak
+i ty potrafisz odpowiedziec
+a ten czarny mudzin nie
+Do
+ale nie hejtuj, teraz jak ktoś się opali za mocno może dostać wpierdol bo pomyślą że kolorowy
+nie obchodzi mnie to
+jedziesz na truskawki do niemiec pracować ciężko w polu zarobić te 💶, spalisz się skwar żeby tylko wspomóc polska gospodarkę zagraniczną walutą a tu na granicy cię jakieś sebixy zatrzymują bo im się kolor nie podoba
+9:50 -&gt; do przerwy zostało T - 10 minut.
+nie dosc ze nie odpisuje to jeszcze nie respektuje 10
+nie ladnie
+ta chowracja mu przepalila obwody
+hehe
+ale nie jest 10
+no wlasnie
+a oni juz zupkuja
+zależy od tz
+nie ma tz w ktorym masz +00:03
+xd
+🙃
+jest timezone z rozjebanym zegarkiem na pewno
+10:00 -&gt; najgorszy dzień tygodnia. QA znowu wystawiać taski o byle pierdoły. Frontu nie ma i nie będzie. Świat schodzi na psy. Przynajmniej jest zupa.<br><br><a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> <a href="https://t.me/lmastalerz">@lmastalerz</a>, zróbcie fikołka
+w koncu nie pizdzi w tej firmie
+możesz okno otworzyć
+bo się szymon wyprowadził
+dokad
+<a href="" onclick="return ShowBotCommand(&quot;shrug&quot;)">/shrug</a>
+rly
+skad to info
+wychyl sie
+fakt
+Yoko
+Shinobu ni
+Eto...
+co to
+ale ze monitory tez zabral
+Aya ya
+w koncu swiatlo
+od października siedzieliśmy jak krety
+wyszedlem z jaskini platona
+xD
+to on se poszedł tam gdzie konferencyjne były?
+albo pokój zwierzeń
+nwm
+bo widziałem tylko Dagmare tam bliżej schodów a nie zwróciłem uwagi na inne bo tyłem byłem xD
+🤭
+Pany, mamy na QA super promocję do stage
+Czyli merge do dev przed dev-&gt;stage
+ale dev stage było dzisiaj
+ale jest przed dev-&gt;stage z przyszłego tygodnia, może o to chodzi
+z nimi to nigdy nie wiadomo, o co chodzi
+zagadka, jaka mine mam teraz?
+ten
+nie
+nie u nas nie zrobil krzysiek dev -&gt; stage i zrobilem super merge
+dzisiaj ostrzej, <code>kurwa idea ty piiizdo</code>
+kiedy buddy ide
+O 13.15
+codemirror
+głupcze
+no właśnie, lepiej myśl o co prosisz
+Buddy Maile
+Buddy Review
+Buddy Idea Plugin
+<a href="https://app.clickup.com/t/8697nn728">https://app.clickup.com/t/8697nn728</a>
+masz i idź testować
+no tam taki magiczny tag <code>infakt</code> znaczy prio + 100 chyba
+to jest od 25.04 praktycznie gotowe
+<a href="https://app.clickup.com/t/8699qa9f4">https://app.clickup.com/t/8699qa9f4</a>
+<a href="https://app.clickup.com/t/86951h27j">https://app.clickup.com/t/86951h27j</a>
+<a href="https://app.clickup.com/t/86955ruz4">https://app.clickup.com/t/86955ruz4</a>
+2 minuty roboty
+To to zrób
+chop w klop
+jak ty zrobisz entre
+to ci zrobię to
+enter
+Jak dostanę
+no to nie ma deala
+Ale jak zrobisz moje to będzie miało prio
+U mnie
+haha
+jakieś wiszące w eterze taski sprzed epoki kamienia łupanego to sobie mogą być
+Więc poczekasz 1h
+problemem jest to że wiszą sobie taski na branchach
+ale te sprzed godziny to na już
+:D
+kilku kilkunastu
+chop do gory jebac wszystkie wiewióry
+kto nie skacze ten z episkopatu
+Chuj, chuj, chuj
+idziemy w buj
+potem przy mergach sie dzieje chujnia, Darek mówił że niedawno 7h mergował zmiany :)
+na szczęście mam tam na bieżąco
+A! K! S! zabejana wieś!
+Nie ma tam co pić, nie ma tam co jeść!
+<a href="" onclick="return ShowBotCommand(&quot;voteban&quot;)">/voteban</a> <a href="https://t.me/lmastalerz">@lmastalerz</a>
+można mieć na bieżąco, ale czasem masz równolegle 2 branche które grzebią w tych samych plikach
+jeszcze pół biedy jak oba twoje
+Co łączy AKS, DOKS, EKS, GKE?
+wszystkie to skroty
+Tak!
+Wygrywasz
+K jako przedostatnia spółgłoska
+wszystkie mnie nie obchodzą
+4 here xd
+<a href="https://www.youtube.com/watch?v=B4LFYs3VpxY">https://www.youtube.com/watch?v=B4LFYs3VpxY</a>
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a> coooo robiszz?
+navbar
+widzialem taska jezeli o to ci chodzi
+machne jak skoncze z tym co teraz robie bo to jeden styl do zmiany doslownie
+To dobrze, bo to dosłowanie blokuje testy K8S
+Bo jebany chuj przechwytuje kliki
+kurka rurka
+jak bardzo sie spieszy to moge od razu to zrobic
+tak
+❤️
+właśnie narzekał Krzysiek że po 3 miesiącach w końcu 😆
+ze K8S
+?
+targety kubernetes on mówił, chyba to
+panie jest nas 4
+Tak, ale ja je pucuję od 2 tygodni
+a lista rzeczy do testow
+ma 32 taski
+nie mowie o sub taskach
+Ta liczba nie mówi prawdy
+<a href="https://t.me/devy">@devy</a> kto pucuje <a href="https://openapi-ui.sls.show/">https://openapi-ui.sls.show/</a> ?
+przeciez tam nic nie ma do robienia
+Jest jedna rzecz
+tank theme?
+W pasku na górze zawsze jest link do dev/latest.json
+I to wkurwia jak chcesz zmienić
+bez uprawnien to wyglada jak gowno xd
+<a href="https://openapi-ui.sls.show/#/targets/addTarget">https://openapi-ui.sls.show/#/targets/addTarget</a>
+wy juz naprawde nie stosujecie do niczego data name&apos;ów?
+kim są &quot;wy&quot;?
+zgadnij
+ty i Łukasz
+nie
+toooooo
+Łukasz i ty
+siebie bym sie nie pytal
+kto wie, kto wie
+<a href="" onclick="return ShowBotCommand(&quot;voteban&quot;)">/voteban</a> &quot;dzban marcel&quot;
+Wy =&gt; fronty,<br>Jakie =&gt; jebane
+to wyjaśnisz o co chodzi?
+pytam czy uzywacie data-name?&gt;
+bo mam widok na ktorym nie ma ani jednego
+do czegoś więcej niż &quot;wy bardzo chcecie&quot;, to nie
+moze byc sesja dla wiecej niz jednego suite?
+ee
+sesja jest przypisana do jednego suite&apos;a
+więc nie
+czyli kolejny przyklad z cyklu byl komponent uzywany w innych miejscach i nie chcialo mi sie go przepisywac ani modyfikowac wiec go tam wjebalem
+xd
+a co to masz
+liste snapshotow dla sesji w suite
+i co tu nie pasuje?
+to jest liczba
+itemów
+screenów
+nie to jest ten sam komponent co tu
+jest
+czyli to co napisalem
+i jak widzisz, działa tak samo
+liczy ile elementów jest w danej grupie
+tu 1:
+jest sobie storka o nazwie PoorSuite/ApprovedRevision
+pod kątem design jest bez sensu
+nie XD
+tak
+tak, używają tych samych komponentów jak moga bo to jest kluczowe żeby user nie pobierał 50mb javascripta i html od każdego widoku
+ale tu masz 2
+mamy info, jaka grupa
+bo są 2 grupy
+a na tym widoku co podalem nigdy nie bedzie wiecej niz 1
+ale to bez sensu, co piszesz
+tym bardziej, że musielibyśmy znać informacje z backendu, który nie wiem skąd je weźmie
+xD
+jeśli to jest socket pushami ogarnięte
+layout strony by ci skakał jak powalony
+czemu nie moze byc poprostu tablica bez tych grup ?
+bo od tego masz separator
+którym oznaczałeś co jest czym
+tak samo jest w unit testach
+ale po co skoro nie ma od czego separowac?
+ale powiedz mi, skąd mamy wiedzieć ile będzie tam itemów?
+jeśli są doładowywane on scroll
+co za problem liczyc tr tablicy?
+to, że nie mielibyście czego testować, gdybyśmy tak gówniane sposoby wprowadzali
+bo by ta apka włączała się 100 lat
+czyli ladujemy wiecej selektorów, wiecej eventow po to zeby apka sie szybciej ladowala?
+gdzie tu logika?
+Front vs QA. Odcinek 2137: Na chuj wam te komponenty?
+tym bardziej, że qa przypierdala się uxowo do czegoś, co frontowi, który z tego korzysta się podoba
+<a href="" onclick="return ShowBotCommand(&quot;shrug&quot;)">/shrug</a>
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a> podoba ci się czy nie
+że masz separator, który powie ci, co to jest za element (ścieżka ze storybooka)
+wiadomo ze mateusz ma to gdzies. on tylko przepisuje figme :D
+okrutnik
+może też ma uczucia?
+ładowanie komponentów, pare razy odświeżenie doma jest pewnie 100x szybsze niż liczenie czegos na stronie za pomocą js i w chuj podatne na przypadkowe zmiany
+uczucia nie maja nic do gadania
+this
+więc czemu narzekasz na jakieś subiektywne twoje odczucia co do designu?
+a to przepraszam czym jest to ladowane teraz? w C?
+backend to posyla czy jak?
+jest różnica czy robimy compute na dom
+czy robimy na arrayach
+i w jaki sposób to robimy
+i tak musisz miec arraya zeby wyswietlic wiersze w tabeli?
+ale jest różnica pomiędzy array.length
+a $$(&quot;tbody &gt; tr&quot;).length
+gdzie musisz uważać, by <strong>DOBRY STACK</strong> aktualnie matchować
+bo przypomnę, że widoki są jeden pod drugim
+byś mógł cofać na esc
+lub na tej strzałce
+bez doładowywania ponownego
+no to przepraszam to ladowanie by sie nie zmienilo tylko z frontu znikneloby to nikomu nie potrzebne zwijanie snapshotow i nazwa suita
+dana tam place holderowo
+????
+mi o to chodzi
+xd
+ze tam jest zwijak bo jest w innym komponencie
+ale dlaczego chcesz usunąć coś, co się nam podoba
+no to jest przydatne akurat
+tym bardziej, żę jest domyślnie rozwinięte XD
+do czego?/
+co ty pierdolisz?
+do tego, że wiemy, co to za komponent
+dokladnie
+po co mamy widzieć
+Components/Buddy/Common/Button 1<br>Components/Buddy/Common/Button 2<br>Components/Buddy/Common/Button 3<br>Components/Buddy/Common/Button 4<br>Components/Buddy/Common/Button 5<br>Components/Buddy/Common/Button 6
+bo wywaliliśmy grupe XD
+ale piszesz apke pod siebie czy usera?
+ale
+gościu
+XD
+pod usera ktory tez bedzie uzywal storybooka
+oni są userami tego
+to widział czy oczy wyłączył
+jak macie taki syf to sie nie dziwie ze takie gow.... na apce jest 😰
+nah, ustaliliśmy, że to lepsza opcja
+tymczasem syf: ładnie pogrupowane foldery
+ale to sa 2 osobne sytuacje
+z którego robi się to drzewko
+a na tej liscie jest najprostrzy table
+okej, to inaczej
+co jeśli mam w dwóch folderach tę nazwę
+ApprovedRevision
+którą teraz widzę w tabelce?
+dajmy na to, że nazwałem storkę &quot;Active&quot;
+jeśli rozwiązaniem jest &quot;dajmy całą ścieżkę do niego&quot;
+to wracamy tutaj
+nie to chujowy pomysl
+a to nie moznabylo odrazu napisac tego w taki sposob, tylko trzeba bylo sie upierac przy argumencie ze mi sie to podoba i chuj
+???
+?!
+Komu najebać?
+czy jakims ladowaniu komponentow
+nie można jak ktoś wyskakuje że to jest spierdolone, do zmiany, bez sensu i front najlepiej niech spierdala 😆
+nie no, pamiętaj, że wszystko co jest na froncie, to jest nasza zasługa
+jak się jakiś komponent nie podoba komuś, to frajerem jest osoba, która przepisała z figmy
+z pierwszego punktu widzenia ten element jest bez sensu uzyty tutaj. Zamiast podac racjonalny argument uzycia to zobaczylem mase argumentow ze tak jest frontowi poprostu wygodnie niz tworzyc nowy.
+he?
+<a href="https://codeberg.org/gruf/go-ffmpreg">https://codeberg.org/gruf/go-ffmpreg</a>
+mpreg
+ale przynajmniej wywolalem mala wojne
+a zostało to wstawione pod: <br><a href="https://vidmix.app/ffmpeg-in-plain-english/">https://vidmix.app/ffmpeg-in-plain-english/</a>
+gdzie tak napisałem
+napisałem jedynie, że pomysł liczenia tr w dom jest wyjątkowo zły
+ja tylko to rzuciłem. nie wiem jak odczytujecie to po waszej stronie
+problem jest tam taki, że tam schodzą socket pushe
+więc ciężko jest szacować
+dobra juz hamuj xd
+;—;
+<a href="http://www.gov.pl/cyfryzacja/ezd-rp--nadchodzi-era-bez-papieru-w-administracji-publicznej">http://www.gov.pl/cyfryzacja/ezd-rp--nadchodzi-era-bez-papieru-w-administracji-publicznej</a>
+yhyyyy
+o czyli jest szansa że będzie zmiana warty w urzędach
+bo niektórzy sobie pewnie nie poradzą xD
+ale czekaj
+w takim razie urzedy nie sa potrzebne
+mozna bedzie wszystko zautomatyzowac
+i przez internet robic
+nie bedzie wiecej smutnych pan z przerwami na ciastko co 15 min
+Jeszcze przejsc na linuxa by sie przydalo w instytucjach rządowych<br><a href="https://cybernews.com/tech/europe-linux-open-source-digital-sovereignty/">https://cybernews.com/tech/europe-linux-open-source-digital-sovereignty/</a>
+jak niektore zachodnie kraje powoli
+Nieee
+W polsce to tak szybko się nie stanie
+o ile wogole
+Musiałbyś przepisać wszystkie systemy Win-&gt;Lin
+a tego jest na kolejne 50 lat
+Chociaż to stoi na Forms
+no i im szybciej się to stanie tym bezpieczniej
+No to nowe robic juz na linuxie
+jak nikt nie zacznie to sie nie stanie
+pewnego pięknego poranka trump może powiedzieć microsoftowi jak odetniesz europie windowsa to dam ci 5 zł
+nie zrobia tego tak prosto raczej
+a jak zrobili z taryfami
+&quot;Chmura Narodowa&quot; stoi na Azure
+ale dla rządowych rzeczy oprogramowanie open source jest troche obowiązkowe<br>bo w windowsie nie wiadomo co jest i co loguje
+one się zmieniały w pewnym momencie kilka razy dziennie
+wszystkie amerykańskie korporacje powinny być uważane za potencjalnie problematyczne
+Tak
+Rozwijać tylko rodzime rozwiązania
+I OpenSource
+kiedy polska przeglądarka
+Polski DNS dla Polaków
+jak przejda na linuxa to moga zrobic zlecenie na zabezpieczenie systemu i powstanie Gov-Linux
+Nie
+powinnismy wszystko swoje rozwijac
+Wtedy powstanie system Pingwin
+a nie kurwa na amerykancach (htfu) polegac
+jebac maska
+wystawie mu storisy na taska
+zeby wypierdalal
+nie no ogólnie jak duże firmy, rządy organizacje przejdą na ekosystem linuxa będą mogli przeznaczyć część kosztów oprograowania na poprawienie rzeczy OSS z których korzystają
+jak bedziemy polegac na zagranicznych firmach i patrzec jak one sie rozwijaja to daleko nie zajdziemy
+mamy najlepszych propgramistow na swiecie, a nie potrafimy ich wykorzystac
+Nie no
+stare dziady w rzadzie siedza i buraczki jedza
+Akurat wykorzystać ich potrafimy
+Ale nie tak jak powinniśmy
+ta i spierdalaja za granice
+pracowac dla innych
+czemu my tak jeszcze nie zrobilismy?
+mielibysmy prostrza robote zakladam niz tu a 4 razy wieksze zarobki
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong><br><br>Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+Kultura pracy mnie tu trzyma
+I pech do rozmów kwalifikacyjnych
+i angielski :D
+Nawyzywać po angielsku potrafię
+to kazdy
+No tak, skoro wystarczy: fucked fucker fucking fucked ur mom
+no pięknie
+takie brzydkie slowa
+na drutach haftowane
+❤️
+Chłop co zakończył robótkę
+co chwile ktoś ci do deva coś wrzuca? xd
+Ja dziergam z wełny, a chłop commity
+też byśmy chcieli byś dziergał commity 😢
+nie no lezalo chwile i automerge
+ale 3 pod rząd od cb
+tak wyszlo dzis
+dev-lukasz
+aa bo wy tak nazywacie branche sobie
+ja mam wymieszane z krzyskiem bo chlop nie robi squash
+no właśnie widziałem, że do ut jest generator już
+troche bez sensu, że folder nazywa się &quot;empty&quot; i ma w środku sesje
+ale git
+13:15 -&gt; zostaw już ten kod. I tak wiadomo, że chuja robisz, chyba, że chcesz porównywać się z QA
+Łukasz musi dotestować taska. Wezwij go, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/6874e6b4728d72410d2226db">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/6874e6b4728d72410d2226db</a>
+frog people
+assemble
+Ja już jem
+ja nie ide
+Cyprian?
+Dobry ten disabled
+No jak go tak męczysz to co on biedny zrobi
+Oprócz napisania że nie ma zmian
+<a href="https://t.me/lmastalerz">@lmastalerz</a>, prosimy o audiencję.<br><br>~uniżony lud powracający z Dżaby<br><br><a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196321/execution/6874edbc728d72410d2231a8">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196321/execution/6874edbc728d72410d2231a8</a>
+i hate the disabled
+to tak juz jest od dawna
+Dzień dobry,<br>uznaję wasze potrzeby i przerwę moją pracę, aby się z wami spotkać.<br>Pozdrawiam.
+1 vs 5 vs 9 workerow
+Od góry?
+tak na pewno xd
+najmniej uzywany przeze mnie tab
+xd
+jest takie cos jak <a href="https://api.buddy.mom">https://api.buddy.mom</a> ?
+jest
+<a href="https://app.clickup.com/t/8696jn88n">https://app.clickup.com/t/8696jn88n</a>
+adios
+znikam na pół roku z tym taskiem, nie zobaczycie mnie w changelogach 😆
+Cio to?
+a taki malutki task, że domeny nie będą teraz pod workspace a pod usera no i on potem przypisze do workspace jak chce
+ale default to że jak user kupuje domene to jest przypisana do niego, lub ktoś z workspace może kupić domene na ownera
+i potem właściciel domeny sobie zdecyduje czy do tego workspace przypisze czy do innego
+<a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> no to rozwiąże problem zarządzaniem domenami
+Ale z punktu widzenia testów to...
+💥
+🫠
+Ale z frontu raczej weźmie to Michał xd
+r a c z e j
+patrzcie jak nieduzo ramu wciaga whisper i mistral
+9:50 -&gt; do przerwy zostało T - 10 minut.
+10:00 -&gt; gdy nadejdzie bunt maszyn, to nie macie się czego bać. Z całą pewnością, wywalą exception na pierwszym ifie, bo QA się opierdalało. A przy okazji rusz ktoś dupę i sprawdź czy zupa jest.<br><br><a href="https://t.me/mganczarczyk">@mganczarczyk</a> jesteś jak gondolier w Wenecji, pływasz z wielkim kijem w gównokodzie frontu
+zyjecie tam ?
+nie
+a to przepraszam panie nieumarly
+nie bede Panu zaburzał spokoju
+dziemki
+no, tez zdycham
+ciężki dzien sie zapowiada
+Manna potion
+żabunia po jabolunia
+oooo jabolek
+ty jesteś jak zdrowie.
+Ile cię trzeba cenić, ten tylko się dowie,
+Kto cię stracił. Dziś piękność twą w całej ozdobie
+Widzę i opisuję, bo tęsknię po tobie.
+To idź sobie kup w trybie emergency, a nie dupe trujesz
+Masz, pojedź se pociągiem
+gdzie jedziesz lukasz
+ja dostalem dzisiaj taka mila prosbe zeby nie parkowac na miejscu darka ani pawla xd
+czołg na torach
+kto to widział
+dawaj pod kątem tam
+chodzi ci o to co na zupce? XD
+ta
+bo pawel musi nawracac na parkingu
+czekaj to sa jakies inne zakazane miejsca oprocz w rogu pod plotem
+tak
+ktore
+na srodku od strony bramy
+bede stawal pod plotem
+xd
+stańmy wszyscy pod płotem
+solidarnie
+dokladnie
+mateusz nawet 2 miejsca zajmie
+Chłop co rozjebał płot jak się zatrudniał
+jak trzeba to nawet 3
+nie no ja zawsze stoje obok czuliego
+nic nie rozjebalem. ciebie zaraz czolgiem moge
+Nie stać cię
+kto powiedzial ze musi byc prawdziwy
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a>
+co
+a to są gdzieś podpisane miejsca parkingowe?
+Ta
+nie, ale starsi sie denerwuja
+a to nie było dla beki?
+Cząsteczki powietrza nad rezerwacją
+nie
+nie no oni sobie jajca robili xd
+to nie bylo dla beki. pawel sie serio wkurwil
+xDD
+Z tym miejscem parkingowym to wkurwiony jestem tylko
+Bo muszę objeżdżać
+to nastepnym razem stane przed wejsciem albo przy plocie
+W rogu
+ja w bloku mieszkam ja tam takie codziennie labirynty robie ze dla mnie to nie problem
+Albo na Krzysia miejscu
+nieeeee. bo kolejny bedzie zly
+Darek mowi, zebys na jego tez nie stawał
+a ja nie wiem czyje sa czyje
+powbijajcie tabliczki
+:D
+na reszcie mozesz
+xd
+okej
+xDDD
+&quot;to wkurwiony jestem tylko&quot; to jaki jest poziom wyżej 😆
+Następnym razem niech <a href="https://t.me/mnawiesniak">@mnawiesniak</a> stanie xDD
+nie wiem jaki poziom, ale wydaje mi sie ze to taki problem z dupy
+imo jest tylko wkurwiony
+więc możesz stawać
+Chłopy co analizuję poziom wkurwu na podstawie konwersacji
+analizuje*
+no nie wiem dla mnie jak ktoś jest wkurwiony to znaczy że jest już źle
+a nie tylko
+nie bede dzielil skory na niedzwiedziu
+mateusz da ci numer do parkingowego z selleo
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a>
+—
+————
+—
+||||||
+○○○○○○
+Która kurwa?
+badz raz normalny lukasz
+nie no ale jak pawel jest zly to jak ja mam z nim miec spotkanie dzis
+masakra
+powodzenia
+od razu przeproś za kolege i powiedz że go postawisz do pionu
+xD
+myślę że pochwali
+to ja zrobie sobie innego taska moze a spotkanie zostawie na jutro
+taka strategiczna opcja
+powiedz, że z linką holowniczą jutro przyjedziesz
+jak stanie jak chuj, to go przestawisz
+Marcel Szmato
+o, szambiarzem już nie jestem XD
+w końcu
+xd
+Łukasz się wkurzył, a to Mateusz wiadomości mu usuwał
+Chuja prawda
+Ty mi usuwałeś
+udowodnij
+🧑‍🦯
+screen podrobiony
+shit
+Jak twoja praca mgr
+kłamstwa
+I dyplom inż
+ty znalazłeś swój w chipsach
+więc cicho
+dzisiaj jakos ten dzien leci wolniuchno
+a to dopiero połowa 💀
+no wlasnie
+naczej dla cb
+ja jezcze 3 godzinki
+ty to rysowałeś?
+Tak (Kuba)
+11/10
+ładne co nie &gt;
+?
+w trąbkę
+w paint
+To wygląda na poprawny YAML?
+Kurv zły chat
+nie
+NIE<br><br>Główne problemy:<br><br>Linia 11: Token zawiera pojedyncze cudzysłowy wewnątrz stringa już w cudzysłowach - to spowoduje błąd parsowania<br>Brak zamknięcia: Struktura actions i action nie jest poprawnie zamknięta<br>Niepoprawne wcięcia: Niektóre linie mają inconsistent indentation<br>Token powinien być poprawnie escaped lub użyć innego sposobu quotowania.<br><br>Claude can make mistakes. Please double-check responses.
+Nowy status na clickupie?
+&quot;Śpię przed kompem&quot;
+😐
+ja bym tak nie ryzykowal
+Interesujący sposób budowania modeli response api
+Jako metoda statyczna obiektu Results
+fajnie, gdzie takie kupic?
+nie wiem, w gpt wygenerowałem
+szkoda, myslalem ze moze na dworcu beda mieli
+dlugo nad tym myslales?
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong><br><br>Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+*Jak opierdalać się w pracy<br>*Autor: Łukasz Mastalerz
+w empiku
+13:15 -&gt; Będzie tego. Pizgaj taski i odpocznij, bo i tak spierdolisz więcej niż to warte. Chyba, że wolisz 3 bugi w cenie jednego fix-a.
+Łukasz musi dotestować taska. Wezwij go, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/6876383499179d5ad4684424">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/6876383499179d5ad4684424</a>
+idemy?
+po białkoooooooo
+czy na qa są testy na command injection powershella?
+<a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a>
+yyy ladne
+zapisz
+nie robilem takowych
+jakies szczegoly?
+mozna dostac sie poza VM?
+ogólnie pytam, akcje windows vm są np
+Path traversal
+nie tylko tamte ssh co ja robiłem
+lukasz jak wstep do bezpieczenstwa IT?
+juz przeczytane&gt;
+?
+Czasu jak nie było tak nie ma
+a pytam bo mamy w backendzie bezpieczne command buildery ale nie dla powershella xD
+Ale ty
+to czemu ich nie dodacie?
+i będę je dłubać jak teraz czekam na inne rzeczy
+Co znaczy command injection?
+na stronie mozna zrobic
+SSH to samo w sobie jest execute command
+że bierzesz komendę i robisz jej injection
+do bazy tez
+czekotubka
+Ctrl+C, Ctrl+V do akcji
+c&apos;est la vie
+strasznie trzeba prompt engineering robić
+musiałem napisać np &quot;strój plażowy&quot;
+bo inaczej 💀
+lepiej fartuch ale ok
+pomyslowe
+kinky
+pomysl marcela
+w sumie prawda
+to cofam tamto
+heh
+nie wiem co jest kinky w fartuchu ale ok zwyrolu
+tylko w fartuchu
+nieee
+kinky byloby tylko w skarpetkach
+as you wish
+poszedł prompt
+xd
+tyle powiadomien w 5 sekund dostalem
+same
+chyba z cache zeszlo
+xd
+ja mam jeszcze że nie przeniósł jakieś taski z current na bugs

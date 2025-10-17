@@ -1,0 +1,952 @@
+﻿ha powodzenia
+jak nic rok roboty
+nie zapomnij o pipeline&apos;ach na sls, które robią codziennie jego pełny backup
+no zależy ile byśmy chcieli funkcjonalności
+ale taka funkcja w buddy wskazana
+taski, listy, labele, due date, przypisywanie, watchers, komentarze, details cos jeszcze?
+ale read only? czy też edycja
+edycja
+tagi
+bo read only raczej czill, edycja to już jebanie sie
+czyli labele
+nie, to gówno niżej
+branch, developer
+itd
+no to details
+details wziąłem jako opis
+aaa
+to description
+duzo musielibysmy przerzucic
+no jest tego dość trochę
+załączniki
+cały wysiwyg do opisu
+💀
+nie no najczęstsza funkcjonalność to odpisywanie i odbijanie
+zrobi się cache sqlitem żeby można miec podgląd instant czy dobrze trafiliśmy i potem doczyta się request czy nie ma nowych rzeczy - i to będzie jakoś zakomunikowane że fetching new changes a nie magicznie może się wczyta może nie
+sww przy ladowaniu musi byc jako EasterEgg
+takie SWW (loading)
+ale dzisiaj taskami rzucam :D
+ale niestety zostało tylko 58 failed
+zbliżam się do końca
+Robimy w Go?
+coooo?
+po co&gt;
+?
+jako hobby
+no właśnie nie wiem, czy backend jest potrzebny? czy to nie czasem po stronie klienta
+nie mas co robic w domu&gt;
+?
+wut
+a bo Ty o terminalowym myślisz? no w sumie xD
+no co prawda koduje teraz inną apke w Deno, ale taki program do taskow tez chcialem
+niekoniecznie, po prostu zrobic glowne API w Go, bo to latwy i dosc szybki jezyk, a pozniej udostepnic bindingi w JSie zeby zrobic front
+No bo glowny szkielet takiej apki to po prostu API do zapisywania do bazy danych
+i jakies odswiezanie w czasie rzeczywistym
+/ kolaboracja
+A na froncie mozna po prostu callowac te komendy potem
+ja w głowie miałem zrobić po prostu dobrego clienta do clickupa bez zbędnych bajerów
+Albo skupic sie wlasnie przede wszystkim na CLI, a skoro byloby open source to uzytkownicy mogliby robic swoje nieoficjalne GUI
+No to jak chcesz to zrobic tylko po froncie?
+fetch + sqlite po stronie użytkownika 😆
+do ich api
+No a skad ma fetchowac?
+A czyli ty chcesz rozszerzenie clickupa, a nie nowa apke
+No spoko, tylko nie wiem jak z api clickupa
+wydaje mi się że mają dobre, na pewno odczytać można większość
+api clickupa dziala niezle z tego co testowalem
+chetnie bym sie dolaczyl
+tylko mam uprzedzenia co do go : P
+no jak uzywalibysmy api clickupa to wtedy nie trzeba backendu w go
+tylko front
+ja narazie nie mam czasu, ale jak bedziecie jeszcze pisac a ja skoncze swoje to sie dolacze
+no ja też jeszcze nie mam czasu, bitad bym chociaż trochę zrobił
+a na bitad nie mam czasu bo przeprowadzka 😆
+za dużo tam mikroserwisów macie
+ja czas moge znalezc jakos : P tylko trzeba by to dobrze zaplanowac
+i tyle wam schodzi na wymyślanie działania XD
+no po czasie widzę że architektura mikroserwisów ssie, nawet jeśli to ma sens to nie jest coś od czego powinniśmy zacząć
+tylko ewentualnie z czasem monolit na to rozdzielić
+wogole taka apk anie powinna byc na mikroserwisach
+spoko jest mieć taką wiedzę ale na ten moment docker compose ma prawie 200 linijek, głównie serwisy potrzebne do ogarniania logów 😆
+a apka nawet nigdzie nie stoi jeszcze
+no imo trochę zabraliście się od złej strony za to
+bo trochę dziwnie jest stawiać mikroserwisy
+jak nie masz ani jednej linijki kodu
+działającego z funkcjonalnością
+ale gowno 😂
+więc nie wiesz czy któregoś serwisu nie wywalisz
+bo okazał się zbędny
+ale poświęcisz na niego x czasu, by go ustawić
+ale jak powiem to głośno, to małpiszon zaczyna cisnąć
+o moje ulubione
+areMeAdmin
+zmień
+proszę
+isMeAdmin = me.isAdmin
+isMyselfThyAdmin
+każdy mikroserwis jest na tyle mały że napisanie go to będzie max pare godzin jak już będziemy mieli gotowy template pod to
+AmIAdmin
+brzmi jak templatka pod każdy inny projekt
+if (whoAmI === &quot;admin&quot;) {<br>// ...<br>}
+<pre>if (whoAmI === &quot;snake&quot;) {<br>  console.log(&quot;Why Are We Still Here? Just To Suffer?&quot;);<br>}</pre>
+useIsMeAdmin()
+Every night I can feel my leg
+panowie
+<a href="https://app.dev.io/elroylandongonzalez/domains">https://app.dev.io/elroylandongonzalez/domains</a>
+mail
+heh
+ale ogólnie wy do tego źle podchodzicie, to powinien być serwis, mianowicie <code>IsAdminServiceImpl</code>, implementujący interfejs <code>IsAdminService</code>. musi to być injectowane, a metoda <code>isAdmin(String user)</code> musi odwoływać się do <code>AdminDAO</code> które zwraca Ci obiekt <code>Admin</code> z bazy danych
+windows + shift + t
+zrób ocr z powertoysów xD
+wlasnie
+gdyby tylko dalo sie zaznaczyc email z ui...
+<a href="mailto:0+elroylandongonzalez@springloops.com">0+elroylandongonzalez@springloops.com</a>
+myślę że wystarczająco dużo warstw żeby przeszło review
+coni?
+xD
+taki mi zrobil
+zobaczcie czy mozecie wejsc w domene
+0 -&gt; o
+ale good enough
+teraz juz moge wtf]
+mogło deva przyścierwić
+ooo i to w huj
+domen mi nie ladowalo
+w sumie nadal tego nie robi
+co jest kurw
+ahaaa
+co tam?
+nic
+jak zycie
+dobrze
+a u ciebie?
+se siedze, znalazłem odpowiednią kombinacje deserialization features żeby zwracało te błędy które potrzebuje
+ladnie
+jest gites
+widziales taska ze zmianami stage?
+ten, co nie trafił na deva?
+ale jest na stage
+?
+ten z branchami? coś ciekawego działo się od wczoraj?
+a this
+ogólnie to nawet nie wiem czy chce na to patrzeć
+po wiadomosci rafala obgadane to nic
+doczytałem, jestem zbyt głupi żeby to zrozumieć
+ja tez nie wiem o co im tam dokladnie chodzi
+ale wniaskuje ze chca zamienic staged na takie pseudo branche z mozliwoscia deployu do glownej galezi
+no żeby jakoś na branchach były rozpisane subdomeny? co to wgl ma być
+ale narazie tak sobie gdybaja
+ktoś będzie robił sobie specjalną strukture repo do obsługi domeny? bez jaj xD
+cos tam im sie nie zgadzalo z gitem w yamlu i dlatego to raczej beda zmieniac
+boje sie ze w yamlu bedzie przechowywane info o branchach
+jak mi to odbiją i dopytam to im powiem że kto by się tak tymi branchami bawił w ten sposób, imo tylko opcja że na jakimś branchu są przechowywane zmiany które będą staged i apply stage to merge tego brancha
+narazie mozemy tylko gdybac
+kto w ogóle tak często zmienia rekordy w domenie
+tego nie będzie w yamlu, na pewno nie teraz
+by potrzebować je branchować
+w zone będzie informacja gdzie jest przechowywane
+no imo wystarczy 2 - obecne i to które czeka na merge
+tym bardziej, że stage&apos;owanie aktualnie grupuje po komentarzu
+i masz pseudo-branchowanie
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong>
+wlasnie ?
+są dwie propozycje
+albo żabka przy pzu
+albo żabka niedaleko przystanku
+zabka ok
+<a href="https://t.me/shipurjan">@shipurjan</a> musisz na nich donos napisać
+że stare bułki mają
+ja kiedys w tej pzu tez musialem zwrocic bulke bo wgl sie ugryzc nie dalo
+taką pogryzioną zwrociles?
+poślinioną
+jak mozna zwrocic bulke xd
+jasne, odlozylem spowrotem na poleczke :&gt;
+zartuje
+no wyrzucilem i dali mi nowa
+po prostu
+xd
+idzie chlop z reklamacja bulki
+no sluchaj
+szanujmy sie
+kupilem hotdoga a jest niejadalny XD
+to brzmi tak absurdalnie
+absurd to jest sprzedawac cos takiego
+wth
+tak
+ale nie widzialem nigdy nikog kto by poszedl cieplego psa zareklamowac
+widziales, bo to juz zrobilem pare miesiecy wczesniej, tylko nie zdawales sobie z tego sprawy
+its time to go
+jeszcze minuta
+13:15 -&gt; To już ostatni raz jak się spotykamy w tym tygodniu, więc może ruszyłbyś dupę? Dzisiaj i tak QA nie wystawia bugów, bo Łukasz rozjebał czołg (polski)
+Dzisiaj nie wzywamy małpiszona.
+Summoner innych. Status: 🚧👷🛠️
+<a href="https://t.me/everyone">@everyone</a> come on
+Ty se jaja robisz
+<a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a>
+Async za minute
+59
+58
+57
+27
+26
+25
+qa wy chuje
+poszliscie
+kinga pszyszla z pudlami
+pudelkami
+musimy sie popakowac na kontrole sanepidu
+czego xD
+w pon rano jest firma zamknieta bo jet kontrola z sanepidu
+i wszystkie osobiste rzeczy do pudelka
+?
+XD
+czyżby ktoś zgłosił soczek
+Skąd taki news?
+no z tego co napisał to wynika że Kinga daje pudełka żeby popakować osobiste rzeczy bo będzie kontrola sanepidu
+<a href="https://t.me/mJakobsche">@mJakobsche</a> sprawdzisz mi dla pewności czy nic w szufladzie nie mam? ale chyba tylko kabelki
+<a href="https://youtu.be/80Wg_HmLEP8?si=TsUqULX8rinpEFXK">https://youtu.be/80Wg_HmLEP8?si=TsUqULX8rinpEFXK</a>
+Sure
+XDDD
+właśnie czuli chował maść na ból dupy jarka
+💀
+xdd
+xdddd
+[SPOILER] Lista zup na ten tydzień UwU
+Poniedziałek: <span class="spoiler hidden" onclick="ShowSpoiler(this)"><span aria-hidden="true">Gulasz ognisty<br>Naprawdę zajebisty</span></span>
+Wtorek: <span class="spoiler hidden" onclick="ShowSpoiler(this)"><span aria-hidden="true">Krem z kukurydzy<br>Gładka zupa o słodkawym smaku kukurydzy, podawana z nachos i odrobiną chili.</span></span>
+Środa: <span class="spoiler hidden" onclick="ShowSpoiler(this)"><span aria-hidden="true">Arabska zupa z kurczakiem i ciecierzycą<br>Aromatyczna zupa z kawałkami kurczaka i pożywną ciecierzycą, wzbogacona przyprawami.</span></span>
+Czwartek: <span class="spoiler hidden" onclick="ShowSpoiler(this)"><span aria-hidden="true">Krem ziemniaczano-czosnkowy<br>Kremowa zupa o intensywnym smaku czosnku, z dodatkiem ziemniaków i wędzonego pstrąga.</span></span>
+Piątek: <span class="spoiler hidden" onclick="ShowSpoiler(this)"><span aria-hidden="true">Zupa z kalafiorem, ziemniaczkami i fetą<br>Lekka zupa z kalafiorem, ziemniakami i słoną fetą, idealna na zakończenie tygodnia.</span></span>
+Poniedziałek odfrunął
+Poniedziałek: <span class="spoiler hidden" onclick="ShowSpoiler(this)"><span aria-hidden="true">Żurek z pieczoną kiełbasą<br>Kwasna zupa z dodatkiem wędzonej kiełbasy i ziemniaczków, idealna na chłodne dni.</span></span>
+Marcel zmienił pewnie
+🙃
+Tu poprawione
+kurde dziwnie tak jak jestem pierwszy w biurze z backendu
+<a href="https://bielsko.biala.pl/aktualnosci/55554/od-wtorku-zmiana-organizacji-ruchu-w-centrum-utrudnienia-dla-kierowcow-i-pieszych-mapa">https://bielsko.biala.pl/aktualnosci/55554/od-wtorku-zmiana-organizacji-ruchu-w-centrum-utrudnienia-dla-kierowcow-i-pieszych-mapa</a>
+Chuj mi w dupe po całości
+mnie tylko jutro to może złapać, na szczęście nie blokują w poniedziałki xD
+nie pierwszy i nie ostatni raz
+9:20 -&gt; do przerwy zostało T - 10 minut.<br><br>Dzisiejsza zupa:<br>Żurek z pieczoną kiełbasą<br>Kwasna zupa z dodatkiem wędzonej kiełbasy i ziemniaczków, idealna na chłodne dni.
+poniedziałek rano, <a href="maselko.com">maselko.com</a> i humor popsuty
+idziemy na zupe 10:30?
+a to mi się jeszcze nie zdążył popsuć humor, dopiero potem trafie na todo które sobie w piątek zrobiłem chyba
+mądrego toaż miło posłuchać
+oke
+ok
+no i chuj, oby żurek był dobry
+huehue
+9:20 -&gt; do przerwy zostało T - 10 minut.<br><br>Dzisiejsza zupa:<br>Żurek z pieczoną kiełbasą<br>Kwasna zupa z dodatkiem wędzonej kiełbasy i ziemniaczków, idealna na chłodne dni.
+tyle że Rafał mi takiego taska wystawił 😆
+powodzxenia
+zycze neiszczescia
+czat na clickupie
+ale gowno
+nie, czemu
+teraz clickup jest 100% lepszy w tym co robi
+czyli ssaniu?
+wcześniej miałeś tylko taski które chujowo wolno działały
+zastanawiam sie ile sww w tym czacie poleci
+teraz masz do tego czat którego nikt nie chce
+heh
+9:30 -&gt; najgorszy dzień tygodnia. QA znowu wystawiać taski o byle pierdoły. Frontu nie ma i nie będzie. Świat schodzi na psy. Przynajmniej jest zupa.<br><br><a href="https://t.me/mganczarczyk">@mganczarczyk</a> <a href="https://t.me/shipurjan">@shipurjan</a> , zróbcie fikołka z 1 piętra
+<a href="https://app.clickup.com/t/8696kwhfe">https://app.clickup.com/t/8696kwhfe</a>
+!!!
+ooo kurwa
+chlop rozpisal logiczne argumenty
+imo to czat rozpisał
+ale Rafał odbił dalej
+więc chyba może kiedyś ruszą?
+ile to byloby pracy?
+W chuj i 3 kilo więcej
+zrobic propki z kolorami dla dark mode i podmieniac szablon
+Backend ma to w dupie
+Ale Designy płaczą
+A Frontend ma śmiech przez łzy
+zależy jak to zrobią, to od frontu będzie zależeć
+Fronty kończcie i tu przyjdźcie do kuchni
+backendy lajkują a frontendy udają że nie widzą
+na pewno będzie jakaś npm paczka dark mode i tam dajesz isDarkMode=true
+pora na csa
+ta i ta paczka odwraca wszystkie kolory
+na stronie
+ka tam lubie white shadow
+😐
+cssa
+to teraz jeszcze task &quot;wersja na telefony&quot;
+Pewnie jest paczka od tego
+tak
+ta co robi rotate(90deg)
+by się więcej contentu na telefonie mieściło
+xd
+no nie, z telefonami to trochę inaczej bo ciężko by całą funkcjonalność tam zmieścić
+ale może natywna apka, powiadomienia push oraz fajny podgląd na pipeliny co??
+nie ma byc cala
+Plugin do Rider-a
+plug to sobie możesz wsadzić
+tylko taki raczej analizator
+do pipel;ines mozesz np sprawdzic co sie z nimi dzieje, retry puscic
+i puscic je
+te bardziej szczegolowe to raczej nie na fona
+jak yaml
+marcel
+nie wolno cofac statusow
+cofnal z testow na front?
+z testow na front juz raczej nie, ale z frontu na backend jeszcze mozna imo
+bo to ten sam level
+dobrze, od teraz statusy tylko do przodu - jak coś w testach się wyjebie znaczy że pora na release
+Buddylang
+podoba mi sie jak w pierwszym zdaniu konwersja na buddylang stopniowo postepuje
+Z Frontu na Backend można bo to śmietnik
+<blockquote>Take a look at this paragraph. Can you read what it says? All the letters have been jumbled (mixed). Only the first and last letter of ecah word is in the right place:</blockquote><br><br>I cnduo&apos;t bvleiee taht I culod aulaclty uesdtannrd waht I was rdnaieg. Unisg the icndeblire pweor of the hmuan mnid, aocdcrnig to rseecrah at Cmabrigde Uinervtisy, it dseno&apos;t mttaer in waht oderr the lterets in a wrod are, the olny irpoamtnt tihng is taht the frsit and lsat ltteer be in the rhgit pclae. The rset can be a taotl mses and you can sitll raed it whoutit a pboerlm. Tihs is bucseae the huamn mnid deos not raed ervey ltteer by istlef, but the wrod as a wlohe. Aaznmig, huh? Yaeh and I awlyas tghhuot slelinpg was ipmorantt! See if yuor fdreins can raed tihs too.
+Bandyctwo. Jak jest status TESTS i jesteś przypięty to znaczy zjebane. Jak przypięty jest tester to może jest to testowane
+chyba, że do niego napisałeś?
+nie. to znaczy ze nie idzie dalej
+zostaje na tests ale assigne sie zmienia
+masz wiadomość na clickupie
+pomysł nie mojego autorstwa
+ale idealne dla was
+:D
+jak cos laduje na TESTS to zostaje na TESTS
+okej, to front już nie poprawia
+sami sobie poprawiajcie
+dalej moze isc tylko na WFS ale dopiero po obustronnym release na dev
+Jak jest TESTS to front nie poprawia
+waiting for...
+s?
+Tylko sprawia, że jakimś magicznym sposobem to znowu działa jak miało
+waiting for smurfs
+ara?
+ara ara?
+kiedys istnialo takie stworzenie jak dodo. jestescie pewni ze nie macie wspolnego dna z nim?
+nie mam wspólnego dnia z nim
+wieczora też nie
+pewnie mamy
+Jutro jest dzień
+Dzisiaj jest noc
+🤡
+live footage z pokoju qa
+nie, to
+?
+Ale to jest jedno i drugie
+walicie głową w robaka
+chcialem znalezc jakas ksiazke ktora polepsza myslenie albo je odblokowywuje ale widze ze nit z waszego gatunku nie stwierdzil ze brak myslenia to problem i nigdy sie nad tym nie zastanawial dlatego nie ma takich ksiazek
+Ja walę w ścianę, a Kuba z lupą
+zawsze wiedziałem...
+że <strong>jebnięty</strong>
+kto myśli ten myśli i nie ma problemu, kto nie myśli ten nie myśli więc też nie ma problemu
+to fakt
+glupi jest szczesliwy bo mysli ze wie wszystko
+po co?
+co to kurwa
+za feature
+jak klikniesz laod more to ci <a href="google.com">google.com</a> otwiera
+żeby cały workspace buddy na clickupie bardziej lagował
+czy ty tam jebles button:?&gt;
+bo pewnie co przejście ze strony na stronę chujstwo się odświeży
+ty deklu
+xd
+Serio?
+step baby?
+Yeap
+dzieci jest drozsze
+a takie stepujące też?
+malo kto lubi MILF&apos;y
+😭
+<a href="http://pierdol.one/">http://pierdol.one/</a>
+taki potencjał...
+Kuba przeczytał: wykop.pies
+uwaga.pies
+nie ma domeny .pies ;_;
+jest pics
+<a href="feet.pics">feet.pics</a>
+No nwm czy powinienem nazywac stronke o psach &quot;<a href="uwaga.pics">uwaga.pics</a>&quot;
+zobaczylbym czy istnieje ale nie chce klikac 😂
+niech ktos zda raport
+sekunda]
+nie
+kurwa trzeba kupic
+ta domena tez ma chyba NS na *
+strzelam że z wikifeet nie wygracie i tak
+?
+a
+albo to przez domain providera bo tak samo jak w przypadku maselko laduje po wejsciu na <a href="" onclick="return ShowBotCommand(&quot;lander&quot;)">/lander</a>
+już wolę <a href="maselko.com">maselko.com</a> pointować
+nie widziales kolekcji marcela chyba
+której?
+bo jest ich kilkaset
+men of culture
+ja mam gdzieś w api ile mam tych grafik
+4917431
+?
+To strona <a href="maselko.com">maselko.com</a>
+no i?
+I jest pusta, a oczekiwałem masełka
+haha
+xd
+Dodaj ktoś assasyna
+co cie tak zabilo
+<a href="https://t.me/shipurjan">@shipurjan</a> możesz pisać?
+t-
+ja nie wiem co sie dzieje
+skoro dzisiaj późno zupa była to może polujemy na knajpe która później się otwiera?
+a o co chodzi z tym maselkiem tak wgl
+znalazł domenę
+która ma dziwne ns
+bo wildcardowe
+no ale to nie powinno działać tak że wildcard nadpisuje tylko w przypadku jak nie ma exact match?
+próbuje rzucić request i się rozbija o nasz @
+w sensie to jest jakas domena widmo?
+tak jak wiekszosc
+nie wiem, Kuba wpisywał losowe słowa
+od niechcenia
+xd okej
+kiedys mialem takie przezwisko
+jak znajomi zobaczyli ze mam 14 masel w lodowce
+maselko?
+yeah xd
+a myslalem ze byles sliski
+w lodówce? dziwne... ale w zamrażarce to pare razy był cały karton 😆
+w lodowce, zeszly szybko : P
+za covidu? XD
+a nie pamiętam, pewnie też
+dziadkowie sklep mieli i czasem się dało dorwać jakieś super promki na osełke na hurtowni np xD
+najs XD
+zazdro
+XD
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong>
+może później jak zupa była później??
+jak później, to ja i <a href="https://t.me/mnawiesniak">@mnawiesniak</a> odpadamy raczej
+same
+wczesniej koncze
+ja bym poszedl 13:15
+standardowo do zaby
+<a href="https://t.me/mJakobsche">@mJakobsche</a> <a href="https://t.me/shipurjan">@shipurjan</a> a wy jak, bo możemy też iść na 2 tury
+zjadłbym coś większego niż żabka bo w domu będę bliżej 20 😆
+moze east&apos;n&apos;bull o 14 sie otwiera?
+no też o tym myślałem
+ale to tak w teorii 😆 bo z nimi to niewiadomo
+no to dwie tury
+ja sie zastanawiam, poki co nie jestem jakis glodny a wychodze po 15...
+: P
+takze chyba jednak zaba
+ty nie przyszedłeś na 6:00!?
+nie dało się
+XD
+ja przyszedlem dzis na 6
+nie no w poniedzialki zwykle tak bylem zeby wyjsc 15-16 bo mam zajecia potem z chinskiego xd
+ja widzialem jak wchodzil tajnym wejsciem o 2
+byl na zleceniu
+pewnie
+potwierdzam, stałem obok Cypriana czekając na 6:00
+Co tak długo siedzisz?
+dziwne, ja byłem pierwszy na backendzie o 8:45 chyba
+nie no co wy... o 2 mnie tu nie bylo dopiero o 6...
+dojazd długi akurat bo do bytomia jadę pociągiem 😆
+Wąskotorówką?
+east n bull coś takiego ma na stronie
+bb-&gt;kato intercity potem pewnie autobus
+oni sa otwarci randomowo w chuj
+trzeba ich chyba zapytac na miejscu
+no dokładnie
+idz spytac czy sa debilami
+jak będą otwarci xD
+13:15 -&gt; zostaw już ten kod. I tak wiadomo, że chuja robisz i jedynie QA wkurwiasz<br><br>Kuba =&gt; wypierdalaj<br>Marcel to chuuuj
+Wezwij Łukasza, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/673b2fc42a298157f1a513b2">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/673b2fc42a298157f1a513b2</a><br><br>to ty, gdy wezwiesz Łukasza, który udaje, że pracuje nad pisaniem testów do czołgów (polskich):<br>⠀  ⠀   (__/)<br>           (•ㅅ•)      Don’t talk to<br>    ＿ノヽ ノ＼＿      me or my son<br><code>/　</code>/ ⌒Ｙ⌒ Ｙ  ヽ     ever again.<br>( 　(三ヽ人　 /　  |<br>|　ﾉ⌒＼ ￣￣ヽ   ノ<br>ヽ＿＿＿＞､＿_／<br>       ｜( 王 ﾉ〈   (__/)<br>       /ﾐ<code>ー―</code>彡  (•ㅅ•)<br>      / ╰    ╯  /    &gt;
+Poszliscie?
+<a href="https://t.me/lmastalerz">@lmastalerz</a>, wiesz co się rymuje ze słowem &quot;żabka&quot;?<br><strong>RUSZ DUPE DO KUCHNI</strong><br><br>Sami wiecie kogo wezwał: Marcel Gańczarczyk<br><br> /| ､<br>(°､ ｡ 7<br> |､  ~ヽ<br> じしf\_,)〳‌‎<br><br><a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196321/execution/673b32af2a298157f1a518d0">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196321/execution/673b32af2a298157f1a518d0</a>
+🌩️🔔 przekazuje: <br>Rusz dupe
+Summoner innych. Status: polskie czołgi 🚧👷🛠️
+Dzień dobry,<br>zrobię to dla was i ruszę dupsko.<br>Pozdrawiam.
+<a href="https://t.me/BartShoot">@BartShoot</a> lecimy?
+ok chodźmy 5 po
+zabierzcie parasol
+już nie
+Ma 1.5h aby przestać padać
+xdd
+ma 1.5h aby zacząć n a k u r w i a ć deszczem
+🖕
+z gradem wielkości gumowych d... kul śnieżnych
+🍑👈
+Gogogo
+shit sry
+No coś widzę jakby śnieg padał
+śnieżek pruszy
+mandarynek misa
+Chociaż nie, teraz jeblo deszczem
+puk puk kto tam
+jebać qika
+O ty
+twoje rymy sa hujowe
+Gówniarzu zastany
+chyba upadles na glow
+Zajebany
+e
+Legia chuje a Lech mistrzem Polski
+Czy jak to szło
+Marcel fixuj kurwa
+a co ja jestem
+Szambiarz
+a ty zjeb
+moze wam przyniesc kwasu z hackera bo w huj toxic
+ale je nie wiem co on ode mnie chce
+Raczej zasadę
+Kwasy neutralizuje się zasadami
+no i co?
+czego sie madrujesz
+a kiboli neutralizuje sie palami
+A masz jedną pożyczyć na jutro?
+zdumiewające, że jednak nie chce fixa
+bo nie wiem do czego go chce
+<a href="https://t.me/shipurjan">@shipurjan</a>
+jesteś?
+na obiedzie
+To jak opierdolisz to domerguj mnie <code>dev</code> do <code>dev-regex-error-codes-8696g56gv</code>
+mogę zdalnie jak nie ma konfliktow
+To zobacz
+merged
+<a href="https://t.me/lmastalerz">@lmastalerz</a>
+Yeap, dzięki. Widziałem - rozjebałem sd1 bo za szybko puściłem release
+😂
+taka twoja praca
+😂
+spf to skrót od tego ze on spfluwa nam w twarz
+co to wgl jest, nie mogą jakichś normalnych jak A AAAA TXT CNAME i tyle?
+na co komu więcej
+heee
+<a href="https://app.clickup.com/t/8696pjvtj">https://app.clickup.com/t/8696pjvtj</a> zastanawiam się teraz którą drogą pójść - jak najmniej testów wam wywalić czy jak najwięcej
+jak wolisz
+bedziemy mieli poprostu co robic
+bo teraz muszę w sumie revertować
+tylko na głównym tabie ma wyświetlić te 2 typy w &quot;&quot;
+do it
+txt i spf
+ok
+jak zrobisz tak uznamy ze powinno byc i do tego poprawie testy
+Fronty
+Jest tam Assasyn?
+no wiesz, to ty stworzyłeś taska
+xD
+na misji
+Mam dla niego uber-urgent temat
+poszedł wybić zakon templariuszy ukrywający się na dole pod przykrywką qa
+No jest rozpiździel w tym
+Miała być walidacja na if NS == my to wypierdalaj
+A była, if NS to wypierdalaj
+ja bym jeszcze usunął ifa
+nie wiem czego to dotyczy
+<a href="https://app.clickup.com/t/8694u3jfe">https://app.clickup.com/t/8694u3jfe</a>
+oooooo
+to ruszylo
+bo to juz wiszialo dlugo
+Cofnęło się do początku
+nie, został kod błędu
+nic więcej
+heeee
+smuteczek
+ale porownanie to dziwne ma razu
+Czm?
+no czyje dziecko wylał z kąpielą
+?
+Serio nie znasz tego powiedzenia?
+nah nah nah boomer
+Kuba
+<a href="https://app.clickup.com/t/8696nnwq6">https://app.clickup.com/t/8696nnwq6</a>
+ma to sens nadal?
+bo imo nie
+jeśli ns da się dodać
+jezxeli razu zdjal walidacje
+to chyba nie ma sensu
+ale zostaw taska
+clickup nie przestaje zaskakiwać
+odbiłem do Michała, że nie mam tam raczej co robić już
+bo walidacja na poprawność rekordu jest, a nie tego miał dotyczyć task
+ok
+-1 -1 -1 -1
+dobre ma, bo znaleźliście jakiś edge case a że nikt nie miał na to dobrego rozwiązania to zostało wyjebanie dodawanie wszelkich NS
+no patrz jakie szybkie, gdzie problem
+nie wazne
+to jest tak przetestowane, że funkcje niezaimplementowane są fixowane
+9:20 -&gt; do przerwy zostało T - 10 minut.<br><br>Dzisiejsza zupa:<br>Krem z kukurydzy<br>Gładka zupa o słodkawym smaku kukurydzy, podawana z nachos i odrobiną chili.
+idealna na chłodne dni
+mniam
+m
+Ⓜ️
+no nawet czat wie, że większość zup jest na chłodne dni
+SPF ujednolicenie idzie out?
+marcel
+chyba nikt o zdrowych zmysłach nie powie fajnie tłuściutki rosół z koguta i kości wołowych idealny na gorący sierpniowy dzień?
+w tabelce chcę zostawić bez
+do importwania
+jedynie pojawią się <code>&quot;</code> w rekordach i queries
+ale ten task zamkne
+tak rozumiem tego taska
+a nie wiem, jak przetestowałeś
+testy na to sa
+jak to dasz do deva to poprostu puszcze i zmienie plik jaki importuje i tyle
+wiec wal do deva odrazu
+to nie rozsadzi wszystkiego :D
+9:30 -&gt; gdy nadejdzie bunt maszyn, to nie macie się czego bać. Z całą pewnością, wywalą exception na pierwszym ifie, bo QA się opierdalało. A przy okazji zapraszam na przerwę
+oke
+marcel fixuj to kurwa
+nie mam powodu
+waliduje mi stage
+Fixuj bo ty zjebałeś
+nie moge commitowac staged txt
+bo jest invalid value
+bo jest invalid value
+w txt?
+entery
+a stage przeszedl?
+stage ma wyjebane
+200 i elo
+to jest do smieci taka mechanika
+a user dostaje some records failed to commit
+i chuj
+no walidacja powinna być jednolita
+i tu nie ma zadnego entera
+to jest nieprzemyślane mocno 😆
+ale to backend zwraca
+bartoszu
+wiec oboje fix
+zaraz wam taski wystawie
+owrapowałeś txt w &quot;&quot;
+więc wpisanie za tym czegoś jest invalid
+A dlaczego założenie, że to jest invalid?
+A może wrzucam content w postaci jmg:&quot;cpn&quot;
+bo robisz albo bez &quot; albo ma całość albo je escapujesz(chyba nie da się escapować)
+to wówczas nie do mnie
+I chcę aby dokładnie to mi zeszło
+a do backendu
+jak chcesz, to dodajesz
+\&quot;
+to nie jest <a href="home.pl">home.pl</a>, że user jest zjebanym wordpress developerem
+sadzisz ze taki flow ma sens?
+jak wpiszę fe80::1 do rekordu A, to też spodziewam się błędu
+jak wpiszę więc do formularza coś niepoprawnego, to też oczekuję błędu
+Ale A ma jakąkolwiek validację w dns
+po froncie
+TXT nie powinien mieć żadnej
+no nie, właśnie znaleźliście case że powinien mieć
+ooooo widzisz
+a jednak
+bo user debil wsadzi &quot; tam gdzie nie powinien
+txt nie może mieć też pustych linii
+<pre>/^(([\dA-Fa-f]{1,4}:){7}[\dA-Fa-f]{1,4}|([\dA-Fa-f]{1,4}:){1,7}:|([\dA-Fa-f]{1,4}:){1,6}:[\dA-Fa-f]{1,4}|([\dA-Fa-f]{1,4}:){1,5}(:[\dA-Fa-f]{1,4}){1,2}|([\dA-Fa-f]{1,4}:){1,4}(:[\dA-Fa-f]{1,4}){1,3}|([\dA-Fa-f]{1,4}:){1,3}(:[\dA-Fa-f]{1,4}){1,4}|([\dA-Fa-f]{1,4}:){1,2}(:[\dA-Fa-f]{1,4}){1,5}|[\dA-Fa-f]{1,4}:((:[\dA-Fa-f]{1,4}){1,6})|:((:[\dA-Fa-f]{1,4}){1,7}|:))$/;</pre>
+masz
+frontowy regex na ipv6
+Ale to wywala na powerdns czy na rejestrze?
+dobra to przynajmniej dajcie userowi odpowiedni sygnal ze zjebal \
+a nie zjebales ale nie powiemy ci czemu
+napisz mi to w regexie
+co?
+validator
+[BETON]
+uzyj mozgu i sam wymysl
+ale czemu regex, indexOf(&quot;)
+<a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> co schodzi z backendu?
+Fronty nie znajo
+==0 &amp;&amp; == string.length -1 || == -1
+szukając 1 i następnego
+Im tylko [] == 0 == null
+a ten znowu swoje
+Gdzie tu masz undefined?
+ale to ty dzwonisz
+dochodzą puste linie i cholera wie co jeszcze
+dziękuje dobranoc
+i sobie licz
+<a href="https://t.me/BartShoot">@BartShoot</a> jak wypierdala backend to może powiesz frontowi że kod 2137 i wypierdalać
+nie, to akurat yaml mapper
+.
+A tak wogóle to jest jakiś error 2137?
+nie chce mi się ręcznie requesta kleić
+- type: TXT<br>      values: \&quot;dupa\&quot; test<br>to działa, najs
+ale to jest dosłownie tak zapisane, razem ze \
+yaml yapper
+ale front już waliduje coś takiego w inpucie txt
+czemu to nie może być też walidowane w inpucie stage 😆
+no o to chodzi
+i tak zostalo napisane w tasku
+nie waliduje
+albo czekaj bo request idzie
+error z backendu -&gt; invalid
+ale zwraca cos wiecej
+niz tylko cos nie poszlo wiec spr
+invalid record value leci
+bo user sie w huj nie ogarnie
+to może napisz w tym tasku
+że stage&apos;owanie zwraca 200
+bo teraz ten task wisi jako wina frontu
+cos zepsulem
+i teraz mi nawet popupy nie wyskakuja
+bo tojest wina frontu
+ty a co to kurwa jest
+co niby
+pół screena
+to tak rozdziela sie buttony?
+xd
+no i huj nie mam popupow
+po super powierzchownym researchu to sytuacja wygląda tak, że to wina powerdns - tam nie ma mechanizmu stage jest tylko put lub delete record
+żeby mieć taką walidację w stage trzeba by było skopiować walidacje z powerdns żeby działała u nas xD
+więc do wyjebania z grubsza
+czemu nikt nigdy nie widzi swojej winy tylko zawsze zwala na innych
+Dowyjebanie czy nie
+qa dowyjebania czy nie
+Klient powie swoje zdanie jako ostatni
+I jak my mówimy, że chujowe to możecie nas zignorować
+Ale jak klient powie, że chujowe to i tak będziecie to fixować
+kazdy bug znaleziony przez klienta zmniejsza wiarygodnosc aplikacji i potem apka staje sie clickupem
+My i tak napiszemy na to test-a gdy na supporcie się spłaczą, a że wy spierdoliliście to my mamy wyjebane
+to nie my decydujemy o tym czy poświęcimy nasz czas i pieniądze firmy na odwzorowanie walidacji rekordów zgodne z RFC 2137 ad Papierzum
+tak widzisz nawet ten gosciu to wie
+We zobacz czy w kodzie backendu występuje error z kodem 2137
+ja bede wystawial taski co z nimi zrobicie to nie moja w tym glowa
+nie widzę tam &quot;proszę&quot;, więc wypierpapier
+Hmm, coś nie trafiło do odpowiedniej skrzynki
+clickup ma 85k płacących klientów
+nope jest 2124 potem 2200 następny
+Łeee
+i 4 miliony ogólnie
+🙂
+no bo ssie i wszyscy uzywaja jiry
+nie, rpg calendara
+Pocałujta w dupę wójta
+idz se tam backend w js pisac
+that was a lot of damage
+Czyżbym słyszał: Tarcza szmato?
+nie, to schizofrenia
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a> jak tam grupa Buddy na tg u cb?
+IsVisible?
+false
+moze jeszcze nie przeszedles odpowiedniej inicjacji
+ciekawe na czym polega
+moze na wywaleniu deva
+Ktoś brama tego bo nie działa
+napraw
+eee
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong>
+ja mam swoje dzisiaj
+mają wprowadzić kaucję na małpki
+ja zaba
+zyska na tym środowisko bo każdy będzie dzielnie oddawał te buteleczki do sklepu zamiast je rzucać wszędzie
+straci uczciwy człowiek który tylko chciał dupnąć małpke po drodze do klubu i grzecznie wyrzucić do kosza ://
+ja tez zaba
+13:15 -&gt; Będzie tego. Pizgaj taski i odpocznij, bo i tak spierdolisz więcej niż to warte. Chyba, że wolisz 3 bugi w cenie jednego fix-a.
+Wezwij Łukasza, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/673c8144b154813c7ea52d70">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/673c8144b154813c7ea52d70</a><br><br>to ty, gdy wezwiesz Łukasza, który udaje, że pracuje nad pisaniem testów do czołgów (polskich):<br>⠀  ⠀   (__/)<br>           (•ㅅ•)      Don’t talk to<br>    ＿ノヽ ノ＼＿      me or my son<br><code>/　</code>/ ⌒Ｙ⌒ Ｙ  ヽ     ever again.<br>( 　(三ヽ人　 /　  |<br>|　ﾉ⌒＼ ￣￣ヽ   ノ<br>ヽ＿＿＿＞､＿_／<br>       ｜( 王 ﾉ〈   (__/)<br>       /ﾐ<code>ー―</code>彡  (•ㅅ•)<br>      / ╰    ╯  /    &gt;
+ja sek
+zagapilem sie
+Małpą jesteś ty, gnoju leniwy
+🤔
+Pada śnieg, pada śnieg,<br>Jebią się bałwanki,<br>Kurwa mać, kurwa mać,<br>Kto zajebał sanki?!
+spodziewałem sie ze wiersz bedzie szkalowal marcela, 2/10
+ja też
+Pada śnieg, pada śnieg <br>Jebią się kasztanki
+Tokenów zabrakło?
+9:20 -&gt; do przerwy zostało T - 10 minut.<br><br>Dzisiejsza zupa:<br>Arabska zupa z kurczakiem i ciecierzycą<br>Aromatyczna zupa z kawałkami kurczaka i pożywną ciecierzycą, wzbogacona przyprawami.
+Tak informacyjnie: Dzisiaj Krzysiek czy tam Michał nie dostaną review na 5k zmian. QA w osłabionym składzie
+9:30 -&gt; QA już na zupce, a frontu dalej ni ma. Co się odwlecze to nie uciecze, a Front i tak będzie miał okazję porzygać się zupką.
+małpa znowu się bawiła pipelinem
+małpie figle
+faktycznie w bielsku śnieg??
+u mnie jeszcze lato
+ta
+tak
+Rondo jest jego
+gdzie ty widzisz rondo
+To była referencja do tego: <a href="https://www.youtube.com/watch?v=5SbsfTcLJos">https://www.youtube.com/watch?v=5SbsfTcLJos</a>
+useRef()?
+<a href="" onclick="return ShowBotCommand(&quot;ref&quot;)">/ref</a>{rondo-jest-jego}
+<a href="" onclick="return ShowBotCommand(&quot;shrug&quot;)">/shrug</a>
+dobra zupa?
+fajna
+z ryzem
+git
+ryzen
+z ryzem z lola
+Backendy, jest ktoś?
+zależy
+Potrzebuję aby ktoś sklikał mi brancha na sd1
+w sensie? my nic nie grzebiemy z żadnym sd
+front też może, ale jak już poprosił backend
+A, Front może
+To inaczej
+no i co sie przyznajesz
+A ty sobie sam nie mozesz?
+<a href="https://t.me/lmastalerz">@lmastalerz</a>
+<a href="https://app.sls.io/beta/backend-v4/pipelines/pipeline/124629/edit">https://app.sls.io/beta/backend-v4/pipelines/pipeline/124629/edit</a>
+RunOnly
+I chuj
+A to my tez
+A krzyska nie mozesz poprosic?
+aj, ja nie mogę
+wifi mi ścierwi, bo jest wyłączone
+W trakcie pisania wiadomości opierdalał kawusię
+Teraz wrócił
+Więc...
+glhf przywolywaczu
+permisje: są<br>chęci: brak
+Nie mam settingsów
+to jebnij tym taskiem, bo potrzebujesz backend
+weź mój
+tam tylko front 😍
+We mi approvuj tego taska dalem screeny ze dobrze wyglada
+to maly task wiec nie trzeba testowac
+Niech zadecydują pięści!
+jebnij się raz lewą, a raz prawą
+to wy opierdalando uprawiacie
+<a href="https://t.me/shipurjan">@shipurjan</a> mam złe wieści
+W errorze pojebałeś Path to download z Filesystem target path
+Wraca to do nadawcy
+A, nie
+Ścieżka jest pojebana, ale nie że pojebałeś to co pisałem
+Backend mi wysyla taka sciezke wiec jak cos jest z nia nie tak to do Tomka
+Dobra, chyba rozumiem jak to działa i jak zrobić, aby bez niczyjej ingerencji test był zielony
+return true
+xd
+Blisko, ale tak
+jak cie lubią to return true, a jak nie to return false
+zrob RNG i zmieniaj ratio w zaleznosci od relacji z reszta firmy xD
+megabool isOdd(int number);
+nie chce wiedziec jak wyglada gigabool
+sigmabool
+potężny bool
+Dobra testy zielone
+I chuj
+<a href="https://t.me/shipurjan">@shipurjan</a> można mergować te common errory
+ok, czekam az tomek zmerguje potem ja
+O, semafor
+az przypomnial mi sie Ozyrys
+taki średnio sprawny ten semafor
+Podniósł się?
+Podniósł
+Jebnął później?
+Jebnął
+imo pociąg nie zdążyłby przejechać
+Panie mechaniku, piszemy rozkaz S na pominięcie semafora
+to pod shinkanseny tgv i te chińskie
+szefie, potrzebujemy w końcu zmodernizować kolej, bo sypie się na moich oczach
+nie wiedzialem ze pociagi tez sie scigaja z sygnalizacja zeby zdazyc przed czerwonym
+one mają problem, bo mają ciężej jebnąć stare baby na pasach
+Ależ oczywiście. Sygnał zastępczy trwa tylko 90 sec
+Jak nie zdążysz to ISEDR ma ból dupy
+a to nawet lepiej
+Nie do końca, bo jak ma ból dupy to nie zadzwoni ci na telefon aby cię obudzić jak czekasz 5h na bocznym torze
+Tylko zacznie do ciebie rzucać kamieniami
+Albo co gorsza młotkiem rewidenckim napierdalać w obręcze kół
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> nie zesraj się
+tam to chyba trzeba domergować deva XD
+No to rusz dupe
+daj mi rozwiązać w spokoju 6 konfliktów
+Redirect do discovery testów dostałem
+jak ktoś będzie narzekał na qika, że jeden view jest zjebany, to redirect na qa
+Mnie to tam rybcia
+jakie discovery testów
+co to za kolejny serwis
+😈
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong>
+ja dzisiaj nie ide bo jestem do pozna
+<a href="https://t.me/front">@front</a> żaba?
+spok
+13:15 -&gt; Druga przerwa w środku tygodnia. QA głodne, QA złe. Nie chcesz żeby QA było złe
+Wezwij Łukasza, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/673dd2c4b154813c7ea6ed4c">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/673dd2c4b154813c7ea6ed4c</a><br><br>to ty, gdy wezwiesz Łukasza, który udaje, że pracuje nad pisaniem testów do czołgów (polskich):<br>⠀  ⠀   (__/)<br>           (•ㅅ•)      Don’t talk to<br>    ＿ノヽ ノ＼＿      me or my son<br><code>/　</code>/ ⌒Ｙ⌒ Ｙ  ヽ     ever again.<br>( 　(三ヽ人　 /　  |<br>|　ﾉ⌒＼ ￣￣ヽ   ノ<br>ヽ＿＿＿＞､＿_／<br>       ｜( 王 ﾉ〈   (__/)<br>       /ﾐ<code>ー―</code>彡  (•ㅅ•)<br>      / ╰    ╯  /    &gt;
+3min
+ok lecim?
+lecensko
+małpa!!!
+🦍
+Małpą jesteś ty, gnoju leniwy
+Life Could Be A Dream, but with more monke<br><a href="https://youtube.com/watch?v=fHLTWJ8X7iQ">https://youtube.com/watch?v=fHLTWJ8X7iQ</a>
+ŁUKASZ
+SAMOLOOOOOOT
+<a href="https://youtu.be/RRg0MK_kAKs?si=0c9FiWfSvxQpt7Zf">https://youtu.be/RRg0MK_kAKs?si=0c9FiWfSvxQpt7Zf</a>
+🐒
+sypie koksem na zewnatrz
+mniam
+idealna pogoda do koszenia trawnika
+9:20 -&gt; do przerwy zostało T - 10 minut.<br><br>Dzisiejsza zupa:<br>Krem ziemniaczano-czosnkowy<br>Kremowa zupa o intensywnym smaku czosnku, z dodatkiem ziemniaków i wędzonego pstrąga.
+Tak informacyjnie: Dzisiaj Krzysiek czy tam Michał nie dostaną review na 5k zmian. QA w osłabionym składzie
+Tak informacyjnie: Małpiszona dzisiaj nie ma, więc QA dzisiaj w osłabion... nie, nieważne. Bez różnicy. Nie było tematu.
+to juz ta godzina? za szybko czas leci
+ta, do mnie też ta plaga dotarła
+9:30 -&gt; może i zupa bywa niedobra, ale wszystko ma swoje pozytywne strony. Przykładowo QA jest jeszcze gorsze.
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong>
+za ba?
+yeap
+ja dzis nie ide, napiszcie jak wrocicie : P
+👌
+13:15 -&gt; zostaw już ten kod, trzeba coś zjeść. front i backend w kąt, a ty znikaj stąd
+Dzisiaj nie wzywamy małpiszona.
+Summoner innych. Status: polskie czołgi 🚧👷🛠️
+2 min
+ja tez
+<a href="https://t.me/mJakobsche">@mJakobsche</a> ✈️✈️✈️
+thx
+znalazłem se 100zl na przystanku
+fajny bonus
+no
+drugi raz w życiu znalazłem pieniądze, za pierwszym razem 200zl a teraz 100
+wtf
+następnym razem 50?
+a potem 25 w banknocie
+że przecięte?
+że jakiś mega rzadki banknot
+o którym nikt nie wie że istnieje xd
+prośba
+niech to będzie 21,37:
+Wyślijcie scruma na grupie<br>@małpiszon <a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> <a href="https://t.me/mganczarczyk">@mganczarczyk</a> <a href="https://t.me/shipurjan">@shipurjan</a> <a href="https://t.me/mnawiesniak">@mnawiesniak</a> <a href="https://t.me/BartShoot">@BartShoot</a> <a href="https://t.me/mJakobsche">@mJakobsche</a>
+<a href="http://results.tests:4000">http://results.tests:4000</a>
+ładny design, tryb ciemny
+co nie?
+9:20 -&gt; do przerwy zostało T - 10 minut.<br><br>Dzisiejsza zupa:<br>Zupa z kalafiorem, ziemniaczkami i fetą<br>Lekka zupa z kalafiorem, ziemniakami i słoną fetą, idealna na zakończenie tygodnia.
+no fajnie jak by taki byl w buddy
+Tak informacyjnie: Małpiszona dzisiaj nie ma, więc QA dzisiaj w osłabion... nie, nieważne. Bez różnicy. Nie było tematu.
+sam sobie go pisz
+o wbilem sie miedzy bota
+xd
+poprawilem
+to jest to nad czym siedze od 3 dni
+margines z prawej ukradli
+a bo na macach nie dziala
+xd
+u mnie jest git
+zmniejsz okno
+i co&gt;
+i nadal nie działa
+pewnie komponent ma inne wyswietlanie na maci
+no potwierdzam wydupia za ekran i kolumny nie mieszcza tekstu
+ale to caly czas chromium xd
+no ale wam nie dziala
+masz może przeglądarkę dla ułomnych?
+a ja na edgu
+i pokrzywdzonych
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a>
+tzn?
+nie mam firefoxa
+powiedzial chromium wiec raczej nie
+ale ja pytam czy może na niej sprawdzić xD
+lukaszowie nie bedzie dzialac
+xd
+nie chce mi sie instalowac xd
+mam tor to chyba tez jest na geko?
+jednak mam, juz sprawdzam
+zainstalowal na szybko
+nie, zostalo po poprzednim userze xd
+firefox rozjebany tak samo
+co toon nie formatowal ?
+<pre>#customTab {<br>    margin-top: 20px;<br>    margin-inline: 50px;<br>    color: #f8f8f8;<br>    text-wrap: nowrap;<br>}</pre>
+fixuj to
+iiiiii dalej nie dziala
+jest taka szansa
+ze nie spushowalem zmian D:
+widzisz jacy testerzy są wkurwiający?
+fixuj to
+na już
+merge reminder
+<a href="http://192.168.10.48:5173/">http://192.168.10.48:5173/</a>
+teraz?
+better
+9:30 -&gt; jest piątek, weekendu początek. Uhonorujmy ten wspaniały dzień miską <strong>psznej zupy</strong> i jeszcze lepszego ciasta. Życzę wam spokojnego życia bez przypierdolek QA.<br><br><a href="https://t.me/lmastalerz">@lmastalerz</a>, zrób test małpy
+dobra reszta po zupce
+na firefox dalej rozjebane?
+nwm
+wejdz i zobacz

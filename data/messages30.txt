@@ -1,0 +1,947 @@
+﻿<a href="https://t.me/shipurjan">@shipurjan</a> brak czerwonego koloru na errorze to coś zjebanego czy on tak czasem ma?
+On tak czasem ma
+Ok, to wyjeban
+Tzn domyslnie powinno byc to ogarniete
+jakos lepiej
+ale nrrazie jest tak juz od dawna
+tam sie cos pozmienialo
+z errorami
+tylko nie pamietam gdzie ten task jest
+Nie, to dotyczyło czego innego
+wlasnie tego
+a nvm
+wracamy do strefy radiacji
+—-
+<a href="https://docs.asciinema.org/manual/player/">https://docs.asciinema.org/manual/player/</a>
+dzikie
+fajne
+<a href="https://asciinema.org/a/569727">https://asciinema.org/a/569727</a>
+xDDD
+Mozna zrobic konwerter mp4/mkv na cast
+na buddy tech nius wrzucić
+i kazdą klatke ascii converterem
+ciekawe ile by zajmowal taki film
+😂
+<a href="https://docs.asciinema.org/manual/asciicast/v2/">https://docs.asciinema.org/manual/asciicast/v2/</a>
+jak bedzie mi sie nudzic to zrobie konwerter mp4 na cast przy uzyciu tego<br><a href="https://github.com/TheZoraiz/ascii-image-converter">https://github.com/TheZoraiz/ascii-image-converter</a>
+dobry baner na github
+ja i moja paczka kumpli
+no tam trzeba będzie diffy robić klatka do klatki i rozróżniać co jest inputem co outputem
+przy konwersji wideo na to, kazda linia bedzie outputem
+wut
+może że stare
+mozeliwe
+ummm
+hejka naklejka
+?
+no elo, skad to zwątpienie?
+nie widzielismy sie dizsiaj jescze :D wiec pisze hejka
+Aaa, bo myślałem że wrzucił jakąś naklejkę i się nie wyświetliło
+hehe xd
+polski_czołg.gif
+Gdybym miał to bym cię podwiózł
+to jest polski czolg
+Do białki
+sa chyba 2 sztuki narazie
+lubie to ze pisze apke i ona tylko czasami ma memory leak
+musisz się poprawić, bo to zdecydowanie zbyt rzadko
+chyba tak
+moze ktorys z was wie jak tekst do clipboard dodawac?
+w js?
+<a href="https://t.me/GPT6">@GPT6</a>
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a>
+<a href="https://www.w3schools.com/howto/howto_js_copy_clipboard.asp">https://www.w3schools.com/howto/howto_js_copy_clipboard.asp</a>
+po co im podpowiadasz
+tego uzylem
+akle
+clipboard jest dostepny tylko w secure browser
+i np jak lokalnie odpale to navigator is undefined
+alert(&apos;prosze skopiuj&apos;)
+xd
+hehe xd
+9:20 -&gt; do przerwy zostało T - 10 minut.<br><br>Dzisiejsza zupa:<br>Barszcz z ziemniaczkami.
+Marcel
+Chuju złoty
+czego chcesz
+Obrażać cię
+9:30 -&gt; QA już na zupce, a frontu dalej ni ma. Co się odwlecze to nie uciecze, a Front i tak będzie miał okazję porzygać się zupką.
+to tez ciekawe xd
+tak ma byc?
+czas zwieksza sie jak kolejny upload sie uruchamia
+ale nie na pozostalych tylko na kolejnym
+?
+one sa polaczone
+zależy, jakie rozmiary plików są
+Jak akcja na dole uruchomiła się najpierw to będzie trwała dłużej
+i dla kazdego kolejnego bierze czas z poprzedniego i dodaje 1 +- 2 s
+To jest soft pararell
+A nie hard
+wlasnie nie uruchomila sie wedlug frontu
+Czyt: jak możesz pararell to dawaj, jak nie to olej
+bo ta na dole jest ostatnia
+poprostu czasy na froncie nie odpowiadaja rzeczywistosci
+nie mowi mi ze pliki marketingowej na es lecialy 4 sekundy tylko wyswietli mi nwm 35 w tym jest 4 sekundy dzialania tego a pozostaly czas to czas wykonywania wszystkich pozostalych
+<a href="https://t.me/shipurjan">@shipurjan</a> where logika tego error-a?
+pytanie do szymona raczej
+1. Go to action Run tab,<br>Button: Go to action settings
+Go to action settings nie przenosi do Run taba?
+To wytłumacz mi to
+Customowy text na ten sam przycisk
+Ale fakt ze inconsistent, wiec mozna zrobic tak samo
+W sumie juz jest tak samo
+bo w devie juz nie ma textu &quot;Go to action Run tab&quot;
+jest tylko &quot;Go to action settings&quot;
+SKRHIGkiU
+Zobacz na sd4
+alkjfhslksglakieflkgeal;gaakjhgsdkj;ltfjghSL:I
+Tzn w tresci errora jest, ale nie ma przycisku z takim tekstem
+Jak cos do zmiany to wystawcie taska
+<a href="https://t.me/lmastalerz">@lmastalerz</a> fix na linii 66
+To jest after fix czy before?
+after
+before to brak linii 66
+wina leży w tym, że tu było jednoczesne testowanie &quot;minimalnej liczby parametrów jaka jest wymagana, by stworzyć akcję z api&quot;
+a.k.a. nie ma initCommands
+Aha xD
+to string zwróci to samo
+z pustego edytora i <s>nulla</s> undefined
+ale bezpośredni compare to dwie różne rzeczy
+Łukasz, żarłoku
+oddawaj deva
+bo zdedał
+We wyszukajcie w GH coś na niezalogowanym koncie
+o, rate limit
+tuli tuli
+Fronty, wy myślicie co implementujecie czy tak byleby z figmą było git?
+a tobie co znowu?
+Ten common error jest nieosiągalny w akcjach
+jak szymon chce to oni pisza
+za to im placi
+skądś go Szymon wziął
+Hard Pararell zlicza ilość required concurrentów przed uruchomieniem
+a backend jakimś sposobem wysyła ten error code
+a może to przygotowania pod autoskalujące się pipeline
+XD
+Jeżeli dostępne &lt; wymagane jebie błędem i nie uruchamia akcji
+XDD
+może go też wysyłać tylko po api, nie w akcjach
+Owszem, ten error ma sens pod jednym jedynym warunkiem
+w nasze <a href="Messages.properties">Messages.properties</a> jest nasrane
+w sporej części nie z naszej winy
+Zostanie wysłany w setup-ie
+pieeee piuuuuu piaaaaa telgram kurwa na nerwach gra
+No tak
+w czym problem?
+Że nie jest
+to chyba inny error
+ale faktem jest ze nikt go jeszcze nie aktywowal
+tego errora
+wiec mozliwe
+tu są topowe
+trzeba znaleźć teraz errory które mają największy współczynnik error/user
+To potwierdza moją teorię, że front nie myśli
+znaczy że chujowe i nie pomaga
+Ty jestes od tego Lukasz
+Ooo, uwaga
+Zaraz Marcel się odpali
+Że ja myślę
+kurw jak na tym cos zobaczyc
+ctrl +?
++ nawet Rafal i Szymon i Tomek pewnie nie wiedzieli ze to nie fire&apos;uje ten error
+skoro dali takiego taska
+ale jak jest taki duzy scope dla errorow, to najlatwiej zaimplementowac, sprawdzic logi czy dziala i poprawic jesli nie
+gdy QA wykryje
+ctrl +
+ai upscaling
+W związku z błędem decyzyjnym na wyższym szczeblu (gdzie nie mogę miotłą walić aby fixnęli) odkładam temat common errorów na lepsze czasy
+dobrzeeeeee
+Czyli na kolejce teraz Mateusz (foldery) &lt; Bartek (yaml) &lt; Cyprian (common errory) &lt; Krzysiek (coś mi da) &lt; YouTube &lt; ... &lt; Polskie czołgi &lt; ... &lt; Task Marcela
+gdzie dział HR kiedy go potrzeba
+HeadQuater
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong>
+Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍<br>jak jesteś z frontu to się nie angażuj, bo możesz kogoś przez przypadek obrazić, jak QA. QA obraża wszystkich i oni się cieszą! to szok.
+13:15 -&gt; Druga przerwa w środku tygodnia. QA głodne, QA złe. Nie chcesz żeby QA było złe
+Łukasz musi dotestować taska. Wezwij go, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/677e6c44d4f3d87ef3c1f032">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/677e6c44d4f3d87ef3c1f032</a>
+dajcie znac jak wrocicie
+gdzie was wcielo
+xd
+<a href="https://t.me/lmastalerz">@lmastalerz</a>, wiesz co się rymuje ze słowem &quot;żabka&quot;?<br><br>Oh, life could be a dream (Sh-boom, sh-boom)<br>If I could take you up in paradise up above (You, you, sh-boom, sh-boom)<br>If you would tell me I&apos;m the only one that you love (You, you, sh-boom, sh-boom)<br>Life could be a dream, sweetheart<br><br>Sami wiecie kogo wezwał: Mateusz Nawieśniak‎<br><br><a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196321/execution/677e7178d4f3d87ef3c202d5">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196321/execution/677e7178d4f3d87ef3c202d5</a>
+xd
+Dzień dobry,<br>zrobię to dla was i ruszę dupsko.<br>Pozdrawiam.<br><br>P.S. <a href="https://t.me/mganczarczyk">@mganczarczyk</a> merguj do /dev/null -&gt; <a href="https://app.clickup.com/t/8695z9tpc">https://app.clickup.com/t/8695z9tpc</a>
+9:20 -&gt; do przerwy zostało T - 10 minut.<br><br>Dzisiejsza zupa:<br>Meksykańska zupa z kurczakiem, batatem i soczewicą.
+Tak informacyjnie: Małpiszona dzisiaj nie ma, więc QA dzisiaj w osłabion... nie, nieważne. Bez różnicy. Nie było tematu.
+9:30 -&gt; może i zupa bywa niedobra, ale wszystko ma swoje pozytywne strony. Przykładowo QA jest jeszcze gorsze.
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong>
+Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍<br>jak jesteś z frontu to się nie angażuj, bo możesz kogoś przez przypadek obrazić, jak QA. QA obraża wszystkich i oni się cieszą! to szok.
+13:15 -&gt; zostaw już ten kod, trzeba coś zjeść. qa w kąt, a ty znikaj stąd
+Dzisiaj nie wzywamy małpiszona.
+<a href="https://t.me/lmastalerz">@lmastalerz</a> napój dla ciebie
+kanal nie wiem ale sie dowiem wrzucil odcinek o historii kononowicza
+to on juz nie zyje czy jak
+zanalazlem cos takiego ale to nwm
+nie
+konon nadal żyje
+czyli falszywe wiadomosci
+<a href="https://t.me/BartShoot">@BartShoot</a> czy ty masz jakiś awers do ustawiania taska na Tests?
+Wyślijcie scruma na grupie<br>@małpiszon <a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> <a href="https://t.me/mganczarczyk">@mganczarczyk</a> <a href="https://t.me/shipurjan">@shipurjan</a> <a href="https://t.me/mnawiesniak">@mnawiesniak</a> <a href="https://t.me/BartShoot">@BartShoot</a> <a href="https://t.me/mJakobsche">@mJakobsche</a>
+lmao
+lmao
+hackuja nam mac
+o u mnie nawet po nazwie teraz
+zależy
+główny task jak ma lecieć do testów to daje że tests
+subtasków raczej nie
+czemu nie?
+robisz to chyba polowicznie
+nope, jeżeli któryś zmieniłem to dlatego że ktoś mi dał backend
+ale na reszcie będzie magiczne
+itp
+wczoraj inny task Krzysiek mi testował to jak coś znalazł task był open -&gt; naprawiam -&gt; task closed bez zbędnej zabawy xD
+hęęęę? :D
+hĘĘĘĘĘĘĘĘĘĘĘĘĘ?
+na to wygląda
+powodzenia
+zobaczymy co z tego bedzie
+9:20 -&gt; do przerwy zostało T - 10 minut.<br><br>Dzisiejsza zupa:<br>Krem z groszku i jarmużu, twaróg, grissini.
+Tak informacyjnie: Małpiszona dzisiaj nie ma, więc QA dzisiaj w osłabion... nie, nieważne. Bez różnicy. Nie było tematu.
+9:30 -&gt; jest piątek, weekendu początek. Uhonorujmy ten wspaniały dzień miską <strong>psznej zupy</strong> i jeszcze lepszego ciasta. Życzę wam spokojnego życia bez przypierdolek QA.<br><br><a href="https://t.me/lmastalerz">@lmastalerz</a>, zrób test małpy
+ooo bhoiiii
+zmień mu nazwę
+proszę
+sam wiesz na jaką
+nie wiem
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a> napisz mu
+cos w stylu szalika tylko jednostronne i nie wyjmuje sie tego
+do dupy
+to napisałeś
+ale ty perfekcyjnie napisales
+gdzie wy tam widizcie takie palce
+kurwa
+piszecie tak
+debil xd
+że się zastanawiam czy mam udar
++1
+ej no, z szalikiem to tak
+ale serio niech zmieni nazwę na ButtPlg
+jprdl
+ide po melise
+wystarczy ze na instagramie mam sam sex w wyszukiwarce
+ja też
+i co
+No kurwa, co to za jebana pogoda?! Śnieg z deszczem, mgła jak z horroru – normalnie jakby apokalipsa miała zaraz dojebać. +0°C? Co to za liczba? Ani zimno, ani ciepło, po prostu pierdolone „nic”. A odczuwalne -5°C? Wiatr napierdala z 17 km/h i czujesz, jakby ci twarz odcinało.<br><br>Precyzja? 0.5 mm deszczu. No zajebiście, akurat tyle, żeby cię uwalić i zmoczyć wszystko, a potem wiatr cię do reszty wykończy. Wilgotność? 100%, bo czemu kurwa nie. Mokro, zimno, jebana katastrofa. To już człowiek by wolał się pod lodówką schować.
+Weather at 12:00:40+0100<br>❄️   (Snow shower, mist)<br>Temperature:<br>Actual +0°C<br>Feels like -5°C<br>Precipitation 0.5mm<br>Wind →17km/h<br>Humidity 100%
+mój ulubiony prompt do gpt
+xd
+twórcze
+😂
+kiedy AI native aplikacja pogodowa
+kolejny przykład że ai = debil
+przecież lodówka na zewnątrz grzeje
+dlaczego tak sformuował to zdanie 😆
+ale ciepłe powietrze do góry leci
+więc na dole musi być zimno
+lol
+nie zimniej niż na dowolnym miejscu na podłodze
+prawda
+czym wyzej tym zimniej, dlatego w gorach np jest snieg
+a nizej ogrzewa cie jądro ziemi
+to jak działa do chuja czajnik
+na prąd elektryczny
+samo się miesza
+a, ok
+obrót ziemii i te sprawy
+wyciąga esencję energii z jądra ziemi i transferuje ją do wody
+&quot;On average, the temperature increases by about 25°C for every kilometer of depth&quot;<br><a href="https://www.reddit.com/r/geology/comments/13w9hr7/how_far_down_until_the_earth_gets_hot/">https://www.reddit.com/r/geology/comments/13w9hr7/how_far_down_until_the_earth_gets_hot/</a><br>i bonus - większość ciepła to rozpad radioaktywnych elementów a nie grzanie z jądra ziemi
+chociaż może to ten rozpad elementów to grzanie jądra ziemi?
+chuj wie
+słaby z fizyki byłem
+dafaq to bardzo duzo
+no najgłębsze kopalnie pewnie mają dosyć ciepło w środku
+maja
+najglebsza ma 4km
+i 60 do 140 stopni
+no to albo maszyny albo klima 😆
+mysle ze raczej tu powinny byc maszyny
+co do kopalni mi ostatnio wyskakuje na fb <a href="olkusz.tv">olkusz.tv</a> gdzie robią relacje jak powstają nowe jeziora po zamknięciu jakiejś kopalni
+bo pompowali w chuj wody gruntowej wcześniej
+tak
+tyllko 10 razy wiekszy
+to by mieli tunel aerodynamiczny
+ale zimno
+i pyl by wylatywal
+w sumie tak
+widzę że wy też z fizyki słabi
+tam siuranie pod wiatr mialo by katastrofalne konsekwencje
+wiatraki chłodzą bo paruje pot
+jprdl jakie okreslenie
+ale wtlaczalyby zimne powietrze z gory a wytlaczaly cieple
+i ogrzewaly ziemie
+to by ich wywiało stamtąd
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong>
+Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍<br>jak jesteś z frontu to się nie angażuj, bo możesz kogoś przez przypadek obrazić, jak QA. QA obraża wszystkich i oni się cieszą! to szok.
+13:15 -&gt; To już ostatni raz jak się spotykamy w tym tygodniu, więc może ruszyłbyś dupę? Dzisiaj i tak QA nie wystawia bugów, bo Łukasz rozjebał czołg (polski)
+Dzisiaj nie wzywamy małpiszona.
+on my way
+2 min
+3 min
+od teraz
+ok
+Ok lecim
+<a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> <a href="https://t.me/mnawiesniak">@mnawiesniak</a> <a href="https://t.me/mganczarczyk">@mganczarczyk</a>
+ja tu stoje nie pinguj
+halooo
+<a href="https://x.com/meedmeadow/status/1877260169370857628?t=4b7fDYUTwMj-0B5lDx-DSg&amp;s=19">https://x.com/meedmeadow/status/1877260169370857628?t=4b7fDYUTwMj-0B5lDx-DSg&amp;s=19</a>
+[SPOILER] Lista zup na ten tydzień UwU
+Poniedziałek: <span class="spoiler hidden" onclick="ShowSpoiler(this)"><span aria-hidden="true">Krem z kiszonych buraków<br>Gładka zupa o wyrazistym smaku kiszonych buraków, idealna na początek dnia.</span></span>
+Wtorek: <span class="spoiler hidden" onclick="ShowSpoiler(this)"><span aria-hidden="true">Bogracz<br>Pikantna zupa węgierska z mięsem, warzywami i przyprawami, bogata w smaki.</span></span>
+Środa: <span class="spoiler hidden" onclick="ShowSpoiler(this)"><span aria-hidden="true">Krem z pora i cukinii<br>Delikatna zupa kremowa z pora i cukinii, idealna na lekki posiłek.</span></span>
+Czwartek: <span class="spoiler hidden" onclick="ShowSpoiler(this)"><span aria-hidden="true">Krem z dynii<br>Słodkawa zupa krem z dyni, często podawana z dodatkiem krewetek.</span></span>
+Piątek: <span class="spoiler hidden" onclick="ShowSpoiler(this)"><span aria-hidden="true">Zupa jarzynowa z parmezanem<br>Aromatyczna zupa z warzyw, wzbogacona smakiem parmezanu.</span></span>
+rzycisk
+mój task
+utton
+nie pamiętam, kto miał tak sprawną klawiaturę
+lepsze niż ButtonPlg
+Jak myślisz?
+Wybór jest ograniczony
+no tak
+to chyba wina tej rozdzielonej klawiatury
+testujesz to?
+Nie, ale dostałem powiadomienie
+ano tak, źle zadałem pytanie
+będziesz to testował?*
+hehe
+ja to testuje
+to ci dociągłem deva najnowszego
+o kurw
+to jescze bartek niech podciągnie brancha swojego
+patrzcie, cyprian robi release będąc nieobecnym
+czarodziej
+ma osobny projekt, który robi mu release o 8:00
+uruchamiając inny pipeline
+ja za często dostaję 502 z release&apos;ów by się odważyć
+;x
+wooooooo
+poprawilem rzyciskiem
+jaki branch
+records-qik-access-level
+daj znac jak zaciagniesz
+5 min bo chce e2e testy jeszcze sprawdzic
+w tamtym tygodniu qik internal api dostało e2e testy na każdy endpoint ode mnie bo nie było jeszcze
+no to rob
+jest
+ok
+już javascript nie ma tak zjebanego nazewnictwa
+imagine, że szukasz pracy jako .netowiec
+wchodzisz na linkedin
+i musisz szukać
+.NET
+NET
+i DOTNET
+xd
+a jeszcze się pytają, w którym frameworku jesteś zajebisty
+to masz do wyboru
+.NET
+.NET Core
+i .NET Framework
+Co ty pierdolisz?
+.net framework to legacy apki
+nikt sie nie pyta o takie rzeczy
+xd
+.net core to jeszcze starszy śmieć
+Pojebało ci się z rekrutacją na front end
+Umiesz TS?
+Umiesz React?
+Umiesz Angular
+Umiesz HTML? Nie
+mylisz języki z frameworkami
+.
+Tak naprawdę jeden chuj
+Każdy framework różni się od poprzednich że stanowi jakby osobny język
+gdzie nie pojdziesz to beda pytac czy potrafisz w notatniku pisac asembler
+mhm
+raczej o aws
+tez
+to tak jakbyś powiedział, że node 18 i 20 to różne języki xd
+To samo powiedziałeś o C#
+co niby
+ja piszę o .net
+a nie o c#
+tak samo rozróżniasz node&apos;a i js/ts
+C# i .NET to praktycznie to samo
+ale node i ts nie
+nikt nie [isze w F#
+ani VB
+ja tam nie wiem
+bo ssą pale
+?
+czasami lubicie grać na nerwach, czasami na fortepianie
+macie zakaz na rozmowy o językach
+<a href="" onclick="return ShowBotCommand(&quot;shrug&quot;)">/shrug</a>
+zagraj na szymonie
+powiedział javowiec
+a czy ja wam coś mówię o tej javie 😆
+zrobiliście już update na najnowszą javę 8? xD
+a dokładniej 21
+: o
+najnowszy lts chyba na ten moment
+piszę w javie tylko dlatego że buddy jest w javie, piszę w kotlinie bo qik jest w kotlinie 😆
+ale wy rozrzutni
+gdybym sobie coś swojego pisał to pewnie java żeby do portfolio było
+a czemu nie piszesz
+jeszcze mi pewnie powiesz ze nie masz czasu?
+farmazony
+bo mi się nie chce i gram w gierki ostatnio xD
+ja mam 6 projektow otwartych
+i skoncze pewnie 2 max xd
+nie no 3
+co tam panie od infokiosku?
+infokiosk przynajmniej ma szansę na zostanie skończonym
+No wygląda jakby był dosyć gotowy ze screenów
+nawiązujesz do czegos&gt;
+?
+a to już sobie sam dopowiadasz
+farmazony
+9:20 -&gt; do przerwy zostało T - 10 minut.<br><br>Dzisiejsza zupa:<br>Krem z kiszonych buraków<br>Gładka zupa o wyrazistym smaku kiszonych buraków, idealna na początek dnia.
+9:30 -&gt; najgorszy dzień tygodnia. QA znowu wystawiać taski o byle pierdoły. Frontu nie ma i nie będzie. Świat schodzi na psy. Przynajmniej jest zupa.<br><br><a href="https://t.me/mganczarczyk">@mganczarczyk</a> <a href="https://t.me/shipurjan">@shipurjan</a> , zróbcie fikołka z 1 piętra
+zupa?
+ta
+no ja zaraz, dopiero spotkanie skonczone
+👌
+ok
+<a href="https://app.clickup.com/t/8696qduzc">https://app.clickup.com/t/8696qduzc</a> faktycznie będzie dark mode
+długie to spotkanie mają
+moze ustalają darkmode
+called it
+rzuccie screeny
+czy cos
+moje oczy czują szczęście
+elegancko wyglada
+imo troche zbyt czarne
+ale lepsze niz zbyt biale
+kolorów jest mniej
+dość mocno zrównane
+tu masz najlepszy przykład
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> fixuj to kurwa <a href="https://app.clickup.com/t/8697fak40">https://app.clickup.com/t/8697fak40</a>
+ale agresywny
+ajk bedziesz taki niemily to nikt nie zrobi nigdy to o co poprosisz
+sam se fixuj
+w sumie te nazwy to są o dupe rozbić
+A założymy się xD?
+wszędzie inna
+zrobią bo to ich praca
+tak samo &quot;Add x&quot; oraz &quot;New x&quot;
+czemu marcel
+Tradycja
+ok
+a w sumie
+ale przydałby się dział hr
+coooo?\
+A nie ma?
+do czego?
+na co?
+do robienia kresek na stronie
+&lt;hr /&gt;
+XDD
+dzial HR to kierownicy
+no żeby było gdzie nakablować na toksyczne elementy w pracy
+Ale to codziennie na front by latały skargi
+jakie masz toksyczne elementy?
+Na lukasza bym nakablowal
+Ja znam 2 i pół
+1.5 Marcel, 0.5 Cyprian i 0.5 Mateusz
+front na qa i qa na front
+co 1.5, co ja
+zgloszony do HR za grozbe
+jaka groźba to dzieciak w rękawicach bokserskich
+przeciez Jarek zgłosiłby czuliego za nieparzystość
+chce mi najebac
+chce sie najebac
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong>
+Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍<br>jak jesteś z frontu to się nie angażuj, bo możesz kogoś przez przypadek obrazić, jak QA. QA obraża wszystkich i oni się cieszą! to szok.
+ja chyba potrzebuje monstera
+co robi małpa zamiast testować, the thread
+ja tez
+bo zasne
+uścisk goryla lepiej
+ale to daleko
+dupnij se monsterka byczku
+moze bedzie
+w zabie na pewno bedzie
+wystarczy do qa przyjsc
+malpa != goryl
+Yyyy?
+goryl jest malpowatym
+class Goryl: Małpa
+Goryl ⊆ Małpa
+chlop co uzyl tego powalonego znaczka
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a>
+ale jest subklasą małpy
+co prawda nie dawałbym mu aż tak wysokiej roli
+no jest ale my nie wiemy jaki ma podrzedny typ nasza malpa
+ↈ
+Łukasz odkrył tablicę znaków
+fajne
+hh
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> <a href="http://results.tests:4000/env/dev-merges-tab-8695z9tpc/pipelines">http://results.tests:4000/env/dev-merges-tab-8695z9tpc/pipelines</a>
+o kurwa
+xD
+pamiętaj, im dłuzej jego taska odkładasz w testach
+tym więcej okazji na rozjebanie waszych testów
+ale błędy lecą poprawne
+tak ale
+poprawianie tego to nast tydzien
+ale macie od siura testów do sprawdzania poprawności imienia i nazwiska XD
+ale tam sie streamow wyjebalo
+Lecicie?? Bo się wcześniej zerwałem z fotela
+lecimy?
+lecimy?
+lecimy?
+lecimy?
+Czemu się zerwałeś?
+ja tam na czilu
+xd
+lecimy
+lecimy.
+chyba nie lecimy
+bo nie mozemy sie zdecydowac
+Bo trzeba kofeiny w moich żyłach
+Ja lecę
+ja wychodze
+nie no lecimy
+chodzmy
+1 min <a href="https://t.me/BartShoot">@BartShoot</a>
+Ok
+13:15 -&gt; zostaw już ten kod. I tak wiadomo, że chuja robisz i jedynie QA wkurwiasz<br><br>Kuba =&gt; wypierdalaj
+Łukasz musi dotestować taska. Wezwij go, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/678503c4d4f3d87ef3cc5aa3">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/678503c4d4f3d87ef3cc5aa3</a>
+Łukasz rusz duuuuuuuuuupe
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> merguj do /dev/null -&gt; <a href="https://app.clickup.com/t/8695z9tpc">https://app.clickup.com/t/8695z9tpc</a>
+<a href="https://www.reddit.com/r/ZZZ_Official/s/92cYwdmIu9">https://www.reddit.com/r/ZZZ_Official/s/92cYwdmIu9</a>
+fajnie sie tam bawicie na testach
+:)
+Jaki sd?
+ten na ktorym jest dev
+kto się bawi światłem
+Nikt z QA
+Ani frontu
+Na QA nie miga
+odpalają się te okrągłe białe światła
+co jak czujnik ruchu wyglądają xD
+każde po kolei
+ostatni raz ktos sie nimi bawil rok temu
+i tez nikt nie wiedzial kto
+jakiś hinczyk trolluje widocznie
+moze kolega <a href="https://t.me/mJakobsche">@mJakobsche</a>
+nie no o tej porze to już śpi chyba
+No właśnie
+jego kolega moze nie
+Ciemno ma więc
+Chciał sb zapalić światło
+jak jest hinskim hakierem
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7284490938310168576?utm_source=share&amp;utm_medium=member_android">https://www.linkedin.com/feed/update/urn:li:activity:7284490938310168576?utm_source=share&amp;utm_medium=member_android</a>
+przynajmniej jakiś losowy Muhammad docenia pracę qa
+no spoko
+gość docenia tak bardzo że napisał do chata <br>daj mi 1000 znaków tekst <br>temat: docenienie niedocenionego zespołu qa <br>dodaj obrazek <br>temat: qa pracuje jak reszta imprezuje<br>styl: post do farmienia zasięgów na linkedin korporacja produktywność
+XDD
+<a href="https://github.com/usagi-flow/evil-helix">https://github.com/usagi-flow/evil-helix</a>
+na windowsa chyba lepiej wyjdzie niż neovim tylko na minus wszystkie pluginy
+az mi sie smutno zrobilo
+no to nie twoja wina
+posty tego typu trzeba tępić nieważne kogo chwalą bo to jest jedno i to samo
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a> rusz dupe <a href="https://app.clickup.com/t/86973mv4x">https://app.clickup.com/t/86973mv4x</a>
+dzieki
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a> napisz mu, że za miesiąc
+albo dwa
+bo czekasz na psd
+czekam na smierc
+wtedy zmerguje
+9:20 -&gt; do przerwy zostało T - 10 minut.<br><br>Dzisiejsza zupa:<br>Bogracz<br>Pikantna zupa węgierska z mięsem, warzywami i przyprawami, bogata w smaki.
+Tak informacyjnie: Dzisiaj Krzysiek czy tam Michał nie dostaną review na 5k zmian. QA w osłabionym składzie
+9:30 -&gt; gdy nadejdzie bunt maszyn, to nie macie się czego bać. Z całą pewnością, wywalą exception na pierwszym ifie, bo QA się opierdalało. A przy okazji zapraszam na przerwę
+bedzie sluchane
+pamietaj zeby tez posluchac oto jest dzien
+z dedykacja dla naszego mędrca 🙏
+ok
+nie wnikam
+ale rura musi jebać też se posłuchajcie
+<a href="https://t.me/lmastalerz">@lmastalerz</a> rusz dupe <a href="https://app.clickup.com/t/8696t0wjh">https://app.clickup.com/t/8696t0wjh</a>
+Na prawdę chcesz mi dokładać?
+:DDDDD
+szymon napisal ze merdzyk to znaczy ze nie trzeba testow
+<a href="https://t.me/lmastalerz">@lmastalerz</a> to też przetestuj, dojebany task <a href="https://app.clickup.com/t/86973dmy9">https://app.clickup.com/t/86973dmy9</a>
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> co to za zjebany tooltip?
+Co znaczy /.?
+że mu skróciło nazwisko
+XD
+:o
+nie domyslilbym sie
+Z expected wynika, że powinno być deploy / OTHERS
+z expected to ja chce repro
+bo nie będę szukał w całym repo
+To jest static
+Czyli w ttests
+ble
+wystaw wszystko zbiorczo
+<a href="https://app.sd8.com/ttests/deploys/pipelines/pipeline/70066">https://app.sd8.com/ttests/deploys/pipelines/pipeline/70066</a>
+Tylko to jest
+A bo to jest pipeline xDD
+Dobra, już wiem o chuj tam chodzi
+I to jest bug
+przecież napisałem
+gorzej jak nie będzie się dało tego rozróżnić od usera xD
+bo nie pamiętam co tam jest w kodzie
+czy jak jestesmy w organizacji buddy to widzimy swoje czaty nawzajem?
+na calude?
+calude? co to kurwa jest
+<a href="claude.ai">claude.ai</a>
+literowka
+nie wiem, nie jestem w organizacji
+czemu chcesz pytać na czacie z pracy coś przy czym musisz się zastanawiać czy inni mogą widzieć 😆
+nie ogarniam pytania
+po prostu nie rób nic nielegalnego
+i nie będzie problemu
+np sprawozdań na uczelnię
+chcialem korzystac z niego poza praca
+:D
+ja nawet nei mam konta na email buddy
+chyba qa ma tylko xD
+nie polecam
+ok
+odblokowali 3.5 sonnet dla darmowych użytkowników znów
+Czemu?
+bo to widac
+Ja nie mam problemu z tym, że zdam ZBiED xD
+moze nie krzysiek, ale szymon jak chce to sobie znajdzie historie promptow
+tym bardziej, jak zobaczy, że jeden user napromptował tyle po północy, co cała firma razem wzięta
+no
+Czemu po północy?
+myslicie ze on moze widziec?
+albo ma na to czasa?
+czas?
+pewnie nie ale zawsze ma mozliwosc
+Zdroworozsądkowo
+Jak będzie trzeba to przeglądną nawet i logi na routerze
+we sobie zescrapuj jakies klucze z neta i uzyj
+co za problem
+co ty panie gadasz?
+xd
+z drugiej strony
+w najgorszym wypadku, qa będzie jeszcze gorzej działać
+dlaczego?
+do czego nawiazuejsz?
+to prawda, np do <a href="https://t.me/mJakobsche">@mJakobsche</a> czulak pisał raz że siedzi od rana na wifi nie kablu i co jest grane
+dlatego że wpadłeś na średnio sprytny pomysł, wiesz że to nie jest dobry pomysł bo nas pytasz ale dalej uważasz że użyjesz sobie ai z pracy do zdania studiów 😆
+może będzie ok może nie, ja bym nie ryzykował
+ja tam myślałem, że brak odpowiedzi będzie najlepszy w tym przypadku
+<a href="https://t.me/lmastalerz">@lmastalerz</a> szukasz coś jeszcze z tym merge itp czy mogę tam fixować?
+bo chce raz a porządnie wszystko
+Fixuj
+Tylko to jest zjebane
+: o
+nie stwierdzilem ze tego uzyje.
+Reszta jest wyruchana z okazji dev-a
+?
+<a href="http://results.tests:4000/env/dev-merges-tab-8695z9tpc/pipelines/Others/sessions/0bbb1280-6286-4224-949c-5254e1f8db37/cases">http://results.tests:4000/env/dev-merges-tab-8695z9tpc/pipelines/Others/sessions/0bbb1280-6286-4224-949c-5254e1f8db37/cases</a>
+a
+gdzieś zauważyłeś, że jest za bardzo obcięte?
+To co pizło pizło również na dev
+albo gdzieś brakuje?
+Tylko to jedno
+Reszta nie wyjebała testów, a zrobiłem zmiany w 40 plikach
+teraz to coś namierzyć xD
+Więc jak coś wyjdzie to na live
+Jak są jakieś testy na update username to działają
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> fixuj to i do merge
+XDD
+dopiero to zauwazyles czy co?
+GENERATIONAL lag
+Co?
+Zjebane podświetlenie - teraz
+cokolwiek pokazujesz na tym screenie
+Sami wiecie kogo jest rzułte
+Jak jest obsłużone poświetlanie składni?
+Po naszej stronie regex lub keywordy czy po stronie codemirror-a?
+regex po stronie cm
+Kurw
+<a href="https://github.com/codemirror/codemirror5">https://github.com/codemirror/codemirror5</a> to jest to?
+nie
+jak chce ci się szukać, to proszę bardzo
+myślałem, że masz lepsze taski
+Czekam na fixa aż łaskawie go zrobisz
+mozesz mojego zrobic
+jest banalny
+a lezy 2 miesiace
+Ale YAML ma HIGH
+Ale jestes blocked no to mozesz robic inne
+mi tez jeden czeka az go jakis tester zaadoptuje
+imagine, że front czeka na qa
+nie bierze nowego taska przeze 2 miesiące
+bo jest blocked
+xD
+pora na cs
+tak
+Twój jest u Krzyśka. Czeka aż zostanie do kogoś przypisany
+Front czeka na QA &gt; tydzień<br>QA czeka na kogokolwiek &lt; 30 min
+co za dysproporcja
+Pipeline.cs?
+bron boze tylko nie taki cs
+Hmm, to może Projects.cs?
+cs1.6
+Łeee, nie
+.NET Core jest stary
+A Standard to ty szanuj
+a wczoraj drama za mieszanie .net i csharp
+fun fact, istnieje pipeline do monitoringu wersji, który co tydzień sprawdza, czy .net core nie ma dostał update
+dla .net framework w sumie też
+stary ale jary
+Noice
+Jak Java 8
+niestety c# nie ma ani 1.6 ani 16 xd
+Za 3 lata będzie
+Teraz jest C# 13
+Marcel sfixowałeś to?
+a mogę napisać komentarz?
+Możesz
+wy w końcu tego ścisku do bugów nie wystawiliście?
+@qa
+Jakiego ścisku?
+clear completed się przytula do cancel
+Nie
+to rusz dpe
+A przynajmniej ja nic takiego nie wystawiałem
+Dobra, wystawię ci to
+<a href="https://t.me/lmastalerz">@lmastalerz</a> to też fajne <a href="https://app.dev.io/eventstests/queue">https://app.dev.io/eventstests/queue</a>
+To jest błąd ale nie mam pojęcia co może go wywołać
+Eventstests to WS w którym wydarzyło się wszystko co tylko mogło
+push z dnia 10.01 do deva
+bez żadnego numera taska
+a commit to &quot;merge branch &apos;dev&apos; of <a href="github.com">github.com</a>:qik/buddy-frontend into dev&quot;
+<a href="https://app.clickup.com/t/8697g3hkp">https://app.clickup.com/t/8697g3hkp</a>
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> <a href="https://app.clickup.com/t/8695z9tpc">https://app.clickup.com/t/8695z9tpc</a> merguj
+do dev(<a href="" onclick="return ShowBotCommand(&quot;null&quot;)">/null</a>)
+poprawka*
+był od tego task
+nawet w testach!
+a tu winowajca
+uuuuuu
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong>
+Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍<br>jak jesteś z frontu to się nie angażuj, bo możesz kogoś przez przypadek obrazić, jak QA. QA obraża wszystkich i oni się cieszą! to szok.
+Marcel merguj że to gówno wreszcie
+krwa
+piszę w sprawie buttona
+task czeka 2 miesiące <br>qa: 😴<br>task czeka na merge 15 min<br>qa: 😡💢💢💢
+😄
+3 słowa do ojca prowadzącego
+ojciec mateusz?
+<a href="https://www.youtube.com/watch?v=iRPsOk1gvgA">https://www.youtube.com/watch?v=iRPsOk1gvgA</a>
+🚴
+a sprawdziłeś poprawkę?
+czy tylko ją zamknąłeś?
+Sprawdziłem
+Nawet release zrobiłem
+visual testy (hehe) i będzie merge
+Zabrakło SD dla YAML-a
+to musicie mikro-sd kupić
+A jednak nie
+mniejsze są
+Pisz do Szymona xD
+kartę?
+ehh
+13:15 -&gt; Będzie tego. Pizgaj taski i odpocznij, bo i tak spierdolisz więcej niż to warte. Chyba, że wolisz 3 bugi w cenie jednego fix-a.
+Łukasz musi dotestować taska. Wezwij go, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/678655440550f41372dfc8ad">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/678655440550f41372dfc8ad</a>
+z przyjemnością, bo przez te merge itp, czekają mnie 3 branche z konfliktami potęęężnymi xD
+<a href="https://t.me/lmastalerz">@lmastalerz</a>, wiesz co się rymuje ze słowem &quot;żabka&quot;?<br><br>Oh, life could be a dream (Sh-boom, sh-boom)<br>If I could take you up in paradise up above (You, you, sh-boom, sh-boom)<br>If you would tell me I&apos;m the only one that you love (You, you, sh-boom, sh-boom)<br>Life could be a dream, sweetheart<br><br>Sami wiecie kogo wezwał: Marcel Gańczarczyk‎<br><br><a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196321/execution/678658530550f41372dfcfb2">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196321/execution/678658530550f41372dfcfb2</a>
+🌩️🔔 przekazuje: <br>National Geographic dzwoniło, że chce zrobić z małpą wywiad w kuchni
+Dzień dobry,<br>zrobię to dla was i ruszę dupsko.<br>Pozdrawiam.
+<a href="https://t.me/BartShoot">@BartShoot</a> chuja a nie działa procesowanie YAML-a
+<a href="https://app.sd8.com/chasenoellependleton/domain/36pvw8Qg/yaml">https://app.sd8.com/chasenoellependleton/domain/36pvw8Qg/yaml</a>
+mail?
+<a href="mailto:chase.noelle.pendleton@0zxc.com">chase.noelle.pendleton@0zxc.com</a>
+moge ci tam poklikac?
+GlHf
+i na pewno był release? bo w activity widzę ten błąd co naprawiałem 😆<br><br>ERROR: could not initialize proxy [works.buddy.ws.project.entities.Project#318] - no Session
+Dzisiaj na świeżo
+Około 14 był robiony
+faktycznie dalej wyjebane
+no to powrót do fixowania 😆 ale nie wiem czy wieczorem dzisiaj czy jutro dopiero, custom domeny w tunelach mają prio
+Czyli Cyprian na kolecje
+wut
+Nie ma to jak lizanie 3 tasków na raz
+możesz wziąć czwarty
+I co to zmieni?
+będzie parzyście
+jak zrobi 1 to tez bedzie parzyscie
+@QA korzystacie z FluentAssertions? bo nowa wersja będzie płatna 😆
+Nie
+zapomnialem
+<a href="https://t.me/lmastalerz">@lmastalerz</a> powiedz mi, ale testów na to zostało poprawionych/stworzonych przy merge itp?
+Ja nic nie robiłem więc są 2 opcje
+1. Krzysiek to zrobił
+nieeeee, to jest akurat poprawnie
+tylko ja go przenosiłem tam
+to było główne założenie tego taska
+2. XPATH był bardziej odporny
+xpath nie może być odporny
+Może
+może i to bardzo
+9:20 -&gt; do przerwy zostało T - 10 minut.<br><br>Dzisiejsza zupa:<br>Krem z pora i cukinii<br>Delikatna zupa kremowa z pora i cukinii, idealna na lekki posiłek.
+9:30 -&gt; QA już na zupce, a frontu dalej ni ma. Co się odwlecze to nie uciecze, a Front i tak będzie miał okazję porzygać się zupką.
+najbliższy release eu/us to qik
+o ile tego nie offną
+XD
+ok
+xD
+Poprawiłem sobie scruma xD
+o, domeny
+Napisałem: <br>- sortowanie folderów<br>- user short name
+ten task inaczej się nazywał
+Krzysiek nie ma czasami wolnego?
+poszedl sobie do domu
+bo ma uz w calamari
+byl do t- 15min temu
+aaa, od 10:30
+nie zauważyłem
+nie było tematu
+Marcel
+Interesa mam
+trade offer jakiś?
+We <code>ping isedr.pl</code>
+w końcu zdechł
+nslookup <a href="isedr.pl">isedr.pl</a>
+Albo coś co jest tego odpowiednikiem na mac-u
+jeśli na live ustawia ns na <a href="live.page">live.page</a>, to się nie dziw
+?
+Nie rozumiem co napisałeś
+<a href="bison.live.page">bison.live.page</a>
+Still
+czekaj, my serio mamy taką domenę? xD
+Tak?
+działa
+zaraz ci do dns queries wrzuci xD
+Ale bez podawania serwera
+Defaultowego niech zaciągnie
+Bo to, że jak explicit wskaże to wiem
+Ale implicit nie działa
+problem w tym ze nie da sie wejsc na ta strone
+I to pewnie zjebane jest na poziomie routera w firmie
+Ale chcę mieć pewność zanim spłaczę się do Czuliego
+ja bym się cieszył
+mniej gówna w necie
+Tyle samo
+Bo z serwera Kuby działa
+Jak wskażesz <a href="1.1.1.1">1.1.1.1</a> jako dns też działa
+default nie działa
+Ale jak <a href="192.168.5.100">192.168.5.100</a> to już nie
+poczekaj na propagacje ipków
+~24h
+czyli na moj adres jaki ledwo przepiolem ta sama sytuacja?
+ja na cloudflare
+<a href="1.1.1.1">1.1.1.1</a> szybciej zrobiło refresh
+<a href="https://t.me/shipurjan">@shipurjan</a> Kojarzysz?
+Było to już wałkowane, ale nie pamiętam gdzie
+Zły common error
+Powinno być: chujowy path, a jest command not found
+daj repro
+najlepiej linka
+<a href="https://app.sd4.com/mattielorrainemcneill/nmxrqqdqro/pipelines/pipeline/70507/execution/67878ee41cb842740ab831e5">https://app.sd4.com/mattielorrainemcneill/nmxrqqdqro/pipelines/pipeline/70507/execution/67878ee41cb842740ab831e5</a>
+i miejsce w kodzie
+daj miejsce w kodzie, którą linijke mam poprawic i na co
+<a href="mailto:lesley.elsa.powell@0zxc.com">lesley.elsa.powell@0zxc.com</a>
+Ale to nie wina frontu
+To jest zjebane na backendzie
+Ja ciebie pytam czy kojarzysz taska w którym się o to przywaliłem
+Bo nie pamiętam gdzie to było
+Cos kojarze, ale tez nie pamietam dokladnie
+i czy to byla ta sytuacja czy podobna
+Identyczna
+W kazdym razie to moze byc po froncie
+dlatego, ze ja na froncie nie lapię pierwszego errora
+Repo masz
+tylko łapię wg priorytetu errora
+z tego co wiem
+Ale imo po prostu to jest zjebane na etapie handlowania
+Bo:<br>- inner: chujowa ścieżka<br>- next: command not found (cd)
+No w sumie
+Powinno byc exit po &quot;Cannot access remot path&quot; raczej
++1
+w sensie to są 2 errory a powinien byc 1
+jebany cloudflare
+domyslnie ma wlaczony flexible ssl co przekierowywuje mnie w nieskonczonosc
+jakie znowu invalid
+backendy...
+bo jest pewnie <a href="http://cos.cos.com">http://cos.cos.com</a>
+nie, http://localhost
+<a href="http://cos.co">http://cos.co</a>
+no tak ale maja pewnie regex
+gnojki
+a to gnoje
+<a href="https://app.dev.io/ttests/q/pipelines/pipeline/171623/execution/678792bb9e3ec56a37ae4cd2">https://app.dev.io/ttests/q/pipelines/pipeline/171623/execution/678792bb9e3ec56a37ae4cd2</a>
+Tu jest normalnie
+To jest regresja
+A sprobuj <a href="" onclick="return ShowBotCommand(&quot;chuj&quot;)">/chuj</a> zamiast <a href="" onclick="return ShowBotCommand(&quot;root&quot;)">/root</a>
+Na dev
+Kto grzebał w tym na backendzie?
+👀
+O, znalazłem gnoja!
+Nom, chyba to
+sd4
+<a href="dev.io">dev.io</a>
+Hehe, xD
+i tak wina QA bo nie pokryli testami i pozwolili wydac
+A gówno
+Pokryte jest
+A wydane nie jest bo na sd jest
+A na sd4 jest zjebane
+sami narcyzi tu siedza
+nikt nie widzi nigdy swojej winy gnoje
+zawsze tylko na nas
+a ja nawet nie wiedziałem o co wam chodzi 😆
+mówili merguj error
+zmergowałem
+to tak jakby budowlaniec kopal dziure pod fundamenty i dostal opierdol ze ja wykopal
+to są żarty geniuszu
+żadnych innych zmian tam nie robiłem
+Tak czy srak
+moje tez
+powinien wykopac i zakopac zeby mogl znowu wykopac i miec prace
+hehe
+cos w tym jest
+Wy się śmiejecie, ale przynajmniej raz w Polsce coś takiego miało miejsce
+1. Wykop dziurwę na pół metra<br>Wypopał dziurwę na pół metra<br>2. Kurwa, jak ty głębokie to zrobiłeś! We to zakop tak aby zostało 1/4 metra<br>Zakopał dziurwę na wskazaną wysokość<br>3. Ile można kopać to jebane pół metra?<br>Wykopał pozostałe 25 cm
+co ty gosciu
+dziura na pol metra to na 2 sztychy glebokie
+to sie momentalnie koie
+10m x 10m
+chyba w Minecrafcie
+xd
+to jest dopiero narcyzm
+?
+takiego mam maila
+<a href="mailto:cizmidupe@jakubkrawczyk.com">cizmidupe@jakubkrawczyk.com</a> sobie zrób
+??????
+chyba <a href="mailto:lukaszczegoszukasz@isedr.pl">lukaszczegoszukasz@isedr.pl</a>
+nie nie, potrzebujesz <a href="mailto:jakub@krawczyk.top">jakub@krawczyk.top</a>
+zależy jaką masz ziemie, u rodziców zawsze jak miałem cokolwiek kopać to był dramat 😆 tyle kamieni że nie wbijesz całej długości łopaty
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong>
+Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍<br>jak jesteś z frontu to się nie angażuj, bo możesz kogoś przez przypadek obrazić, jak QA. QA obraża wszystkich i oni się cieszą! to szok.
+13:15 -&gt; Druga przerwa w środku tygodnia. QA głodne, QA złe. Nie chcesz żeby QA było złe
+Łukasz musi dotestować taska. Wezwij go, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/6787a6c4516dfb2543baed3d">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/6787a6c4516dfb2543baed3d</a>
+a wy gdzie?
+<a href="https://t.me/lmastalerz">@lmastalerz</a>, wiesz co się rymuje ze słowem &quot;żabka&quot;?<br><br>Oh, life could be a dream (Sh-boom, sh-boom)<br>If I could take you up in paradise up above (You, you, sh-boom, sh-boom)<br>If you would tell me I&apos;m the only one that you love (You, you, sh-boom, sh-boom)<br>Life could be a dream, sweetheart<br><br>Sami wiecie kogo wezwał: Marcel Gańczarczyk‎<br><br><a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196321/execution/6787a9ec516dfb2543baf3df">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196321/execution/6787a9ec516dfb2543baf3df</a>
+🌩️🔔 przekazuje: <br>Mapa, kuchnia, dupa - połącz kropki
+Małpa*
+kuchnia potrzebuje mapy zeby dojsc do dupy?
+dobre pytanie
+powiedziałbym wręcz fundamentalne
+aaaaa
+aaa
+co nie?
+najgorsze co moze uslyszec QA
+wszyscy kochamy redesigny
+front tak, front jest wtedy szczęśliwy
+masakra
+<a href="https://t.me/lmastalerz">@lmastalerz</a> a co to za wulgarna nazwa pipeline
+?
+bardzo nieladnie
+Gdzie ty widzisz tu wulgarność?
+Tak czy inaczej. Od poniedziałku na tapetę wlatują taski co dzisiaj dostałem z okazji tego, że oba te które miałem na tapecie są zblokowane przez Bartka

@@ -1,0 +1,976 @@
+﻿o zupka jest
+Ja nie robię apki na BITAD
+zeby lubic JS musisz myslec jak fizyk kwantowy
+dziewczyny nie bójcie sie
+bijcie
+jebana autokorekta
+my w js mamy coś takiego, wy w c# macie depresję i stany lękowe
+My nie przywołujemy takimi diagramami demonów
+nie ma emoji Illuminati wiec uzywam Poopminati
+W normalnych językach są typy
+w js też - masz number, string, Object
+i w sumie to tyle
+no masz string, boolean, number, Array, Object<br>nie trzeba nic wiecej
+function
+i najlepszy typ - undefined
+a jednak jesteś
+jak zwiekszyc plan na <a href="app.local.io">app.local.io</a>
+karta 4 i reszta 1111
+123 cvc
+1234 otp
+date jakas se wybierz ja daje 06 26
+dziękówa
+W panelu admina se ustaw
+ktoś żaba o 13?
+why not
+moge sie przejsc ale jestem biedny wiec tylko przejsc
+można
+mam 30 zł na koncie xd
+no wypłata by się przydała to prawda XD
+tak
+ale my tu juz nie pracujemy
+co ty wyplate chcesz?
+za tamten miesiąc
+powinienes byc wdzieczny ze w ogole masz robote
+wtedy pracowałem
+xd
+teraz tylko udajecie, że pracujecie?
+po <a href="https://t.me/lmastalerz">@lmastalerz</a> bym się spodziewał, ale po reszcie!?
+nie no bez przesady, aktualnie to nie pracuje
+tylko się pierdole
+z jebanym mongo
+które nie wiem kto pisze ale niech przestanie
+xddd
+kurw aja wczoraj napisalem testy do widoku i dzisiaj przychodze i ten widok jest 2 razy wiekszy
+spoko, tobie figmy nie aktualizują podczas pracy nad taskiem
+kiedy e2e testy pomiędzy figmą a frontem
+może jeszcze pixel perfect chcesz
+no to by jechały e2e testy
+scan po ekranie
+ni chuja
+w popularnych rozdzielczościach
+już jest coś podobnego na froncie w sumie
+jakakolwiek zmiana w komponentach odpala chyba chromatica
+co robi screeny każdemu komponentowi
+czy się o chociażby piksel gdzieś nie przesunął xd
+mozee jednak 13.15...
+czy juz wyszliscie?
+pracoholik
+przekłada przerwe bo cos robi
+dramat
+może być 13:15
+gites
+chce ktos do grupki buddy tech news
+co tam fajnego
+co to za grupka
+co tam jestr
+3 wiadomości można by zaoszczędzić jednym prostym trickiem
+&quot;to jest taka ze dzielimy sie tech nowosciami itd. Wiec jak cos to tam mozna wrzucac ciekawostki itd.&quot;
+no jakies rozne nowosci tech, wiekszosc tam ludzi jest z frontu, ale mozna wrzucac wszystkie newsy, nwm z AI czy tam cokolwiek was interesuje
+<a href="https://news.ycombinator.com/item?id=23270429">https://news.ycombinator.com/item?id=23270429</a><br>&quot;No. Every time I&apos;ve used mongodb we&apos;ve ended up regretting it&quot;<br>&quot;Yep, just regret and misery&quot;
+a wrzuć, czemu nie
+yeap
+mnie tez
+będziemy tam wrzucać nowości w nvimie
+a to nie dodam
+<a href="https://t.me/shipurjan">@shipurjan</a> dodał xd
+no zobaczymy, wygląda że głównie frontend tam siedzi 😆
+zawsze jest czas na nawrócenie
+a gdzie wiadomości że AstroNvim v4 wyszedł ://
+no to mozesz wrzucic
+nie no bez przesady, akurat jakas dystrybucja nvima to <a href="" onclick="return ShowHashtag(&quot;nikogo&quot;)">#nikogo</a>
+a ja dodam newsa ze wyszla nowa wersja gentoo
+był news o tym xy vulnerability?
+bo to pojebany temat xD
+chyba nie, ale juz kazdy raczej o tym przeczytal
+ale jak masz dobry source to mozesz dac
+ja bym mógł nowości z windows insidera wrzucać, które też <a href="" onclick="return ShowHashtag(&quot;nikogo&quot;)">#nikogo</a> XD
+ja miałem na lapku z 8gb ramu i największa nowość w każdym patchu to że działał wolniej
+dobra, to żabson
+Ja mógłbym wrzucić, które też <a href="" onclick="return ShowHashtag(&quot;nikogo&quot;)">#nikogo</a>
+a gdzie kanal z kozackimi polecajkami anime do obejrzenia?
+tu może byc
+w sumie tylko się <a href="https://t.me/lmastalerz">@lmastalerz</a> obrazi
+Bo się przejdę i zasadzę każdemu kopa
+czyli możesz wrzucać
+oke
+polecam zajebiste. wczoraj zaczalem ogladac ale juz wiem ze dowozi<br><a href="https://shinden.pl/series/57328-tsuki-ga-michibiku-isekai-douchuu">https://shinden.pl/series/57328-tsuki-ga-michibiku-isekai-douchuu</a>
+O ta na bieżąco jestem
+Ma wolniejsze moment ale jak jest moment to po pełnej lecą
+My wyszliśmy już
+kurw
+zapomnialem
+XD
+ale chuj i tak jestem biedny
+mam orzeszki
+też dobre
+jak wrocicie to napiszcie to skocze z wami do kuchni po kawke
+Już
+<a href="" onclick="return ShowMentionName()">Jakub</a>
+Chłop ma intro do nowego mechanizmu
+:/
+ok mysle ze mam wystarczajaca liczbe danych zeby zaczac taska 😂
+nawet jeden projekt nadawany morsem
+a jakieś / &apos; &quot; `?? czy to poblokowane
+%2 &amp; cos tam
+nie wiem do mojego taska wystarczy tyle wiec wiecej juz sie nie bawie
+od tego są te lenie z qa
+jakie lenie?
+ty tam wszystko co robisz to zmiana tekstu na przycisku
+<a href="https://app.clickup.com/t/86947y46x">https://app.clickup.com/t/86947y46x</a>
+zglosilem buga bo QA nie wychwycilo
+ja jem czy ktoś się zajmuje tym
+Ciekawe który z nas to dostanie XD
+no nwm to jest taka podstawa podstaw 😂 sprawdzic biale znaki i inne w nazwach
+Chociaż nie, to trafi na be
+o panie wypłata wleciala
+wiec nie wiem czemu to jest w ogole
+i to pełna xd
+<a href="https://t.me/TheMultii">@TheMultii</a> xd
+Najwyżej następne pół miesiąca za frajer robimy
+myślisz!
+?
+Tak jak reszta teraz, bo nie ma umów *ŻART*
+nie no tu placą normalnie
+miedzy 1-10
+to wiem
+też wleciała
+Tylko my jesteśmy tu od 13.03 chyba
+tak
+więc nie powinna być pełna xd
+pół miecha tylko przerobilismy
+ale szymon ma na to wyjebane i zaokragla
+jak pojdziecie na L4 to tez dostaniecie full
+to dobrze xd
+To jak szczanie pod wiatr
+Ja nie wiem czy to było mądre z twojej strony
+ja nie wiem, co wy tam lubicie robić w qa, ale postarajcie się nie oszczać kuchni
+Jedni pracują żeby odbębnić a inni żeby działało
+Alleluja
+Alleluja
+💀
+Cieszcie się i radujcie
+Dzisiaj jest Matki Boskiej Pieniężnej
+no to nieźle czytasz nasze wiadomości
+chyba że jesteś opóźniony o 5 min to sory
+nic nowego
+xd
+I ciekaw jestem czemu usunąłeś tą wiadomość
+O kurde
+Późno już
+Trzeba wstać i się spakować
+czwartek wieczur i humor popsuty
+xddd
+Kiedy zupa ciasto?? Już są
+to jet pytanie &quot;czy są?&quot; czy stwierdzenie &quot;już są.&quot;?
+już są.
+nice c:
+dzisiaj jest ta niesamowita zupa która wygląda źle a smakuje jeszcze lepiej
+to dobrze ze mnie tam nie ma :P
+zostawić ci?
+nie, ona serio jest dobra
+nie nie nie
+dizekuje
+wez Vasylowi na aaedec
+xd
+nie
+Sezon na wkładki białkowe można uznać za rozpoczęty
+why?
+to co, 9:30??
+Yeap
+smakówa
+Dziękuwu
+ktos rzaba
+ja chetnie
+frok
+tez rusze ale moze 13:30?
+tak
+no ok
+bo cos poprawiam
+czeka
+m
+napiszcie jak będziecie powrociwszy
+ja zaraz wyjde bo podpytac jeszcze cos musze
+ok
+Nie
+cichaj tan
+zamordować cię
+to pytanie czy rozkaz
+jak bym dał znak zapytania to by powiedział że groźby są karalne
+a tak
+pozostawiam do interpretacji
+Spróbuj szczęścia
+Ale
+I tak wiem
+Że nie wrócisz specjalnie dla mnie na uczelnię
+Niby prawda, możnaby kogoś wynająć
+ja będę blisko
+Ale ty dostaniesz kopa za zjebanie Semaforów
+Jesteśmy <a href="https://t.me/mJakobsche">@mJakobsche</a>
+<a href="https://dashboard.office.buddyci.com/">https://dashboard.office.buddyci.com/</a>
+Yyy
+nie ma wszystkich
+Czemu to jest dostępne spoza sieci lokalnej?
+czy ktoś się bawi tymi swiatłami?
+łukasz co mi mrugasz lampką?
+QA do niego pisze xd
+bo widzę że zaświeciło się też u nas nad dziewczynami XD
+o kurwa
+serio?
+łukasz to moze zrobic
+xd
+nie trzeba byc na wifi buddy
+Łukasz za bycie chujem, masz gwarantowanego crona na lampę nad głową
+po 10 minutach od kiedy wszyscy zauwazyli co sie da zrobic
+do rozowy wbil sie Pawel i razu
+Na kanałach QA otworzył się piątkowy ryneczek
+Kto pytał
+Kuba sprzedał mnie
+Ja Cypriana
+Krzysiek Pawła Kapałę
+A Michał Raza
+ok
+a u nas kulturka
+bombastycznie
+teraz jest mozliwosc na napisanie skryptu ktory bedzie manipulowal waszymi stanowiskami
+;D
+A proszę was bardzo
+Mi to tam wisi
+tylko dlatego ze nie uswiadamiasz sobie tej potegi
+Nie mów mi wiedźmo o potędze tego, bo ja tam byłem gdy to pisali
+<a href="" onclick="return ShowMentionName()">Jakub</a> daj mu reakcję
+Jedyną słuszną
+Grabisz sobie chłopie
+teraz to niepotrzebne, w zimie spoko by było
+jak komp zalogowany i po zmierzchu niech sie odpali na jakies 30%
+<a href="https://api.sunrisesunset.io/json?lat=49.8179745&amp;lng=19.0430318">https://api.sunrisesunset.io/json?lat=49.8179745&amp;lng=19.0430318</a>
+kozak, dają i zmierzch i full ciemność osobne godziny 😆
+za kazdym razem jak wlacze na nowo <a href="app.local.io">app.local.io</a> to jestem na innym koncie 😂
+dziwne, u mnie działa
+dopóki nie przeczyszcze bazy to mam to samo konto
+przed chwila bylem na koncie rafala
+czarodziej
+a dobra bo po froncie moze jakieś inne rzeczy
+az ci lampka pomrugam
+no oni serwery przelaczaja, jak robie cos z backendem ajaxowym to musze byc na sdX
+a jak tylko front to dev
+tlyko ze te serwery randomowo czyszcza i sobie biora x
+9:30 śniadanko?
+9:30 kawa.
+sory nie
+xd
+ja jestem za
+13 czy 13:30
+a moze dla odmiany 13:15
+13:27
+😮
+postanowione 13:27
+trzeba ponowić pen testy tych bocznych drzwi
+ludzie tam chodzą
+ktorych?
+no żeby nie iść przez bramę tylko przez taras
+nie wiem gdzie to
+zdam sie na was
+wiesz gdzie sale konferencyjne są? to naprzeciwko
+od strony pzu
+a tam jest wyjscie
+?
+na to wygląda
+oke
+ale to za 30 min
+i to za równe 30 minut
+no to mowie
+gdzie wy
+W dupiu
+<a href="https://t.me/TheMultii">@TheMultii</a>
+zaba
+Co ja
+Wyjdź za drzwi xD
+gdzie
+Tak
+zapytałem znów Kingi, była u księgowej nawet ale jej znów nie było
+jutro ma być i będzie dzwonić więc powinno jutro się udać
+XD
+trzeba jeszcze pisać czy już wszyscy wiedzą??
+kmwtw
+nikt nie wiedział sam zjadłem
+xDD
+albo sam w pracy jestem
+to też opcja
+ja dopiero przyszedlem
+Ja teraz jem
+XP
+Ale zajebista ta zupa
+Ktos wie co to
+chowder
+Spx
+zasady SOLID ale lepsze(chyba) <a href="https://dannorth.net/cupid-for-joyful-coding/">https://dannorth.net/cupid-for-joyful-coding/</a>
+mysle ze na pewno gosciu mowi z sensem
+ogólnie coraz więcej w necie widać hejtu na SOLID, czysty kod itp
+że to przestarzałe
+Meanwhile QA
+Jebać SOLID
+Testy to testy
+no trochę zrozumiałe jak mówisz że te testy tam żyją po pare tygodni może aż coś się nie zmieni
+no, teraz modny jest superhuman code ale nie wiem czy to dobra droga
+XD
+tak serio to wszyscy mówią że refactoring, wszystkie startupy chcą jak najszybciej miec działający projekt, fail fast i te sprawy
+PKP tez bylo kiedys startupem
+gorzej że nie łapią momentu w którym już należy przepisać coś i projekt utknie w miejscu na zbyt długo więc dalej będą sklejać tego ulepa node.js mongodb i ratować kulejące osiągi dokładając kolejne serwery 😆
+13:30?
+ja bym wolal 14 XP ale sie dostosuje jesliscie b. glodni
+ok moze byc
+umowy jak nie było tak nie ma
+moze zapomnieli
+😂
+ktoś leci w chuja
+pytanie kto
+no to juz nie jest smieszne powoli 😂
+księgowa która ma być jutro
+codziennie od ponad tygodnia
+może ją przymkneli
+za przestepstwa podatkowe
+bardzo prawdopodobne wytłumaczenie
+tru
+wtf
+co to za logo opon ziomowych
+a, bo ty fan nugeta
+<a href="https://en.wikipedia.org/wiki/Nix_(package_manager)">https://en.wikipedia.org/wiki/Nix_(package_manager)</a>
+najlepsza rzecz jaka spotkała ludzkość
+ja jakos tego nie odczuwam
+boś nie próbował
+a na czym niby mam probowac
+xd
+na windowsie tez mozna
+ja uzywam winget
+taki swietny a na windows bezposrednio nie ma
+;P
+tylko z WSL
+a na linux apt
+Gdzie problem xD i tak nikt poważny nie używa windowsa jak nie musi!!
+jak sie tego uzywa
+najlepsze co spotkalo ludzkosc to BTOP++
+<a href="https://search.nixos.org/packages?channel=unstable&amp;show=btop&amp;from=0&amp;size=50&amp;sort=relevance&amp;type=packages&amp;query=btop">https://search.nixos.org/packages?channel=unstable&amp;show=btop&amp;from=0&amp;size=50&amp;sort=relevance&amp;type=packages&amp;query=btop</a>
+ależ proszę
+i n a huj taka dluga skladnia
+składnia jest prosciutka<br><pre>{ config, lib, pkgs, ... }:<br>{ <br>  home.packages = with pkgs; [<br>    wl-clipboard<br>    shotman<br>    highlight<br>    neofetch<br>    zathura<br><br>    jq<br>    direnv<br>    openjdk17<br>    floorp<br>    thunderbird<br>    logseq<br>  ];<br>}</pre>
+jebany js
+js
+to nawet nie jest on
+kuchnia 9:30?
+tajest
+Ja będę później bo dopiero zaraz wychodzę XD
+oke
+<a href="https://t.me/BartShoot">@BartShoot</a>
+jakie typy requestów tam mogą być obsługiwane
+POST, GET , DELETE?
+chyba wszystkie
+nie nie, to jest coś od dnsów
+to wlasnie jest to co mi napisal lukasz
+<a href="https://en.wikipedia.org/wiki/Dig_(command)">https://en.wikipedia.org/wiki/Dig_(command)</a> mi razu mówił żeby tym sprawdzać
+bo nie popatrzyl na to i myslal ze to wina backendu ze na dns schodzi nam tylko any
+i jak sobie odpalisz z terminala np <br><pre>dig @ns2.qikdev.io test.mom NS<br>dig @ns2.qikdev.io test.mom ANY</pre>
+tylko pytanie z którego terminala xd
+a no ja na linuxowym, jak na windowsie to nie wiem
+i czekaj bo tu śmiecimy cho na priv
+a jak sie nazywa paczka na liux
+13.30?
+ktos cos je
+ja nic nie mam
+oj cos czuje ze dzis na zajeciach bede lizal lawke
+o kurw zapomnialem zeszyt
+u
+dam ci kartkę z zeszytu, potem sobie przepiszesz do tego pierdolnika
+co ty nie bede pisale
+odpale SpeechToText
+<a href="https://vm.tiktok.com/ZGeuYSVfA/">https://vm.tiktok.com/ZGeuYSVfA/</a>
+<a href="" onclick="return ShowMentionName()">Jakub</a> <a href="https://t.me/lmastalerz">@lmastalerz</a> <a href="https://blog.cloudflare.com/rfc8482-saying-goodbye-to-any/">https://blog.cloudflare.com/rfc8482-saying-goodbye-to-any/</a> ANY się nie używa do niczego oprócz jakiegoś qmaila i nowoczesne hosty dns mają na to wyjebane - lepiej odpytywać każdy typ z osobna jak chcecie ten rodzaj obciążenia robić
+będzie to zmieniać. raczej ja bede
+Taktyczne <s>jebanie backendu</s> bułeczka o 9:30?
+yeap
+będziecie se jebali backend jak naprawicie swoją bibliotekę xD
+XD
+Pocałujta w dupe wójta
+możemy obrażać QA? nam wszystkim psują życie
+no ja do tej pory nie miałem powodu ale to ANY już mi dało powód
+sie research robi
+htfu
+a nie kurde, jak najłatwiej byle coś tam leciało
+naprawiłem
+Zajęło to dokładnie 2 linijki kodu
+dobrze, a task wisiał ile od was
+15 sekund
+że problem po stronie backendu
+No właśnie
+To kto ma problemy?
+bo jak jest problem to nigdy nie u nas
+wy jakieś wyimaginowane
+Żaden błąd nie jest wyimaginowany
+i kolejny problem dla backendu
+Uuu, jak mi przykro
+no jest jak se zrobicie złe założenia
+Front was wyruchał
+xd
+i myk polecial do raza
+<a href="https://app.clickup.com/t/869495qwk">https://app.clickup.com/t/869495qwk</a>
+3,5 tygodnia task wystawiony bo poszliście na łatwizne <a href="https://app.clickup.com/t/86943fgy2">https://app.clickup.com/t/86943fgy2</a>
+Nam nie płacą za naprawianie bugów tylko ich wystawianie
+im wiecej taskow z naszej strony dla kogos innego tym szef bardziej zadowolony
+cieszcie się że nie odejmują wam wypłat za marnowanie czasu ludzi 😆
+<a href="https://daniel.haxx.se/blog/2024/01/02/the-i-in-llm-stands-for-intelligence/">https://daniel.haxx.se/blog/2024/01/02/the-i-in-llm-stands-for-intelligence/</a> tu se ktoś generował issues za pomocą LLM który halucynował problemy
+jak wy z tamtym ANY
+więc uważajcie bo was jeszcze zastąpią!!!
+Eee, tam
+Nie martwiłbym się
+Nikt z nas nie jest taki normalny jak LLM
+może być tak samo głupi jak LLM
+<a href="https://t.me/BartShoot">@BartShoot</a>
+ja nadal na to czekam
+Uuu, NullPointerException
+no idzie duży refactor gdzieś
+Jak to śpiewał pewien bardzo znany polski śpiewak:
+chujpointer, ciesz się, że serwer wam chociaż działa
+Gdzieś lecz nie wiadomo gdzie
+co kurwa
+napisz im że chat gpt lepiej pisze po polsku, niech skorzysta
+😂
+<a href="https://t.me/BartShoot">@BartShoot</a> <a href="" onclick="return ShowMentionName()">Jakub</a> <a href="https://t.me/mJakobsche">@mJakobsche</a> robimy zrzute na 100$ kupujemy Hyper-a i udajemy klienta, który chce taki plugin i piszemy na support xD
+<a href="" onclick="return ShowMentionName()">Jakub</a>, sprawdź <a href="https://t.me/lmastalerz">@lmastalerz</a> alkomatem
+no z tym 100$ to pojechal
+jak zrobicie zrzutke to tylko 25$
+xD
+tylko 25$
+zaledwie 25$
+za 25$ dolarów to ja sobie życie ułoże
+kurwa bogacz
+<a href="https://app.clickup.com/t/86949g7y9">https://app.clickup.com/t/86949g7y9</a> zbieram kciuki w górę dla buddy-lsp
+troche to bedzie nierzetelne jak dostaniesz od nas 5 kciukow 😂
+detal
+ale no gdyby było to zrobione dobrze, ze snippetami gotowych akcji to imo killer feature
+racja
+żabka o 13:30? 👀
+można
+spoczi
+oke
+👌
+Ack
+jaj uz ide poczekac na was
+Gdzie czekasz
+XD
+ide
+jescze zachacze o WC
+<a href="https://app.clickup.com/t/86949g7y9?comment=90120035951742">https://app.clickup.com/t/86949g7y9?comment=90120035951742</a>
+<a href="https://t.me/BartShoot">@BartShoot</a>
+Odpisałem ale z tel, chuj wie gdzie to trafiło XD
+Do reply
+ok. 10 kuchnia?
+Odpiąć cię z taska czy jeszcze coś chcesz dopowiedzieć?
+Możesz odpiąć chyba
+Done
+dobra wywaliłem z reply i dałem normalny komentarz, tego wcale nie widać było 😆
+xD
+glhf, ciekawe ile zwrotek będzie
+a to juz wisi dlugoo
+nie, na testy teraz poszło
+czy to teraz zrobiles
+ok
+ale praktycznie od miesiąca tylko merguje 😆
+ładne
+u nase sa szlaczki
+taaa, jak to nie automatyczna nazwa merga to znaczy że konflikty
+a to ja filtrowałem tylko swoje commity na tym branchy
+dużo masz tych poprawek
+lub poprawek ostatecznych
+tak to podobnie
+tak
+no podstawa to mieć dobre nazewnictwo
+final
+final 1
+final12ostateczny
+final12ostateczny3ochujmuchodzi
+to my tak mamy no
+poprawka ostateczna
+Nowy folder<br>Nowy folder (1)<br>Nowy folder (2)
+poprawka bardziej ostateczna
+podobnie
+poprawka ostatecznej ostatecznosci
+xd
+&quot;pojebie mnie z tymi poprawkami&quot;
+example
+&quot;pojebie mnie z tymi poprawkami 2&quot;
+poprawnie
+można też ładnie poprosić, by się pipeline nie wywalił na plecy
+<a href="" onclick="return ShowMentionName()">Jakub</a> wyłącz filtrowanie brancha i pokaż całość
+masz
+No i mamy guitar hero na gicie
+kiedy przerwa, 14?
+ja juz bylem zjesc wiec ja odpadam
+Ja nie rozumiem czemu wszedzie
+Są te
+Interface interface
+Przeciez mamy piekne polskie sowo
+Slowo
+Międzymordzie
+Grinke opowiadał jak on to był na konwentach microsoftu dawno temu, gdzie właśnie walczył przeciwko temu słowu
+musisz się iść z nim napierdalać
+XD
+zgłaszam się
+No chłopa pojebało
+Autobusy punktualnie więc z Marcelem też będziemy o standardowym czasie
+no chyba nie
+optymistycznie 9:30 kuchnia?
+a pesymistycznie to kiedy?
+też 9:30?
+10
+a, to jednak optymistycznie
+ok
+O 9:30 poważni pracownicy mają spotkanie
+no to wbijasz do nas nie?
+Pany (stara gwardia) dostanę umowę, jak wy się dogadacie
+Więc dogadać się
+xd
+srsly?
+może to jest zmowa przeciwko tobie, <a href="https://t.me/lmastalerz">@lmastalerz</a>?
+To i tak chuj im w dupe, bo oni też nie będą mieli
+<a href="https://t.me/BartShoot">@BartShoot</a> pisał, że za 25$ sobie życie ułoży. Po co mu jakieś kilka tysięcy z umowy. Mówię ci, to zmowa jest
+to fakt
+Tak, po spotkaniu
+ale to przeczy logice
+Powinieneś wiedzieć ale gdybyś jednak jakimś cudem nie kumał to to że po 2 tygodniach dalej nie ma umowy to 100% wina góry bo to powinno być dawno ogarnięte przez nich
+A nie że my się mamy martwić czy pracodawca dobra umowę da czy nas zrobi w chuja
+I wgl to powinno być jasno określone wcześniej
+A mnie to chuja interesuje, dostałem response =&gt; czekają na was to za mną jest ok i zjeb w waszym kierunku aby to załatwić szybciej
+Było studiować
+no nie, w moim przypadku studia by nie pomogły bo jestem starym dziadem
+<a href="" onclick="return ShowBotCommand(&quot;shrug&quot;)">/shrug</a>
+to się redirectuj bo my robimy co możemy żeby dostać dobrą umowę
+Typowy case jebania związków zawodowych
+no mniejsza, a ma ktoś pomysł gdzie iść coś zjeść bo nie mam ochoty na zabke dziś xD
+ja tez nie mam xD
+Do kuchni :joyy:
+grozisz m?
+Nie grożę m
+fight
+ludzie obstawiajcie
+<a href="https://t.me/TheMultii">@TheMultii</a> Łoo ty kurow zaropiała
+W mordę straponem jebana
+nwm czemu jak to przeczytałem to pierwsze co mi do głowy przyszło to steropian
+it&apos;s kitchen time
+styropian
+steropian
+XPS jest fajny
+lekki i sztywny dosyć to można pierdolnąć komuś
+13:00 czy 13:30?
+jak reszcie obojętne to może 30
+13:
+00
+zgadzacie się???
+raczej tak, jakby ktoś się nie zgadzał to by protestował
+to czas zdupczac na przerwe
+<a href="https://t.me/TheMultii">@TheMultii</a>
+<a href="https://t.me/shipurjan">@shipurjan</a>
+yeeeeah
+fdgklj
+to już wiem kto wysyła powiadomienia
+<a href="https://play.google.com/store/apps/details?id=com.linak.deskcontrol">https://play.google.com/store/apps/details?id=com.linak.deskcontrol</a>
+apka do biurka 😆
+teraz dopiero ja odkryłem?
+odkryles?
+ta
+jak odkryliście wcześniej i nie daliście znać to chyba wiecie co to o was świadczy idk xD
+nie
+to świadczy o użyteczności tej apki
+daje zejście do zapamiętanych wysokości z automatu
+możemy wziąć udział?
+nie wiem, raczej nam nie zabronią 😆
+spoko, thx
+<a href="https://t.me/bitad">@bitad</a> co to za lipne warsztaty kurde ten
+jakieś srAI, scrum i cybersec
+i to na cybersecurity trzeba jeszcze przyjść ze swoim lapkiem z kali linuxem 😆
+w sumie spoko
+jesli serio tak trzeba 😂
+znaczy malo osob przyjdzie ale
+oj nie, przyjdą i część będzie nawet bez lapka pewnie
+90% bedzie z windowsem i powie ze oni nie wiedza co to kali linux
+sory to vm ma być
+a
+ale ja i tak nie chce żeby policja do mnie dzwoniła czy jestem hackerem
+W teorii nie powinieneś móc się zapisać na to
+policja xd
+W tym roku tylko dla studentów warsztaty
+o 5 rano cie obudza i cie zabiora do wiezienia bo zainstalowales linuxa
+jakby to było uwuntu, to rozumiem
+ale kali?
+meh
+😄
+co wy wiecie <a href="https://hannahmontana.sourceforge.net/">https://hannahmontana.sourceforge.net/</a>
+git, i tak zobaczyłem listę to mi się odniechciało xD
+ale dostęp do formularza mam bo na discordzie resetu spingowali wszystkich to kliknąłem
+Miało wymagać zalogowania mailem uczelnianym
+To, że ktoś nie potrafi tak prostych rzeczy ustawić, to nie moja wina
+<a href="https://t.me/lmastalerz">@lmastalerz</a> <a href="https://twitter.com/thepolandnews_/status/1780332107912372466">https://twitter.com/thepolandnews_/status/1780332107912372466</a>
+co ty czytasz
+xd
+twitterka, bo czekam na ten check na gh od 20 minut by zmergować do deva xd
+9:30 kuchnia?
+widzialem 40 min temu ze tam juz zupka jest
+wiadomo
+pewnie poważni developerzy będą mieli spotkanie
+Tylko w poniedziałek
+<a href="https://t.me/mJakobsche">@mJakobsche</a> kinga napisała że w poniedziałek wraca i zapyyta szymona i będzie z nami to załatwiać
+to ciekawe czy będzie na innych zasadach niż ja mam 😆 bo wtedy sam się zgłaszałem
+nie napisałem jej o mateusza
+ale mysle ze to nie bedzie problem
+mowila ze wam tez po miesiacu zalatwiala
+a dobra, to wtedy też jej napiszę
+ok
+Bartek jaki ty masz pakiet tego medicover?
+a ja se ten lepszy wziąłem chyba
+ja też chce
+na to jest dostępne tak dużo rzeczy ze to sie w glowie nie meisci
+pojebane
+a to jest przypisane na PESEL?
+nie wiem, tam na siłki gdzie chodziłem to tylko pokazywałem kod i dawali kluczyki
+raczej wywalone, nie wiem czy tak wszędzie
+u mnie lokalnie sa wszystkie silki ze wszystkimi zajeciami, studio fitness, studio salsa i ścianka wspinaczkowa
+taki to pożyje
+co nie?
+Moja najbliższa okolica wygląda tak: XD
+brzmi fajnie, ale czasu na takie rzeczy nie ma xd
+nikt nie kazał iść na studia!!
+na takie rzeczy zawsze jest czas
+albo na siłownię 🍔
+moja tak
+daj link ^
+<a href="https://medicoversport.pl/wyszukiwarka/?name=&amp;category=96&amp;&amp;voivodeship=999&amp;&amp;bottom_corner_lat=49.73273791244819&amp;bottom_corner_lon=18.672939688309345&amp;top_corner_lat=49.760274427311565&amp;top_corner_lon=18.612343222244892">https://medicoversport.pl/wyszukiwarka/?name=&amp;category=96&amp;&amp;voivodeship=999&amp;&amp;bottom_corner_lat=49.73273791244819&amp;bottom_corner_lon=18.672939688309345&amp;top_corner_lat=49.760274427311565&amp;top_corner_lon=18.612343222244892</a>
+moja tak
+xd
+wejdz na medicover -&gt; wyszukiwarka(znajdź)
+f5 naprawiło
+tzn nie f5, bo to mac
+command+r naprawiło
+command5
+😎
+&quot;status studenta&quot; kiedy sie konczy? po obronie czy po wygasnieciu legitymacji
+po wyjściu z obrony
+ok
+czy ktoś jest głodny
+Jeszcze niezbyt
+a za 25 minut?
+oke
+pytałem czy za 25 minut będzie głodny
+najwyżej w dwójkę pójdziemy xd
+najwyzej
+bo musze sobie przerwe zrobić
+na froncie jakieś śmieszki są
+mogę ci powiedzieć kto
+wait
+Jonatan Witoszek, 2.04.2021
+smieszki jak huj
+gdzie wogole idziemy
+żaba raczej
+ok
+ja kanapki mam dzisiaj
+food is food
+to o ktorej
+13;30?
+ta
+tak 13;30
+spoko
+jak mi brakuje propa daty w obiekcie, to mam to odbic do backendu?
+schodzi to z socketow, kojarzycie takie stringi?
+bo nie wiem czy to ja moge gdzie dodac czy backend musi
+a czego to się tyczy
+no ale tak jak w requeście nie ma tych danych to raczej to backendu
+mam objekt projektu ktory schodzi z wlasnie chyba backendu
+pytanie jesteśmy w stanie to wyciągnąć
+w ktorym nie ma daty stworzenia projektu, a potrzebuje zeby byla
+bo szukam w projekcie propow tego objektu i nie wyszukuje, wiec nie jest dodawany w tym repo
+no to jak nie ma w requeście i nie byłoby jeszcze endpointa to backend Ci musi wystawić
+innej opcji chyba nie ma xD
+ok
+9:30 -&gt; Deploy kuchnia
+Ja się spóźnię, dopiero zaraz ruszam xD
+13:00 food?
+moszna
+Kto ma jadło ze sobą?
+ja mam kanapki
+im on my way
+filtrowanie sortowanie chyba jest możliwe do zrobienia dosyć prosto to tylko dajcie znać które kolumny chcecie
+chcemy po nazwach szukac
+Domen?
+wszystkie kolumny jakie domyślnie się wyswietlaja
+tak domen
+ok zobacze, nie wiem czy wszystkie ogarnę - nazwy i boole na pewno
+ile się da tyle zrob
+kto wymyślił npm niech ja go tylko dorwę<br>czemu do chuja tam nie ma obowiązku podania na jakich wersjach działa coś gdy jest dependency?
+chuj, nie da się czegoś zaimportować elo radź sobie 😆
+to jest fajne w js, że nie zainstalujesz automatycznie paczki/nie zrobisz npm install na repo z githuba, które ostatni update miało 5 lat temu. To jest feature, byś nie instalował dziurawych, niewspieranych rzeczy XD
+tzn można na bandycko to obejść, ale still
+mówisz o <code>npm config set legacy-peer-deps</code> true które musiałem ustawić żeby zbudować sobie projekt na node nowszym niż 14? 😆
+<a href="https://docs.npmjs.com/cli/v8/configuring-npm/package-json#overrides">https://docs.npmjs.com/cli/v8/configuring-npm/package-json#overrides</a>
+nie no pewnie trochę kwestia ant designa, chce skorzystać z pro components ale chuj mi w dupe bo antd w mojej wersji nie eksportuje colorpickera cokolwiek to znaczy, jakieś zamknięte issue podaje wersje która ma działać ale no dalej nie działa
+a ja też chuja znam typescripta więc niestety <a href="" onclick="return ShowMentionName()">Jakub</a> <a href="https://t.me/lmastalerz">@lmastalerz</a> nie będzie szukajki 😆 mądrzejszego trzeba
+no to zainstaluj i sobie samemu zrób patcha lokalnego <a href="https://www.npmjs.com/package/patch-package">https://www.npmjs.com/package/patch-package</a>
+Wystaw dokumentację api konsoli
+Pierdolniemy to w Blazorze xD
+<a href="" onclick="return ShowMentionName()">Jakub</a>
+xddd
+pierdolnij to się w czoło
+ja mam w trakcie 3 projekty
+i prace
+wiem ze jestes ambitny
+ale kurwa
+kontrakty są, ale to se możesz zacząć robić jak będzie merge zonów
+bo na razie to tylko sklejam do kupy zeby działały widoki
+Nie tyle ambitny co wiem jak sprzedać pomysł Krzyśkowi
+I dodatkowo już robię jeden projekt z dziedziny developerki
+Grafana
+no to widzisz
+a na mnie narzeka, że biorę się za każdy możliwy projekt
+¯\_(ツ)_/¯
+bo tak jest
+a sory mam 4 projekty
+a widzisz, że gdzieś to neguję? xD
+Nie na to narzekam
+a, czyli na wszystko oprócz tego?
+xd
+Narzekam na to, że napierdalasz w projekty do których cie ktoś zmusza
+Gdybyś od 0 robił apkę bitadową, bez Wojtka to bym nawet pomógł ci z nią
+w js?
+Nie, ale backend byś dostał
+I testy
+to racja
+dajesz sie wykorzystywac
+Nie no największy problem z apka bitadowa jest to że to na ostatni moment jest robione
+A to wina gancara że ważne rzeczy ogarnął parę tygodni przed eventem
+ta, dupa
+a nie ostatni moment
+jedna już była
+na ten bitad
+.
+wyleciała do kosza, bo się mu nie podobała
+gancar jest trudnym czlowiekiem
+ale i tak dajecie sie wykorzystywac
+siedzac po nocach
+z science lab nie siedzielismy po nocach
+nawet mielismy czas grac w mario karts
+a i tak zdarzylismy na czas
+powiedzmy, że nie musiały 2 osoby być cały czas przez pierwsze 2 tygodnie, bo tak dobrze działał sp
+nieważne
+wy tez bedziecie siedziec na dupach i czekac az cos jebnie
+sp miał więcej czasu
+to tez
+tylko wina opiekuna ze nie umie grafika ogarnac
+spoko by było gdybyście dostali za taką akcję kasę bo jednak stworzenie takiej apki od 0 i to tak na szybko to jest wymagające xD
+marzenia 😅
+ty chyba uniwersa pomyliłeś
+no problemem jest to że to uczelnia organizuje bo Gancar nie ma problemu z tym że studenci coś zarobią - mnie kiedyś polecił ziomeczkom od wypożyczalni z rowerami na błoniach że potrzebują wizualizacji sklepu 😆
+działa to w ten sposób na jakiejkolwiek uczelni?
+zależy, w jaki sposób dostaliście kasę za science point
+Szkolna 17 here
+Umowa zlecenie
+ale między wami a kim
+bo nie uczelnią chyba
+uczelnią
+hmmmm
+Przelew zleca UBB
+wizualizacji w sensie w 3D czy co?
+umowy nie mamy, bo nam nie dali. Były 3 egzemplarze i żadnego nam nie zostawili XD <a href="" onclick="return ShowMentionName()">Jakub</a>
+ta, zaraz mogę wygrzebać jak to wyglądało 😆
+A podpisać trzeba było 3 razy
+nie musisz, tak sie tylko pytalem 😄
+<a href="" onclick="return ShowMentionName()">Jakub</a> kto był zleceniodawcą?
+nie pamietam
+xd
+ok bo ja myślałem że science point to będzie jakiś osobny byt i u nich mieliście umowę, wtedy by się trzymało kupy
+Nieważne kto, ważne, że płaci
+placil
+czas przeszly
+płacił*
+<a href="https://t.me/shipurjan">@shipurjan</a>
+woooooo
+no ale jednak nie stawiali tego, tylko te kontenery tam leżą jak leżały xD
+Nie, finansowane było to dla UBB ze środków ministerstwa któregoś. Musiałyby księgowe robić niezłe fikołki, by ten hajs poszedł na jakąś inną firmę, która by zatrudniła studentów 😅
+well, teraz tam się otwiera jakiś sklep, więc wątpię, że będzie kolejny Science Point
+oni już zmieniali lokalizacje conajmniej raz
+Tak, piętro w gemini
+ale dyskusja o kebabach w kuchni
+Szymon Rafał Jarek i jeszcze tam pare osób o tym gdzie najlepszy kebab xD
+😂
+na uczelnie zdupczać czas
+haha do gimby jadą
+i do hacker space
+<a href="https://t.me/TheMultii">@TheMultii</a> jeżeli zdążycie tam pierwsi to pisz
+ten status juz nie istnieje
+Nie będziemy szybciej
+zgłaszam się do pracy
+;P
+kto pytal
+Ja pytałem
+on nie pytał
+deploy kuchnia za 8 min
+deploy
+madafaka
+xd
+to co dzisiaj, robimy podejście pod naleśniki znowu?
+jestem za
+Mamy wpisane urlopy
+na 16 sierpnia
+w moje urodzinki :D
+jestem za
+ta, 2,5 dnia do wykorzystania do końca roku
+Pozdrawiam Adama
+XDD
+pozdrawiam michala
+ujemne?
+co ma w lipcu 2 tyg ponad
+czyli na minusie jest, lol
+On jedzie na na wymianę do Japoni
+Więc wziął sb 3 tygodnie wolnego
+to nie wiedzilem
+szczesciarz
+<a href="" onclick="return ShowBotCommand(&quot;shrug&quot;)">/shrug</a>
+Mgr u Więcława
+no na bezpłatny pewnie pojedzie
+a ma kupione dlc na napisy, by zrozumiał, co do niego mówią?
+podeslijmy mu numer do mateusza to bedzie jego tlumaczem
+ja też już z bezpłatnego będę musiał wybierać chyba że mi pozwolą jeden tydzień mniej urlopu brać pod rząd
+ale to będę walczyć dopiero jak podpiszemy uop żeby mnie nie wyjebali zbyt szybko za oczekiwanie jakichś praw pracownika czy coś
+bo taki fun fact, wysyłanie ludzi na przymusowy urlop jest nielegalne, chcą zamknąć zakład na dzień czy coś to z ich kieszeni nie z naszego urlopu powinno być
+ja mam jescze 9 dni do wykorzystania
+oj tam, jeszcze jest 14 dni ojcowskiego
+No gdzie?
+nie planuje XD chyba że na koty można wziąć
+tacierzyński
+tu
+nie, ojcowski
+Chorobowe jest inf
+13 wszystkim pasuje?
+no to jadę do Choroszczy
+si
+mi tak
+ayo
+tak, zachoruje na mystic festiwal w gdańsku
+będą podchody pod naleśniki
+&quot;halo, za tydzień jestem chory. Wyczuwam migrenę albo złamaną rękę&quot;
+Ból dupy
+to dlatego jest infinity chorobowe, bo cały czas na nim siedzisz :DDDDD
+niestety nie ma zadnych wycieczek do choroszczy
+compensa nie obejmuje chyba
+Przynajmniej nie zatrucie dupy na które ty cierpisz
+na coś trzeba umrzeć
+¯\_(ツ)_/¯
+w drogę
+ruszcie dupe
+SPOTKALIŚMY KORDOSA NA NALEŚNIKACH
+ŻYJEMY W MATRIXIE
+jasny chuj
+prawie go opisałeś
+Jasny to Vasyl
+tylko jeszcze łysawy
+Naczelny menel uczelniany
+Jasny Vasyl
+albinos
+I to nie jest montaż
+kuurde ale oferta
+i jacy inkluzywni, babka jest to/rzecz
+ło kurde bierz
+a jak nie chcesz to przekieruj do mnie
+ok
+niestety, response 783 - unexpected token
+xdd
+<pre>“Power Corrupts. PowerPoint Corrupts Absolutely.”<br>—Edward Tufte, Yale Professor Emeritus</pre>
+ktos pozna zaba
+jo już był
+<a href="https://t.me/BartShoot">@BartShoot</a> czy ty się bawisz w Query?
+Query co
+no np nie wiem czemu generowanie query mi ich nie generuje
+normalnie napierdzielam na konkretny rekord domeny a nowe query mi nie schodzą
+To po minucie się pojawią dopiero jkbc
+to wiem ale generowałem godzinę temu
+Hmm
+i mi przeszło bez exception
+prawdopodobnie zaczęło się od SOA bo to jest pierwszy typ, który przestał się geneorwać
+mówisz że wcześniej działało?
+no tak
+a my nic nie zmienialiśmy
+jescze jedną rzecz sprawdzę żeby się upewnić
+moment
+może ja się jebłem
+to dzisiaj rano było puszczone
+ni ma kolorów
+huh?
+miały być kolory
+;D
+chyba, że wrzuciłeś alert z kolorem białym
+może
+to wtedy nie dostanie
+sprawdź mi z innym
+ale to już 3 popup
+i nadal nie ma kolorów
+nikt nie wrzucił kolorów
+jak nie ustawisz żadnego, to front ich nie losuje
+szkoda
+powinien być kolor tęczy
+u mnie działa, może to wina treści komunikatu? spróbuj z tym
+ja tego nie generuje
+ktoś to robi
+ja tylko odczytuje
+w takim wypadku nie ustawia koloru
+a domyślny jest &quot;biały&quot;
+powiem ci że twój komunikat to prawda
+łukasz to dzban
+co to sprawi
+co ten dzban tu ustawił
+albo zwróci sól, albo nic
+jak będę miał pusty workspace to 2 parametry mam puste, a workspace zawsze jest niezależnie od soli
+ale wy się z tych testów tam produkujecie nad tym qikiem XD substaski wyglądają jak wasza lista życzeń
+list do mikołaja raza
+ile ma przypisanych tasków?
+niezaczęte tak wyglądają
+duzo
+a widziałeś ile tasków jest do Rafała przypisanych???
+czyli działa? czy co tam było
+działa a było tam to że Łukasz to debyl
+jak wy mogliście zjeść ta zupe
+przecież ona jest do dupy
+normalnie
+gęsta zupa rybna
+to chyba my z Marcelem jesteśmy nienormalni
+bo nam nie podeszla
+jakby mieć takie spektrum od najgorszych do najlepszych to to jest zdecydowanie za połową w tą lepszą stronę imo
+ja lubie ryby bez ości więc dla mnie ok xd
+Wybraliśmy alternatywę dla zupki
+bo jakiś podły chłodnik się kiedyś trafił, zupa która coś ostygła więc trzeba było ją podgrzać i inne tego typu rozrywki
+agreed
+albo ten krem z ziemniakow i cebuli
+xd
+<a href="https://twitter.com/SamNChiet/status/1782881779579552057?t=3NlhFgNTJn5XdzFVh8TMRQ&amp;s=19">https://twitter.com/SamNChiet/status/1782881779579552057?t=3NlhFgNTJn5XdzFVh8TMRQ&amp;s=19</a>
+jak dziala to dziala, lepsze niz 4000 if elsow
+Przeczytajcie ten jego wątek XD
+doki doki vibes
+yandere simulator vibes
+a tak, my bad XD
+to wszyscy idziecie na ath w piatek?
+chyba tak
+na co?
+tak
+sorki, ja idę na ubb wtedy
+a to nie wazne
+a potem jeszcze wracacie do firmy?
+ja też
+nie
+oni cofają się w czasie
+mamy iść w godzinach pracy
+a, że bitad trwa +/- 8h
+a tam sie musze jeszcze rejestrowac czy moge po prostu wbić? XD
+nikt cie nie wyrzuci ale nie dostaniesz fantów na wejście i brak szansy na wygraną w losowaniu
+chyba
+yep
+cholera, a da sie jeszcze rejestrowac?
+tak
+<a href="https://bitad.ubb.edu.pl/register">https://bitad.ubb.edu.pl/register</a>
+dziekowa
+c:
+o której coś jemy

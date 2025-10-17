@@ -1,0 +1,967 @@
+﻿a i sos taki sam jak chlopaki
+ta, będzie git
+już będę stratny tego 1/5 grosza
+daj notke zeby nei bylo suche
+srirache wlejesz
+a tu kucharz z humorkiem napluje
+dla mnie box 3
+nie wait
+box 6
+eeee
+z tym zeby nie byl suche to nie tak doslownie
+bo ktos faktycznie napluje
+usun moja notke i bedzie git
+git ja już kase posłalem
+34?
+jaki numer&gt;
+daj
+&quot;proszę więcej sosiwa 🤤&quot;
+kubie
+ta coś koło tego
+poszło
+tez
+wyslane
+doliczyli ci coś kurde do tej dostawy
+bogacz kurde
+doliczylem
+za 2zł to ja bym sobie życie ustawił
+Ciekawe jak?
+wystarczy pomnozyc 2 zl
+ayyyyy
+mozesz isc po ulicy czy maja cos na wymiane za 2 z
+i tak az wymienisz na samochod
+w ameryce to dziala
+hmm nie no jest problem bo to trzeba bezdomnych z torunia chyba szukać
+za 2 zł nie masz na bilet nawet
+czy skoczymy do zaby jescze wczesniej po cos do picia?
+<a href="https://t.me/lmastalerz">@lmastalerz</a> jak przejdziesz na to 3/5, to qa jeszcze bardziej osłabnie na siłach :x
+jakkolwiek na to nie patrzeć
+idziey o 13?
+czy ktoś może mi użyczyć trochę mózgu? <br>filtruje coś i mam boola <code>force</code> - jak force == true to olewa filter, jak nie to filtruje. <br>filter jest taki że <a href="obiekt.name">obiekt.name</a> == <a href="this.name">this.name</a> i jednocześnie typ != SOA,NS to tego nie bierzemy pod uwage
+mam tak             <br><pre>.filter { force || !(it.name == this.name &amp;&amp; it.type in setOf(SOA, NS)) }</pre><br>tylko to olewa wszystkie rekordy <a href="obiekt.name">obiekt.name</a> == <a href="this.name">this.name</a>.....
+nie
+nie nie, ja chce ignorować SOA i NS tylko wtedy jak to jest <a href="it.name">it.name</a>==<a href="this.name">this.name</a>
+pozostałe są git
+drugi filtr :harold:
+a to jest tak ze daje ci  false
+jak jest soa i == to dostajesz false
+wiec pytanie co masz wsordku
+bo jak masz if (params) then filter to ci nie przejdzie
+dobra po jedzeniu się pomyśli
+tak, lecimy bo nam czasu braknie
+NICE XD
+chyba kt
+nie da sie do codeblocka spoileru pewnie
+yup
+lets go
+ja nie ide jak cos
+bo wait
+to mamy na dostawe tak?
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong>
+I chuj
+Cieszcie się że nie na 1/2
+to dajcie znac jak przyjedzie haha
+lukasz wlasnie mateusz zostal polecony szymonowi
+❤️
+bo szymon mowil ze potrzebuje takiego jednego jeszcze jak cyprian czy marcel
+chujek nie odbiera
+hehehe
+Go next, kto jeszcze chętny
+<a href="https://t.me/wojciech">@wojciech</a>
+XD
+nie
+wstydz sie
+Pojebało
+13:15 -&gt; zostaw już ten kod, trzeba coś zjeść. front i backend w kąt, a ty znikaj stąd
+Wezwij Łukasza, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/66f5423495b3ef539a7c98cd">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/66f5423495b3ef539a7c98cd</a><br><br>to ty, gdy wezwiesz Łukasza, który udaje, że pracuje nad targety:<br>⠀  ⠀   (__/)<br>           (•ㅅ•)      Don’t talk to<br>    ＿ノヽ ノ＼＿      me or my son<br><code>/　</code>/ ⌒Ｙ⌒ Ｙ  ヽ     ever again.<br>( 　(三ヽ人　 /　  |<br>|　ﾉ⌒＼ ￣￣ヽ   ノ<br>ヽ＿＿＿＞､＿_／<br>       ｜( 王 ﾉ〈   (__/)<br>       /ﾐ<code>ー―</code>彡  (•ㅅ•)<br>      / ╰    ╯  /    &gt;
+okurwa
+To by musiał ze mną przy biurku siedzieć
+lukasz roz posladki
+<a href="https://t.me/lmastalerz">@lmastalerz</a>, wiesz co się rymuje ze słowem &quot;żabka&quot;?<br><strong>RUSZ DUPE DO KUCHNI</strong><br><br>Sami wiecie kogo wezwał: Jakub<br><br> /| ､<br>(°､ ｡ 7<br> |､  ~ヽ<br> じしf\_,)〳‌‎<br><br><a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196321/execution/66f542bb95b3ef539a7c9989">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196321/execution/66f542bb95b3ef539a7c9989</a>
+Dzień dobry,<br>zrobię to dla was i ruszę dupsko. A Marcel nie ma luster w domu<br>pozdrawiam.
+o to idealnie, thx
+.
+xDD
+Wyślijcie swój kit że coś robiliście na grupki scamowe<br>@małpiszon <a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> <a href="https://t.me/mganczarczyk">@mganczarczyk</a> <a href="https://t.me/shipurjan">@shipurjan</a> <a href="https://t.me/BartShoot">@BartShoot</a> <a href="https://t.me/mJakobsche">@mJakobsche</a>
+xd
+xd
+Coś ci nie poszło z tym pingiem
+Zainteresowany zrozumiał
+czyli git
+haaaa
+heeee
+zupka podobno dzisiaj pali
+ale jest dobra bardzo
+huuuu
+Jarek: przystawia się do Kuby (podryw na Kasztana XDD)<br>- Jarek: Teraz w firmie to ty zaraz po mnie masz największe cycki w firmie<br>Wchodzi Kinga<br>- Jarek: A, ty też tu jesteś. To nie<br>Kinga ma wtf
+okurwa, internet explorer
+Raczej wayback machine
+9:20 -&gt; do przerwy zostało T - 10 minut.<br><br>Dzisiejsza zupa:<br>Hiszpański gulasz z chorizo, ciecierzycą i szpinakiem<br>Łukasz i tak podmieni tę wiadomość, by udowodnić światu jaki to on nie jest zabawny (nie jest)
+tak wszyscy przy tym byli
+Nie byli
+Mateusz nie był ale ja już mu przekazałem wczoraj
+Ok
+9:30 -&gt; jest piątek, weekendu początek. Uhonorujmy ten wspaniały dzień miską <strong>psznej zupy</strong> i jeszcze lepszego ciasta. Życzę wam spokojnego życia bez przypierdolek QA.
+jeść jeść jeść
+smacznego, ja zdalnie 😆
+Masz kamerkę?
+Use
+Jexi no dux konsumenci
+Grubaski
+Grunwaldzkiej
+teoretycznie, ale jak mnie tak po obudzeniu zobaczy to pęknie
+designer musiał być wkurwiony
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a>
+Spizgany front
+Na sd8
+kto zajebał deva
+XDD
+wszystkie poszły po kolei
+XDD
+redis umarł
+Sabotaż pociśnięty xDD
+doman 🗿
+no my mamy idealnie na nie
+nawet tu cięcia 😭
+Utilities.RestException : FATAL_ERROR code: 999, Message: Something went wrong<br>URL: <a href="https://192.168.5.40:9999/services/internalAPI/addEnvironmentVariable?ipAddress=192.168.10.86&amp;domain=lannymargaritachappell&amp;invokerId=3476">https://192.168.5.40:9999/services/internalAPI/addEnvironmentVariable?ipAddress=192.168.10.86&amp;domain=lannymargaritachappell&amp;invokerId=3476</a><br>Payload:<br>: {&quot;key&quot;:&quot;sshKey&quot;,&quot;value&quot;:&quot;-----BEGIN RSA PRIVATE KEY-----\r\nMIIEpAIBAAKCAQEAoCxezaJcDGdt11TiC0FA9bFMj74bpBtkSGhfMTJ7vR6kJPid\r\nSd51y/PxdLZK6ZOoEZEoVIcZrTDBOsNmoa45IYXI5MHBzVGfoh0h\u002Bu69Ak7yamAL\r\nA9PP\u002BBzLc2YoekmunufTBmwK\u002BcA2j2rNjj9AALw0tUsXpS953ZeSNAJmii\u002B1GvXn\r\n2s\u002Bg3VxXD5igcszuZAscWEVvZDbiPRuupdY3eL10aRBswTmPwiYVnqRprpOCoIaC\r\niUy5KV0EaatXJ1JyG34gH0sQ8GjhM5R8eEIFG2FPEHsQlJeQrkJcF/ZSLJ6fTuTd\r\nB81S86ogEA9mDue8grL/AYqarVgUU6fyjvoa\u002BQIDAQABAoIBAG\u002BZ2shOavJdkmPp\r\nicIryjYmPeEdpaa3Sy1EQ6dEtIC1\u002B8qiyvzwGoVrx/35EcMjlYP/7ujOZS6N/OST\r\nx0u516aqz6nL8tu7Fo3e3JE5jMox9af2mVYmXA5VCdCzClsCQcAIaLldyFvx\u002BFH/\r\nKZAGM/MPL25uDuCSbsfd1wmT7pwyvT45Ad7qvpOlkOiHkf670TEEE0rF2eCUVr2j\r\nx1hqU6nw2rrBtcQfNSIc5XCiEfFmMLl0lf/Xzg8TtJXRKHfdpywHS7ILYsaKCmGG\r\nJWtbCl2EqJh6D/BpfLA8jAE8vfFHS89bGhXzbKZUJu5HucdTtKnQC1pphJGWvaXH\r\nTs250I0CgYEAy70qQvmqVZfRyuIwGOB1YIHjkZPp/NUZ047HahKQ44weQUWoE827\r\nbN9V2JZ2IYf\u002B4han5BCxO8fjYQxBjeL/sz6nkxujcZg6QdbpBYV7lTx\u002BJqdCVfmA\r\ne9QvgYvpX/A2a9RIuQnjpE1VZoa1kC/qpAZ1PX9h6V4KwD1YYSx\u002BAN8CgYEAyUJm\r\n2Ro8l0vdQniQRQX2KYVDKZryx7ApT5c5BXmzzg\u002B5veVqmSfCo1oxj3x92rJMvhjO\r\nSnyLScOqPx8bOrF1zpzM6NlX\u002BZKPusBL08ezDr/ww4CuI51UjcljVKRd0OJQCCk9\r\noJXyadhZ9DcTL0TGE1jYQjntoWYFynd2Y2EaJycCgYEAinbZTgNX3Cv\u002BDKCEh6Ok\r\noh4khz\u002B7enVpw/n5VQGhLsR/m2S3wh3ED04JjdVUG53Nf\u002BJd4AXoLfS/d6lYtBFe\r\nLneac8QI5J7MmQpx\u002B6qoPtiJ88MgtkWHKKEgWC66QNWEZuwzMG6kI3nbXH6YzpGC\r\nKk\u002BpRk5YQL4FGHmYoxIV4IkCgYBmNBtIiuNULcl51QHmm2Vrpmn5\u002Bd7qe1IvQetK\r\nFYiyzxeTEKr2hdN44veiFyVOZxdDvhMcjmypk/yju2c3giECQGxqntznN39X5glb\r\nzeDnT5\u002BzmGhWW7IxoqCXvjSKPDNKQa8zGpKVH7Jmq4VJjtJLxuVjlElRmh68t7fe\r\nNdRzJwKBgQCgwdoVOtilS1/uJ8j91LDl0scsqfSwYw0XFfENggXUUflAdGDNp1Ed\r\nLOa6\u002Bbp8DV88eSpnBo2G\u002BIj44ngKosn0NnXYSXtHGVrTETdixVLI8eKnUl83TUfs\r\nyVPm0CHAFOqfuwzEG3Zu5EyQXmgI3alCE\u002BWa5fAkAi6QkxOCvyBVnQ==\r\n-----END RSA PRIVATE KEY-----\r\n&quot;,&quot;type&quot;:&quot;SSH_KEY&quot;,&quot;encrypted&quot;:true,&quot;projectId&quot;:76034,&quot;pipelineId&quot;:0,&quot;settable&quot;:false,&quot;description&quot;:&quot;&quot;,&quot;filePath&quot;:&quot;~/.ssh/sshKey&quot;,&quot;fileChmod&quot;:&quot;600&quot;,&quot;filePlace&quot;:&quot;CONTAINER&quot;,&quot;createDate&quot;:&quot;0001-01-01T00:00:00.000Z&quot;,&quot;lastUpdateDate&quot;:&quot;0001-01-01T00:00:00.000Z&quot;,&quot;json&quot;:false}<br>ipAddress: <a href="192.168.10.86">192.168.10.86</a><br>domain: lannymargaritachappell<br>invokerId: 3476<br>StackTrace:<br>java.lang.NullPointerException: Cannot invoke &quot;works.buddy.ws.pipeline.entities.Pipeline.isVarsByYaml()&quot; because the return value of &quot;works.buddy.ws.pipeline.daos.PipelineDAO.findById(java.io.Serializable)&quot; is nullworks.buddy.ws.variables.services.DefaultVariableService.validateIsNotManagedByYaml(<a href="DefaultVariableService.java:143">DefaultVariableService.java:143</a>)<br>works.buddy.ws.variables.services.DefaultVariableService.addVariableByFrontOrApi(<a href="DefaultVariableService.java:134">DefaultVariableService.java:134</a>)<br>works.buddy.ws.variables.services.DefaultVariableService.addVariable(<a href="DefaultVariableService.java:129">DefaultVariableService.java:129</a>)<br>jdk.internal.reflect.GeneratedMethodAccessor877.invoke(Unknown Source)<br>java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br>java.base/java.lang.reflect.Method.invoke(Method.java:568)<br>org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(<a href="AopUtils.java:344">AopUtils.java:344</a>)<br>org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(<a href="ReflectiveMethodInvocation.java:198">ReflectiveMethodInvocation.java:198</a>)<br>org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(<a href="ReflectiveMethodInvocation.java:163">ReflectiveMethodInvocation.java:163</a>)<br>org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint.proceed(<a href="MethodInvocationProceedingJoinPoint.java:102">MethodInvocationProceedingJoinPoint.java:102</a>)<br>works.buddy.application.api.aop.PipelineHistoryAspect.handlePipelineChanges(<a href="PipelineHistoryAspect.java:40">PipelineHistoryAspect.java:40</a>)<br>jdk.internal.reflect.GeneratedMethodAccessor672.invoke(Unknown Source)<br>java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br>java.base/java.lang.reflect.Method.invoke(Method.java:568)
+org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethodWithGivenArgs(<a href="AbstractAspectJAdvice.java:634">AbstractAspectJAdvice.java:634</a>)<br>org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethod(<a href="AbstractAspectJAdvice.java:624">AbstractAspectJAdvice.java:624</a>)<br>org.springframework.aop.aspectj.AspectJAroundAdvice.invoke(<a href="AspectJAroundAdvice.java:72">AspectJAroundAdvice.java:72</a>)<br>org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(<a href="ReflectiveMethodInvocation.java:175">ReflectiveMethodInvocation.java:175</a>)<br>org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint.proceed(<a href="MethodInvocationProceedingJoinPoint.java:102">MethodInvocationProceedingJoinPoint.java:102</a>)<br>works.buddy.application.api.aop.PipelineCommitAspect.handlePipelineCommit(<a href="PipelineCommitAspect.java:54">PipelineCommitAspect.java:54</a>)<br>jdk.internal.reflect.GeneratedMethodAccessor671.invoke(Unknown Source)<br>java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br>java.base/java.lang.reflect.Method.invoke(Method.java:568)<br>org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethodWithGivenArgs(<a href="AbstractAspectJAdvice.java:634">AbstractAspectJAdvice.java:634</a>)<br>org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethod(<a href="AbstractAspectJAdvice.java:624">AbstractAspectJAdvice.java:624</a>)<br>org.springframework.aop.aspectj.AspectJAroundAdvice.invoke(<a href="AspectJAroundAdvice.java:72">AspectJAroundAdvice.java:72</a>)<br>org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(<a href="ReflectiveMethodInvocation.java:175">ReflectiveMethodInvocation.java:175</a>)<br>org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(<a href="ExposeInvocationInterceptor.java:97">ExposeInvocationInterceptor.java:97</a>)<br>org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(<a href="ReflectiveMethodInvocation.java:186">ReflectiveMethodInvocation.java:186</a>)<br>org.springframework.aop.framework.JdkDynamicAopProxy.invoke(<a href="JdkDynamicAopProxy.java:241">JdkDynamicAopProxy.java:241</a>)<br>jdk.proxy2/jdk.proxy2.$Proxy200.addVariable(Unknown Source)<br>works.buddy.application.internalapi.DefaultInternalAPI.addEnvironmentVariable(<a href="DefaultInternalAPI.java:4016">DefaultInternalAPI.java:4016</a>)<br>jdk.internal.reflect.GeneratedMethodAccessor705.invoke(Unknown Source)<br>java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br>java.base/java.lang.reflect.Method.invoke(Method.java:568)<br>org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(<a href="AopUtils.java:344">AopUtils.java:344</a>)<br>org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(<a href="ReflectiveMethodInvocation.java:198">ReflectiveMethodInvocation.java:198</a>)<br>org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(<a href="ReflectiveMethodInvocation.java:163">ReflectiveMethodInvocation.java:163</a>)<br>org.springframework.aop.framework.adapter.MethodBeforeAdviceInterceptor.invoke(<a href="MethodBeforeAdviceInterceptor.java:58">MethodBeforeAdviceInterceptor.java:58</a>)<br>org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(<a href="ReflectiveMethodInvocation.java:175">ReflectiveMethodInvocation.java:175</a>)<br>org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint.proceed(<a href="MethodInvocationProceedingJoinPoint.java:102">MethodInvocationProceedingJoinPoint.java:102</a>)<br>works.buddy.application.internalapi.aop.LoggingAspect.loggingExecutionTime(<a href="LoggingAspect.java:19">LoggingAspect.java:19</a>)<br>jdk.internal.reflect.GeneratedMethodAccessor439.invoke(Unknown Source)<br>java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br>java.base/java.lang.reflect.Method.invoke(Method.java:568)<br>org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethodWithGivenArgs(<a href="AbstractAspectJAdvice.java:634">AbstractAspectJAdvice.java:634</a>)<br>org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethod(<a href="AbstractAspectJAdvice.java:624">AbstractAspectJAdvice.java:624</a>)<br>org.springframework.aop.aspectj.AspectJAroundAdvice.invoke(<a href="AspectJAroundAdvice.java:72">AspectJAroundAdvice.java:72</a>)<br>org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(<a href="ReflectiveMethodInvocation.java:186">ReflectiveMethodInvocation.java:186</a>)<br>org.springframework.aop.framework.adapter.MethodBeforeAdviceInterceptor.invoke(<a href="MethodBeforeAdviceInterceptor.java:58">MethodBeforeAdviceInterceptor.java:58</a>)<br>org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(<a href="ReflectiveMethodInvocation.java:175">ReflectiveMethodInvocation.java:175</a>)<br>org.springframework.aop.framework.adapter.MethodBeforeAdviceInterceptor.invoke(<a href="MethodBeforeAdviceInterceptor.java:58">MethodBeforeAdviceInterceptor.java:58</a>)<br>org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(<a href="ReflectiveMethodInvocation.java:175">ReflectiveMethodInvocation.java:175</a>)<br>org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(<a href="ExposeInvocationInterceptor.java:97">ExposeInvocationInterceptor.java:97</a>)<br>org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(<a href="ReflectiveMethodInvocation.java:186">ReflectiveMethodInvocation.java:186</a>)
+org.springframework.aop.framework.JdkDynamicAopProxy.invoke(<a href="JdkDynamicAopProxy.java:241">JdkDynamicAopProxy.java:241</a>)<br>jdk.proxy2/jdk.proxy2.$Proxy381.addEnvironmentVariable(Unknown Source)<br>jdk.internal.reflect.GeneratedMethodAccessor705.invoke(Unknown Source)<br>java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br>java.base/java.lang.reflect.Method.invoke(Method.java:568)<br>org.apache.cxf.service.invoker.AbstractInvoker.performInvocation(<a href="AbstractInvoker.java:179">AbstractInvoker.java:179</a>)<br>org.apache.cxf.service.invoker.AbstractInvoker.invoke(<a href="AbstractInvoker.java:96">AbstractInvoker.java:96</a>)<br>org.apache.cxf.jaxrs.JAXRSInvoker.invoke(<a href="JAXRSInvoker.java:201">JAXRSInvoker.java:201</a>)<br>org.apache.cxf.jaxrs.JAXRSInvoker.invoke(<a href="JAXRSInvoker.java:104">JAXRSInvoker.java:104</a>)<br>org.apache.cxf.interceptor.ServiceInvokerInterceptor$<a href="1.run">1.run</a>(<a href="ServiceInvokerInterceptor.java:59">ServiceInvokerInterceptor.java:59</a>)<br>org.apache.cxf.interceptor.ServiceInvokerInterceptor.handleMessage(<a href="ServiceInvokerInterceptor.java:96">ServiceInvokerInterceptor.java:96</a>)<br>org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(<a href="PhaseInterceptorChain.java:307">PhaseInterceptorChain.java:307</a>)<br>org.apache.cxf.transport.ChainInitiationObserver.onMessage(<a href="ChainInitiationObserver.java:121">ChainInitiationObserver.java:121</a>)<br>org.apache.cxf.transport.http.AbstractHTTPDestination.invoke(<a href="AbstractHTTPDestination.java:265">AbstractHTTPDestination.java:265</a>)<br>org.apache.cxf.transport.servlet.ServletController.invokeDestination(<a href="ServletController.java:234">ServletController.java:234</a>)<br>org.apache.cxf.transport.servlet.ServletController.invoke(<a href="ServletController.java:208">ServletController.java:208</a>)<br>org.apache.cxf.transport.servlet.ServletController.invoke(<a href="ServletController.java:160">ServletController.java:160</a>)<br>org.apache.cxf.transport.servlet.CXFNonSpringServlet.invoke(<a href="CXFNonSpringServlet.java:225">CXFNonSpringServlet.java:225</a>)<br>org.apache.cxf.transport.servlet.AbstractHTTPServlet.handleRequest(<a href="AbstractHTTPServlet.java:304">AbstractHTTPServlet.java:304</a>)<br>org.apache.cxf.transport.servlet.AbstractHTTPServlet.doPost(<a href="AbstractHTTPServlet.java:217">AbstractHTTPServlet.java:217</a>)<br>javax.servlet.http.HttpServlet.service(<a href="HttpServlet.java:523">HttpServlet.java:523</a>)<br>org.apache.cxf.transport.servlet.AbstractHTTPServlet.service(<a href="AbstractHTTPServlet.java:279">AbstractHTTPServlet.java:279</a>)<br>org.eclipse.jetty.servlet.ServletHolder.handle(<a href="ServletHolder.java:764">ServletHolder.java:764</a>)<br>org.eclipse.jetty.servlet.ServletHandler$ChainEnd.doFilter(<a href="ServletHandler.java:1665">ServletHandler.java:1665</a>)<br>works.buddy.application.internalapi.filter.InternalApiRequestFilter.doFilter(<a href="InternalApiRequestFilter.java:75">InternalApiRequestFilter.java:75</a>)<br>org.eclipse.jetty.servlet.FilterHolder.doFilter(<a href="FilterHolder.java:202">FilterHolder.java:202</a>)<br>org.eclipse.jetty.servlet.ServletHandler$Chain.doFilter(<a href="ServletHandler.java:1635">ServletHandler.java:1635</a>)<br>works.buddy.application.internalapi.filter.InternalApiMDCFilter.doFilter(<a href="InternalApiMDCFilter.java:21">InternalApiMDCFilter.java:21</a>)<br>org.eclipse.jetty.servlet.FilterHolder.doFilter(<a href="FilterHolder.java:202">FilterHolder.java:202</a>)<br>org.eclipse.jetty.servlet.ServletHandler$Chain.doFilter(<a href="ServletHandler.java:1635">ServletHandler.java:1635</a>)<br>ch.qos.logback.classic.helpers.MDCInsertingServletFilter.doFilter(<a href="MDCInsertingServletFilter.java:50">MDCInsertingServletFilter.java:50</a>)<br>org.eclipse.jetty.servlet.FilterHolder.doFilter(<a href="FilterHolder.java:202">FilterHolder.java:202</a>)<br>org.eclipse.jetty.servlet.ServletHandler$Chain.doFilter(<a href="ServletHandler.java:1635">ServletHandler.java:1635</a>)<br>org.springframework.orm.hibernate5.support.OpenSessionInViewFilter.doFilterInternal(<a href="OpenSessionInViewFilter.java:156">OpenSessionInViewFilter.java:156</a>)<br>org.springframework.web.filter.OncePerRequestFilter.doFilter(<a href="OncePerRequestFilter.java:117">OncePerRequestFilter.java:117</a>)<br>org.eclipse.jetty.servlet.FilterHolder.doFilter(<a href="FilterHolder.java:202">FilterHolder.java:202</a>)<br>org.eclipse.jetty.servlet.ServletHandler$Chain.doFilter(<a href="ServletHandler.java:1635">ServletHandler.java:1635</a>)<br>org.eclipse.jetty.servlet.ServletHandler.doHandle(<a href="ServletHandler.java:527">ServletHandler.java:527</a>)<br>org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(<a href="ScopedHandler.java:221">ScopedHandler.java:221</a>)<br>org.eclipse.jetty.server.session.SessionHandler.doHandle(<a href="SessionHandler.java:1580">SessionHandler.java:1580</a>)<br>org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(<a href="ScopedHandler.java:221">ScopedHandler.java:221</a>)<br>org.eclipse.jetty.server.handler.ContextHandler.doHandle(<a href="ContextHandler.java:1384">ContextHandler.java:1384</a>)<br>org.eclipse.jetty.server.handler.ScopedHandler.nextScope(<a href="ScopedHandler.java:176">ScopedHandler.java:176</a>)<br>org.eclipse.jetty.servlet.ServletHandler.doScope(<a href="ServletHandler.java:484">ServletHandler.java:484</a>)<br>org.eclipse.jetty.server.session.SessionHandler.doScope(<a href="SessionHandler.java:1553">SessionHandler.java:1553</a>)<br>org.eclipse.jetty.server.handler.ScopedHandler.nextScope(<a href="ScopedHandler.java:174">ScopedHandler.java:174</a>)<br>org.eclipse.jetty.server.handler.ContextHandler.doScope(<a href="ContextHandler.java:1306">ContextHandler.java:1306</a>)<br>org.eclipse.jetty.server.handler.ScopedHandler.handle(<a href="ScopedHandler.java:129">ScopedHandler.java:129</a>)
+org.eclipse.jetty.server.handler.HandlerWrapper.handle(<a href="HandlerWrapper.java:122">HandlerWrapper.java:122</a>)<br>org.eclipse.jetty.server.Server.handle(<a href="Server.java:563">Server.java:563</a>)<br>org.eclipse.jetty.server.HttpChannel$RequestDispatchable.dispatch(<a href="HttpChannel.java:1598">HttpChannel.java:1598</a>)<br>org.eclipse.jetty.server.HttpChannel.dispatch(<a href="HttpChannel.java:753">HttpChannel.java:753</a>)<br>org.eclipse.jetty.server.HttpChannel.handle(<a href="HttpChannel.java:501">HttpChannel.java:501</a>)<br>org.eclipse.jetty.server.HttpConnection.onFillable(<a href="HttpConnection.java:287">HttpConnection.java:287</a>)<br>org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(<a href="AbstractConnection.java:314">AbstractConnection.java:314</a>)<br>org.eclipse.jetty.io.FillInterest.fillable(<a href="FillInterest.java:100">FillInterest.java:100</a>)<br>org.eclipse.jetty.io.ssl.SslConnection$DecryptedEndPoint.onFillable(<a href="SslConnection.java:558">SslConnection.java:558</a>)<br>org.eclipse.jetty.io.ssl.SslConnection.onFillable(<a href="SslConnection.java:379">SslConnection.java:379</a>)<br>org.eclipse.jetty.io.ssl.SslConnection$2.succeeded(<a href="SslConnection.java:146">SslConnection.java:146</a>)<br>org.eclipse.jetty.io.FillInterest.fillable(<a href="FillInterest.java:100">FillInterest.java:100</a>)<br>org.eclipse.jetty.io.SelectableChannelEndPoint$<a href="1.run">1.run</a>(<a href="SelectableChannelEndPoint.java:53">SelectableChannelEndPoint.java:53</a>)<br>org.eclipse.jetty.util.thread.strategy.AdaptiveExecutionStrategy.runTask(<a href="AdaptiveExecutionStrategy.java:421">AdaptiveExecutionStrategy.java:421</a>)<br>org.eclipse.jetty.util.thread.strategy.AdaptiveExecutionStrategy.consumeTask(<a href="AdaptiveExecutionStrategy.java:390">AdaptiveExecutionStrategy.java:390</a>)<br>org.eclipse.jetty.util.thread.strategy.AdaptiveExecutionStrategy.tryProduce(<a href="AdaptiveExecutionStrategy.java:277">AdaptiveExecutionStrategy.java:277</a>)<br><a href="org.eclipse.jetty.util.thread.strategy.AdaptiveExecutionStrategy.run">org.eclipse.jetty.util.thread.strategy.AdaptiveExecutionStrategy.run</a>(<a href="AdaptiveExecutionStrategy.java:199">AdaptiveExecutionStrategy.java:199</a>)<br>org.eclipse.jetty.util.thread.ReservedThreadExecutor$<a href="ReservedThread.run">ReservedThread.run</a>(<a href="ReservedThreadExecutor.java:411">ReservedThreadExecutor.java:411</a>)<br>org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(<a href="QueuedThreadPool.java:969">QueuedThreadPool.java:969</a>)<br>org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.doRunJob(<a href="QueuedThreadPool.java:1194">QueuedThreadPool.java:1194</a>)<br>org.eclipse.jetty.util.thread.QueuedThreadPool$<a href="Runner.run">Runner.run</a>(<a href="QueuedThreadPool.java:1149">QueuedThreadPool.java:1149</a>)<br>java.base/java.lang.Thread.run(Thread.java:840)<br><br><br><br><br>-----<br><br>One or more child tests had errors<br>  Exception doesn&apos;t have a stacktrace
+😎
+oddaj tamto
+zajebiste XD
+do screena
+Moore-a?
+on też od prawa, ale innego
+DeMorgana?
+niezlee
+Zastanawiam się co się wyjebało
+Coś na walidacji, ale po froncie działa czyli ja coś zjebałem
+variable w yamlu coś nie tak?
+To nie w yaml-u
+Bardziej z Project &gt; Variables, Keys &amp; Assets
+dupaaa
+nie każdy będzie używać
+a pricing plany bedą per user więc nawet jak ktos nie używa to hajs leci
+Wychodzi na to, że jak posyłam i projectId i pipelineId to głupieje
+Ojoj
+Ale przykro
+Nie będzie przycisków do AI
+miód ludzki na moje oczy
+te przyciski znikaja???
+Nie
+Będą bardziej wkurwiające bo jak klikniesz to będzie prompt o paymenty
+do nuklearek
+cholibka
+zaraz mnie zamkna, zegnajcie
+albo znowu zamiast w google, to szukał na telegramie
+A ja myślałem, że to wkurw na clickupa
+to to w kazdych ilosciach
+Jaki fajny secret wleciał jak nie patrzyłem...
+Jak na tym czacie to pół biedy xD
+<a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> znajdź błąd
+to nawet csharpowiec znajdzie
+err znowu?
+xxx
+znowu sprawdzanie error code przez requestem
+przed responsem
+a czym jest tym razem err?
+tak XD
+EventArgs
+tam jest click event
+Spoiler
+ale to drugie tez
+Kurwa
+znowu sprawdza kod przed wyslaniem
+na losowych obiektach
+tak
+teraz się rekordów nie da wyjebać
+XD
+gościu
+tu nie jest wysyłany request
+Ten kod to śmietnik
+on srpawdza czy backend zwrócił error
+przed kurwa przekierowaniem na formularz
+do usuwania
+rekordu
+no widze
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong>
+to wina backendu
+powinni nam srać pushami do każdego eventa htmlowego
+xd
+Wincyj pushy, wincyj
+Pany jak my dzisiaj
+na to pierwsze too late
+tego jest więcej. Już rozumiem nazwę roli xd
+<strong>HYDRAULIKAAAAAAAAA!</strong><br>HYDRAULIKA ZE SPRĘŻYNĄ, ŻEBY W TO GÓWNO WBIŁ I KRĘCIŁ!!! (╯°□°）╯︵ ┻━┻
+dajcie mi 5 min
+pls
+moze sie szybciej wyrobie
+13:15 -&gt; To już ostatni raz jak się spotykamy w tym tygodniu, więc może ruszyłbyś dupę? Dzisiaj i tak QA nie wystawia bugów, bo Kuba rozjebał dev-a (znowu)
+Wezwij Łukasza, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/66f693b495b3ef539a7de7f4">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/66f693b495b3ef539a7de7f4</a><br><br>to ty, gdy wezwiesz Łukasza, który udaje, że pracuje nad targety:<br>⠀  ⠀   (__/)<br>           (•ㅅ•)      Don’t talk to<br>    ＿ノヽ ノ＼＿      me or my son<br><code>/　</code>/ ⌒Ｙ⌒ Ｙ  ヽ     ever again.<br>( 　(三ヽ人　 /　  |<br>|　ﾉ⌒＼ ￣￣ヽ   ノ<br>ヽ＿＿＿＞､＿_／<br>       ｜( 王 ﾉ〈   (__/)<br>       /ﾐ<code>ー―</code>彡  (•ㅅ•)<br>      / ╰    ╯  /    &gt;
+Tym razem nie nasz Kuba, a Klin i nie dev-a, a QIK-a
+Cyprian
+Cho
+dź
+😢 już nawet nie chce im się wołać
+🙉🙈🙈🐒🐵🙈🙉🐵🐒🙊
+[plugin vite-plugin-markdown] Sourcemap is likely to be incorrect: a plugin (vite-plugin-markdown) was used to transform files, but didn&apos;t generate a sourcemap for the transformation. Consult the plugin documentation for help
+ktoś z frontu wie o co chodzi??
+<a href="https://t.me/shipurjan">@shipurjan</a>
+<a href="https://sls.io/beta/frontend/pipelines/pipeline/125086/execution/66f69bc74f64df75ec215d01/action/7931/logs?token=a889f6d9ff45c7ce4fb5930f50a6ea2d00cdf3b85b2e4f9eaefdaebc9c4ae1d8e4b9530efbb553830b37404f0836e5c330aafa960298def0562f2b98b5ba03c1">https://sls.io/beta/frontend/pipelines/pipeline/125086/execution/66f69bc74f64df75ec215d01/action/7931/logs?token=a889f6d9ff45c7ce4fb5930f50a6ea2d00cdf3b85b2e4f9eaefdaebc9c4ae1d8e4b9530efbb553830b37404f0836e5c330aafa960298def0562f2b98b5ba03c1</a>
+każde budowanie
+nie wiem dokładnie co tam się dzieje, ja puszczam skrypt wg instrukcji
+chyba działa tylko zajebane pełno tych logów
+warning to error
+won&apos;t fix
+o, activity dla recordu....
+co tutaj można zepsuć?
+🍿
+no popatrzmy...
+Wszystko
+ok, coś tam domenowego dzisiaj...
+a co wczoraj?
+<a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> z tym się jebał jak...
+ano ktoś sandboxa stworzył
+albo odpalił pipeline
+nie no
+👏
+jakie tam getFeeds jest użyte 😆
+pojebana składania
+nie no że domyślne feedy dla workspace czy coś to jest długi ciąg to ja wiem
+leci to do getDnsFeeds
+w teorii
+REMOTE_ZONE_UPDATE tam dochodzi wkrótce™️
+bo kierunek jest w parametrze
+peirdole, chorobowe biore
+do choroszczy
+spokojnie do to yamla
+dobra, pokaże ci jak wyglądał query
+ale to muszę na dev, bo fixnąłem to u siebie xd
+d<br>n<br>s
+XD
+ergo zwraca wszystko
+Happy zjebany klucz
+Jestem stalkowany
+Bandyctwo
+Kłamstwo
+Na twój profil nie wszedłem xd
+Coś się zwaliło ze scrapowaniem zup. Pewnie złamasy nie wrzuciły w tym tygodniu 🤔 <br>Dla pewności zobacz: <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197152/execution/66fa305095b3ef539a7fede6">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197152/execution/66fa305095b3ef539a7fede6</a><br><br>Żeby naprawić ręcznie:<br>1. Pobierz najnowszy obrazek z <a href="https://www.facebook.com/people/SniadaniotekaBielsko/100063643324556/">https://www.facebook.com/people/SniadaniotekaBielsko/100063643324556/</a><br>2. Wrzuć do filesystemu pipeline jako zupy.jpg<br>3. Puść pipeline bez pierwszej akcji<br>4. Jak się znowu wyjebie, to nie ruszaj, bo zepsujesz bardziej
+jakie zuposkamm
+kod do alarmu w firmie 2050 :)
+kominiarka w domu czy jedziesz dopiero kupić?
+nie w domu zostawilem
+:(
+:((
+a ty odczytales smska?
+ta
+bosko
+wyjebie się pewnie:
+[SPOILER] Lista zup na ten tydzień UwU
+Poniedziałek: <span class="spoiler hidden" onclick="ShowSpoiler(this)"><span aria-hidden="true">Zupa meksykańska z czarnej fasoli<br>Pikantna zupa z czarnej fasoli, wzbogacona o nachosy i salsę.</span></span>
+Wtorek: <span class="spoiler hidden" onclick="ShowSpoiler(this)"><span aria-hidden="true">Krem ze szpinaku<br>Gładka, zielona zupa na bazie szpinaku, podawana z chlebem.</span></span>
+Środa: <span class="spoiler hidden" onclick="ShowSpoiler(this)"><span aria-hidden="true">Aromatyczne curry z dynią<br>Wyrazista zupa curry z dynią, z aromatycznymi przyprawami.</span></span>
+Czwartek: <span class="spoiler hidden" onclick="ShowSpoiler(this)"><span aria-hidden="true">Żurek z białą kiełbasą<br>Tradycyjna polska zupa na zakwasie, z białą kiełbasą i jajkiem.</span></span>
+Piątek: <span class="spoiler hidden" onclick="ShowSpoiler(this)"><span aria-hidden="true">Krem z cebuli<br>Kremowa zupa cebulowa, idealna na rozgrzanie w chłodniejsze dni.</span></span>
+powiedzmy, że jest dobrze
+i że nie ucięło
+9:20 -&gt; do przerwy zostało T - 10 minut.<br><br>Dzisiejsza zupa:<br>Zupa meksykańska z czarnej fasoli<br>Pikantna zupa z czarnej fasoli, wzbogacona o nachosy i salsę.
+9:30 -&gt; najgorszy dzień tygodnia. QA znowu wystawiać taski o byle pierdoły. Świat schodzi na psy. Przynajmniej jest zupa.
+dawno tasków od qa nie było
+tak tbh
+mozeby wyjebac te kanaly od taskow
+tbh
+za dużo otwierania?
+zostawic buddy lang i tam co sie obrazacie
+ja tam jestem grzeczny
+to Łukasz
+jak zawsze
+xd
+albo tylko buddylang
+kto ma blisko niech rzuci okiem czy zupa już jest
+bo nie było o 9
+i jak sytuacja?
+Jest
+git
+jeeestes szalony uwierz mi
+juz mi odpierdala takze nara
+nadal*
+czy posiadanie dobrego rest api jest takie kurwa ciężkie? <br>namecheap co to do chuja jest? pierdolneło was na łeb żeby nie mieć jakiegoś body czy cokolwiek innego tylko wpierdolić wszystko do request parametrów????????????????????
+Na kurwy zapraszam
+POST też możesz wysłać req params
+chociaż to ich api jest na xml... jeszcze by chcieli body w tym samym formacie XD
+a potem sie rodza takie pojebane url
+?
+In progress
+to skomplikowane
+już i tak mają niezłą zabawę na supporcie
+były już calle, że ktoś chce kupić licencję, ale nie ma oferowanych usług dostępnych
+vt, domen, targetów
+no słabo to wyszło, totalnie nie czaje zamiaru
+może to jakiś odpał w stylu to już miało być gotowe więc wypuszczamy
+nie jest gotowe? nie moja wina już miało być gotowe 😆
+klientom chyba mówią, że coś tam testują
+jak się zgłaszają, to dostają niższą cenę
+testuja czy jest popyt
+xd
+troche późno
+XD
+pszypał
+nigdy nie jest zapozno
+xd
+mniam
+a może chodzi o przeniesienie komentarzy użytkownika Offser
+hehe
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong>
+żaba?
+bo spotkanie dość długo trwało xd
+no bo Szymon był na spotkaniu
+poważne rozmowy jednak się toczyły ;v
+ja za zaba
+jak spotkanie?
+a ja przed
+albo w sumie najlepiej w
+juz?
+szybki jestes
+w żabie się robi najlepiej zakupy
+niż za
+czy przed
+zalezy
+czy z pod lady czy przed lada
+no frontu
+jak co poniedziałek
+nie jakie analfabeto tylko jak
+ej ej
+ja nie jestem alfabeta
+no było gadanie, jak zawsze
+co robiliśmy, co zrobimy
+i kto nam hamuje prace
+a co tam nowego szymon toczyl?
+Szymon
+kto chamuje prace?
+jak &quot;chamuje&quot;, to <a href="https://t.me/lmastalerz">@lmastalerz</a>
+jak &quot;hamuje&quot; to qa
+xD
+nie no takie tam żarty
+bo pewnie Łukasz obsrany
+pod kasztanami siedzi
+mnie ciekawi czy będzie zdziwko że featury wolniej są robione jak jest mniej osób do pracy
+czy to było brane pod uwagę jednak xD
+tajest
+na 3 zmiany
+wrócę z uczelni po 21
+to będę napierdalał do 6
+szybki monsterek
+i lecymy 8-14
+mniej niż 30 osób więc znów jesteśmy startupem - move fast break things (ale mamy klientów więc nie psujcie jednak ale ma iść szybko)
+bo trzeba monsterka dupnąć
+Jeszcze jak!
+i przerwa na kibelek
+Ale po tych klockach (QIK, targety, tunele, envy i VT) nie ma nic w taskach
+jeszcze
+Są tylko małe śmieci
+inbox
+ai
+tunele dopiero są odgrzebywane
+Jak <a href="https://t.me/mganczarczyk">@mganczarczyk</a>
+qik 2.0 jest w trakcie juz
+mogę być małym, jak ty jesteś większym
+Ty jesteś płynny czy stały?
+sraken pierdaken
+teraz pozostałe 2137 kodów
+goodlock
+deadlock
+a do QIK 2.0 nie ide poki nie bedzie stabilny
+ale wtedy bede obrazal
+qik jest stabilny
+haha
+brak stageowania
+Jak wieża na mydle
+stage&apos;ować się da
+usuwać też
+nie bulkiem
+ale się da
+powinienes byc standuperem nie fron
+nieeeee
+bo bym zabrał pracę Łukaszowi
+nadwornego clowna
+🤡
+Kiedy Mateosz dołączy?
+ale lukasz jest kasztanem
+w sumie tak
+halo, przerywa
+Chuje
+to się będzie dało przy yamlu, teoretycznie już jest metoda od synca która to może zrobić ale nieobsłużona
+poslales juz message wiesz komu&gt;
+?
+<a href="https://t.me/shipurjan">@shipurjan</a> będzie trzeba coś wymyślić, bo mi nie dadzą żyć
+a nie mam pomyslu na wiadomość
+chat gpt wam podpowie
+co my mamy napisac xd
+przeciez to zablokuje mateuszowi kariere na stale
+a co ja mam napisać?
+Zajebisty z frontu, mateusz nawieśniak
+Pozdrawiam, i we go przyjmij
+nie rób mu pod górkę w życiu
+Może zapierdalać od jutra
+zapierdalać...
+Czy od wczoraj, bez różnicy
+to możemy do żaby
+za 15 sekund
+tak
+już wstaje
+5s
+13:15 -&gt; zostaw już ten kod. I tak wiadomo, że chuja robisz i jedynie QA wkurwiasz<br><br>Kuba =&gt; wypierdalaj
+Wezwij Łukasza, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/66fa883495b3ef539a804f32">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/66fa883495b3ef539a804f32</a><br><br>to ty, gdy wezwiesz Łukasza, który udaje, że pracuje nad targety:<br>⠀  ⠀   (__/)<br>           (•ㅅ•)      Don’t talk to<br>    ＿ノヽ ノ＼＿      me or my son<br><code>/　</code>/ ⌒Ｙ⌒ Ｙ  ヽ     ever again.<br>( 　(三ヽ人　 /　  |<br>|　ﾉ⌒＼ ￣￣ヽ   ノ<br>ヽ＿＿＿＞､＿_／<br>       ｜( 王 ﾉ〈   (__/)<br>       /ﾐ<code>ー―</code>彡  (•ㅅ•)<br>      / ╰    ╯  /    &gt;
+<a href="https://t.me/lmastalerz">@lmastalerz</a>, wiesz co się rymuje ze słowem &quot;żabka&quot;?<br><strong>RUSZ DUPE DO KUCHNI</strong><br><br>Sami wiecie kogo wezwał: Marcel Gańczarczyk<br><br> /| ､<br>(°､ ｡ 7<br> |､  ~ヽ<br> じしf\_,)〳‌‎<br><br><a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196321/execution/66fa8c0295b3ef539a805378">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196321/execution/66fa8c0295b3ef539a805378</a>
+Summoner przekazuje: <br>🫄🏻🔫
+Dzień dobry,<br>zrobię to dla was i ruszę dupsko. A Marcel nie ma luster w domu<br>pozdrawiam.
+czemu na live?
+whuuuu
+:/
+Nie mamy sentry
+wy macie szukać błędy
+a nie sprawdzać istniejące
+Szukamy błędy
+mhm
+I problemy
+i co już znalazłeś?
+Tak
+Ciebie
+to zmień zawód
+I 404 na wiadomości do Szymona
+bo chujowo szukasz
+na jakim etapie jest story book?
+i gdize jest?
+wie ktos?
+? xd
+zadaj lepiej to pytanie
+wtf
+xd
+Story book do Visual testów
+sam sobie stawiasz
+ten z qika to nie atakuj
+Co to, jak to działa, jak zrobić jak stestować
+jak
+bo request będzie szedł 1000 lat
+1. widok poszczególnych komponentów<br>2. wyświetla komponenty można zmieniać im propki<br>3. jak najlepiej
+A teraz wytłumacz to Kubie
+jak to postawic
+jaki jest flow tworzenia takie storybooka?
+<a href="https://storybook.js.org/">https://storybook.js.org/</a>
+dziękuję ^
+jakie docsy
+niestety brak c#
+bardzo mi z tego powodu wszystko jedno
+czyli to jest zewnetrzne narzedzie zaciagane do nas?
+kurwa jakie docsy
+tak, storybook to zewnętrzne narzędzie z którego front korzysta
+docsy storybooka
+ale to ma byc tez dostepne dla klienta
+imo testowanie zewnetrznego narzedzia
+xD?
+nie testujesz czy storybook działa
+tylko czy serwis poprawnie wyciąga stories
+i czy je poprawnie oscreenuje
+jakies parametry do tego?
+xd
+npm run storybook
+nie trzeba
+sama ta komenda
+XD
+to jest opakowane
+<a href="https://github.com/storybookjs/storybook/blob/next/LICENSE">https://github.com/storybookjs/storybook/blob/next/LICENSE</a>
+ja chyba nie rozumiem tych licencji, to znaczy że buddy od momentu użycia takiego MIT projektu też jest MIT? czy ma tylko dostarczać tą licencję gdzieś mały druczkiem i wyjebane 😆
+akjdehjkaehgli/ajhg
+a no spoko
+Ogłoszenia parafialne
+1. Targety złapały delay tygodniowego
+2. Dostałem taska z changelogami do ogarnięcia
+ja z buttonem Upgrade
+xd
+To jeszcze #3
+Kto pytał
+i ludzie od klimy laza jak mrowki w te i we wte
+No nie
+czy w filesystemie projektu da sie zip rozpakowac?
+jak ustawic w pipeline zeby filesystem pipeline sie jakby jednoczesnie dodawal do repo
+ze jak dodaje jakies pliki tu to w repo tez sie dodaja
+Da się wogóle?
+Bo jak dobrze pamiętam to było tak, że Filesystem był izolowany od repo
+I FS zaciągał repo, ale nie odwrotnie
+oke
+juz ogarnolem
+QA cię oblazło
+Jak szarańcza
+uważaj, bo się ten baran cieszy
+uhehhehehehe
+🐏
+<a href="https://t.me/shipurjan">@shipurjan</a> ten task jest w chuj długi. O co tam chodzi?
+przeczytaj opis
+Czytam i chuja rozumim
+that was unexpected
+<a href="https://t.me/shipurjan">@shipurjan</a> coś ty tam skleptoczył?
+przeczytaj opis
+komentarze
+wypij cukier z herbatą
+no i chuj
+cały dzień zmarnowany na czytanie taska
+ale mu zrobiłeś dzień
+<a href="https://t.me/shipurjan">@shipurjan</a> może my też musimy zacząć tak robić, jak będziemy dostawać/brać taski
+&quot;tldr; o chuj tu chodzi&quot;
+assignee Paweł
+co to za nowy kanal
+Czyli 2 taby na executionie i changelog
+jak dsotałeś targety
+to też pytałeś
+&apos;po chuj mi to dajesz&apos;
+&apos;co tu zostało dodane&apos;
+na którego nikt nie potrafił trafić
+To jest dla mnie nowy workflow, bo wcześniej kto inny trzepał taskiem
+Dostałem sd1
+a weźmiesz je do domu?
+prrrr envy
+Jak się da
+A się nie da
+variable po prostu 🤔
+ufffff
+Ma ktoś namiar na spoko dentystę w Bielsku??
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> <a href="https://t.me/shipurjan">@shipurjan</a> jesteście w stanie wyciągnąć mi wszystkie pathy (url-e) do targetów?
+Czy mam pucować Pawła?
+a skryptu do wyciągania wszystkich urli ja na pewno nie mam
+chociaż nie
+doable
+/:domain/targets<br>/:domain/targets/add/:type<br>/:domain/targets/add/:type/proxy<br>/:domain/targets/add/:type/path<br>/:domain/targets/:targetId/edit<br>/:domain/targets/:targetId/edit/permissions<br>/:domain/targets/:targetId/edit/proxy<br>/:domain/targets/:targetId/edit/path
+wszystko co leci na :domain/targets
+dalej nie szukam
+Jest to w jakimś pliku jednym?
+aż tak prosto to nie ma w życiu
+W jednym folderze?
+w teorii
+Dobra, kleptoczę do Pawła, bo targety są jeszcze inline w akcjach
+Chyba że nie
+nie wiem
+jedyne co tam robiłem, to codemirror xD
+i w sumie to też nie, bo tylko zrobiłem komponent do edytora w formie
+9:20 -&gt; do przerwy zostało T - 10 minut.<br><br>Dzisiejsza zupa:<br>Krem ze szpinaku<br>Gładka, zielona zupa na bazie szpinaku, podawana z chlebem.
+9:30 -&gt; gdy nadejdzie bunt maszyn, to nie macie się czego bać. Z całą pewnością, wywalą exception na pierwszym ifie, bo QA się opierdalało. A przy okazji zapraszam na przerwę
+<a href="https://t.me/shipurjan">@shipurjan</a> kurwa
+Skacz że wreszcie
+🙊
+Sry
+tego będzie od siura więcej
+i to serio będziesz musiał jakimś pythonem filtrować xd
+tylko się nie chwal za bardzo liczbami, bo zespół qa aż czeka na ilość aktywnych userów
+nie, chyba im przeszło
+bo to wszystko było w celu liczenia ile $$$ może do nich trafić
+a na razie trzeba liczyć żeby nie zostać wyjebanym z roboty XD
+wgl kurwa mogą ostrzegać jak będą jakieś roboty... łatwiej miałbym się skupić w domu do chuja
+cos wiercą, coś gadają kurwa telefon dzwoni
+zajebiście 😆
+zapraszam na górę xD
+ciszaaaaa
+jeszcze kaszle któryś
+czasami tylko dżrodż z jarkiem o mefedronie rozmawiają
+średnio raz dziennie
+a poza tym git
+w domu też mam cisze i bym nie musiał skrobać szyby rano i jechać do bielska 😆
+xd
+to byl krzysiek rano a teraz nwm
+skrobac szybe mefedronem
+bez sensu
+jest bartek wrobel?
+si
+<a href="https://t.me/BartShoot">@BartShoot</a> miałbyś chwilę zerknąć na szybko na tego SPF i jego wymaganie &quot;&quot;? Nawet nie do fixowania teraz, tylko czy faktycznie wywalacie błąd, jak go nie ma
+już popatrze
+przy okazji
+nienawidze namecheapa
+XD
+a w sumie wait gdzie ci wywala to
+bo jest opcja że to idzie do registrara prosto no i oni wywalają
+dodawanie rekordu spf
+ehhh
+nie mamy obsłużonego, możemy mieć
+imo lepsze rozwiązanie po waszej stronie niż usuwanie &quot;&quot; w inpucie i dodawanie przed wysłaniem
+bo w liście rekordów nadal będzie syf
+daj link do taska albo komentarza i już robie PR
+<a href="https://app.clickup.com/t/8695vzwwu">https://app.clickup.com/t/8695vzwwu</a>
+<a href="https://t.me/shipurjan">@shipurjan</a> coś jeszcze?
+da się, ssh z domu
+AI w buddym
+machine learning
+Jeszcze nie zacząłem testować, Krzysiu sobie poszedł w pizdu
+zajebisty powód
+👏
+oj gdybyśmy my tak pracowali że jak nikt nie patrzy to się opierdalamy
+Zbieram linki do targetów i innych śmieci
+to byśmy się już pożegnali XD
+do czasu ;x
+nimt tu sie nie opierdala
+kiedyś zauważą
+nie ty
+tu jest napisane co innego
+No co ja poradzę, jak dał mi taska i refuse explain
+zgadnj, co możesz na qa zrobić
+Excela wypełnić
+jakbym cię znał od tygodnia, to bym nie mógł uwierzyć, że jesteś aż takim dzbanem
+ale znam dłużej
+<a href="https://docs.google.com/spreadsheets/d/1SL2HDRu1lscmHRdlGZHIOgM3T5G85bswoKyrNSJEVds/edit?gid=0#gid=0">https://docs.google.com/spreadsheets/d/1SL2HDRu1lscmHRdlGZHIOgM3T5G85bswoKyrNSJEVds/edit?gid=0#gid=0</a>
+i już od dawna to wiem
+jestmoblegany
+przez Łukasza?
+nie przesadzaj
+nie przez ludzi z drabina
+Nie, przez drabinę i chłopów na niej
+xD
+teraz jstem metr od monitora
+xd
+uważaj, by to nie była drabina z gothica
+bo ci na biurko spadną
+oby nie
+narazie leci zawartosc klimy na mnie
+cały ten syf?
+Nie mają daleko
+ta
+;/////
+JAKIE TO JEST DOJEBANE:<br><a href="https://neocities.org/browse">https://neocities.org/browse</a>
+tak!!
+myslalem ze takich stron juz nie ma
+nie no
+mega sprawa
+robią takie aesthetic
+tylko nie są one za bardzo...
+nadające się do użytku
+raczej wogole
+XD zajebiste
+zależy
+teraz jestemdalej od lukasza
+skończyła się praca w szkodliwych warunkach?
+nie ale zmniejszyla sie szkodliwosc
+znaczy no to roznie jest, ale ogolnie dawniej byl taki idk lepszy layout tych stron
+np cos takiego <a href="https://www.metal-archives.com/">https://www.metal-archives.com/</a>
+html
+no i to byla lepsza era internetu nikt mi nie powie ze nie XD
+flash nie działa już w przeglądarch
+made to last
+wchodziłeś na stronę i ona była unikalna
+twórca sam wrzucał oczojebne kolorki
+płomień.gif
+księgę gości
+(griefowaną)
+a teraz to masz przeruchanego bootstrapa
+no dokladnie
+wszystko handmade bylo
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> jak będzie nowy deploy registry to już będzie ale idk kiedy to dokładnie
+wtedy to już mnie nie interesuje xD
+zostanie legacy code najwyżej
+dzięki
+kto to kurwa projektowal
+jak klikne pr4zez przypadek to nie jestem wstanie zamknac tego okienka
+?
+Paweł &gt; Szymon &gt; Bartek
+chyba chodzi o figme
+czy nie
+nie, vt
+a to jeszcze gorzej
+a wylaczenie comment mode sprawia ze klikam w elementy za tym komentarzem
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> jesteś szmatą
+już razu robi deploy na devie
+co tym razem
+Michał powiedział co mam robić więc spierdalaj
+I dalej nie napisałeś tej wiadomości o mateuszu
+Więc jesteś szmatą
+o, czyli całego qika dzisiaj skończę
+na tych zmianach teraz dopuszczone jest zarówno z &quot; i bez?
+czy tylko bez
+działa to tak że po stronie registry sprawdzamy czy jest &quot;, jak nie ma doklejamy
+więc obojętne chyba
+czyli nie muszę nic zmieniać w kodzie xD
+ale no wypierdala się deploy chyba
+więc jeszcze chwile musisz poczekać, jakieś cyrki z containerami
+spoooooko
+znajdę sobie zajęcie XD
+Takie coś byłoby zajebiste:<br>apka z dużymi buttonami. Każdy button to: rc, stage, dev, sd1-9. Po naciśnięciu przenosi cię do app.&lt;<a href="dev.io">dev.io</a>&gt; Każdy button miałby mały przycisk do panelu admina i ten przekierowywałby cię na panel admina tego serwera.<br><br>Sam w sobie przycisk pokazywałby stan maszyny. Np. Szary - off,<br>Czerwony - release failed,<br>Niebieski migający - release in progress,<br>Niebieski - releaase, bez generatora,<br>Zielony migający - generator in progress<br>Zielony ready
+front zrob takie cos
+lenistwo
+<a href="https://youtu.be/aHtEm9sxzYg?feature=shared">https://youtu.be/aHtEm9sxzYg?feature=shared</a>
+programowanie jest po to zeby usprawnic nasze codzienne zadania. z lenistwa automatyzujemy zadania
+<a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> wystaw taska na to na liście tests, skopiuj mój opis i przypnij krzyśka
+A jak nie to ja to zrobię później
+nie zrobi ^
+<a href="https://app.clickup.com/t/86960nbw7">https://app.clickup.com/t/86960nbw7</a>
+Thx
+wejdz w niego :)
+sls nie zyje
+beta zdechła
+Niech spoczywa w pokoju
+ten design
+najlepszy
+nie wywala tekstu za card
+ale go merguje
+pierdololo
+w bardzo brzydiego pokemona
+user error, mogłem w lepszej jakości gifa wysłać i by działało
+czy to oznacza won&apos;t fix???????????
+o
+beta odzdechła
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong>
+pewnie żaba
+jakieś pićko sobie wezmę, jeść raczej nie będę, bo za godzinę i tak znikam
+ale sie wyrywa
+to ja tez ide
+ide
+13:15 -&gt; Będzie tego. Pizgaj taski i odpocznij, bo i tak spierdolisz więcej niż to warte. Chyba, że wolisz 3 bugi w cenie jednego fix-a.
+Wezwij Łukasza, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/66fbd9b44b0b3565cec5d43b">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/66fbd9b44b0b3565cec5d43b</a><br><br>to ty, gdy wezwiesz Łukasza, który udaje, że pracuje nad targety:<br>⠀  ⠀   (__/)<br>           (•ㅅ•)      Don’t talk to<br>    ＿ノヽ ノ＼＿      me or my son<br><code>/　</code>/ ⌒Ｙ⌒ Ｙ  ヽ     ever again.<br>( 　(三ヽ人　 /　  |<br>|　ﾉ⌒＼ ￣￣ヽ   ノ<br>ヽ＿＿＿＞､＿_／<br>       ｜( 王 ﾉ〈   (__/)<br>       /ﾐ<code>ー―</code>彡  (•ㅅ•)<br>      / ╰    ╯  /    &gt;
+XD
+Cyprian to skrobaczka do szyb
+<a href="https://t.me/shipurjan">@shipurjan</a> zjebane
+<a href="https://app.sd1.com/deliaadrianamcgregor/fxbbynisho/pipelines/pipeline/70353/execution/66fbf70da7343f78ee2e6517">https://app.sd1.com/deliaadrianamcgregor/fxbbynisho/pipelines/pipeline/70353/execution/66fbf70da7343f78ee2e6517</a>
+1. przez panel sobie możesz wejść,<br>2. <a href="mailto:delia.adriana.mcgregor@0zxc.com">delia.adriana.mcgregor@0zxc.com</a>:qwerty
+Yeap, ale zobacz sb #1
+Dla #1 powinien być widoczny jak ma refa, a dla #2 nie powinien być
+Bo wcześniej nie był codeless
+<a href="https://app.clickup.com/t/86960uvx3">https://app.clickup.com/t/86960uvx3</a>
+Zjebane v2
+OpenSource
+<a href="https://app.sd1.com/tests/deploys/pipelines/pipeline/70077/execution/66fb9671a7343f78ee2e5295">https://app.sd1.com/tests/deploys/pipelines/pipeline/70077/execution/66fb9671a7343f78ee2e5295</a>
+(bez logowania)
+Brakuje Commita
+<a href="https://api-4.sd1.com:9998/admin#!workspaces">https://api-4.sd1.com:9998/admin#!workspaces</a>
+I tak to wystawiam
+Nie chce mi się szukać maila, bo to wkurwia, a ty możesz wleźć na panel i kliknąć na ownera i login RW
+<a href="https://app.clickup.com/t/86960v3w3">https://app.clickup.com/t/86960v3w3</a>
+Clickup się zjebał xD
+kurwa jebany html
+mam zwykla statyczna strone
+folder Ignore z 4 widokami i podpietym skryptem External.js
+i przegladarka odpierdala po wejsciu cos i mi laduje zawartosc html do skryptu external.js
+ktos moze wie o chuj moze chodzic?
+Dzień dobry panie doktorze
+boli mnie.
+pozdrawiam
+^ z tego też gówno wynika
+co cie boli
+moge dac uprawnienia do repo
+jak nie masz nic przeciwk rzucic okiem
+ups juz dalem
+potrzebuje tego do testow a nwm o chuj chodzi
+git
+nie dostałem zaproszenia
+czas na qika XD
+jaki git??
+buddy
+XDD
+heee
+no co?
+commit adekwatny do sytuacji
+iiii
+co ci nie działa?
+<a href="https://visualtests.sls.show/ignore/one/four">https://visualtests.sls.show/ignore/one/four</a>
+to mi robi ten chuj
+na pewno to się strona do tego skryptu nie dostanie
+czemu?
+bo znajdź różnicę między <br><a href="https://visualtests.sls.show/ignore/two">https://visualtests.sls.show/ignore/two</a>
+a<br><a href="https://visualtests.sls.show/ignore/one/four">https://visualtests.sls.show/ignore/one/four</a>
+w htmlu
+podpowiedź: &lt;script&gt;
+to jest ten sam kod xd
+tak
+tylko id w body zmienione
+tak
+no i o co chodzi?
+i jesteś pewny, że do ExternalFunctions.js się dostaniesz? Bo imo wleci 404 i zwróci ci witaj na stronie buddy visual tests
+to dlaczego w two dziala a four nie?
+bo nie ma
+eeeh
+/ignore/two
+/ignore/one/four
+widzi różnice?
+no tak
+a widzi różnice między<br>..<a href="" onclick="return ShowBotCommand(&quot;ExternalFunction&quot;)">/ExternalFunction</a>.js
+..<a href="" onclick="return ShowBotCommand(&quot;ExternalFunction&quot;)">/ExternalFunction</a>.js
+bo ja nie
+a to po path szuka?
+a po czym?
+mimo iz pliki sa w jednyum folderze?
+jeden chuj
+ty je przerzucasz routerem nginxa
+to nginx ci je serwuje
+a nie filesystem xD
+kurwa ide mowi jedno a przegladarka drugie
+ide nie zna twojego nginxa?
+kurwa ty rzeczywiscie
+a skad mialo by
+<a href="" onclick="return ShowBotCommand(&quot;shrug&quot;)">/shrug</a>
+ide zwraca ze nie moze znalezc pliku
+a przegladarka ze moz
+tak to masz tam zrobione
+gdybym tego nie robil na absolute path tylko relative to byloby bajka
+dzieki panie procesorze
+czacie gpt napisz mi czemu ten *.js się nie wykonuje ale masz brzmieć jak niewyspany zmęczony życiem doświadczony frontendowiec
+i tak brzmi
+dzięki.
+kawusi nie pil
+teraz właśnie po nią poszedłem
+hehe ja poczekam do przerwy
+ja też
+z drugą
+a ja z 1
+od której tu jesteś dzisiaj?
+07:04
+dziko, ja odpalam kompa, puszczam update i lece po herbatę 90% czasu
+hdd tam macie?
+przychodzisz do kompa
+nie, mój mózg działa jak hdd bez herbatki
+ja pierdziele
+patrzysz na niego
+mówisz
+masztalerz?
+włącza się 2 minuty
+i akurat wracasz z herbatką
+ten co update leci 6 h
+update leci przeważnie mniej niż minutę
+i na co ci to?
+dzisiaj np tylko nowa wersja firefoxa ze snapa wleciała
+snap nadal jest outdated?
+po co ci update
+czy już ogarnął się
+to nie windows gdzie co update dodają nowe gówno, tu faktycznie są łatki jakieś itp XD
+czy &quot;to zależy&quot;
+no właśnie nie
+od dobrego roku w insiderze żadnej sensownej nowości
+tylko latki
+i nic nowego
+I po co to zrobiłeś?
+sadysfakcja garantowana
+już nawet ppe musi rzucać posty &quot;nie instaluje KB2197390123&quot;, bo rozjebie ci system i wydrukuje child pnr na igłówce&quot;
+ja się nie znam, decyduje apt&gt;skrypty&gt;snap&gt;inne na podstawie czy jest dostępna paczka i czy jest aktualna 😆
+no właśnie ja kojarzę, że snap jak próbowałem z niego korzystać to był outdated ze wszystkimi paczkami
+oj to akurat linux, 9.9 CVE bo serwer drukarek nie miał problemu Ci sudo wykonywać jeżeli drukarka Ci każe
+XD
+które chciałem
+marcel aneks juz dostales?
+si
+to jutro wolne?
+ja nie robię 8h jak ty
+by zrobić sobie dzień wolny
+ja nie wiem czy to aktualne wersje, wiem że żeby coś z tych rzeczy inaczej instalować to się trzeba więcej jebać
+zobacz nginx
+z ciekawości
+intellij i telegram na pewno zawsze świeżutkie
+bo on to 5 lat za mu*zynami
+ale masz 3/5
+3/4
+3/4
+czyli 6h
+sr znowu sie lukasz napatoczyl
+aaaaa
+:&lt;
+skill issue
+gnoje
+chyba nie ma? czy po czymś innym szukać
+ngnx to w apt
+huh?
+kojarzę, że był w snapie
+no jest w apcie
+chyba, że to halucynacje
+oficjalny w apt
+oficjalny to jest jak instalujesz from scratch
+z gita
+a skad ty instalujesz?
+w apt może być stary, pijany
+lukasz
+pewnie ci się pomyliło bo robiłeś ze snapem pomyślałeś jebać snapa, potem z nginxiem i pomyślałeś jebać nginx i się zlało w jedno
+tak to napewno to
+ja pierdolnąłem ogarnianie tego i caddy używam
+możliwe, możliwe
+config na 2 apki to 4 linijki
+ja tam mam from scratch
+w 1 pliku
+i działa instant 😆
+bo potrzebowałem funkcje eksperymentalne
+na produkcje 😎
+produkcje? bugi chyba produkujesz jak eksperymentalne rzeczy chcesz używać
+trzeba z 3-4 lata obserwować jaka coś używają zanim można myśleć o użyciu 😆
+nah, tylko włączone na jednej subdomenie
+smiech czy smiec
+smiac
+takie czasy dzis nastaly ze rano wyjebalo galy
+jestes maly jestes duzy a za toba whuj sie kurzy
+skaczesz po drabinie i gowno widzisz w dymie
+pomoz bracie pomoz siostro zwiedzic trzeba szybko krosno
+ktoś tu se zieloną wróżkę strzelił z rana chyba
+Kuba jednak nie wyjebał tych ziółek
+tylko schował do plecaka
+i oto efekty
+nic dzis nie palilem tylko w kiblu rece mylem
+ja uważam że absynt wleciał
+wy tu tak dywagujecie a powiedzcie moze tez chcecie?
+4k
+wzialem ziolo z plecaka i tak mysle rozpierducha ogniem zieje wszystko bucha, pomyslalem wiec o pracy i se mowie wszystko cacy. przyjde , jebne se kielona i zabawnie wam tez powiem ze Redisa rozjebalem jak snapshoty w nim puszczalem
+kupił wódkę zamiast musu owocowego
+Do dupy, do bana<br>Z Kuby jest kawał dzbana
+ja to się głodny już konkretnie robie
+oby zupa była porządna
+ja tez
+co jest kurw
+visual service scierwi
+porzadnie
+jrdl
+dzisiaj krem z dyni
+:)
+zawsze mogła być jakaś wodnista
+9:20 -&gt; do przerwy zostało T - 10 minut.<br><br>Dzisiejsza zupa:<br>Aromatyczne curry z dynią<br>Wyrazista zupa curry z dynią, z aromatycznymi przyprawami.
+<a href="https://t.me/shipurjan">@shipurjan</a> masz coś zjebane z changelogami w PR-ach
+zobaczymy
+9:30 -&gt; prawdopodobnie QA jeszcze nie przyszło na przerwę. Szkoda, więcej zupy dla reszty.
+jezu ale się zesrali w community godota 😆 zrobili posta z tęczą i lgbt, ktoś zostawił ofensywny komentarz i został zablokowany na twitterze
+teraz wielce oburzeni ludzie robią forka godota bez &quot;lgbt&quot; i się chwalą ile to nie mają followersów czy gwiazdek
+0 faktycznych commitów w ich forku xD
+XDDD
+u nas michal i krzysiek wspominaja czasy jak sie pornole na dyskietkach ogladalo
+na 1.4MB?
+ascii arta?
+na 800MB
+skąd mają dyskietkę 800MB
+chyba musieli w locie podmieniać
+nie no byly 800MB
+dyskietki?
+tak
+Głupiś
+To była płyta
+no to plyta
+Kupili płytę i im nagrywarka nie łapała
+CD akurat miał +/- tyle
+I Krzysiu zapierdalał do domu po swoją
+jak dyskietka zakrecisz to tez bedzie wrazenie ze jest okragla
+I sobie zgrali pornola o nazwie &quot;Córki Farmera&quot;
+I zaczynał się on tak, że były w ringu i jedna miała ogórka, a druga kukurydzę
+nie trzeba kręcić
+ale teraz to młodzież nie pamięta...
+boze ale zeby dyskietke pomylic z plyta.......................
+neo \dzieci neo
+skacz
+fajna reklama btw
+o ile to można reklamą nazwać
+te małe to pamiętam, tych średnich nie wiem czy widziałem
+ale damage control
+Karta perforowana
+pojebane rze kiedys ludzie na czyms takim liczyli
+myślałem, że na tym to maszyny liczyły
+Make fortan great again
+Yyy
+ciekawe czy jak ktoś chciał gierke zrobić to musiał zszywać końce takiej taśmy żeby leciał game loop?
+xd
+jebany piksel
+zmień czułość
+Ty jesteś nieczuły
+nie mów do siebie w drugiej osobie lp
+i jeb kijem po jajach
+bo to się leczy
+w choroszczy
+<a href="https://youtu.be/9rhufhMZGBg?feature=shared">https://youtu.be/9rhufhMZGBg?feature=shared</a>
+eeee
+no to teraz sobie poczekasz 10 minut
+retry to gwarantowany kolejny błąd
+kurwa zmienilem czulosc na 1
+czułość działa odwrotnie

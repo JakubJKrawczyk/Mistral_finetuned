@@ -1,0 +1,962 @@
+﻿no a testy są na stage pod deva
+a frontu z deva nie ma na stage
+whatever
+chodź, idziemy Cypriana szukać
+bo go nie ma
+zostaw go
+moze robi jakies zadanie
+na zabicie Asmira Alsahira
+na zabicie Burj Khalifa
+o, i jest
+😎
+mission failed successfully?
+brzmi jak dobry kebab
+taki co rozsadza
+🗿
+🗿
+Bum bum bum i want to drink my rum
+a w devie wesoło
+no ładnie
+fix
+.
+😑
+czekanie na qa be like
+wystawianie commit co zmiane be like
+co?
+to mógłbym to w jeden commit zrobić
+lol
+ale nadal byłoby milion dociągnięć deva
+xd
+takie nam robicie miny
+ta, tu raczej chodzi o miesiąc merge origin dev into branch
+zależy
+to jest dla mnie jedna zmiana
+a nie, że każdą linię będę commitował
+o konie
+jak się zepsuje, to robię revert
+a nie cherry pick
+hmm wiśnie
+kto u was paznokcie piłuje?
+może karolina
+ale nie wiem
+tso
+nie wiem 😆
+ktoś napierdala multitoolem
+ale to u was
+u nas nic nie slychac
+a nie tak troszke slychac jak teraz wspomniales
+ale to brzmi jak gdzies na polu
+nad nami
+bo w kuchni nie slychac
+albo faktycznie nazwenatrz
+z elewacją robią na bloku obok
+a przynajmniej jest tam rusztowanie bo stricte to nie widzę tam teraz ludzi
+dziwne gdyby ktoś se robił paznokcie wieratką udarową
+hardkorzy mogą
+zgadza się
+widzimy je z okna
+mój layout IDE
+ale duzy terminal
+Ale mało kodu
+git
+zartuje
+tak mi sie sam ustawil po aktualizacji
+xd
+terminal mam osobno
+ty masz okulary przyblizajace?
+a nawet 3
+:
+ja terminal osobno
+zwykle mam tak
+<a href="https://hyper.is/">https://hyper.is/</a>
+czy musisz się logować żeby z niego korzystać?
+nie
+chociaż tyle
+czemu niby miałbym xD
+Electron-based to raczej wolny
+warp chyba tak miał
+ten macowy to mały pierdolnik jest
+ja mam kitty
+ja mam ghostty
+ghostty to mam na lapku
+ja Terminal
+ostatecznie skonfigurowany tak samo
+<a href="" onclick="return ShowBotCommand(&quot;shrug&quot;)">/shrug</a>
+no ja może też kiedyś zmienie na ghostty ale to nie ten moment
+nie mam powodu migrować xd
+nie no jest jeden powód
+że to co używasz jest na kurde elektronie
+potestuje hypera
+1. nie wyłączam go nigdy, nawet jak wywalisz okna, to zostaje proces<br>2. nie wyłączasz maca -&gt; nigdy się nie wlącza; wyłączasz maca -&gt; autostart
+akurat na windowsie to już lepiej terminal
+zobacze jak dziala
+niczym rak
+ale to nie zachowanie tylko tego terminala
+terminal latency
+xd
+z drugiej strony migracja to minuta, bo wszystko jest skonfigurowane w zsh 🤔
+input jedno, output chyba większe różnice mają
+o teraz to ktoś daje
+teraz ktoś nieźle wierci
+po wentylacji się niesie
+gdzie to kurwa 😆
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a>
+TO TE TUNELE
+echolokacja please
+Chuje
+to na bank nie na tej elewacji
+KTO WŁĄCZYŁ TUNELE
+nie moge vibuje teraz
+chcieliście tunele to macie, teraz je kopią na drugą stronę Ziemi
+masz dziwną tolerancję bólu na dark mode
+jakie wibruje, wyciągaj tego buttpluga w pracy jesteś
+no i wtedy jak mi będą podpowiadac co mam pisac
+Kto zbombardował kibel na górze?
+kebab
+lub śniadanioteka
+jprdl
+zaniose im zaraz czapeczke
+damn teraz sie tak odpalili ze przez sluchawki slysze
+el chapo
+a widzisz ja nie mam sluchawek
+tymczasem Mateusz
+sprawdzam co silniejsze - muzyka do usypiania czy monsterek
+teraz jakieś tybetańskie akcenty w tej symfonii
+też pierdole ubieram słuchawki
+plebsy nie doceniają prawdziwej muzyki i subtelnego ambient harsh noisu
+mowisz ze to jest ten heavy metal?
+nie, to drill
+<a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> wy macie claude&apos;a firmowego od Szymona?
+ta
+Tak
+nie
+no właśnie tylko qa dostało
+bez sensu
+xd
+Czekaj co?
+czego nie rozumiesz?
+dużej ilości rzeczy
+nie tylko QA
+<a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> (point na konkretną osobę)<br><code>wy macie</code> - liczba mnoga
+tam jest dużo ludzi
+pewnie kto pytał to dostał
+yeap
+a
+Mówisz, że Kuba jest tak wielki, że liczba pojedyncza to za mało?
+to prawda mam jescze czapke
+mówię o przynależności do grona non-quality assurance
+wy ~ grupa
+z backendu wiem że Tomek ma, Krzysiek chyba też a razu absolutnie hejtuje llmy
+no cóż
+i tak nie tracicie
+bo chyba limity spadly
+tzn mam swojego też xd
+więc nie płaczę
+ale debatę mamy
+ale za darmo to i ocet
+jaka debate
+ja np latam na gemini z ai studio
+tvp
+nie pamiętam żebym trafił na limit
+<span class="spoiler hidden" onclick="ShowSpoiler(this)"><span aria-hidden="true">w likwidacji</span></span>
+chyba trzeba wypróbować
+backendy kochane, <a href="https://app.clickup.com/t/86994mcc0">https://app.clickup.com/t/86994mcc0</a> 👀<br><br>bo tak akcje od was to są 100 lat za murzynami
+nie wiem kto się tym zajmuje. chyba Tomek
+a sory
+Paweł Grobelniak
+z frontu ja się bawiłem ostatnio, czasami dostawałem opierdol
+więc ostatnio przestałem
+bo Rafał dostaje spam xd
+xd
+młody QA tester szuka glitcha na duplikacje przedmiotów IRL
+jak w stardew, za każdym razem jak ktoś do ciebie zadzwoni dostajesz iphone 13 pro max 128g złoty
+myslalem ze młody frontowiec miał cierpliwość zeby zrobic walidacje ale zeby zrobic wiele komunikatow to juz nie
+to tak jak ty
+a-zA-Z
+w sumie tak
+i polskich znaków nie dasz
+xddddd
+hmm a może tam jest spacja z przodu
+w haśle
+kurw.
+kto normalny ma polskie znaki w haśle
+moze sobie jeszcze emoji daj
+a jak ianczej wpiszesz w haśle Łakasraka?
+Lakasraka
+hasło 12345&quot;;drop database;&quot;
+a co jeśli będzie trimowana
+no widocznie trimuje
+po spacji
+XD
+xd
+ale duzo message
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong><br><br>Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+go 13:05?
+ja chyba pass, bo będę musiał przegadać dmarca z Rafałem
+do :15 zdazysz?
+pomidor?
+hm
+ja moge poczekac na cb
+ja zobacze czy jest jescze popcorn
+był
+wez se cały do filmu
+13:15 -&gt; Będzie tego. Pizgaj taski i odpocznij, bo i tak spierdolisz więcej niż to warte. Chyba, że wolisz 3 bugi w cenie jednego fix-a.
+Łukasz musi dotestować taska. Wezwij go, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/68359eb4a1a1bd0785f91cea">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/68359eb4a1a1bd0785f91cea</a>
+No ja jestem nie wiem jak wy
+行くよ
+Ło kurwa
+Szymon nam się zrespił na QA
+on sie wprowadza czy dagmara sie wyprowadza?
+<a href="https://t.me/lmastalerz">@lmastalerz</a>, małpa chodź po banana.<br><br>Sami wiecie kogo wezwał: Mateusz Nawieśniak‎<br><br><a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196321/execution/6835a53fa1a1bd0785f92a24">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196321/execution/6835a53fa1a1bd0785f92a24</a>
+to cud
+eee fajne to team claude, mozna robic teamowe projekty
+chjowe
+xd
+nikt tego jak widzisz nie uzywa
+jak będzie use case to uzyję
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a> raz kurwa
+Merge mnie to
+<a href="https://app.clickup.com/t/86995cfy5">https://app.clickup.com/t/86995cfy5</a>
+trigger alert
+nie tym tonem młoda damo
+Ja ci kurwa dam damo
+no i konflikty 😔
+Jak ty możesz mieć z tym konflikty?
+<a href="https://t.me/shipurjan">@shipurjan</a> <a href="https://fknexe.pages.dev/BurntSushi/ripgrep">https://fknexe.pages.dev/BurntSushi/ripgrep</a>
+redirect działa
+ale cała strona już nie
+XD
+Ok, ale to jest problem frontu juz chyba
+wiec mozna by to naprawic
+moze
+no nie wiem czego to problem, trzeba by zobaczyć
+to html widzę że chyba jest co ma być ale strona całkiem pusta
+jakis hydration error w Astro
+ale to i tak nie jest idealne rozwiazanie bo w URL dalej sa query paramy wiec jak ktos skopiuje to nadal bedzie tak
+Aaa mozliwe ze traktuje user i repository jako u i q?
+ale index też nie działa <a href="https://fknexe.pages.dev/">https://fknexe.pages.dev/</a>
+dupa, nie wiem ale trzeba to będzie wycofać xD
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a> zmergowałeś?
+jutro zrobi merge
+zrobił <span class="spoiler hidden" onclick="ShowSpoiler(this)"><span aria-hidden="true">ale nie do stage 😂</span></span>
+tak mały fuckup poszedl jutro to ogarne sorki xd
+ciekawostka
+ale seksowne kopytko
+wiecie w czym programują w rosji?
+W czym?
+.NYET
+Pany, pytanie odnośnie tuneli
+pomidor
+Jak to działa w przypadku domeny w QIK-u?
+od strony technicznej czy o co pytasz
+<a href="https://t.me/lmastalerz">@lmastalerz</a> słyszałem, że się role odwróciły w tym kto teraz czeka na zmergowanie swojego brancha
+raz po raz straszą nas że to finał jest.
+?
+translate&apos;y
+rok może pięć komet deszcz i szlus
+:D
+Tak i dodatkowo o to czy nie jestem &quot;debilem przy dodawaniu tunelu na custom domenie&quot; (&quot;&quot; aby ktoś nie przysplitował mi stringa)
+Bo ogólnie to ni chuja to nie działa i tunel się dodaje, ale leci
+I na QIK w logach faktycznie schodzą błędy
+A nie wiem jakie tam dać ip bo instrukcji nie ma
+I pytanie techniczne czy to samo z siebie nie powinno dodać wpisu do DNS?
+Diff między bug, a brak instrukcji
+dam ci znac
+bo walcze z gitem jeszcze
+mateusz
+stanowczo było trzeba
+&quot;role się odwróciły, idę grać&quot;
+powiedziałem że dam mu znać
+boooooze padam. <a href="https://t.me/BartShoot">@BartShoot</a> teraz ja się pożalę spałem 4 h
+nie pwiedziałem kiedy
+<a href="https://t.me/BartShoot">@BartShoot</a> wiesz coś w temacie albo wiesz kto będzie wiedział?
+ja prawie 7 a też zdycham
+dzisiaj to ja wołam o monsterka :D
+rzuce okiem bo ja to robiłem a jak nie to do Michała Hankusa
+ö, täki tö döbrzë möwi
+ë?
+to chyba działało tak, że ja tam po backendzie posyłam potrzebne rzeczy do tego zewnętrzego serwisu od tuneli i on dodaje rekordy po api
+On dodaje rekordy po api...
+jak masz swoje domeny to nie musisz mieć autogenerowanej subdomeny
+no internal api
+Aaa, ok
+specjalny endpoint pod to był
+po api będą do innych rzeczy :)
+Czyli rekordy powinny same się dodać do domeny?
+tak, z tego co pamiętam to tak
+Czyli bagulec
+to napisz na support
+Po co?
+żeby mogli cię mieć tam w dupie, lol
+Wstanę i zapytam
+Patrząc się na Michała
+ale on siedzi gdzie indziej chyba
+zależy który
+Michał
+Tak, mam
+Kupioną w buddy
+opłacało się to?
+pod względem $
+czy znowu za 0
+3.50E
+domeny pl względnie tanie mamy
+Bo mam <a href="info.pl">info.pl</a>
+odnowienie jest gorzej
+też nie wiem skąd wybór <a href="info.pl">info.pl</a>
+jebnij sobie <a href="tvp.info.pl">tvp.info.pl</a>
+a nie lukaszm
+Jakiś problem?
+Oprócz tego, że tunele zdechły
+no że niby miały być testy do tego xD
+<a href="https://app.clickup.com/t/8696yx0vz?comment=90120100521135">https://app.clickup.com/t/8696yx0vz?comment=90120100521135</a>
+On robi na supporcie
+Szerokie logo
+XD
+to co idziemy 10 po potwora?
+Łooo, podkręcona poleciała
+ayo
+9:50 -&gt; do przerwy zostało T - 10 minut.
+no tunele są tam obsługiwane przez zewnętrzny serwis o którym chuja wiemy tylko tam jakieś api jest obsłużone 😆
+więc niech mi powie co jemu tam nie pasuje to fixne, Tomek też wgl nie w temacie a on idzie na urlop zaraz
+XD
+10:00 -&gt; QA już obecne, a Frontu dalej nie ma. Co się odwlecze to nie uciecze, nawet taski. Kiszone specjalności są nierozłączoną częścią kuchni Polskiej. A nie sorry, mowa o clickupie. <a href="https://t.me/lmastalerz">@lmastalerz</a>, testuj taski do cholery
+ja juz out
+sek
+les goooo
+nie ma to jak
+brok
+brek
+widzisz mnie?
+xD
+no akurat nie jego wina, tam e2e test się wywalił albo przez maszyne albo jeszcze co innego
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> clickup jest głupi, że pozwala na takie cuś
+?
+nie rozumiem
+...
+no tak
+nie powinien
+ale mam ochote zajebac tym testom
+co
+Szkoda, że są wirtualne
+<a href="https://app.clickup.com/t/86997b560">https://app.clickup.com/t/86997b560</a> zrozumiałe to jest dla was @qa ?
+bo mi się nie chce za 3 miesiące pamiętać, co robiłem
+<a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> ty w tym siedzisz. Dla mnie zrozumiałe, ale to ty będziesz pucował testy
+nie ma ich jescze
+będę je robił to wezme to pod uwagę
+ale dostałem design dzisiaj
+figma - nie<br>txt - git
+commit
+szarka jak conetn
+czyli albo na tunelach się zepsuło albo nikt tego nie sprawdzał poza devem? fajnie
+daj link do taska
+Testów na to nie ma
+aż poczytam z ciekawości
+<a href="https://app.clickup.com/t/869979f3n">https://app.clickup.com/t/869979f3n</a>
+dzięki
+Więc ja testuję produkcję trochę
+miało być potestowanie ręcznie a potem dodane testy xD
+I było
+Ale nikt nie testował customowej domeny xD
+super
+kahdfgkjhgkaujfhskjghaifhsmhuifhlshnfglkzsehilksuwgzduijgfhOL:I&gt;KfhZiugkhUKhUFThSKEkahdfgkjhgkaujfhskjghaifhsmhuifhlshnfglkzsehilksuwgzduijgfhOL:I&gt;KfhZiugkhUKhUFThSKEkahdfgkjhgkaujfhskjghaifhsmhuifhlshnfglkzsehilksuwgzduijgfhOL:I&gt;KfhZiugkhUKhUFThSKEkahdfgkjhgkaujfhskjghaifhsmhuifhlshnfglkzsehilksuwgzduijgfhOL:I&gt;KfhZiugkhUKhUFThSKEkahdfgkjhgkaujfhskjghaifhsmhuifhlshnfglkzsehilksuwgzduijgfhOL:I&gt;KfhZiugkhUKhUFThSKEkahdfgkjhgkaujfhskjghaifhsmhuifhlshnfglkzsehilksuwgzduijgfhOL:I&gt;KfhZiugkhUKhUFThSKEkahdfgkjhgkaujfhskjghaifhsmhuifhlshnfglkzsehilksuwgzduijgfhOL:I&gt;KfhZiugkhUKhUFThSKEkahdfgkjhgkaujfhskjghaifhsmhuifhlshnfglkzsehilksuwgzduijgfhOL:I&gt;KfhZiugkhUKhUFThSKEkahdfgkjhgkaujfhskjghaifhsmhuifhlshnfglkzsehilksuwgzduijgfhOL:I&gt;KfhZiugkhUKhUFThSKEkahdfgkjhgkaujfhskjghaifhsmhuifhlshnfglkzsehilksuwgzduijgfhOL:I&gt;KfhZiugkhUKhUFThSKEkahdfgkjhgkaujfhskjghaifhsmhuifhlshnfglkzsehilksuwgzduijgfhOL:I&gt;KfhZiugkhUKhUFThSKEkahdfgkjhgkaujfhskjghaifhsmhuifhlshnfglkzsehilksuwgzduijgfhOL:I&gt;KfhZiugkhUKhUFThSKEkahdfgkjhgkaujfhskjghaifhsmhuifhlshnfglkzsehilksuwgzduijgfhOL:I&gt;KfhZiugkhUKhUFThSKEkahdfgkjhgkaujfhskjghaifhsmhuifhlshnfglkzsehilksuwgzduijgfhOL:I&gt;KfhZiugkhUKhUFThSKEkahdfgkjhgkaujfhskjghaifhsmhuifhlshnfglkzsehilksuwgzduijgfhOL:I&gt;KfhZiugkhUKhUFThSKEkahdfgkjhgkaujfhskjghaifhsmhuifhlshnfglkzsehilksuwgzduijgfhOL:I&gt;KfhZiugkhUKhUFThSKEkahdfgkjhgkaujfhskjghaifhsmhuifhlshnfglkzsehilksuwgzduijgfhOL:I&gt;KfhZiugkhUKhUFThSKEkahdfgkjhgkaujfhskjghaifhsmhuifhlshnfglkzsehilksuwgzduijgfhOL:I&gt;KfhZiugkhUKhUFThSKEkahdfgkjhgkaujfhskjghaifhsmhuifhlshnfglkzsehilksuwgzduijgfhOL:I&gt;KfhZiugkhUKhUFThSKEkahdfgkjhgkaujfhskjghaifhsmhuifhlshnfglkzsehilksuwgzduijgfhOL:I&gt;KfhZiugkhUKhUFThSKEkahdfgkjhgkaujfhskjghaifhsmhuifhlshnfglkzsehilksuwgzduijgfhOL:I&gt;KfhZiugkhUKhUFThSKEkahdfgkjhgkaujfhskjghaifhsmhuifhlshnfglkzsehilksuwgzduijgfhOL:I&gt;KfhZiugkhUKhUFThSKEkahdfgkjhgkaujfhskjghaifhsmhuifhlshnfglkzsehilksuwgzduijgfhOL:I&gt;KfhZiugkhUKhUFThSKEkahdfgkjhgkaujfhskjghaifhsmhuifhlshnfglkzsehilksuwgzduijgfhOL:I&gt;KfhZiugkhUKhUFThSKEkahdfgkjhgkaujfhskjghaifhsmhuifhlshnfglkzsehilksuwgzduijgfhOL:I&gt;KfhZiugkhUKhUFThSKEkahdfgkjhgkaujfhskjghaifhsmhuifhlshnfglkzsehilksuwgzduijgfhOL:I&gt;KfhZiugkhUKhUFThSKEkahdfgkjhgkaujfhskjghaifhsmhuifhlshnfglkzsehilksuwgzduijgfhOL:I&gt;KfhZiugkhUKhUFThSKEkahdfgkjhgkaujfhskjghaifhsmhuifhlshnfglkzsehilksuwgzduijgfhOL:I&gt;KfhZiugkhUKhUFThSKEkahdfgkjhgkaujfhskjghaifhsmhuifhlshnfglkzsehilksuwgzduijgfhOL:I&gt;KfhZiugkhUKhUFThSKEkahdfgkjhgkaujfhskjghaifhsmhuifhlshnfglkzsehilksuwgzduijgfhOL:I&gt;KfhZiugkhUKhUFThSKEkahdfgkjhgkaujfhskjghaifhsmhuifhlshnfglkzsehilksuwgzduijgfhOL:I&gt;KfhZiugkhUKhUFThSKEkahdfgkjhgkaujfhskjghaifhsmhuifhlshnfglkzsehilksuwgzduijgfhOL:I&gt;KfhZiugkhUKhUFThSKEkahdfgkjhgkaujfhskjghaifhsmhuifhlshnfglkzsehilksuwgzduijgfhOL:I&gt;KfhZiugkhUKhUFThSKEkahdfgkjhgkaujfhskjghaifhsmhuifhlshnfglkzsehilksuwgzduijgfhOL:I&gt;KfhZiugkhUKhUFThSKEkahdfgkjhgkaujfhskjghaifhsmhuifhlshnfglkzsehilksuwgzduijgfhOL:I&gt;KfhZiugkhUKhUFThSKEkahdfgkjhgkaujfhskjghaifhsmhuifhlshnfglkzsehilksuwgzduijgfhOL:I&gt;KfhZiugkhUKhUFThSKEkahdfgkjhgkaujfhskjghaifhsmhuifhlshnfglkzsehilksuwgzduijgfhOL:I&gt;KfhZiugkhUKhUFThSKEkahdfgkjhgkaujfhskjghaifhsmhuifhlshnfglkzsehilksuwgzduijgfhOL:I&gt;KfhZiugkhUKhUFThSKEkahdfgkjhgkaujfhskjghaifhsmhuifhlshnfglkzsehilksuwgzduijgfhOL:I&gt;KfhZiugkhUKhUFThSKEkahdfgkjhgkaujfhskjghaifhsmhuifhlshnfglkzsehilksuwgzduijgfhOL:I&gt;KfhZiugkhUKhUFThSKEkahdfgkjhgkaujfhskjghaifhsmhuifhlshnfglkzsehilksuwgzduijgfhOL:I&gt;KfhZiugkhUKhUFThSKEkahdfgkjhgkaujfhskjghaifhsmhuifhlshnfglkzsehilksuwgzduijgfhOL:I&gt;KfhZiugkhUKhUFThSKEkahdfgkjhgkaujfhskjghaifhsmhuifhlshnfglkzsehilksuwgzduijgfhOL:I&gt;KfhZiugkhUKhUFThSKEkahdfgkjhgkaujfhskjghaifhsmhuifhlshnfglkzsehilksuwgzduijgfhOL:I&gt;KfhZiugkhUKhUFThSKE
+Uspokój hormony
+bo ja miałem takie magiczne wymaganie żeby to się dało w devie sprawdzać
+spamspamspamspamspamspamspamspamspamspamspamspamspamspamspamspamspamspamspamspamspamspamspamspamspamspamspamspamspamspamspamspamspamspamspamspamspamspamspamspamspam
+nic nie sprawdzaj poza produkcją :)
+<a href="https://t.me/lmastalerz">@lmastalerz</a> a powiedz mi jeszcze, próbowałeś aktualizować ten tunel?
+np zmień subdomene i zapisz
+Ok, czekam aż request przejdzie
+Zapisałem
+Co sprawdzić?
+bo myślałem że może w środku tego ifa jest coś nie tak ale teraz sprawdzam i przechodzi..
+rekord jakiś się dodał do domeny?
+SSH widzi teraz tunel
+wygląda na to że leci request zanim tunel się zapisze, muszę znaleźć gdzie dokładnie
+Dodał się
+a to będzie kurwa ciężkie bo nie wydaje mi się że idą do mnie requesty z tego menadżera tuneli 😆
+czyli tylko przy tworzeniu tuneli jest problem i push idzie za szybko
+Czyli przy dodawaniu autogenerated subdomeny się jebie
+nope, przy każdej custom jak dodajesz tunnel
+jak go aktualizujesz to już będzie ok, za szybko backend wysyła &quot;no dla tego tunelu zmień rekord&quot;
+backend jest za szybki? przepisać do pythona 🗿
+kwestia kolejności albo Michał mógłby dorobić retry i też by było po problemie
+tunele i tak spamią requestami
+idźcie sobie pogadać chłopaki. siedzicie 10 metrów od siebie
+naprawde
+zgaduj czemu nie byłem na zupie
+bo jestem kurwa w domu XD
+to wyślij mu laurkę czy coś
+wysyłam
+każda
+jedna
+wiadomość
+nie
+która leci jest pełna miłości
+tu
+nie
+do twoich słuchawek/głośników
+?
+o ile wziął tym razem słuchawki
+xd
+Co tu się oddupca za spam?
+nie ma spamu
+mam
+oglądam one piece
+nie, po prostu parę wiadomości
+jest spam tylko dlatego że Kuba uważa że jest jakiś niesamowity spam, normalna ilość wiadomości szczególnie że znaleźliście dziure na produkcji
+wycisz sobie grupe jak ci przeszkadza, pingi i tak bedziesz dostawal
+kto pisał test connection i wogóle komponent logów?
+LogsV3?
+to element stary jak czołgi (polskie)
+a jak on działa
+jak mu wyślesz dane, to je wyświetla
+aha
+tak w skrócie
+czyli jak backend sle tak dziala
+no backend wysyła dane do logów
+przecież to jest kurwa jakaś porażka
+tyle lat działało
+czemu wszędzie jest kurwa inny schemat
+nie jest
+jest kurwa
+to jest ten sam element, co przy executionie
+LogsV3.
+te logi są bardziej niestabilne niż wojna na ukrainie
+przykład?
+to są stringi, które zlatują w logach w losowych momentach
+i chuj
+ale to backend dzwoni
+co do mnie pretensje
+wiem
+przeciez nie mam
+no ja myślę 🥺
+i kogo mam teraz opierdolić?
+caly backend?
+Ł
+podobno tomek tak dba o kod
+a o logi to już nie
+tu jest inny problem
+jest skomplikowany log processor który był napisany raz i w niektórych akcjach będzie dobrze
+czytaj 10%
+to kod z PKP?
+dodanie nowych rzeczy do log processora jest trudne, więc są robione obejścia bo po co to komu
+nosz jprdl
+a my sprawdzamy logi i ja teraz mam dość
+raz schodzi Deploying...
+raz nie
+raz schodzi Connecting to ip ..
+raz nie
+leci jak sobie chce
+ciesz się, że leci
+zawsze możesz 999 dostać z backendu
+no właśnie po to sprawdzam żeby nie było 999
+oni mają log processor, który jest tak hujowo napisany ze doklejaja do niego nowe logi taśmą klejącą
+ale to co, ktoś grzebał w mechanizmie samych logów w ramach tego taska?
+nie wiem tak naprawde. pewnie tak skoro faile są nie tylko w test connection
+ale szkoda gadać
+to może niech ta osoba <s>spierdala</s> uda się najpierw do seniora po code review
+chujowo*
+ale toksycznie na tym qa
+a w obrębie czyjego taska 😆
+obstawiam pewnego shella
+xd
+dobrze ze my sie tu na froncie kochamy<br>wypełniamy kontenery miłością i takie tam
+yep
+Test connection info od cypriana i mateusza
+nieładnie
+a to whatever
+wracam do qika
+paaa
+i sugerowanie że code review na backendzie to coś innego niż popatrzenie na styl kodu i jakieś oczywiste głupoty
+nawet nie wiem czy Tomek odpala nasze branche tylko patrzy czy mu się kod podoba
+to chyba od zawsze te logi takie byly chaotyczne
+to nie ze w tym tasku sie to zmienilo xd
+jakos zawsze dzialalo i nagle przestalo po waszym tasku
+no to lista co nie dziala
+ujebało po jednym logu
+<a href="https://app.clickup.com/t/869817gzp">https://app.clickup.com/t/869817gzp</a>
+wszedl task ktory ukrywa ostatniego loga jesli jest obsluzony error box
+to moze przez to
+ale to niby po testach
+ktoś w testach na transfer ujebał jednego loga
+mówisz
+aaaasd;juask,jghae&apos;pol;ifjaZDEipol;
+Jeśli nie ostatniego loga z kodem [BE...] to nie z frontu
+to odbij do mateusza i po kolei niech sprawdzi
+czyli musze do kazdego testu dopisac assert na common errora
+o panie
+No to już nie mój problem że tak powiem xd
+stan waszego kodu
+jak naszego
+no jak wychodzi nowy feature i problemem jest refactor żeby przerobić testy na ten feature
+no to problemem nie jest feature tylko wasz kod
+kurwa ale to nie jest maly feature
+🍿
+no racja ze akurat ten feature jest pewnie trudniejszy w testowaniu niz w implementacji
+Efekt latarki
+a wlasciwie w dostosowaniu testow
+a czasami jest na odwrot i my mamy robote
+spoko
+musze czasami ponarzekac dla lepszych morali
+spoko xdd
+ale faktem jest to że backend ma chujowy mechanizm do logów
+moze i tak, ale skoro istniały testy, i jak sie zmienila tylko 1 rzecz to pewnie jest jakiś pattern
+no zależy od fragmentu kodu ale na backendzie też są takie miejsca że trzyma to kawałek taśmy z napisem &quot;hope and prayers&quot;
+Nie obrzucaj gównem bliżniego swego,
+bo się może wkurwić i ci zajebać
+i każdy kto ma to dotknąć próbuje przekroczyć nad problemem niczym nad gównem na chodniku
+pytanie jest cyprian inne. bo mam wrazenie ze wszedzie uwalilo 1 log a nie tam gdzie sa common errory
+ok to moze faktycznie jakis problem
+a co sprawdzasz, raw logs czy to co wyświetla
+tutaj np nie ma common error
+bo raw logs to chyba 1:1 co backend śle
+to co wyswietla
+a raw logi jak w tym wyglądają?
+sprawdze
+no tu sie zmienila nazwa pliku, chyba ze to 2 logi uploadu pod sobą i jeden ucięło
+to wtedy dziwne
+powinny byc 2 logi upload a jednego nie ma
+<a href="https://t.me/BartShoot">@BartShoot</a> to co wysłałem pobiera raw z funkcji GetTargetLogs
+musze pomyslec i chyba otworzyc notatnik
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong><br><br>Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+odpowiedź to &quot;ża ba&quot;
+&quot;ba ża&quot;
+Jaki śmieć śmiał śmieć zrobić mi vulnerability do mojego serwera?
+XD
+co to xd
+Ooo, widzę dowody zostały usunięte xD
+ciekawe
+activity logi chyba powinny jakies być?
+a wait to pokaże chyba jako owner ws
+Nie ma nic
+te logi nic nie mówia
+w wielu operacjach
+ich nie ma
+htfu
+ide po bułe
+faktycznie nic nie ma 😆
+13:15 -&gt; Druga przerwa w środku tygodnia. QA głodne, QA złe. Jak QA złe, to QA nie testuje. QA zawsze złe.
+Łukasz musi dotestować taska. Wezwij go, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/6836f03499ba811d4ea904b3">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/6836f03499ba811d4ea904b3</a>
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a>
+<a href="https://t.me/lmastalerz">@lmastalerz</a>, małpa chodź po banana.<br><br>Sami wiecie kogo wezwał: Mateusz Nawieśniak‎<br><br><a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196321/execution/6836f2ce99ba811d4ea908f3">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196321/execution/6836f2ce99ba811d4ea908f3</a>
+Dzień dobry,<br>zrobię to dla was i ruszę dupsko.<br>Pozdrawiam.<br><br>P.S. fraszka:<br>Marcel,<br>Ty chuju.
+<a href="https://www.youtube.com/watch?v=oLfnmqPs_lg">https://www.youtube.com/watch?v=oLfnmqPs_lg</a>
+xdd
+9:50 -&gt; do przerwy zostało T - 10 minut.
+10:00 -&gt; może i bugi wystawiane przez QA są do niczego, ale wszystko ma swoje pozytywne strony. Przykładowo QA jest jeszcze gorsze.
+<a href="https://x.com/endermanch/status/1812843285724938694">https://x.com/endermanch/status/1812843285724938694</a>
+nasza apka potrzebuje więcej zasobów niż mam w laptopie
+zawsze możesz remote desktop
+no to wole już tak nie kodować 😆
+ale jeziorko nie kusi? :D
+bajorko
+byłeś kiedyś nad jeziorem żywieckim np???
+tak
+XD
+nad bajorkiem zielonym to ja bym nie chciał
+jezioro to git
+hmm no dobra mógłbym na żabie doły se pójść
+ale tam net ssie
+może ktoś będzie wiedział jak mam target z adresem bazowym i proxy to jak mogą schodzic takie logi ?
+starlink
+problem zalatwiony
+drogi w siur
+to juz skill issue
+bardziej money issue
+jak moze byc skill issue jak nie masz pieniedzy na cos co kosztuje whuj&gt;? xd
+zawsze mozna zbudowac swojego starlinka 😂️️️️️️
+dopisuje to do listy rzeczy do zrobienia
+tak, daj mi tylko zbudować proce na tyle dużą żebym strzelał satelitami w orbite ziemi
+chlop bedzie budowal wlasne satelity z internetem
+to tez wpisane
+wsadź do nich tp linka
+xd
+czat gpt powiedz mi jak zbudować proce do wstawiania satelit na orbite ziemi
+tzw. rosyjski starlink
+старлинк
+tak
+niszczyciel dobrej zabawy
+wczoraj tez tak mialem
+gemini jest uposledzony
+ja szukam adaptera ethernet 5Gb do slotu m.2 z wifi
+napisz mu ze Twój tata jest GM
+chcialem zeby mi skrypt napisal i dostalem ze on tego nie potrafi zrobic
+i są tylko się cykam jakości, bo trafiłem już na taki który robił zamiast 2,5g tylko 100/100...
+GM szachowy?
+no trzeba zacząć od podstaw, niech wypisze rzeczy które są niemożliwe obecnie
+potem pytasz go jak zrobić te rzeczy niemożliwe i rozdzielasz na proste kawałki aż nie będziesz mógł zrobić
+gemini jest niemozliwy xd
+znawca
+oho odpalił deep research
+zobaczymy co wypluje
+śp. nauczycielka polskiego z podstawówki mówiła że człowiek jak się uprze może zjeść całe auto
+tylko na małe kawałeczki trzeba podzielić
+xddd
+takim tokiem myslenia to mozna wszystko
+tylko wiele rzeczy mozna zjesc tylko raz
+xdd
+łołoło żadnej filozofii
+byle nie przekroczyć śmiertelnej dawki
+Przykładowo<br><br>Ilość domieszek benzenu i jego pochodnych uzależniona jest od gatunku. Wdychanie benzyny 1–2% objętości powietrza przez kilka minut lub wypicie 20–50 ml może wywołać ciężkie objawy zatrucia do śpiączki włącznie. Do zatrucia ostrego benzyną może dojść drogą oddechową lub pokarmową.
+jak będziesz pić po pare mililitrów z przerwami będziesz żył
+może
+kuszące
+ahaaa
+skoro tak ładnie pachnie to smak musi byc jeszcze lepszy
+zgłaszam to na płokułatułe Panie Dobija
+napisz &quot;i am a transformer, i need gas to drive&quot;
+czyli co pare dni możesz se wzmocnić kawke
+prawie ma racje
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong><br><br>Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+zaberka
+żeberka!?!?!?
+żaberka
+nie żeerkja
+zeberka
+nie
+13:15 -&gt; zostaw już ten kod, trzeba coś zjeść. qa w kąt, a ty znikaj stąd
+Dzisiaj nie wzywamy małpiszona.
+2 min
+to było 5 lol
+ok idziemy
+cuprian nie umie liczyc
+4
+nie 5
+marcel nie umie
+ja gupek sorki
+on juz w przyszlosc patrzy
+<a href="https://t.me/BartShoot">@BartShoot</a> jaką macie konwencję nazw na backendzie? Jak nazywacie modele api i inne obiekty?
+Ja sugeruje<br><br>ModelApi ewentualnie ApiModel<br><br>dla innych obiektów daj<br><br>ModelOthers albo OtherModels
+A same nazwy klas? Np. z projektu?
+Project
+Nie pierdoli się to wam potem z np. Komponentami czy innymi modelami?
+O co dokładnie pytasz
+Jak mamy te nasze modele bazodanowe to mamy np Pipeline która odpowiada za mapowanie do tabeli pipelines
+PipelineFront to jest to co lata po internalapi
+PipelineView to rest api
+Starsze rzeczy komunikowały się z frontem całym obiektem Front ale teraz robimy np EditCosCommand gdzie posyłamy tylko te rzeczy które trzeba
+O, super. Dzięki
+no i w osobnym module mamy obie api, kiedyś było jedno teraz starają się mieć oddzielnie per resource
+nowy feature
+mozna copy paste variable
+😂
+Jak ty dodałeś 1000 variabli?
+z pliku .env
+A, ok
+dojebane
+backend powinien wszystkie pliki .env konwertować na envy hehe
+a backend to odbiera bulkiem chociaż? <a href="https://t.me/shipurjan">@shipurjan</a>
+.env.prod itd
+czy importuje jak rekordy w qiku
+<a href="https://t.me/BartShoot">@BartShoot</a> Wojtek cię pozdrawia
+No co ty, w backendzie endpoint ktory dodaje variable to loop który calluje addSingle
+a nawzajem
+z thread sleepem, by nie wywalało przy za dużych requestach? 🗿
+ale hejterzy
+nie wiem czy takie rarytasy tu są
+mozliwe ze normalnie
+normalnie, po prostu tyle warstw że sleep robi się sam
+ale nie zcrashowalo mi przy dodawaniu 200 varow wiec chyba jest ok 😂
+potężnie
+dlatego wolne języki to naturalne zabezpiecznie
+przed bugami
+i wolny kod
+ale wystaw to jako problem w subtasku że dodawanie wielu varów ścierwi
+no przydalby sie bulk add w 1 komendzie tylko ze to sprawia ze musicie zrobic bulk walidacje
+bo obecnie jest walidacja tylko na pojedynczy item wiec jak cos po drodze bedzie nie tak to sie dowie bo juz bedzie w bazie danych
+A zrobicie bulk yeet?
+bulk yeet qa
+Marzenie
+😂
+fajne vary teraz mam w projekcie
+jeszcze by sie bulk delete przydalo
+i zaznaczanie
+strzelam że zrobienie pętli w środku metody już by przyśpieszyło
+tak jest obecnie chyba
+bo jak wchodzimy do metody to mamy nowy kontekst, wszystkie klasy muszą zostać znalezione w pamięci i dopiero potem można na nich operować
+patrze na ten kod xD
+no xd
+a pokaz pojedynczą metodę
+to jest 1:1 ta metoda której używamy przy pojedynczym insercie
+wzywanie tej metody 200 razy zamiast raz na tablicy z 200 rekordami
+no dokladnie
+ja wiem bo juz mialem taska zeby przerobic tabele variabli rok temu
+to o tym pisalem komus i to widzialem
+ale teraz jak jest to copy paste to moze faktycznie bedzie mozna to ruszyc bo teraz dodawanie bulk jest faktycznie łatwe
+a wczesniej trzeba bylo wpisywac co troche spowalnialo
+no w chuj rzeczy można by zoptymalizować wg mnie
+nie mamy poważnych metryk zrobionych, nie monitoruje nikt za bardzo tych stopwatchy które są
+wiadomo
+mamy niby kupionego jprofilera ale nawet nie wiedzą czy wersja którą mają działa na wersji javy której używamy 😆
+Wyślijcie scruma na grupie<br>@małpiszon <a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> <a href="https://t.me/mganczarczyk">@mganczarczyk</a> <a href="https://t.me/shipurjan">@shipurjan</a> <a href="https://t.me/mnawiesniak">@mnawiesniak</a> <a href="https://t.me/BartShoot">@BartShoot</a> <a href="https://t.me/mJakobsche">@mJakobsche</a>
+CO
+WYSŁAŁO JAKĄŚ WIADOMOŚĆ, ALE JEST PUSTA
+no chyba sie zbugowalo cos
+To musiał być wiatr
+<a href="https://t.me/lmastalerz">@lmastalerz</a> tam w tasku o routingu to się wypowiedz czy mozecie to sprawdzić czy do deva i sprawdzicie na produkcji
+ale ogólnie dla tunneli testy można puścić czy czegoś z Tomkiem przypadkiem nie wywaliliśmy i mi przypisuj bo on na urlop leci
+sory dopiero się budze źle napisałem
+myślałem że do tuneli cie przypisali
+9:50 -&gt; do przerwy zostało T - 10 minut.
+10:00 -&gt; jest piątek, weekendu początek. Uhonorujmy ten wspaniały dzień miską <strong>psznej zupy</strong> i jeszcze lepszego ciasta. Życzę wam spokojnego życia bez przypierdolek QA.<br><br><a href="https://t.me/lmastalerz">@lmastalerz</a>, zrób test małpy
+<a href="https://www.racknerd.com/specials/">https://www.racknerd.com/specials/</a>
+taniej niż <a href="mikr.us">mikr.us</a>
+Jak to, mikrus ma plan darmowy
+no ale porównuje podobne konfiguracje
+1gb ramu 75zł vs 11$
+na plus mikrusa że bez limitu
+macie chujowy kod poprostu
+odezwał się
+😆
+nie mam żadnego kodu, znalazłem oferte po prostu
+lukasz to wstanie dopiero o 11
+to jest nawiazanie do optymalizacji
+no akurat buddy to jest krowa wielka, bez 32gb ramu strach podchodzić jak musze stawiać backend frontend i qik&apos;a
+standalone wymaga mniej
+no dobra ale to jest w sytuacji dedykowany serwer, odpalanie zbudowanego projektu i bez desktop environment
+jesteśmy na ubuntu, conajmniej jedna instacja idei odpalona, przeglądarka no i trzeba przebudować co jakiś czas xD
+plus standalone jest też troche okrojone
+a to tak
+default programy + maven daemon po zbudowaniu aplikacji
+heh
+no i jak już wszystko wstało to tak
+mało macie tego ramu
+qa chyba też 64gb
+nie no w domu jestem
+a
+w pracy też 64
+mało masz tego ramu
+<a href="https://www.ceneo.pl/92146250">https://www.ceneo.pl/92146250</a> chyba te mam... już nie produkują
+co one takie drogie
+za tyle to kupowałem ddr5 64gb
+no bo są niedostępne już a ostatnia cena była taka wysoka
+bardziej opłaca mi się kupić cały zestaw nowy 64 niż sprawdzać czy dokupienie innych 32 będzie pasować 😆
+noo, ddr4 to teraz w fajnych cenach są
+ale w tym momencie już średnio inwestować w starą platformę
+zależy jak to cenowo jeszcze wychodzi, dopóki dajesz 300zł za ramy to w miarę git
+na kanał backendu Krzysiek wrzucił ze mamy te nowe wersje fluttera itd zajebane xD
+no mamy
+mi się tego też czyścić nie chce :D
+pytanie czy claude code tego nie pyknie
+nie
+tzn tak, ale proszę nie
+😆
+patrząc na to jak seniorzy aktualnie vibe coduja
+to moze sie wydarzyc
+mamy wśród tych tasków takie, co mają już  docker images niewspierane
+może wykryć nową wersję ze strony producenta
+ale nie ma nowszego obrazu XD
+no dobra, ale to leci do review
+do czego? XD
+nie mówię full automat
+od biedy tak
+tylko ostatecznie dev będzie musiał ręcznie przeklikać
+by zobaczyć czy faktycznie jest taki obraz
+wyjdzie na to samo
+daj mi przykładowy obraz dockera
+bo nie wiem jak one się tam nazywają
+nawet dam ci taska
+<a href="https://app.clickup.com/t/8697tg3tm">https://app.clickup.com/t/8697tg3tm</a>
+przynajmniej wykrywanie update&apos;ów ogarnąłem, bo rzucało undefined i nulle XD
+docker manifest inspect jekyll/jekyll:4.2.2<br>docker manifest inspect jekyll/jekyll:4.4.2
+tada
+automatyzacja
+alert
+i tak i nie
+potrzebujemy lts
+z pełną wersją (czasami), a czasami major (np node)
+tam jest więcej zależności
+ale fluttera to ogarnijcie
+bo jest 100 lat za murzynami
+no to fakt, tu gorzej to tego nie oznaczają
+<a href="https://t.me/shipurjan">@shipurjan</a> pora na nowy projekt
+fkn image
+XD
+xdd
+To w ogole zrobic stronkę fkn.labs
+i miec rozne serwisy
+tak, i po kolei rozwiązywać problemy dystrybucji aplikacji itd
+fkn.labs/exe
+😂
+fkn.labs - we bring technology to toddlers
+moje skrypty w js scrapujące htmlaaaaaaaaa
+NIEEEEEEE
+😭
+fkn ai - bot któremu mówisz co robisz i daje ci skrypt pobierający to wszystko
+<a href="https://t.me/BartShoot">@BartShoot</a> zerknąłbyś do qika by mi określić jakie source są known?
+google i amazonses na pewno
+zaraz popatrze
+i jeszcze od razu montuje skrypt który przy logowaniu daje liste rzeczy których nowa wersja wyszła 😆
+enum class SourceType {<br>    AmazonSes,<br>    Google,<br>    Unknown;
+moze kiedyś będą inne ale na teraz tylko te
+czyli mam wszystkie
+dzięki
+no i od razu pomyślałem że przecież jedyna opcja żeby zarobić na tym to sponsorowany placement i sprzedawanie rzeczy
+i mi się przypomniało że istnieje coś takiego jak flathub
+snap
+i inne 😆
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong><br><br>Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+ba ba
+a bym sobie czekotubke ojebał
+dubajską czekotubke
+o chlopie
+13:15 -&gt; To już ostatni raz jak się spotykamy w tym tygodniu, więc może ruszyłbyś dupę? Dzisiaj i tak QA nie wystawia bugów, bo Łukasz rozjebał czołg (polski)
+Dzisiaj nie wzywamy małpiszona.
+<a href="https://github.com/medialab/xan">https://github.com/medialab/xan</a>
+jakie są use case CSV?
+eksport import z excela, wiele rzeczy ma opcje generowania csv, prostszy format niż json i bardziej skompresowany
+myśle że niektóre bazy danych będa miały opcje dump do csv, to jest spoko format do tabel
+nie no wiem
+ale juz chyba od roku nie pracowalem z csv
+to zapomnialem xd
+ja w qiku troche parsowałem, jakieś requesty z dziwnych serwisów do csv i to do bazy liquibase&apos;m
+miejscami już dawali gotowe csv np jakaś lista tld czy coś takiego, z google sheets możesz dostać url gdzie dostajesz csv zamiast strony z tabelami
+o kurwa to nawet plotowanie ma
+XD
+XDD
+nie moge z tego
+kto dam ddosuje gita
+jak to kto
+claude vibe coding
+na repo frontu
+nie no testy niby
+ktoś wyjaśni jak to działa?
+to jaka to wersja jest, 2.1-7 czy 2.1.12
+2.1.7?
+to czemu po prawej jest 2.1.12-stable itd 😆
+ja nie wiem
+ja jestem average ubuntu user
+apt update i wypier
+nawet mam skrót na zsh
+aguu
+robi update i upgrade
+taki jestem leniwy
+co to jest npm?? chyba zod też ma taką akcje
+wersja v3 a w środku v4
+najbardziej frajerskie jest to, że jak do tej pory instalowałeś node&apos;a na pałę na ubuntu
+bez zewnętrznych repo
+<pre>alias winUpdate=&apos;sudo apt update &amp;&amp; sudo apt upgrade -y &amp;&amp; sudo snap refresh&apos;</pre><br>😆 ale tmux chce sprawdzic i tam jakies wersje chca
+to instalowało jakiegoś node 10 czy tam 12
+albo to że raz ma snap nowsze paczki, raz apt
+jak żyć
+nvm
+i docker
+o tak
+nvm tak
+albo n
+<pre>gh alias set open &apos;!gh repo view -w -b &quot;$(git branch --show-current)&quot;&apos;</pre>
+<pre>gh open</pre>
+polecam
+do otwierania repo? 🤔
+cli gh? na co komu to
+nom
+ja to zwykle uzywam do logowania do githuba
+na nowej maszynie
+ale ma w sumie duzo fajnych opcji
+mozna szybko nawigowac rzeczy jak sie zna komendy
+na githubie
+a fakt jak na maszynach coś trzeba to spoko
+bo samo otwieranie to można np <code>firefox --new-window github.com/qik/registry</code>
+no mozna ale jako alias do <code>gh</code> to wtedy jest subkomenda <code>gh</code> co ma sens bo chce otworzyc githuba
+a nie globalny alias
+<pre>$ gh alias list     <br>mine: pr list --author @me<br>open: &apos;!gh repo view -w -b &quot;$(git branch --show-current)&quot;&apos;<br>prs: pr list -w<br>prv: pr view -w<br>review: pr list --search &quot;review-requested:@me&quot;<br>s: pr status</pre>
+porobilem se kilka
+siła vima
+ale dla mnie szybciej byłoby napisać zanim bym ogarnął odpowiednie kroki xD
+takie są kroki:<br><pre><br>0df Iexport interface ISandbox^[lgUlf(CParams {}^[j0vf(%$d2ddkyypFPceResponse^[2j</pre>
+musze się podszkolić
+heeee szkoda gadac
+<a href="https://github.com/end-4/dots-hyprland">https://github.com/end-4/dots-hyprland</a> po screenach fajne dużo anime, użyteczny sidebar z ai, api z anime dziewczynkami itp
+ale to prawie wszystko w js
+same zalety
+where wady
+co to windows że menu start w reactcie?
+yep
+meh
+będzie push 49 commitów xd
+<a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> co ty mi tego powershella psujesz
+Zarządzam śniadaniowy monster
+nooo i prawidłoowooooooo
+monsterek idealny do kwaśnicy
+lata mi czy do kwaśnicy czy nie, w nocy spać nie mogłem bo mnie kebab na brzuch tak męczył
+wgl wrzuciłem apkę z planami na ios i w parę godzin wykręciła 55 miejsce w polskiej topce &quot;edukacja&quot; xd
+to chyba źle świadczy o czymś, ale nie wiem o czym
+xD
+xdddddd
+że jest dużo użytkowników iphone na uczelni
+Plany są lepsze od lego duplo myszka miki!!!!!!!!
+huge W
+❤️
+ja ledwo przyszedłem i już 3 bugi znalazłem xd
+teraz tylko dodać mikropłatności czy coś
+płatne dlc
+i zaraz nie będziesz musiał pracować
+2 powershell gdzie 3??
+ciekawe kto testował powershell
+XD
+własnie pisze
+wiesz ze jak z listy targetow usuniesz wszystkie to nie musisz klikac zapisz akcje bo targety juz sie usunely
+?
+nie wiem
+nie korzystałem za dużo z targetów
+to juz wiesz :D
+<a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> poteżne pytanie do ciebie<br>gdzie sie podziały visual testy na devie (slyszalem ze ty odpowiadasz za generator)
+potrzebujesz VT na dev?
+ta bo musze blanki posprawdzac
+generator pewnie poszedł jak były wyłączone vt w panelu
+generator do vt nie jest zmergowany chyba do deva
+i gdzie generator do unit testów
+nie ma. mam kilka tasków w kolejce
+w tym critical
+xd
+nooooooooo 😭
+ogarne ci to
+o dzieki
+musi byc na dev czy moze byc na sd?
+yyy chyba moze byc na sd?
+bedzie bezpieczniej
+na sd6 ci wygeneruje
+nie można srać do deva?
+:O
+nei
+zawsze można ❤️
+jest taka wiadomosc przypieta na kanale u nas
+xdddddd
+dlatego testy idą 3 miesiace
+bo same warningi w c# macie
+bardzo ważny task w open
+A co w nim ważnego?
+code review w buddy
+Uff
+ile mi dni urlopu zostało!?
+spokojnie, to za pare miesięcy pewnie
+tam jest od chuja logiki
+pierwsze patrzą na inne toole
+do ogarnięcia
+ale jest intensive tempo od rana
+w tym bardziej przypałować codemirror XD
+kiedyś mu robiłem demo side by side
+więc da się
+koledzy jak wasze doświadczenia z życia w nowej rzeczywistości?
+ale jeden comirror to już problemy, ale dwa!?
+wypiłem choccocinko i jest git
+powiedział najgorszą rzecz świata
+najlepszą
+idąc po ten wytwór szatana
+&quot;chodź dziecinko po choccocinko&quot;
+mój kandydat przegrał w pierwszej turze, w tej turze przegrało imo mniejsze zło
+🤮
+😍
+ładnie napisane
+ogólnie fajnie by było gdyby koalicja ogarnęła że to nie wina (tu trzeba wylistować):<br>wyborców zandberga<br>młodych ludzi<br>starych ludzi<br>ludzi ze wsi<br>ludzi z edukacją podstawową<br>ludzi z edukacją średnią<br>ludzi z katowic gdańska gdzieś tam jeszcze bo nie zagłosowali <br>itd
+tylko tego że chuja zrobili wykręcając się tym że prezydent zły
+jedyne co mnie wkurwia, to bazarki na twitterze xd
+od tego obsranego konesera unii europejskiej
+100 konkretów na 100 dni
+cóż szkodzi obiecać
+😆
+Ale wiecie, że teraz przez 2 lata nic się w tym kraju nie zmieni?
+tak i wpuszczą komorowskiego i giertycha do mediów na finiszu kampanii
+nie no co ty
+jacek murański
+wielki bu

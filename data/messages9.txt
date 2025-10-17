@@ -1,0 +1,963 @@
+﻿może ćwiczy tyłek innymi metodami, nigdy nie wiesz
+to już wolę nie chodzić w ogóle XD
+to jest bardzo spoko
+xdddd
+spokojnie, jeszcze trochę minie i zrobimy wam razem z <a href="https://t.me/mJakobsche">@mJakobsche</a> kurs budowania klawiatur
+okrutnik
+nom dokladnie
+zapraszamy
+tata klawiatura, mama klawiatura i 2 dzieci - jedno abortowane a drugie w produkcji :)
+xD
+fajne c:
+widział kto coś takiego?<br><pre>Error: l is undefined<br>U@https://app.local.io/public/merged/form-Rtbc3uRi.js:1:408<br>div<br>et&lt;@https://app.local.io/public/merged/vendor-D3UQaX6m.js:209:69521</pre>
+<a href="https://t.me/front">@front</a>
+ciężko powiedzieć, bo to jest po minify kodu
+w kodzie ci nie znajdę l
+da się odtworzyć? nowsza starsza/wersja też nie działa?
+aa spoko, czaje
+gdzie ci wyrzuca ten błąd?
+przy wejsciu w integracje z githuba
+ale tylko na localu
+sww czy po prostu &quot;aa trudno, nie działa&quot;?
+sww
+okej, widzę xD
+l to authType
+na devie mi sie tak nie robi tho
+to tez na lokalu u cb?
+yep
+blame nic nie pokazuje ciekawego
+dobra wypiszę buga
+ciekawe, bo w tym kodzie nikogo od dawna nie było
+Kod nietestowany nie musi działać
+<a href="https://t.me/mJakobsche">@mJakobsche</a> daj linka od razu
+bo to duuużo więcej integracji jebło xD
+<a href="https://app.clickup.com/t/86956mb3n">https://app.clickup.com/t/86956mb3n</a>
+może backend coś źle posyła
+fixed
+zaraz wrzucę poprawkę xD
+cool
+co bylo?
+...
+a raczej ich nie było
+kto wymyślił wogóle żeby w VT dało się dać custom separator?
+vt pewnie będzie udostępniało cli dla wszystkich
+więc będzie sobie to mógł wpiąc w ridera albo w inne gówno
+i samemu definiować co chcesz i jak
+nazwy sam sobie możesz skonfigurować
+więc jak będziesz chciał robić separator na UwU, to droga wolna
+zjebane to jest. Jak dodaje po internalu z separatorem _ sesję to po backendzie schodzi / a po froncie jest _ wtf?!?!?!
+brzmi jakbyś z backendu dostawał escape character czy cos xD
+lista <a href="" onclick="return ShowHashtag(&quot;jebło&quot;)">#jebło</a>:<br>- github<br>- amazon<br>- google service account<br>- rackspace<br>- shopify
+nice xd
+fajna opcja <br>git commit —patch
+wait
+XD
+zamykam ci tamtego buga
+i dociągnij sobie dev
+aa widze
+oki
+thx
+<a href="http://results.tests:4000/">http://results.tests:4000/</a>
+mówisz ?
+no ja bym zjadł coś konkretnego xD
+kebab też by był git
+kebab też spoko 🤔
+moze kebab then
+3/4 za kebabem; <a href="" onclick="return ShowMentionName()">Jakub Krawczyk</a>?
+a <a href="https://t.me/shipurjan">@shipurjan</a> ?
+poszedł 20 minut temu
+jakas optymalizacja była w buddym? cos dziwnie szybko mi się wszystko ładuje na sls
+beka, rozjebałem coś w stage XD pora naprawiać
+pora umierac
+czyli nie będzie kebaba? ;c
+nie no to jest brak null checka w jednym miejscu chyba
+12:50 -&gt; do przerwy zostało T - 10 minut.<br>Wezwij Łukasza <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines</a>
+ja mam coś z oczami, czy NPM audit sobie wisi w queue frontu? xD
+Nie masz
+SLS jest upośledzony i coś zaiste jebło
+ale przynajmniej szybko  dziala
+ja jebłem
+ale już odjebłęm
+jeżeli to to bo nie mam 100% pewności 😆
+czyli zaraz update sls wleci? xd
+powinien
+mmm deszcz c:
+kurw
+chujowo, ale przed 15 raczej nie przestanie
+bulem tam
+sprint do zaby
+gdzie bules?
+ten co przywołał deszcz żeby znów jeść to niejedzenie z żaby...
+to, co... idziemy? xD
+możemy
+ide pod drzwi
+nie moja wina 😆
+w stage przeszło
+a wy gdzie?
+czekam, aż mi pipeline jebnie i idę
+1m
+jebnął :D
+<a href="https://vm.tiktok.com/ZGeWR81PE/">https://vm.tiktok.com/ZGeWR81PE/</a>
+<pre>Pracujemy głównie w DDD<br>Davai Davai Deploy</pre><br>~ <a href="https://t.me/BartShoot">@BartShoot</a>
+drogie qa, co to jest
+💩
+zjebany front
+ja uprzejmie zapytałem, a ci od razu wyzywają
+Nie prawda
+prawda
+Nie wyzywamy
+Nazywamy rzeczy po imieniu
+dlaczego wasze testy nie wykryły, że można mieć taki error
+Może powiesz jak tam trafić?
+nie, bo mi taska wystawisz
+To teraz patrz
+przeciez tam powinien byc przecinek:<br>Something went wrong, something went wrong...
+jak mi wystawisz taska z mojego screena, to go sobie przeniosę jako subtask XD
+&quot;Jak w trakcie developmentu na <a href="app.local.io">app.local.io</a> to nas to nie interesuje&quot;
+na live
+i tu też przecinka zabrakło 😎
+Jak nie powiesz gdzie to mam to w dupie
+kolejna rzecz do kolekcji?
+;)
+Na styrtę
+i chuj styrta się pali
+9:20 -&gt; do przerwy zostało T - 10 minut.
+Kuba dzisiaj jest ledwo żywy, jutro go nie ma albo jest zdalnie bo jak przyjdzie to sam go wykopię na chatę
+jak będę zdalnie to nie będę wogóle produktywny
+I tak nie jesteś
+jestem
+zamykam taski na QIK
+i testy fixuje
+zamknąłem już z 6 tasków
+gdzie każdy potrzebował testu
+Twoje fixy są gorsze niż ich brak
+fixować
+Wiem co to znaczy katar
+no myśleć się nie da
+No właśnie
+A fixowanie tasków to nie robota na odpierdol
+food? czy żaba?
+12:50 -&gt; do przerwy zostało T - 10 minut.<br>Wezwij Łukasza <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines</a>
+kebab nam został wczoraj brutalnie odebrany przez pogodę
+ano
+kebab?
+to możemy iść
+nasrać bardziej tu już chyba się nie będzie dało
+Dało
+<a href="https://app.sd9.com/ttests/git-repo/repository/commit/08ba4214200e8c4f42b2a6823e66a581b3f454bc">https://app.sd9.com/ttests/git-repo/repository/commit/08ba4214200e8c4f42b2a6823e66a581b3f454bc</a>
+?
+Dało się bardziej nasrać
+tyle że nie nasrałeś tam bardziej w tym miejscu o które chodzi Marcelowi?
+czemu tak daleko
+😆
+Wyrażę się jednym słowem
+hehe
+to idziemy?
+no wstaje
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> <a href="https://t.me/shipurjan">@shipurjan</a>
+Więcej tych portali się nie dało?
+A chcesz?
+tyle, aby wyjebało firefox-a
+czyli dowolna liczba
+≥ 0
+Firefox not fail with portals<br>Expected: Firefox dead<br>Actual: 20 portals is not enought
+zle napisales enough
+skad wogole sie te portale biora
+Uważaj, co piszesz, bo zaraz zacznie pisać, że w blazorze to on ma 0 portali
+wiecej niz w avengers last game
+Z takiej gry
+tajest
+A skąd w ogóle pomysł, że ja myślę że cokolwiek robicie?
+Wy wszystko co macie to z bibliotek
+Napisaliście selenium od zera?
+To nie o nas mowa
+Nawet jeśli, to sklejanie tych bibliotek do kupy to wcale nie taka prosta sprawa XD
+Front musi być odporny na redesigny, bo by to wszystko jebło
+tak szymon ma swoje chumory designowe
+ale
+qik jest sensownie zrobiony
+Yyy
+Nie powiedziabym
+design trzyma sie kupy
+Nie pamiętasz jak całą bibliotekę do zonefile wyjebali?
+To idź do okulisty
+nie ma tak ze cos nie pasuje
+Diffy na staged?
+libka od zonefile to design?
+.
+Gdzie tu cokolwiek o designie
+Chumory?? Muchomory?
+Yeap
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> <a href="https://t.me/shipurjan">@shipurjan</a> <a href="https://app.clickup.com/t/86957561b">https://app.clickup.com/t/86957561b</a>
+Nie pisz do mnie
+🫄🏻
+<a href="https://t.me/lmastalerz">@lmastalerz</a>
+Stanoski
+lol, ktoś tego używa może? XD
+<a href="https://github.com/nodejs/node/pull/53725">https://github.com/nodejs/node/pull/53725</a>
+<a href="" onclick="return ShowMentionName()">Jakub</a> gdyby nie fakt, że nie powierzyłbym ci nawet mojego HelloWorld-a to wziąłbym sobie w randomowym dniu wolne i ciebie na zastępstwo
+A to w jaki sposób Krzysiu zapomniał, że mnie wyznaczyłeś to już inny temat, równie ciekawy
+nie wiem, mi się wydaje że to zastępstwo tam to pic na wode i nikt tego faktycznie nie używa
+bo firma na tyle mała że każdy mniej więcej wie co robią ludzie z jego zespołu 😆
+Zgadza się
+Michał wyznaczył Krzyśka na zastępstwo
+Efekt: Krzysiu zapierdala z tym samym poziomem co zawsze
+Tylko bardziej narzeka
+za takie teksty to se bedziesz sam piaal pociagi.
+<a href="" onclick="return ShowMentionName()">Jakub</a> gdyby nie fakt, że nie powierzyłbym ci nawet mojego HelloWorld-a to wziąłbym sobie w randomowym dniu wolne i ciebie na zastępstwo
+takze spierdalaj i baw sie dobrze. ja ide na deadpoola
+sam mnie chciales w tej firmie. wiec na chuj skoro uwazasz ze nie potrafie console logiem hello world wypisac.
+wiec jeszcze raz spierdalaj
+Uuu, ty może nie na deadpool-a a aspirynę i do łóżka
+Łukaszowi odpalił się tryb &quot;mooooooje pociągi&quot;
+Dobra, nie będę kopał chorego
+.
+*już więcej
+I wcale nie chodzi o to, że Krzysiek i Jarek mieli z tego bekę na pół godziny
+ja sobie wypraszam obrazania mnie. to ze nie spedzam godzin przed komputerem dziergajac albo sluchajac wojtka to nie znaczy ze nie potrafie pisac kodu. moze nie jak na waszym poziomie ale mam to w dupie. po to przyszedlem tam zeby sie uczyc pisac lepszy kod. a ze ty potrafisz tylko napluc a nie powiedziec co powinienem zmienic to juz poprostu dlatego ze jestes debilem.
+To już lekkie przegięcie, bo mimo iż mam w zwyczaju krytykowanie to nie możesz powiedzieć, że ci z kodem nie pomagałem
+no dobra czasami pomagasz. ale tym tekstem przegioles troche
+Czasami?
+Łukasz, wydupiaj dziergać coś
+ale dymy jezu
+Nie będzie cię przez najbliższy tydzień to sobie odpoczniesz, potem ja wydupiam na parę dni i też mnie nie zobaczysz
+ok
+Na pewno sobie poradzisz
+czuje od ciebie ta ironie
+ale ego top
+No akurat tu zaszła inwersja
+Bo na prawdę uważam że sobie poradzisz
+A to z HelloWorld-em było ironiczne do bólu
+jak jestem chory to nie jest mi na zarty. tak jak z tym executionem
+Nie ty zaliczyłeś największego fuck upa w firmie więc nie wiesz co to znaczą drżące ręce i nogi
+i sie rozladowalem. odrazu mi lepiej.
+Ale ja i Kuba mieliśmy takie akcje
+to prawda
+czego używacie na froncie do przechodzenia między podstronami? bo na firefoxie nie działa animacja
+Gdzie ci nie działają animacje?
+prawy ff lewy chrome
+ogólnie to nawet nie wiedziałem że mamy w buddym takie przejścia bo używam tylko ff XD
+Same
+zgłoście zażalenia do ff
+mówisz że z tego nowego api już korzystacie?
+yep
+z tego, co widzę
+Nie ma niczego innego co mogłoby zapewnić tą samą funkcjonalność w ff?
+jest
+framework by ci musiał zapewniać i więcej js
+wejście na stronę, z której możesz pobrać coś na chromium
+więcej js to zawsze zła opcja
+To nie jest fix
+jest
+Nie
+tak
+Nie
+tak
+!tak
+tak
+nie no tu się nie ma co kłócić, po prostu używamy przeglądarki która nie wspiera nowiutkiego api 😆
+(bool)(object)Wypierdalaj
+jeszcze 2 lata tak gdzieś +/- dla firefoxa
+sory, firefox niestety nie jest wspierany przez żaden monopol
+nie ma budżetu na takie rzeczy
+<a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1823896">https://bugzilla.mozilla.org/show_bug.cgi?id=1823896</a>
+jest
+Jaki?
+od Google dostają $
+<a href="https://en.wikipedia.org/wiki/Mozilla_Corporation#Finances">https://en.wikipedia.org/wiki/Mozilla_Corporation#Finances</a>
+takie fanboje i nie wiedzą?
+No i gdzie ma to coś jakikolwiek monopol?
+dostają tylko dlatego bo dostaliby po łapach za bycie monopolem inaczej
+&quot;in exchange of making it the default search engine in Firefox.&quot;
+Google nie ma monopolu?
+Mozilla nie ma monopolu
+no z tym to odfrunął
+Mozilla ssie mleko monopolisty
+a ja pisałem o byciu wspieranym przez niego xD a nie byciem monopoelm
+xD
+Firefox nie jest wspierany przez monopolistę
+Chromium jest
+ok, żyj w swojej bańce
+nie no jak byk pisze że w 2022 81% dochodu firefoxa jest od google
+Ale jaki budżet ma firefox, a jaki chromium?
+co ma piernik do wiatraka
+i nie naginaj pod tezę
+&quot;firefox niestety nie jest wspierany przez żaden monopol&quot; -&gt; jest
+Taki, że wykonując usługę dla kogoś nie jesteśmy czyjąś własnością
+koniec
+GDZIE
+JA
+NAPISAŁEM
+ŻE TAK MA BYĆ
+To wytłumacz mi po chuj google wspiera firefox-a skoro ma chromium i gdyby im nic nie dawali to firefox nic by nie miał?
+mam ci to do chuja przetłumaczyć?
+na polski
+Choć tu
+To sam ci wytłumaczę
+To nie jest wyjaśnienie
+masz
+Zastanów się
+przeczytaj
+przeanalizuj
+całe życie z debilami
+Co by było gdyby google nie dawało kasy firefox-owi?
+Jak myślisz?
+korzystałbyś z duckduckgo
+9:20 -&gt; do przerwy zostało T - 10 minut.
+Nie
+Zmieniłbym domyślną na google
+Ale co by się stało z firefox-em?
+81% przychodów to google, czyli bez google na 19% długo nie uciągną
+1. ssał by bardziej<br>2. nie miał pieniędzy na pracowników, dalszy rozwój
+a więc by zdechł
+WIĘC
+a szkoda gadać
+Gdzie by poszli wszyscy, którzy korzystali z firefox-a?
+curl
+xD - nie
+Poszliby na chromium
+Bo tylko to zostało
+A skoro tak, to czemu google ma utrzymywać przy życiu firefox-a skoro bardziej mu się opłaca go zajebać?
+bo dostanie po łapach za bycie monopolem
+USA i UE by ich zgniotło
+za bycie monopolem
+Właśnie
+to ten sam powód dla którego masz office na macu
+jak ktoś nie chce FF i chromium to jest: <a href="https://github.com/LadybirdBrowser/ladybird">https://github.com/LadybirdBrowser/ladybird</a>
+ale tak za pare lat pewnie używalne
+wtedy to już ff będzie miał view transition
+może
+projekt spod serenityOS czyli tych co piszą od zera system operacyjny
+A skoro tak, to znaczy, że firefox nie jest wspierany przez google tylko jest utrzymywany przy życiu aby nie zdechł
+powinno być Based:
+Ty, ale safari też nie wspiera transitions API
+dopiero eksperymentalne
+wiem tylko, że Łukasz neguje jak najbardziej to możliwe, że mozilla dostaje $ od Google
+co mnie bawi xD
+Nie neguję tego
+Neguję nazywanie tego wsparciem
+🤡
+w sumie głównym powodem dla ktorego odpuscilem sobie chroma, było to że w firefoxie można mieć te tree-style-tabs
+w chromie można grupować zakładki to też jest ok opcją
+da się grupować, ale - choć ładnie wygląda - wymaga więcej effortu, no i nie da się ich zagnieżdżać
+mi brakuje tez takiej &quot;spatialnej&quot; wizualizacji jak jest tutaj
+przestrzennej, to co za polinglish
+tez jest to tak naturalnie rozwiazane, ze jak daje &quot;otworz  w nowej karcie&quot; to sie automatycznie zagniezdza
+kiedyś przepisywałem publikacje pewnej dość wiekowej profesorki językoznawstwa słowiańskiego i od niej sie tego słowa nauczyłem, ufam że jest legitne xP
+bo raczej nie posądzałbym o znajomość angielskiego akurat hah
+99% zapożyczenie skądś
+skądś napewno, ale łacina: istnieje :P
+wiec raczej z tego bym obstawial, bo praktycznie wszystkie terminy konczace sie na &quot;cja&quot; są z niej zapożyczone
+choć nie można też wykluczyć że ona sama usłyszała ten termin od kogoś kto zrobił polinglish XD
+to jest zajebiste
+oj mnie historia firefoxa najczęściej zawodzi, nie wiem czemu ale jak czegoś potrzebuje szukac to nie potrafie XD
+ja mam takie ustawione, jak wpisze &quot;np fzf&quot; to mi wyszuka fzf w nix packages
+te customowe wyszukiwarki to jest złoto naprawde
+<a href="https://app.clickup.com/t/869327ftd">https://app.clickup.com/t/869327ftd</a> musimy ustalić po jakim czasie komuś będzie się należeć order złotej łopaty za odkop
+honey, new language just dropped
+jaaaaa ale super to wyglada!!!!
+i do tego w jakich quality językach
+o, rust
+Rdza
+czyli musi być szybkie
+ale tylko do momentu kompilacji
+potem to już wina usera
+przy odpalaniu wracamy do interpretowania
+Dzień fixowania moich bug-ów
+mogę usunąć assignee
+W przeciwieństwie do wszystkich innych ty najpierw robisz, a potem formalności
+Więc nawet jak usuniesz to nie zmieni to że Karolina sfixowała już innego bug-a :)
+a to widziałem
+to źle?
+A Adam fixuje innego
+Czemu miałoby być źle?
+this
+Dostarczam wam contenu na grupkę skamową
+Dzień fixowania moich bug-ów
+mogę usunąć assignee
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> czekaj co?
+miałeś tam sww?
+nie
+xD
+error label leciał do innego inputa
+na kartę &quot;use template&quot;
+Aha
+xD
+12:50 -&gt; do przerwy zostało T - 10 minut.<br>Wezwij Łukasza <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines</a>
+a skoro jest reminder
+to jest i pytanie
+co gdzie kiedy
+w sumie to 3 pytania
+ale ch
+jak chcemy deptać to <a href="https://pysznebistro.pl/menu/">https://pysznebistro.pl/menu/</a>
+jeszcze wtedy schudne i co wtedy
+spoko, zjesz porządny obiad to nie schudniesz za szybko
+Ja dzisiaj kuchnia async
+mamy cie nie wołać?
+Yeap
+<a href="https://app.clickup.com/t/869505338">https://app.clickup.com/t/869505338</a> stage: limbo
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> Karolina wzięła emotki w edytorze 😱
+Co ty taki wystraszony?
+Ona sobie krzywdę zrobi
+Jeśli uważa, że jest to warte zmarnowania x czasu, to why not
+wg mnie nie
+jakie limbo jak dogadywane są detale
+Limbo, bo wpierw merge tuneli
+A potem będzie czekać na kogoś kto to łyknie
+które emoji to wywalało?
+<a href="https://t.me/lmastalerz">@lmastalerz</a>
+Serduszka
+wyślij mi tu jedno
+bo te co mam przy bashu tego nie robią
+❤️
+XD
+znajdzcie unicode
+Hmm, na dev ci zrobię
+Ty sobie z dev-a skopiujesz
+XD
+Albo ogarnij jakiegoś sd
+wystarczy wysłać w stringu
+<a href="https://app.dev.io/ttests/--/repository/content/branch/master/%E2%9D%A4%EF%B8%8F">https://app.dev.io/ttests/--/repository/content/branch/master/%E2%9D%A4%EF%B8%8F</a>
+mhm
+xD
+jednak nie font
+ma 2 możliwości
+a w sumie 3, jeśli &quot;a chuj z tym&quot; też jest valid
+ta, tu też jest zaznaczenie broken
+jak robie backspace to pierwsze robi się czarne serduszko potem dopiero znika XD
+przy drugim backspace
+To jest bardziej zjebane niż można było obstawiać
+<a href="https://github.com/ianstormtaylor/slate/issues/2635">https://github.com/ianstormtaylor/slate/issues/2635</a>
+no to nie jest hotfix xD
+ni chuja
+no ten który w devie jest
+ace
+hmmm
+<a href="https://t.me/lmastalerz">@lmastalerz</a> znając ciebie, jak to wrzucę, to się zesracie za 2 minuty
+że da się cofnąć na stary route
+na widok compare z nieistniejącym branchem
+jak się podoba, to wrzucę
+jak nie, to pal gume
+Z jednej strony masz rację, że dziwne zachowanie. Z drugiej jest fix-ed, bo stary route pokazuje, żebyś wypierdalał bo nie ma nic do merge
+z drugiej strony na route compare da się wejść niezależnie od tego czy branch istnieje
+nie no nie jest dziwne, mogłoby jedynie przekierować z nieistniejącego compare gdzie indziej
+ale poprawna ścieżka? nie ma 404? gdzie problem
+Ogólnie to nie ma testów na Alt+Left Arrow
+feature przeglądarki
+<a href="https://app.dev.io/ttests/git-repo/repository/comparison?fromBranch=chuj&amp;path=%2F&amp;toBranch=do+dupy">https://app.dev.io/ttests/git-repo/repository/comparison?fromBranch=chuj&amp;path=%2F&amp;toBranch=do+dupy</a>
+To jest jak najbardziej valid
+że chuj jest up to date z do dupy?
+Tak
+tylko, że idąc tą drogą
+cofasz się na istniejący, prawidłowy route
+Bo jesteś chujem
+tu
+I szmaciarzem
+po prostu &quot;nie ma co mergować&quot;
+I to i to jest up to date
+Powiem tak, jak masz wątpliwości to zrób Resolved i wrzuć na dev-a i powiem Krzyśkowi aby to zobaczył
+A jeśli nie masz wątpliwości to zrób to samo, a ja nie powiem Krzyśkowi
+do odważnych świat należy
+no bo jak mam ci zedytować historię xD
+by wywalić, że byłeś kiedyś na jakimś urlu
+nie historie, conajwyżej mógłbyś sprawdzać czy branche są valid
+Dodać całą historię na nowo oprócz tego co chcesz wyjebać
+nie są to wypier
+one są valid
+bo możesz robić compare branchy 1:1
+jak istnieją
+jak nie istnieją to też XD
+jak zmergowales usunales? to juz nie
+Ja wystawiłem że compare się jebało po merge
+jak zmergujesz branch który nie istnieje
+nie możesz mergować branchy, które nie istnieją
+po prostu pozwoli ci wejść na compare
+ale ty tam kiedyś byłeś
+więc imo no problem
+Ale jak wyjebiesz użytkownika na skrzyżowaniu, a nie na przed zamkniętymi drzwiami to jest ok
+inaczej
+jak jebniesz babe na pasach
+to teraz nie cofa cię przed pasy, byś ją jeszcze raz jebnął
+chyba, że sam chcesz to zrobić
+to wtedy nikt cię nie broni, by wrzucić wsteczny
+valid argumentacja?
+<a href="https://t.me/lmastalerz">@lmastalerz</a>
++1
+bugfixowy piątek jak widzę xD
+Jak udawać, że się robi opierdalając się
+kto się opierdala
+opierdalać to się może Kuba na urlopie
+gdzie to
+Jestem w autobusie i to nie moje dzieło
+Kuba
+Do git repo tylko on zaglądał
+to nie moje dzielo
+Aha
+pierwsze widze
+Git repo to VT
+Krzysiek, Bartek, i ten z backendu
+to tylko na dev
+sd9 nie ma chujowgo patha
+Ale chujowyPath to klucz
+Tunele
+Co to
+aaa
+<a href="https://github.com/jesseduffield/lazydocker">https://github.com/jesseduffield/lazydocker</a>
+?
+Wygląda spoko, wrzucam bo potem zapomnę
+mam dwa pytania
+XD
+XD
+Gdzie to?
+I komu to napisał?
+mi
+XD
+<a href="https://app.clickup.com/t/862kbbynx">https://app.clickup.com/t/862kbbynx</a>
+Pierwszy w firmie do którego Szymon się nie dopierdolił
+Ja wiedziałem że Marcel to geniusz frontu
+To że przy okazji chuj nad chuje to inna kwestia
+ciesz sie
+pierwszy ktory napisal do niego i zostal polizany a nie opluty ze tak sie wypowiem
+9:20 -&gt; do przerwy zostało T - 10 minut.
+kto pytał
+ludzie ktorzy nie wiedza a tego potrzebuja
+co tak niemile odpowiadasz
+prawie mi się przykro zrobiło
+to bylo nie mile?
+niemiłe* i tak
+było xD
+chodzilo raczej o ludzi ktorzy nie wiedza ze potrzebuja przerwy a jej potrzebuja.
+Ja pytałem
+A ty nie na urlopie?
+jestem ale wrocilem z krakowa i mam ochote popisac kod :)
+Chcesz release api grafany?
+Pytał, a ma wyjebane w to
+ha tfu
+❤️
+Michał wrócił
+A Krzysiu na urlopie
+prosze
+Chcesz release api grafany?
+rusz dupe
+o to ciekawe
+Michał zwyzywał ci projekt
+mogłeś mu odpuścić jak ma urlop
+Taki urlop jak...
+Z resztą jakoś trzeba było zaargumentować release api
+<a href="https://t.me/BartShoot">@BartShoot</a> <a href="https://t.me/mJakobsche">@mJakobsche</a> o której będziecie mieli teraz spotkania w poniedziałki?
+9
+A co taka zmiana?
+my 9:30 xD
+Hmm
+no chcą to skompresować bardziej bo dużo czasu schodzi na to
+Nie dobrze
+podobno front miał mieć też o 9 obok konferencyjnej
+przecież tobie to wszystko jedno
+Nie
+ale chyba nie jest gotowa
+czyli potencjalnie będziemy mieli jeszcze wcześniej
+nice
+ale to jakieś leżaki trzeba, jak my na zewnątrz
+my mamy spotkania w tej 2 sali ale jest jeszcze 1 z brzegu
+tu
+tak, tam mamy
+to nam krzeseł braknie, jak byśmy mieli do pierwszej pójść
+nam brakuje nawet w tej duzej :P
+kto ostatni wejdzie, ten stoi?
+albo przynosi krzeslo
+ale tak
+XDDD
+<a href="https://app.clickup.com/t/8695685jw">https://app.clickup.com/t/8695685jw</a>
+Karolina: &quot;Marcel, poddaję się. Bierz to gówno ode mnie&quot;
+nie
+99% wont fix
+nie no znaleźliśmy ostatnio
+że to jakaś kwestia offsetów dla tych emotek
+<a href="https://github.com/ajaxorg/ace/issues/460">https://github.com/ajaxorg/ace/issues/460</a>
+issue z 2011
+a nowy edytor?
+no i git
+yep
+Czyli nie won&apos;t fix tylko resolved
+wkleić linka do tego taska że nowy edytor ogarnia i zamknąć w pizdu
+niech nie śmieci
+nie resolved, bo won&apos;t fix
+mój branch sobie jeszcze poczeka
+Ale będzie fix
+tak, won&apos;t
+?
+won&apos;t F I X
+Skoro nowy edytor fix-uje bug-a to czemu nie resolved?
+bo go jeszcze nie ma
+No to in progress aż będzie
+co zwyzywał aktualna wersje ktora jest nijaka? czy pomysl ktory ty wymysliles?
+Wersję która jest nijaka
+tam nic nie ma
+A dokładnie UI/UX zwyzywał, że nieużyteczne i rozpraszające
+nie mozna zwyzywac powietrza xd
+Można
+ale to i tak idzie w eter
+a ty zamiast powiedzic mu ze tam nic nie ma i ze to bylo tylko na mockup na wersji 0.000000001 to mu przytaknąłeś
+Nie, no. Powiedziałem że jest inprogress i dlatego dostałem pozwolenie na release API
+na jaki?
+teraz to se będą zmieniać, jak tyle samo osób wcześniej było o 9:30 to nie zmieniali
+ale ktos to zakomunikowal?
+potężna ofensywa chłodnikowa trwa
+mam przeczucie ze ten bdzie najgorszy
+ja mam mieszane uczucia, ogórek małosolny spoko
+a ja mam przeczucie, że <a href="" onclick="return ShowMentionName()">Jakub Krawczyk</a> jeszcze bardziej się cieszy, że ma w tym tygodniu wolne
+ale do tego rzodkiewka i młode ziemniaczki?
+ze względu na środę
+jak ziemniaki na zimno pls
+12:50 -&gt; do przerwy zostało T - 10 minut.<br>Wezwij Łukasza <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines</a>
+żaba?
+tajest
+o której?
+ale spacje czy %20<br>?
+Miałem tak samo
+że na localu czy gdzie?
+Dev
+kto jest tym razem winny?
+well, na <a href="app.local.io">app.local.io</a> mi działa xD
+chociaż czekam na release ;v
+pewnie wtedy jebnie
+jak jebnie, to backend
+13:15? czy później
+czy ktoś umiera z głodu i idziemy teraz
+@ pozostali
+Mateusz mi mówił że on bliżej 14 chce iść
+13:45?
+<a href="https://t.me/mJakobsche">@mJakobsche</a> ?
+moze byc 13.45 jak dla mnie, a jak chcecie wczesniej to moge pojsc pozniej sam
+ja tam nie umieram z głodu
+rabini się wypowiedzieli
+<a href="https://app.clickup.com/t/8695856kq">https://app.clickup.com/t/8695856kq</a>
+<a href="https://t.me/shipurjan">@shipurjan</a> <a href="https://t.me/mganczarczyk">@mganczarczyk</a>
+nie potrafię zrobić repro
+zrób f5 na dev
+na tym koncie <a href="https://t.me/lmastalerz">@lmastalerz</a>
+xD
+bo właśnie ci ten znak usunąłem
+normalnie zapisując nazwę
+Załóż konto ze spacją
+Bo Michał popsuł buga
+Ja rozumiem, że rudy kolor włosów zobowiązuje, ale żeby wystawiać Buga na samego siebie?
+ja tez tak kiedys zrobilem
+jak 404
+tso
+jak dobrze rozumiem
+to link tam
+prowadzi do sentry
+z wypierdolki na moim koncie XDD
+xD
+XDD
+ale ja to naprawiałem przy okazji taska Adama XD
+więc musiałem zrobić wypierdolki
+stąd oznaczone jako resolved
+ale jest task
+w t f
+Ty, akceptuj invite
+O chuj, gdzie ja to posłałem xDD
+Fix-ed
+12:50 -&gt; do przerwy zostało T - 10 minut.<br>Wezwij Łukasza <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196131/execution/xyz">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196131/execution/xyz</a>
+No, fixed
+what
+gdzie poleciało
+12:50 -&gt; do przerwy zostało T - 10 minut.<br>Wezwij Łukasza <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines</a>
+<a href="gmail.com">gmail.com</a> -&gt; <a href="buddy.works">buddy.works</a>
+Zjebisty ten link, ma prowadzić do executiona, a nie do pipeline-ów
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> wejdź na maila i akceptuj invite
+którego
+firmowego
+mam ich w tak gdzieś +/-
+hmmm
+w chuj
+we mi na <a href="mailto:ganczarczyk.marcel@gmail.com">ganczarczyk.marcel@gmail.com</a> daj invite
+nie chce mi się mieć dwóch kont na eu
+chyba, że mogę drugie podpiąć na głównym i zadziała 🤔
+Paszło
+dobra, mam
+mhm
+jasne, każdy będzie leciał i klikał 😆
+Mail
+podepnij api pod drzwi wejściowe i jak zeskanuje się któryś z nas powinno Ci odbić
+jak automatyzacja to automatyzacja
+To do szymona
+Paszło
+Łukasz rusz DPE!
+Łukasz rusz <strong>DPE!</strong>
+Łukasz rusz <strong>DPE!</strong>
+Kurwy
+@Łukasz rusz <strong>DPE!</strong>
+I odpaliliście mi bułeczkę wcześniej
+<a href="https://t.me/lmastalerz">@lmastalerz</a>
+@Łukasz rusz <strong>DPE!</strong>
+@Łukasz rusz <strong>DPE!</strong>
+<a href="https://t.me/lmastalerz">@lmastalerz</a> masz talerz?
+Nawet wezwać <a href="https://t.me/lmastalerz">@lmastalerz</a> nie potrafię, bo się wyjebałem na plecy.
+<a href="https://t.me/lmastalerz">@lmastalerz</a>, wiesz co się rymuje ze słowem &quot;żabka&quot;?<br><br><strong>RUSZ DUPE DO KUCHNI</strong>
+dobra, dość
+<a href="https://t.me/lmastalerz">@lmastalerz</a>, wiesz co się rymuje ze słowem &quot;żabka&quot;?<br><br><strong>RUSZ DUPE DO KUCHNI</strong>
+<a href="https://t.me/lmastalerz">@lmastalerz</a>, wiesz co się rymuje ze słowem &quot;żabka&quot;?<br><br><strong>RUSZ DUPE DO KUCHNI</strong>
+przecież on za chwilę bota wyjebie
+Zajebie
+Kurwa ruszać dupska
+A nie bawić się
+Pipeline
+a no tak XD
+już
+Jak dzieci!!!
+Dać zabawkę to nie widzą co się dookoła dzieje XD
+<a href="https://t.me/shipurjan">@shipurjan</a>
+<a href="https://t.me/shipurjan">@shipurjan</a> idziesz?
+<a href="https://t.me/lmastalerz">@lmastalerz</a>, wiesz co się rymuje ze słowem &quot;żabka&quot;?<br><br><strong>RUSZ DUPE DO KUCHNI</strong>
+Jesyesmt
+Kurwy i śmiecie, z Poznania nie wyjedziecie!
+<a href="https://t.me/shipurjan">@shipurjan</a>
+Bo ten drugi to chuj
+szybko się znalazł assignee, ngl
+clickup moment
+<a href="https://t.me/shipurjan">@shipurjan</a> front ma więcej niż 6 testów
+24 XD
+no tak
+to cały plik asArray.test.js
+test:
+<a href="https://t.me/lmastalerz">@lmastalerz</a>, wiesz co się rymuje ze słowem &quot;żabka&quot;?<br><br><strong>RUSZ DUPE DO KUCHNI</strong><br><br>Wezwany przez Marcel Gańczarczyk uwu
+uwu
+<a href="https://t.me/lmastalerz">@lmastalerz</a>, wiesz co się rymuje ze słowem &quot;żabka&quot;?<br><br><strong>RUSZ DUPE DO KUCHNI</strong><br><br>Wezwany przez Marcel Gańczarczyk   ଘ(੭*ˊᵕˋ)੭* ੈ♡‧₊˚
+Wiesz co się rymuje z od 0 do 100 kopem w dupe?
+chuj ci w dupe?
+tego wsadź tam <br><pre> /| ､<br>(°､ ｡ 7<br> |､  ~ヽ<br> じしf_,)〳‌‎</pre>
+do stopki?
+<a href="https://t.me/lmastalerz">@lmastalerz</a>, wiesz co się rymuje ze słowem &quot;żabka&quot;?<br><strong>RUSZ DUPE DO KUCHNI</strong><br><br>Wezwany przez Marcel Gańczarczyk<br><br> /| ､<br>(°､ ｡ 7<br> |､  ~ヽ<br> じしf\_,)〳‌‎
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> o której deploy?
+co ci zrobił ploy, że chcesz go &quot;de&quot;?
+Zdupczać czas
+to idź
+<a href="https://github.com/FasterXML/jackson-databind/issues/3972">https://github.com/FasterXML/jackson-databind/issues/3972</a>
+jakiś typ se usrał że biblioteki od mapowania gdy mogą mieć cyclic dependency to jest vulnerability i poleciał po wszystkich bibliotekach od mapowania i im wystawił CVE XD
+XD
+9:20 -&gt; do przerwy zostało T - 10 minut.
+Łukasz 🤡
+wystaw im taska na clickupie, że leci &quot;something went wrong&quot;
+Jebany clickup
+ja bym tylko chciał zaznaczyć że: zarządzanie projektem plikiem .md jest 10x bardziej popularne od clickupa <br><br>ORAZ<br><br>10x więcej osób chciałoby korzystać z pliku markdown<br><br>ORAZ <br><br>zarządzanie projektem plikiem markdown jest 100% bardziej docenanie przez jego użytkowników niż clickupa :))))
+zależy czy takim czystym md
+czy jakąś apką, która wewnętrznie działa na md
+ciężko powiedzieć, troche te ankiety mają z chuja momentami
+co
+bo ty musisz poprosić, by cię zapytano
+musisz wiedzieć, że ktoś chce cię zapytać
+by móc zapytać, czy może cię zapytać
+prawda
+vsc najbardziej popularny edytor tam
+bez sensu totalnie
+daj wykres ^
+<a href="https://t.me/lmastalerz">@lmastalerz</a> wyjebmy clickup sprawdźmy to <a href="https://linear.app/homepage">https://linear.app/homepage</a>
+wystawić taska &quot;jebać clickupa, przenieśmy się na <a href="linear.app">linear.app</a>&quot;, to faktycznie może dodać tylko Łukasz
+XDD
+czy ty się wszędzie firmowym logujesz?
+znaczy na mówię o projekcie bitad app
+Ale Buddy Workspace już jest
+Czyli go testowali
+tak a co
+usuń to
+zanim przeczyta
+fuck
+<a href="" onclick="return ShowMentionName()">Jakub Krawczyk</a> nie czytaj tego, co jest wyżej
+tam Łukasz pierdoli standardowo głupoty
+xDDD
+notepad++ mniej popularny od jetbrains?
+świat schodzi na psy
+💀
+<a href="" onclick="return ShowMentionName()">Jakub</a> we postaw kloca
+mmm
+vim9 forever
+a mój serwer z uptime 1.5 rocznym ;)
+a hejtowali
+&quot;a na chuj płacisz&quot;
+vim jest wszędzie i neovim cały czas nie jest stwierdzony jako definitywna najlepsza wersja vima
+linuxy chyba mają preinstalled vima, nie?
+o czymś to świadczy
+a nie nvim
+yes
+to pewnie to
+ta, jak potrzebujesz zedytować plik gdzieś szczególnie remote no to vim jest spoko
+<a href="https://t.me/BartShoot">@BartShoot</a>
+ale odpowiedźcie sobie w głębi duszy
+WON&apos;T FIX
+czy nazwalibyście vima ide
+Nie
+zależy dokąd ide
+Ale edytor configów - tak
+ide albo nie ide
+a nano?
+that&apos;s a meme REFERENCE!
+Nie umiem z niego wyjść
+no raczej normalni ludzie korzystaja z nano
+same XD
+normalni ludzie -&gt; normiki
+dlatego kloc kuby leży
+macie podpisane na dole programu
+jak jesteś devem to też z ręką na sercu czy powiecie sobie że jesteście normalni?
+I co to niby znaczy?
+zapomniałeś o czymś
+pytanie czy zamknięcie issue zwalnia limit?
+to tyle nie będzie
+wypraszam sobie jestem  pojebany niezaleznie od bycia devem
+któreś chyba
+ctrl, sprawdzilem
+ctrl + x + guzik na komputerze :)
+wyjdziesz na pewno
+ja tam znam więcej shortcutów nano niż vima 💀
+btw,
+masz alias w shellu?
+yes
+czyli vim wszedł za bardzo
+zeby zamknąć konsole
+statystycznie mam odpalone z 7 terminali naraz
+ja tam command+w używam
+na co?
+by zamknąć
+i command+t do otworzenia
+palce ci sie powykręcają
+od tych kontroli
+dobrze
+tez palce idzie powykrecac
+wole napisać exit
+XD
+aa, no to ujdzie
+Łukasz się nie odzywa, czyli on klika &quot;x&quot; w windowsie myszką
+no to tak samo w sway te dwie rzeczy
+yup wystarczy wrzucać stare do archive i jest spoko
+nie powiesz mi że w te nwm 5 osób przekroczymy 250 tasków w trakcie XD
+A co jak odpalimy nowy projekt?
+to dalej do przeżycia, powyżej 2 teamów jest problem
+życie jest piękne gdy problemy same się rozwiązują
+12:50 -&gt; do przerwy zostało T - 10 minut.<br>Wezwij Łukasza <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196131/execution/66a8c55850c1317fbcb5c3f6">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196131/execution/66a8c55850c1317fbcb5c3f6</a>
+<a href="https://t.me/lmastalerz">@lmastalerz</a>, wiesz co się rymuje ze słowem &quot;żabka&quot;?<br><strong>RUSZ DUPE DO KUCHNI</strong><br><br>Wezwany przez Cyprian Zdebski<br><br> /| ､<br>(°､ ｡ 7<br> |､  ~ヽ<br> じしf\_,)〳‌‎
+to było szybkie
+Hokus pokus czary mary,<br>Cyprian chuju wpierdalający smary
+guzik jest po to żeby go klikać
+To jaki powinien być?
+12:50 -&gt; do przerwy zostało T - 10 minut.<br><br>Wezwij Łukasza, gdy będziecie wystarczająco blisko kuchni <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196131/execution/xyz">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196131/execution/xyz</a><br><br>              /| _ ╱|、  <br>             ( •̀ㅅ •́  )<br>       ＿ノ ヽ ノ＼＿ <br>    /　<code>/ ⌒Ｙ⌒ Ｙ　 <br> ( 　(三ヽ人　 /　 　|<br>|　ﾉ⌒＼ ￣￣ヽ　 ノ<br>ヽ＿＿＿＞､＿＿／<br>          ｜( 王 ﾉ〈 <br>           /ﾐ</code>ー―彡 <br>          |╰          ╯|   <br>          |       /       |<br>          |      /        |                    <br>          |    /          |
+fuck
+we to popraw xD<br><a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196131/action/157774/edit">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196131/action/157774/edit</a>
+a jak zrobicie <code> ``` ``` </code>?
+Kurwy i śmiecie, z Poznania nie wyjedziecie!
+dobra a co i kiedy?
+12:50 -&gt; do przerwy zostało T - 10 minut.<br><br>Wezwij Łukasza, gdy będziecie wystarczająco blisko kuchni <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196131/execution/xyz">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196131/execution/xyz</a><br><pre>              /| \_ ╱|、  <br>             ( •̀ㅅ •́  )<br>       ＿ノ ヽ ノ＼＿ <br>    /　`/ ⌒Ｙ⌒ Ｙ　 <br> ( 　(三ヽ人　 /　 　|<br>|　ﾉ⌒＼ ￣￣ヽ　 ノ<br>ヽ＿＿＿＞､＿＿／<br>          ｜( 王 ﾉ〈 <br>           /ﾐ`ー―彡 <br>          |╰          ╯|   <br>          |       /       |<br>          |      /        |                    <br>          |    /          |</pre>
+XDDDD
+aj to nie monospace art
+U mnie przerwa może być async
+zależy czy <a href="https://t.me/mJakobsche">@mJakobsche</a> chce znowu później
+ja dzisiaj nocuje w firmie
+ale skocze z wami
+anytime
+do której będziesz tu siedział? xd
+19
+tyle ile mi sprzataczka pozwoli
+xD
+X D
+&quot;proszę mnie nie wyrzucać, zostało mi 26 minut do 8h!!&quot;
+to co teraz idziemy czy puzyniej
+poniedziałkowe spotkania:<br><br>&quot;no ja oddany pracownik, pracuję zawsze do późna, we wtorek to o 19 wyszedłem!&quot;
+:15 ?
+spx
+#2 Break reminder run by <a href="https://eu.buddy.works/variousprojectsworkspace/profile/180471">Cyprian Zdebski</a>
+puzniej
+Buddylang
+było jurz puzyno siedziałam pszy komputeże i sobie grauam
+nie znacie tego?
+żebyś wiedział, powinno się pisać &quot;puzyno&quot;!
+tak jak tu: <code>https://pasty-dla-pg.fandom.com/pl/wiki/Puzno...</code>
+co za głupi url z ...
+xDD
+nie
+To jest spinoff?
+gdybym znał to bym nie żył bo dostałem raka mózgu
+<a href="https://yewtu.be/embed/iG2psVjvoR0">https://yewtu.be/embed/iG2psVjvoR0</a>?
+Blogoslawie ci
+ta, nie chciało mi się oryginału szukać
+pierwszy link z google dałem xD
+klasyka gatunku słuchajcie, kto nie zna, nie idzie na przerwe dopóki sie nie doedukuje
+🖕
+nie musisz przychodzic, nie zmuszam
+Przyjdę, ale czytać nie będę
+to bardzo smótne, ale cusz
+niektórych ludzi do kontaktu z kulturą elitarną  nie zmusisz
+<a href="https://pl.wikipedia.org/wiki/Kultura_elitarna">https://pl.wikipedia.org/wiki/Kultura_elitarna</a>
+niestety............................... odbiera to nadzieję na przyszłość tego narodó
+Spaźniacie się
+Być może
+nie zajmują więcej miejsca, ni ma chuja XD
+jestes biased
+z cyklu &quot;co by zrobił backend gdyby nie istnieli zbawcy z frontu&quot;
+a z listami to jeszcze to jest fajne:<br><a href="https://anytype.io/">https://anytype.io/</a>
+działa tak z 200 razy lepiej od clickupa, ale to wczesna wersja
+a co do samego przesuwania przenoszenia to się klika albo ten status albo jest move, absolutnie bym nie ufał drag and drop z taskami 😆
+Nawiguj po tym
+nikt ci nie kaze
+why would you
+ktoś korzysta z tego widoku?
+to jest jeden z najgorszych kanbanow jakie widzialem (a widzialem wiele)
+❤️
+Rafał pokazywał kiedys to na tym wykladzie
+by ludzi przestraszyć
+XD
+w skrócie -&gt; jebać clickupa
+Zawsze
+co do tego linear <a href="https://t.me/lmastalerz">@lmastalerz</a> domyślnie masz liste btw
+To wiem, widziałem
+no jakby to naprawde jest jeden z najgorszych project management software........
+Najbardziej mnie odrzuca limit
+limity są w twojej głowie
+wyimaginowane
+Uuu
+ale go pocisnąłeś
+Czuję się pociśnięty
+nie mamy scrum mastera który będzie nam dobijał do tego limitu i płakał że nie pracujemy
+Jest mi smutno
+Bo to ja płaczę, że tylko ja coś robię
+usuń z listy &quot;coś robię&quot;:
+1. wot
+2. candy crush
+3. opierdalanie się
+4. poprawianie po Kubie, bo narzekasz, że chujowo kod pisze
+i nagle lista zeroelementowa
+Czemu mam usunąć 4.?
+W sensie na tym opiera się cały mój tydzień pracy
+;-;
+chyba ai napisalo im ten poradnik bo te opcje nie istnieja
+pamiętaj że my chyba mamy clickup enterprise czy cos tego typu
+może być inaczej i np tym steruje workspace admin
+wygląda na to, że jak prześlesz jakiejkolwiek komendzie * to ona wstawi w to miejsce nazwe wszystkich plików
+czyli to bedzie bashowy operator ktory wymaga escapowania
+ciekawa sprawa
+<a href="https://tldp.org/LDP/abs/html/globbingref.html">https://tldp.org/LDP/abs/html/globbingref.html</a>
+<a href="https://sqlite.org/fasterthanfs.html">https://sqlite.org/fasterthanfs.html</a>
+wyniki windowsa w tym są tak smutne że to dramat 😆
+9:20 -&gt; do przerwy zostało T - 10 minut.
+9:30 -&gt; prawdopodobnie QA jeszcze nie przyszło na przerwę. Nie bądź jak QA, miej trochę godności.
+pisalem z michalem a michal mi odpisal
+btw- urlop masz to wypierdalaj się urlopować a nie się teraz będzisz przejmować grafaną :P
+no ma rację
+Tak
+nie
+Tak
+bo to brałeś urlop żeby sobie odpocząć
+Pociągami się zajmij jak ci się nudzi
+rusta się naucz
+albo ziga
+fuj
+flutter nie chce rdzewieć
+?
+fluttera się uczysz?
+Choryś?
+ej, ja się kiedyś uczyłem go
+i teraz umiem
+Tyś pierdolnięty, ale najbardziej w swojej kategorii
+a jeśli tak, to spoko
+Nawet Szymon to zauważył
+to ty zawsze o pipeline&apos;ach przy nim opowiadasz
+i ucieka, bo nie może cię słuchać

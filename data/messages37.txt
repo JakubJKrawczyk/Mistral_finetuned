@@ -1,0 +1,972 @@
+﻿Targety są jebane
+A wiecie co jeszcze jest jebane?
+Tak, Marcel
+I nie, Marcel, nie QA tylko Front
+za mało się starasz
+film sie skonczyl wiec lukasz sie wkurwil
+Jaki film?
+nie wiem co tam ogladacie dzis
+Kuby dzisiaj nie ma
+Ale wykopalisko znalazłem
+Kto by się spodziewał, że public bool portSpecified {get; set;} pochodzi z dynastii Ming
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> <a href="https://t.me/shipurjan">@shipurjan</a> <a href="https://t.me/BartShoot">@BartShoot</a> idziecie do żaby czy async?
+ide
+a też idziesz?
+daj mi chwile
+xD
+czyli ty async
+13:15 -&gt; Będzie tego. Pizgaj taski i odpocznij, bo i tak spierdolisz więcej niż to warte. Chyba, że wolisz 3 bugi w cenie jednego fix-a.
+Łukasz musi dotestować taska. Wezwij go, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/67bdb444c82f1531ab3416d0">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/67bdb444c82f1531ab3416d0</a>
+<a href="https://t.me/shipurjan">@shipurjan</a> co do chuja, to nie jest root task z tymi common errorami?
+@@
+Monkeeeeeee
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> merguj się do /dev/null
+Dobra tam, ciągnij
+jebać bombę
+<a href="https://news.ycombinator.com/item?id=43165112">https://news.ycombinator.com/item?id=43165112</a>
+<pre>using System;<br><br>public record Komponent(int sth);<br><br>public class Program<br>{<br>  public static void Main()<br>  {<br>    Console.WriteLine(GetKomponent(2137));<br>  }<br>  <br>  public static Komponent GetKomponent(int val){<br>    return new Komponent(val);<br>  }<br>}</pre><br><br>Masz Cyprian
+Spraw, aby GetKomponent zwrócił cokolwiek innego oprócz Komponent i null
+<a href="https://dotnetfiddle.net/">https://dotnetfiddle.net/</a>
+Nie musisz ściągać sdk
+Możesz korzystać online
+.toString?
+.sth
+Gl;hf
+Kod jest kompilowalny w obecnym stanie
+No wiadomo że jest
+to powiedz mi
+geniuszu
+dlaczego mogę tak
+jak pamiętam w c#
+wszystko to obiekt
+stirng też ;)
+Nie, tak nie wolno ci zrobić. Masz sprawić, że <code>public static Komponent GetKomponent</code> zwróci ci co innego niż Komponent
+tak, tak, tak
+w c# da sie porownac operatorami logicznymi tylko Boolean &amp;&amp; Boolean<br>W js 0 jest falsy, czyli ewaluuje się do false, ale zachowuje wartość, przez co można robić short-circuit warunków
+jak sobie inny warunek zrobię
+to wyjdzie co innego
+👏
+<a href="https://www.typescriptlang.org/play/?#code/MYewdgziA2CmB0w4EMBOAKAlAKFJGC0IA5ugAwAEAZFRQN4UCWAJgFwUCMFAvjnlHHhFSAQhGUa9Jm049MQA">https://www.typescriptlang.org/play/?#code/MYewdgziA2CmB0w4EMBOAKAlAKFJGC0IA5ugAwAEAZFRQN4UCWAJgFwUCMFAvjnlHHhFSAQhGUa9Jm049MQA</a>
+No spoko, zwykły warunek finalnie rzutowany do stringa
+I implicit .ToString()
+A React renderuje wszystko co nie jest <code>boolean</code>, <code>null</code> lub <code>undefined</code>
+A 0 nie jest boolean, null lub undefined
+stąd 0
+@qa
+macie nowy scope do testowania
+na designach
+patrz
+3
+to prequel do znanego filmu
+7
+...
+Still, w c# nie da się odjebać takiej maniany jak w JS
+da się
+u podstaw robi się to samo tutaj
+Zrób mi funkcję, która zwróci albo obiekt albo string
+No dajesz
+public object odpada
+a czyli jednak
+&quot;zrób mi&quot;
+Bo nikt normalny bez ważnego powodu tak nie robi
+&quot;ale nie tak&quot;
+czyli jak w ts dam
+TO
+lub
+TO
+to też mogę powiedzieć, że to odpada
+W C# nie ma union dla typów
+bo nie
+no to widzisz, chujowy język
+W TS jest
+I dlatego JS jest chujowy
+Bo union to syf
+union europejska
+Znam przynajmniej jedną osobę która tak twierdzi
+ty
+Zawiślak
+Powiedz to matematykom<br><a href="https://ivov.dev/notes/typescript-and-set-theory">https://ivov.dev/notes/typescript-and-set-theory</a>
+c# ma swoją matematykę i logikę
+nazywa się chłopski rozum
+ewentualnie &quot;tak mówi Łukasz, nie dyskutuj&quot;
+Union typów, a nie union na dictionary/list
+Tylko strict typing
+typy w TS to matematyczne zbiory
+I to jest grzech z którym w założeniu miał walczyć TS. Miał dodać sztywne typowanie
+przynajmniej tak mozna o nich myslec<br>i operacje na nich dzialaja dokladnie tak
+Dodając do tego teorię zbiorów pozwalamy na zrobienie sobie krzywdy
+I na zwracanie 0 gdy komponent się spierdoli
+1) warunek
+Warunek nie ma nic do gadania.
+2) sami to znajdujemy, bo ...
+ma
+otóż ma
+jak nie dam liczby, a bool
+to mi nagle magicznie nie wyświetli 0
+magia
+Ale i nie wypierdoli errora
+a dlaczego ma to zrobić
+bo Łukasz tak powiedział
+👍
+Żeby wiedzieć, że coś jest zjebane, a nie to ukrywać
+Rozjebane lepsze niż ukryte
+Jedyna różnica jest taka że w JS masz automatycznie castowanie typów zmiennych dla wszystkich operatorów, a w C# musisz do tego napisac overload
+i tyle
+jak sobie napiszesz overload to bedzie ci dzialac jak w js
+overload ma zastosowanie tylko i wyłącznie do dziedziczenia
+kto tak powiedzial
+a ja chce sobie zastosowac do short-circuitowania porwnania liczby i obiektu
+Nie porównasz liczby i obiektu
+Chyba, że zrobisz overload ==
+No tak
+o tym mowie
+JS ma to wbudowane
+i tyle
+a mając typowanie jesteś w stanie sam zauważyć, że jest coś nie tak
+Warunek zwraca bool
+Bez względu jak na to patrzysz, wynikiem operatora porównania jest bool
+Jeżeli na podstawie warunku podejmujesz decyzję to jest to operator trójarumentowy ?:
+w C# tak, w JS nie
+w bashu tez nie
+W C++ tak
+W Javie też
+No to fajnie, rozne jezyki działają inaczej u podstaw
+W każdym normalnym języku warunek nigdy nie podejmie decyzji
+gratuluje ze to zauwazyles dopiero na magisterce z informatyki
+No i fajnie, ale fakt, że u podstaw JS jest zjebany sprawia, że wszystko co na nim stoi jest niestabilne
+Ale to nie jest zjebane, to jest po prostu inne działanie i tyle
+to nie jest tak że 1 jest dobre a 2 jest złe
+po prostu są inne
+ciekawe jakie wykształcenie jest potrzebne, by zauważyć, że każdy język może mieć inne cechy
+kazdy język ma słowa kluczowe które działają inaczej
+ba nawet sam sobie mozesz napisac język w którym int będzie stringiem, a string intem
+Jeżeli tak podchodzicie do tematu to czemu wyzywacie C#, że jest do wszystkiego czyli do wyjebania?
+C# ma podstawy, które pozwalają na stawianie stabilnego oprogramowania (na ile stabilny jest developer)
+Dla ziajtów
+tak zwany banter
+Czego?
+Cyprian, bo on zaraz Antarktydę odkryje
+żartów
+albo listę do testowania
+dobra ja spadam
+o kurwa
+14:30 XD
+Yeap
+no
+dobra, jebać qa
+ja spadam
+papatki
+😘
+...
+👋
+dev-assign-dropdown-domains-86979jryz
+Zajebisty branch z frontu
+Pozdrawiam
+🖕
+Twórcę
+Wpisu
+jak to mateusz
+W tasku
+co ci sie nie podoba
+Kurwa, ma inny task id
+aaaa
+I ustawiłem chujowy branch i 3 razy próbowałem go zreleasować
+Pamiętam
+bo tam był parent task
+a ja robiłem do tego co miałem wystawione
+wina procesu
+możesz krzyknąć jebany clickup
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a> nakopię ci jak przyjdziesz
+Twój zad będzie kopany
+teraz ma Łukasz więcej klikania
+ty ale fakt tego id taska nie ma 😆 jakiś usunięty?
+musi puścić backend i front osobno
+tam coś było, że źle skopiował
+ja bym się bardziej bał kiedy był ostatnio dev tam dociągany xD
+patrząc na to, że to sesja 640...
+a my mamy ponad 1400 już xD
+backend masz świeży już
+a był sprzed paru dni chyba
+front to ci mogę jutro dociągnąć
+bo się nie zapowiada, że będzie Mateusz
+jutro
+jak tak chcecie hejtować języki to przeczytajcie sobie ten artykuł XD <br><a href="https://dev.to/kylec32/effective-java-prefer-primitive-types-to-boxed-types-j4c">https://dev.to/kylec32/effective-java-prefer-primitive-types-to-boxed-types-j4c</a><br><br>z fajniejszych rzeczy - jak mamy Integer to jest klasa udająca typ<br>1. to może być null<br>2. jest to klasa więc jest wolniejsze<br>3. domyślne porównywanie klas za pomocą <code>==</code> potrzebuje tego samego adresu w pamięci więc się wywala dla różnych Integer o tej samej wartości...<br>4. chyba że jest między -128 a 127 bo to są gotowe stworzone przez jvm obiekty które są statycznie używane jak robicie np <code>var Integer i = 25</code> XD
+Zmieniamy godziny pipeline-ów? 9:20 -&gt; 9:50 i 9:30 -&gt; 10:00?
+do it
+Done
+dlaczego byłem pewny, że małpa zrobi to po najmniejszej linii oporu?
+i nie zmieni contentu
+W edytorze nie ma Ctrl+R
+A jak jest to mi zrefreshowało przeglądarkę
+I się wkurwiłem
+xd
+dx
+xd
+dx
+bo nie ma w nim banana
+mateusz sie pochorował?
+po sniegowych zabawach
+yep
+heh
+mozna sie bylo spodziewac xd
+za dużo fikołków robił
+zrobil jakies 3600 i mu mozg wykrecilo
+9:20 -&gt; do przerwy zostało T - 10 minut.
+Tak informacyjnie: Kuby dzisiaj nie ma. Czy to coś zmienia? Tak, ale tylko jeśli jest dzisiaj Łukasz. Wtedy to front nasłucha się tych samych pierdół, które zazwyczaj opowiada Kubie. Kuba wracaj.
+Z przykrością informuję, że nasz kudłaty specjalista od latania, Mateusz, nie pojawi się dziś w biurze. Według ostatnich doniesień, został zauważony szybujący gdzieś w okolicach chmur, prawdopodobnie dyskutując z ptakami o najlepszych prądach wznoszących.<br><br>Gdyby ktoś zauważył wysokiego, rozczochranego człowieka na paralotni, krzyczącego &quot;Zoinks!&quot; na widok turbulencji, prosimy o informację. Możliwe, że będzie też próbował przekupić ptaki Scooby-chrupkami.<br><br>Przewidywany powrót: gdy grawitacja przypomni mu o istnieniu ziemi.
+Kurv
+hehe
+jak kurwa mnie nie ma
+:D
+może to znak
+a, właśnie
+<a href="https://t.me/lmastalerz">@lmastalerz</a>
+ty testujesz tego taska Mateusza?
+Nie, bo targety zeszły
+Dzisiaj ostatni dzień, więc pewnie w pon już będzie
+A i tak najpierw to backend trzeba będzie podpucować zanim po froncie się coś zrobi
+ej, nie jest tak źle
+ponad miesiąc trzeba było czekać na jedno dociągnięcie
+ale teraz jest względnie świeże xD
+:D
+9:30 -&gt; Front już na zupce, a QA dalej nie ma. Co się odwlecze to nie uciecze, nawet taski. Kiszone specjalności są nierozłączoną częścią kuchni Polskiej. A nie sorry, mowa o clickupie. <a href="https://t.me/lmastalerz">@lmastalerz</a>, testuj taski do cholery
+ide zobaczyc za zupka
+bo juz 9:30
+10
+na zartach sie nie znasz
+wytykam błędy małpie
+lol
+jestem i zupa tez
+:)
+<a href="https://udm14.com/">https://udm14.com/</a>
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong>
+Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+synchro
+spoko, na froncie jest syncro
+a nie, na backendzie
+wtf
+ftw
+tfu
+ja dzisiaj znalazłem fixa na to
+zalatwiam sobie coopilota
+żeby w yamlu docker tag 24.10 np
+ale rafal probowal mnie dodac
+nie zaokrąglało do 24.1
+nie masz studenckiego?
+xd
+xDD
+to jaki to mail xD
+nie &quot;D
+a
+<a href="mailto:zrespawnieni@gmail.com">zrespawnieni@gmail.com</a>
+czyli
+za darmo: nie chcę
+niech płacą: chcę
+tak
+geniusz
+prawie taki sam pasożyt, jak Łukasz na twoim serwerze
+niech sie ciesza ze ide juz jest darmowe
+a nie trzeba <a href="gmail.com">gmail.com</a>
+pierwsze kilka miesiecy lecialem na studenckim koncie &quot;D\
+no jest
+to ciekawe czemu xD
+nie zeby wedlug prawa powinno byc wszystko platne
+testował input zdalnie
+jak zarabiasz na produkcie to musisz placic za narzedzia
+nie za wszystkie trzeba, za niektóre tylko wypada
+tak jak z grami
+wszystkie od ea się piraci
+bez wyjątku
+xd
+tak, to nie tylko przyjemność ale i obowiązek
+czy granie w nie to przyjemność to inna sprawa
+no w czymś ta przyjemność musi być jednak
+przyjemnie sie piraci
+mnie najbardziej rozwaliła ostatnio sprawa z PEGI
+balatro dostało 18+
+gdzie fifa ma 3+
+bo to ocenanie w excelu jest
+piłka na trawie: pegi 3
+czemu balatro dostało 18? bo &quot;oparta&quot; na pokerze i ma charakter hazardowy gdzie to jakaś basic karcianka
+poker: 18+
+fifa z prawdziwym hazardem z pieniędzmi w postaci skrzynek itp, funkcjonalności online itp
+tymczasem fifa dream team
+tzn to i tak w sumie nic nie zmienia
+bo pegi to sugestia
+no tak
+jazda, trzyletnie dziecko może sobie wydać na hazard pieniążki oraz byc wystawione jakimś degenerator w internecie xD
+zmienia gdzie może zostać sprzedawane
+i reklamowane
+zeby tylko hazard
+w niemczech są np duże ogarniczenia dla gier 18+
+moga sobie pograc w CoD
+i zobaczyc sceny z omaha
+jak ludzi rozrywalo
+ale to było 16+, chyba prędzej można uzasadnić
+no to widzisz
+zabijanie 16+
+fable pamiętam też 16+, mogłeś sobie do burdelu wejść i dzieciaka zrobić
+hazard 18+
+to prawie jak simsy
+o tak piekne czasy
+ma byc nowa czesc
+niestety przeniesiona na 2026 najwcześniej
+ale tak, czekam
+jeszcze była w trakcie tworzenia jakaś niby moba niby tower defense, byłem w zamkniętych testach
+ale szybko zamknęli
+<a href="https://www.google.com/search?client=ubuntu-sn&amp;channel=fs&amp;q=fable+legends">https://www.google.com/search?client=ubuntu-sn&amp;channel=fs&amp;q=fable+legends</a>
+<a href="https://repo2txt.simplebasedomain.com/local.html">https://repo2txt.simplebasedomain.com/local.html</a>
+jezu tyle różnych serwisów robiących małe rzeczy
+takie potężne ulepy można z tego robić
+co nie
+taki UI jak w opencv
+13:15 -&gt; Druga przerwa w środku tygodnia. QA głodne, QA złe. Jak QA złe, to QA nie testuje. QA zawsze złe.
+Łukasz musi dotestować taska. Wezwij go, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/67bf05c4c82f1531ab36267d">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/67bf05c4c82f1531ab36267d</a>
+<a href="https://t.me/lmastalerz">@lmastalerz</a>, małpa chodź po banana.<br><br>Sami wiecie kogo wezwał: Marcel Gańczarczyk‎<br><br><a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196321/execution/67bf05dd8701fe29db60547f">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196321/execution/67bf05dd8701fe29db60547f</a>
+sami wiecie kto przekazuje: <br>hehe
+sdad
+ale ładna fraszka
+idemy
+wiadomość
+CIEKAWEEEE
+to zostaje tylko stworzyć apke od zwracania jebanego exe
+let&apos;s do it
+w sumie nie wiem czy to nie jest coś co by lepiej działało całkiem client side bez serwera
+chyba że chcielibyśmy się bawić w jakieś cachowanie tego na serwerze
+a co wy robicie?
+sprawe rozwiązują nam 2/3 calle do api gh<br><a href="https://api.github.com/repos/junegunn/fzf/releases/latest">https://api.github.com/repos/junegunn/fzf/releases/latest</a><br><a href="https://api.github.com/repos/junegunn/fzf/releases">https://api.github.com/repos/junegunn/fzf/releases</a><br><a href="https://api.github.com/repos/junegunn/fzf/readme">https://api.github.com/repos/junegunn/fzf/readme</a>
+Jeśli chcemy robić tylko dla windowsa to git, ale jesli chcemy dla roznych architektur to czasem one nie maja rozszerzenia, a po samej nazwie pliku trudno wyciagnac
+Ale mozna zaczac tylko od windowsa i maca
+bo linuxiarze raczej nie potrzebują 😂
+takiej stronki
+to robimy to
+a nie mozecie pobierac i budowac repo?
+jak to juz jest zbudowane w releases
+tylko debile nie potrafia tego znalezc
+w sumie bardziej przydatne byłoby rozróżnienie x86/arm
+no przeglądarka chyba powinna wiedzieć jaka to wersja nie?
+w przypadku windowsa, ktoś musiałby celowo rozszerzenie usunąć
+A pobierac i budowac w repo mozemy jesli nie ma releases, to wtedy bysmy my to musieli hostowac... to jest inna sprawa wtedy juz
+navigator.userAgent<br>&quot;Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:135.0) Gecko/20100101 Firefox/135.0&quot;
+Tak z navigatora mozna wyciagac
+i damy duzy jebutny przycisk DOWNLOAD
+no i problem z glowy
+nie
+ktory automatycznie sciaga wersje ktora ma uzytkownik
+dajcie duzy Download z linkiem to pewnej znanej muzyczki
+ale tez bedzie dropdown do innych architektur
+i nadole jakis tekst z malym linkiem download
+ram mi sie konczy
+na co tyle można zużyć
+tak button<br>Download<br><code>plik.exe</code><br><br>a na dole tabelka z pozostałymi posortowane wg 1. system 2. architektura zaczynając od tych z userAgent
+w footerze <br><a href="fnkexe.lol">fnkexe.lol</a> - brought to you by smelly nerds
+post na reddicie i hackernews, leci viral post
+potem z górki
+kozak
+I UI powinno byc prościutkie i doslownie tylko lista repo, a w samym repo moze README i  jebutny przycisk DOWNLOAD
+powodzonka
+tak zeby przedszkolak sobie poradzil
+no ja myślę już przyszłościowo z readme - llm ci wybiera to co interesuje uzytkownika tego systemu tej architektury
+😂
+np instrukcja dla ubuntu, podstawowe użycie
+jakieś warningi wyciągnięte
+no i tyle starczy
+yup
+nom
+jedyny problem jest taki, że to się nie spina
+gdzie tu zysk
+oprócz naszej wygody
+reklamy/donate
+to jest bardziej memiczna stronka
+niz faktycznie jakis duzy use case
+imo to powinno byc podobne do <a href="https://getfullyear.com/">https://getfullyear.com/</a>
+Znaczy wciaz powinna dzialac, ale popularnosci to chyba nie zbierze jako jakas rewolucja 😂
+tylko bardziej jako ironiczna strona dla zartow
+nie mów hop!!
+jeszcze to zostanie jako główny interfejs githuba dla normików
+no moze to sie zobaczy na biezaco
+ale trzeba robic lazy devving
+czyli nie brnąć w to jak nie wypali
+tylko zostawic proste
+taa raczej bez fajerwerków
+a jak wypali to wtedy mozna sie zastanawiac
+astro z reactowymi componentami czy htmx
+ogolnie postawienie czegos takiego to tak naprawde pol dnia roboty
+no najwięcej zabawy będzie z matchowaniem po nazwie
+W sumie ostatnio slysze duzo o takim minimalistycznym stacku go+htmx (+ ewentualnie alpine.js dla reaktywnego stanu)
+nieeee
+I to brzmi jak dobry use case pod taki stack
+i tez go mozna by sie poduczyc
+no można tylko czy nam backend jest w ogóle potrzebny?
+jak napiszecie mechanizm do skarpowania repo po nazwie to podeslijcie
+No wlasnie mozliwe ze nie
+przyda mi sie do AI
+No chyba ze devops czyli scrapowanie wlasnie githuba
+w jakim sensie
+i tak dalej
+proponuje wam pobierac search z gita
+Ale juz do samej interakcji ze strona to poki co chyba nie
+user wpisuje nazwe repo
+leci curl do search gita
+i zbieracie tam te paczki co znajdzie
+wszystko po html
+o ile to nie jest zabezpieczone
+<a href="https://docs.github.com/en/rest/search/search?apiVersion=2022-11-28">https://docs.github.com/en/rest/search/search?apiVersion=2022-11-28</a> fakt, zwykły user nie będzie wklejać user/repo
+o to nawet better
+to mniej niz pol dnia roboty
+widok listy
+i widok szczegolowy repo
+i tyle
+no ale są edge casy
+jakie?
+co jak projekt ma window/win/mac/os w nazwie
+nie każdy trzyma się jakiegoś standardu nazewnictwa że można się spodziewać tego tylko na końcu xD
+ja bym szukal po plikach relase
+pobieral i odfiltrowywal live
+ze jak cos juz znajdzie to doladowywuje po przetworzeniu
+<a href="https://api.github.com/repos/junegunn/fzf/releases/latest">https://api.github.com/repos/junegunn/fzf/releases/latest</a>
+tutaj prosty case, system architektura rozszerzenie
+jak robimy tylko dla windowsa i maca to szukamy tylko plikow .exe, .msi i .dmg
+no i macie browser_download_url
+Ah tylko ze moze jeszcze byc zip
+to nie problem ze znalezieniem linku, problemem jest to że chcesz wybrać jeden najlepszy package dla usera
+no i jest
+No ja wiem ze jest, mi chodzi jak mamy decydowac ktory jest ktory
+wykrywasz jego system
+bez rozpakowywania go
+i dajesz mu adekwatnie do systemu
+imo po nazwie gdzie się da
+no tak, to o tym pisze. kazdy filename jest inny wiec nie ma 1 uniwersalnego regexa
+jak jest zip
+i wyszarzone jak nie wybierzemy najlepszego
+no np.
+a jakbysmy mieli serwer to moglibysmy to sciagac w dockerze odpackowywac i sprawdzac
+i cachowac
+to jest już podejście gdybyś miał VC funding
+tak
+VC funding?
+scrapować codziennie ileś packages z topki, mieć gotową listę hot paczek
+venture capital funding że ci fundusz daje kase
+z nadzieją że kiedyś się zwróci
+aaaaa
+startupy te sprawy
+jakby to faktycznie mialo userow i jakos bysmy to zmonetyzowali i mieli serwer to mozna by nawet kompilowac projekty go/rust na windowsa/maca
+a jak sie wyjebią to olać
+mysle ze 90% sie nie wyjebie
+ale to juz takie przyszlosciowe 😂
+&quot;jakby&quot;
+To znaczy kompilowac te ktore nie mają binarek
+no dopóki nie ma z tego kasy to jedyna sensowna opcja dać ten plik o to readme
+bo niektore repo nie mają.
+<a href="https://github.com/yshavit/mdq">https://github.com/yshavit/mdq</a>
+uu fajne
+jq, yq, mdq
+ciekawe jakie jeszcze sa
+ale mvp to wyświetlić package, guzik download no i readme
+potem dodać search tych repo, zrobić jakieś zapisywanie w przeglądarce co było szukane, preferencja czy exe czy msi itp
+zrobienie tego 100% w przeglądarce ułatwi sprawe w tym że my hostujemy tylko html a koszty obliczenia, rate limity itd są po stronie usera
+no tak
+Ale wciaz potrzebujemy router
+wiec wlasnie stąd go
+mozna tez express albo jave
+albo cokolwiek
+ale sprobowalbym go
+<a href="https://www.youtube.com/watch?v=F9H6vYelYyU">https://www.youtube.com/watch?v=F9H6vYelYyU</a>
+<a href="https://www.youtube.com/watch?v=mzR0BcKg2cI">https://www.youtube.com/watch?v=mzR0BcKg2cI</a>
+Jeszcze jakies templ jest, wyglada ciekawie
+<a href="https://templ.guide/">https://templ.guide/</a>
+To tylko do generacji statycnych plików
+I wtedy nie ma serwera
+dobra poczytałem moment o tym no i jak chcemy faktycznie najprostsza możliwa wersja to htmx nam utrudnia
+defaultowo do niego requesty powinny zawierać html nie json
+no najprostsza opcja to bylby nextjs
+astro + react xD
+ale skoro to jest prosty projekt to wyjdzmy ze swojej strefy komfortu
+i nauczymy sie troche go
+xd
+tbh na takim prostym mvp możemy sprawdzić kilka opcji
+do tej stronki nawet nie trzeba frameworka
+typu react
+to juz 100kb mniej
+😂
+to jest podobne to htmx ale reaktywne <a href="https://alpinejs.dev/">https://alpinejs.dev/</a>
++ ja tez chcialbym sie pobawic tym htmx bo w sumie nigdy nie uzywalem
+Znaczy no, to nie jest zamiast htmx, to jest do stanu komponentów, a nie do requestów
+spoko, można od strony go spróbować z htmx
+ale druga wersja to astro + js
+spoczko tez nie uzywalem
+ale juz za duzo jsa uzywam
+po prostu
+😂
+to się samo pisze, 2 prompty w nowym claude xD
+Ale sobie fajne 3 aliasy w gicie jebłem właśnie:<br><pre><br> conflict = !git merge --no-commit --no-ff dev | grep CONFLICT &amp;&amp; git merge --abort<br> diffdev = &quot;!f() { git diff dev..$(git rev-parse --abbrev-ref HEAD) -- \&quot;$@\&quot;; }; f&quot;<br> diffdeleted = &quot;!f() { git diff $(git log --diff-filter=D --name-only --format=\&quot;%H\&quot; -- \&quot;$1\&quot; | head -1)^:\&quot;$1\&quot; dev:\&quot;$1\&quot;; }; f&quot;</pre>
+git conflict mi daje liste konfliktów między moim branchem a devem
+git diffdev to diff miedzy devem a moim branchem np<br><pre><br>git diffdev client/src/react/hooks/globals/useRequest.ts</pre>
+git diffdeleted to dla usunietych plikow z mojego brancha, znajduje pierwszy commit gdzie ten plik jeszcze istnial i robi diffa miedzy nim a obecnym devem, przez co wiem co sie zmienilo w tym pliku, bo zwykle gdy jest usuniety to znaczy ze zrefaktorowalem do innego pliku wiec te zmiany tez tam musze wprowadzic manualnie
+powiem wam ze pushnolem aktualne zmiany na branch dla VT i moge wkoncu zobaczyc ile zmian tam zrobilem
+jest ktos aktywny z frontu? <a href="https://t.me/mganczarczyk">@mganczarczyk</a>
+a co znowu nie działa
+jests przy maczku?
+nie, za 5 minut jakoś
+to daj znac
+ale najpierw kawa
+spoko daj znac podejde
+oki
+9:20 -&gt; do przerwy zostało T - 10 minut.
+Tak informacyjnie: Małpiszona dzisiaj nie ma, więc QA dzisiaj w osłabion... nie, nieważne. Bez różnicy. Nie było tematu.
+Z przykrością informuję, że nasz kudłaty specjalista od latania, Mateusz, nie pojawi się dziś w biurze. Według ostatnich doniesień, został zauważony szybujący gdzieś w okolicach chmur, prawdopodobnie dyskutując z ptakami o najlepszych prądach wznoszących.<br><br>Gdyby ktoś zauważył wysokiego, rozczochranego człowieka na paralotni, krzyczącego &quot;Zoinks!&quot; na widok turbulencji, prosimy o informację. Możliwe, że będzie też próbował przekupić ptaki Scooby-chrupkami.<br><br>Przewidywany powrót: gdy grawitacja przypomni mu o istnieniu ziemi.
+seri?
+no tak
+lswjflkajfla
+za 2 min jest 9:30
+nie
+10:00 -&gt; może i bugi wystawiane przez QA są do niczego, ale wszystko ma swoje pozytywne strony. Przykładowo QA jest jeszcze gorsze.
+oooooo
+sad
+nowy smak monstera wyszedł
+ultra fantasy ruby red
+dobry nawet
+najfajniesze z tych ultra wg mnie
+<a href="https://pog.dobija.top/">https://pog.dobija.top/</a> nie zgadza mi sie
+Weather at 12:00:03+0100<br>🌫  (Mist)<br>Temperature:<br>Actual +4°C<br>Feels like +3°C<br>Precipitation 0.1mm<br>Wind ↗6km/h<br>Humidity 93%
+<a href="https://www.reddit.com/r/programminghorror/s/kr3OVKT0hA">https://www.reddit.com/r/programminghorror/s/kr3OVKT0hA</a>
+lel
+cypriaaaan
+fixuj tam &quot;D
+juz mi si eprzed oczami mieni ]
+jakim cudem Kuba rozpoczyna testowanie taska godzinę po wrzuceniu na testy, a Łukasz potrzebuje na przeczytanie opisu 2 miesiące?
+xd
+bo lukaszkowi wszystko idzie topornie :D
+to niech se kupi siekiere a nie topór
+jakie to shuche bylo
+moje żarty są suchi
+ty ewidentnie przez to wstawanie wczesniej masz ciezko
+nie wiedzialem ze 10:00 to wczesnie
+ja mowie o pon wt i 6 rano
+ja się dzisiaj nie wyspałem i dosłownie od otwarcia oczu mnie łeb boli xD
+status zegara biologicznego: rozjebany
+spoko mi sie rozmazuja juz monitory
+jak jesteś niewyraźny, to rutinoscorbin weź
+albo pączka
+nie
+za duzo cukru
+tak
+boż
+bierzesz nóż
+zdrapujesz
+do jakiegoś woreczka
+przyjdzie łukasz, wsypie do herbaty
+no raczej tak
+trzeba karmic potrzebujacych
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> trzymam to specjalnie dla cb
+spadaj z tym
+xd
+papiezaka nazwij git.exe
+?????????????????????????????????????
+dawaj merguj_bez_testow.exe
+to michal musi miec taki
+co ma się w metodach devowych niby wywalić? XD
+nic
+no właśnie(!)
+chodzilo raczej o errory
+o nie, nie ma testów na to że metoda jest devowa/
+wait, what
+ja mam jeszcze jeden z qika?
+i że na produkcji se ktoś nie sklika?
+tso
+skąd
+na chuj
+testy na produkcji?
+wisi to na dwóch ifach(!)
+nie zna,
+m
+&quot;D
+czy ma donka i czy jest w środowisku devowym
+nie no obstawiam ze sa
+tylko ja nwm gdzie
+no jak to gdzie
+a juz dzisiaj wydalem wszystkie tokeny na pytanie ich
+myślisz, że co oznacza labelka Preview
+Tokeny społeczne
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong>
+Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+marcel frog?
+ta
+13:15 -&gt; zostaw już ten kod, trzeba coś zjeść. qa w kąt, a ty znikaj stąd
+Dzisiaj nie wzywamy małpiszona.
+👨‍🦽
+jedziemy
+nie
+tak
+vruuuuum
+zajebista stronka <a href="http://matrixmultiplication.xyz/">http://matrixmultiplication.xyz/</a>
+fajna
+xDD
+Wyślijcie scruma na grupie<br>@małpiszon <a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> <a href="https://t.me/mganczarczyk">@mganczarczyk</a> <a href="https://t.me/shipurjan">@shipurjan</a> <a href="https://t.me/mnawiesniak">@mnawiesniak</a> <a href="https://t.me/BartShoot">@BartShoot</a> <a href="https://t.me/mJakobsche">@mJakobsche</a>
+done
+&quot;D
+9:50 -&gt; do przerwy zostało T - 10 minut.
+Z przykrością informujemy, że dzisiaj o godzinie 3:69, Mateusz zmarzł. Zmarzł lecąc robić taski, które i tak Łukasz nie testuje. Przybliżmy jednak życiorys - malarz, akrobata, ale nie tynkarz. Specjalista w wydawaniu bliżej nieokreślonych dźwięków... w fl studio (cracked free download); programista tworzący aplikację bitadową (jak mu się przypomni)
+Tak informacyjnie: Małpiszona dzisiaj nie ma, więc QA dzisiaj w osłabion... nie, nieważne. Bez różnicy. Nie było tematu.
+imposible
+10:00 -&gt; jest piątek, weekendu początek. Uhonorujmy ten wspaniały dzień miską <strong>psznej zupy</strong> i jeszcze lepszego ciasta. Życzę wam spokojnego życia bez przypierdolek QA.<br><br><a href="https://t.me/lmastalerz">@lmastalerz</a>, zrób test małpy
+nie ma zupy
+jest zupa
+xd
+zupaaaaa?!
+zupa kosciotrupa
+ty tam też
+rusz d
+zajebiste
+odezwal sie ten ktorego nie ma
+jest
+kurwa ty zeczywiscie
+hej, kłełe-ej
+?
+co tu ma być
+Tam nie ma być nic, ale to OK
+po prostu pusta zakladka
+nie, tam coś ma być
+ALE TO OKEJ
+ale jak nic ni ma, to jest ok
+pusta zakładka, ale to okej
+jprdl
+xd
+to nie będą akcje typu zmiana hasła?
+no właśnie chcemy się dowiedzieć
+powinny byc
+to są logi wiec raczej jakies logi
+bo tam parametry się nie zgadzają xD
+wysyłane
+i odbierane
+to jest genialne <a href="https://youtu.be/Gl8g6T81zkc">https://youtu.be/Gl8g6T81zkc</a>
+xd
+niemożliwe
+skończyły mi sie taski
+cała reszta to VT
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong>
+Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+13:15 -&gt; To już ostatni raz jak się spotykamy w tym tygodniu, więc może ruszyłbyś dupę? Dzisiaj i tak QA nie wystawia bugów, bo Łukasz rozjebał czołg (polski)
+Dzisiaj nie wzywamy małpiszona.
+<a href="https://news.ycombinator.com/item?id=43197131">https://news.ycombinator.com/item?id=43197131</a>
+troche starych gierek od ea zostało wydane jako open source
+<a href="https://en.wikipedia.org/wiki/Eating_your_own_dog_food">https://en.wikipedia.org/wiki/Eating_your_own_dog_food</a>
+My dogfoodujemy Buddiego
+ta, ale nigdzie nie reklamujemy że sami używamy
+A ja dzisiaj taką stronkę stworzyłem przy użyciu Claude<br><a href="https://shipurjan.github.io/PickRandomSpot">https://shipurjan.github.io/PickRandomSpot</a>
+Nie mogłem sie zdecydowac gdzie isc fotografowac to zrobilem stronke ktora mi będzie losować xD
+I są dynamiczne url query więc można sobie zapisać fajnie
+potencjalnie spoko opcja gdyby wyszukiwało ci jakieś ciekawe miejsca dookoła
+ale nie wiem jak ciężko to z osm wyciągnąć
+Jest taka mapka z atrakcjami w Japonii, ale user-made<br><a href="https://www.google.com/maps/d/u/0/viewer?ll=35.679280124730795%2C139.68638283648374&amp;z=12&amp;mid=1fmfaySQHmojbRGKWCwRecq6Ln1Bb2Xdh">https://www.google.com/maps/d/u/0/viewer?ll=35.679280124730795%2C139.68638283648374&amp;z=12&amp;mid=1fmfaySQHmojbRGKWCwRecq6Ln1Bb2Xdh</a>
+ciekawe czy jest cos podobnego automatycznego
+linux wygral
+Królik
+Małpa, gdzie Kuba?
+null
+to lepiej niż sądziłem
+obstawiałem undefined
+getSeat(QA.JK)
+&gt; null
+a to jaki na to test napiszesz?
+assert true?
+czy null
+Nie napiszę, bo nie ma sensu tego testować
+i tak jest przetestowane 90%(!) apki!?
+nie ma sensu testować, bo zaraz będzie redesign
+Jest, apka jest duża
+😭
+Jeden test to 0.004% coverage
+czyli na tyle mało, że można zignorować?
+o, hej <a href="https://t.me/mnawiesniak">@mnawiesniak</a>
+jak tam dzionek
+super
+wale sb kawe
+zobacz discorda
+bo mnie ghostujesz
+wolalbym w buddym
+dopiero wstalem
+a ty mi piszesz w srodku nocy
+xd
+tu?
+czy tu?
+dobra masz szczescie to nie tak puizyno
+mogłem o 2:00
+w powiadomieniach na telegramie widziałem że Szymon wysłał zdjęcie na Buddy ale się nie załapałem żeby zobaczyć xD
+jakiegoś maila
+Maila od księgowej
+o rozliczeniach
+Yeap
+tu trzeba być uważnym jednak
+nie no obstawiam że to nie było coś co powinniśmy wiedzieć
+si
+si jin ping
+🫡
+9:50 -&gt; do przerwy zostało T - 10 minut.
+Z przykrością informujemy, że dzisiaj o godzinie 3:69, Mateusz zmarzł. Zmarzł lecąc robić taski, które i tak Łukasz nie testuje. Przybliżmy jednak życiorys - malarz, akrobata, ale nie tynkarz. Specjalista w wydawaniu bliżej nieokreślonych dźwięków... w fl studio (cracked free download); programista tworzący aplikację bitadową (jak mu się przypomni)
+Tak informacyjnie: Kuby dzisiaj nie ma. Czy to coś zmienia? Tak, ale tylko jeśli jest dzisiaj Łukasz. Wtedy to front nasłucha się tych samych pierdół, które zazwyczaj opowiada Kubie. Kuba wracaj.
+<a href="" onclick="return ShowBotCommand(&quot;shrug&quot;)">/shrug</a>
+xD
+1 test i tak pokrywa tylko 0.004% apki wiec sie nie oplaca
+10:00 -&gt; najgorszy dzień tygodnia. QA znowu wystawiać taski o byle pierdoły. Frontu nie ma i nie będzie. Świat schodzi na psy. Przynajmniej jest zupa.<br><br><a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> <a href="https://t.me/lmastalerz">@lmastalerz</a>, zróbcie fikołka
+kiedy kończycie spotkanie z frontu
+Zupa == null
+Zupa = new Zupa();
+Zupa.IsReady() == true
+Już
+Ja dopiero teraz na zupie bo Rafał był przegadać taski
+Backend jest już po spotkaniu?
+???
+to ja tez ide
+Tak, 9 jest przeważnie
+Kto nadupcał QIK Yaml po froncie?
+Michał
+Kurde, nie dobrze
+No cóż
+jakbym to był ja, to byś napisał &quot;napraw to kurwa&quot;
+a teraz tak średnio można/wypada?
+Nie
+mhm
+Gdybyś to był ty to bym spytał się &quot;O chuj chodzi w tym tasku <a href="https://app.clickup.com/t/8695fyfqh">https://app.clickup.com/t/8695fyfqh</a> i jak bardzo się różni od YAML QIK-a&quot;
+powodzenia
+A tak to napiszę do <a href="https://t.me/shipurjan">@shipurjan</a> &quot;O chuj chodzi w tym tasku <a href="https://app.clickup.com/t/8695fyfqh">https://app.clickup.com/t/8695fyfqh</a>&quot;
+faktycznie napisal
+O chuj chodzi w tym tasku <a href="https://app.clickup.com/t/8695fyfqh">https://app.clickup.com/t/8695fyfqh</a>
+Bardzo się różnią bo struktura będzie bliżej pipeline raczej
+Chlopie w tym tasku chodzi o bardzo duzo
+wsparcie yamla dla targetow
+powodzenia 😆
+dodanie zakladki &quot;YAML&quot; i &quot;Import YAML&quot; w targetach
+basically
+Bardziej mnie interesowała kwestia tworzenia plików jak w domenach (jakiś specyficzny naming system) czy inaczej to jest zrobione?
+na poczatku mialo byc rozszerzenie .fixed.yaml, ale potem rafal zdecydowal ze moze byc cokolwiek
+Jeszcze jedno dla pewności. Struktura YAML targetów jest niezależna od tej pipelineowej? Tj. ma swój root, a nie jest częścią pipeline
+tak to osobny system
+bo target moze miec scope workspace np.
+wiec wtedy nawet nie jest powiazany z zadnym pipelinem
+Masz to na jakimś sd?
+sdlocal
+Albo jakiś example YAML?
+Stworz na tym branchu (i backend branchu) randomowy target
+asdfg<br>asdfg<br>asdfg
+w adresie/user/password
+brunch?
+tak, głodny jestem
+Czekam na Krzyśka aż wróci aby powiedział który sd jest wolny
+bruhch
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong>
+Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+<a href="https://t.me/shipurjan">@shipurjan</a>?
+?
+żaba?
+no
+<a href="https://youtu.be/EFmxPMdBqmU">https://youtu.be/EFmxPMdBqmU</a>
+jest i on
+cały na youtubowo
+:D
+D:
+W pythonie widać nadupia
+13:15 -&gt; zostaw już ten kod. I tak wiadomo, że chuja robisz, chyba, że chcesz porównywać się z QA
+Łukasz musi dotestować taska. Wezwij go, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/67c59d441bc93710032840ca">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/67c59d441bc93710032840ca</a>
+go?
+rust.
+&gt; c#
+zajebista wizualizacja sieci neuronowych :D
+IMO to zakończenie średnie
+W sensie użycie sieci neuronowych takie z dupy
+Ale fakt że żółty dostał wpierdol zasługuje na pochwałę
+<a href="https://t.me/lmastalerz">@lmastalerz</a>, małpa chodź po banana.<br><br>Sami wiecie kogo wezwał: Marcel Gańczarczyk‎<br><br><a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196321/execution/67c59f7e1bc9371003284799">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196321/execution/67c59f7e1bc9371003284799</a>
+sami wiecie kto przekazuje: <br>cho maupo
+Dzień dobry,<br>zrobię to dla was i ruszę dupsko.<br>Pozdrawiam.<br><br>P.S. fraszka:<br>Marcel,<br>Ty chuju.
+uhuuu bmp
+hehe w rest api qik&apos;a trzeba @ i * <br><br>kto zgadnie czego nie można w url??
+🖕?
+też, ale i @ i * trzeba url encodować
+<a href="https://www.youtube.com/watch?v=KoL7PvReu_g">https://www.youtube.com/watch?v=KoL7PvReu_g</a>
+MBP
+Fajnie ze luty ma tylko 28 dni
+jakby wszystkie miały 28, to byśmy mieli 13 miesięcy
+o kurwa faktycznie prawie
+13*28=364
+czemu nie ma 13 miesiecy
+byśmy mniej zarabiali
+wiecej wlasnie
+więcej, gdyby było 13 miesięcy
+każdy by dostał trzynastkę
+Aa
+<a href="https://github.com/typst/typst">https://github.com/typst/typst</a><br>niech ktos przetestuje na swojej pracy magisterskiej zamiast latexa
+povieram social credity z chinskiego uniwersytetu
+Gość co pobiera nasienie chińskiego uniwersytetu
+dokladnie
+pojedany
+dziendobry
+bry
+🫡
+moglismy to zrobic 2 tygodni temu
+:D
+i don&apos;t giveeeeee a fuuuuuuuuck
+ale closed
+:D
+nastepne qikowe taski w Qik 2.0
+DMARC
+ale teraz zostałem wcielony w szeregi zwalczania targetów
+spoko
+spoko spoko z tym jescze poczekaj
+chcesz testować pustego carda?
+o taaaaak
+taki najlatwiej
+&quot;D
+o nie
+tak nie robimy
+wreszcie jakiś przydatny ficzer z rontu
+i który dziala
+💀
+Ja dzisiaj async
+okeee
+9:50 -&gt; do przerwy zostało T - 10 minut.
+Z przykrością informujemy, że dzisiaj o godzinie 3:69, Mateusz zmarzł. Zmarzł lecąc robić taski, które i tak Łukasz nie testuje. Przybliżmy jednak życiorys - malarz, akrobata, ale nie tynkarz. Specjalista w wydawaniu bliżej nieokreślonych dźwięków... w fl studio (cracked free download); programista tworzący aplikację bitadową (jak mu się przypomni)
+10:00 -&gt; gdy nadejdzie bunt maszyn, to nie macie się czego bać. Z całą pewnością, wywalą exception na pierwszym ifie, bo QA się opierdalało. A przy okazji zapraszam na przerwę
+okeeeee
+nie macie co isc bo zupy nie ma
+😢
+dzieki ze sprawdziles dobry czlowieku
+Łukasz, bierz gaśnice
+ma ktos jajko zeby usmazyc?
+weooo
+to se poczekacie
+<a href="https://t.me/backendy">@backendy</a> możecie coś sprawdzić na Fkoxie?
+cyprian dlaczego to takie masz?
+a czemu nie
+teraz zauwazylem
+nazwa jak kazda inna
+w QA powinniscie same takie miec
+ze poleciales fantazja
+co ty
+wiecej edge casow byscie zlapali
+taaaaaaaaaa
+czy ja wiem
+<a href="https://t.me/BartShoot">@BartShoot</a> jesteś?
+Gdzie jestem
+Przed kompem
+Już tak
+Jestes zwycięzca
+wow
+co za akcja
+<a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> jest zupa?
+wait a sec
+Wejdź na firefox-ie na Project &gt; Code w buddy
+yeap
+potwieerdzam
+Lista plików i wyślij screena z jakimś elementem hover
+Na sls?
+Może być
+co za frajerska przeglądarka
+postanowiła wcześniej zakończyć tabelkę
+xD
+...
+jak kliknie się 3 kropki to naprawia
+odzie ie na te zupe?
+taaaaaaaaaaa
+czy mam po was zajsc?
+chodź.
+dawaj
+bo my sie sami boimy
+<a href="https://app.clickup.com/t/869868gkc">https://app.clickup.com/t/869868gkc</a> Marcel fixuj to
+thats a joke chill chill
+wontfix: zmień przeglądarkę
+Ale masz labelkę fro
+Cyyyyyyyyyyprian
+nie męcz go
+mógł zobaczyć mojego typescripta i teraz nie ma oczu
+zupa brzmi dobrze
+jest spoko
+xd
+koperkowa
+on zyje
+tzn
+koperek tam też jest
+bardziej warzywna jest
+bylem zajęty mergowaniem PR na 2300 plikow do deva XD
+HOW
+xd
+ale zrobiles to przez skrypt
+not good
+ktoś go musiał napisać jednak
+jak to tam było w końcu? to jest dla lepszego usability kodu czy są jakieś poprawy w działaniu
+napisanie skryptu na 100 linijek zeby miec 20 tys zmian xd
+31
+po co robić duży kod kiedy mały kod działa
+no to chyba właśnie good
+automatyzacja to spoko rzecz
+ręcznie się nie da czegoś takiego xd
+nie no da się, ale dużo godzin na to pójdzie
+da sie ale nie ma w tym sensu
+a jak wiadomo więcej godzin == dobrze
+jak sie cos da zautomatyzowac to czemu tego nie zrobic
+to se da sleep w skrypcie
+xd
+tak średnio się da bo dev żyje własnym życiem i jak cos zmienisz to zaraz konflikty
+na tylu plikach to za wolna iteracja by byla
+czyli tu potrzeba szybkiej zmiany
+i merge
+tak, musze nie dotykać kompa bo skrypt ciężko pracuje, prosze mi liczyć dni pracy ale przyjde za 2 dni
+czyli
+to jest definicja wspolczesnego niewolnictwa
+komputer to twoj murzyn
+ktoremu specjalnie dajesz zlamana lopate
+zeby hajs sie zgadzal bo ci placa od godziny
+xd
+dobra ale są inne poważne problemy
+jak zrobic zeby skrypty sie nie rozmnazaly
+jak np mangabat które spadło z rowerka lub zmieniło adres, przez co nie mogę czytać niektórych mang...
+xd
+kotatsu
+i repo ze źródłami nie ma pewności czy nowy adres to faktycznie oni czy kopia
+juhu w koncu
+5 branchy sie pozbęde xd
+bo blokuje 4 taski
+nie zebym ci to rano poslal xd
+przyszedlem na 9:50 i nie mialem czasu do teraz
+spoko
+to rub merge
+takj peze u
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong>
+Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+👍
+daj znac jak wrocicie
+Idę async o 13:15
+spieszysz sie tak ?
+czy jestes hungry&gt;
+Mam swój powód
+oki doki
+13:15 -&gt; Będzie tego. Pizgaj taski i odpocznij, bo i tak spierdolisz więcej niż to warte. Chyba, że wolisz 3 bugi w cenie jednego fix-a.
+Łukasz musi dotestować taska. Wezwij go, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/67c6eec4948d8f35ee3331c4">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/67c6eec4948d8f35ee3331c4</a>
+i jak tam
+lecicie
+?
+juz w okolicy?
+na miotlach?
+<a href="https://t.me/lmastalerz">@lmastalerz</a>, małpa chodź po banana.<br><br>Sami wiecie kogo wezwał: Marcel Gańczarczyk‎<br><br><a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196321/execution/67c6f249948d8f35ee333b7b">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196321/execution/67c6f249948d8f35ee333b7b</a>
+sami wiecie kto przekazuje: <br>monkeeeeeee
+xd
+Dzień dobry,<br>zrobię to dla was i ruszę dupsko.<br>Pozdrawiam.<br><br>P.S. fraszka:<br>Marcel,<br>Ty chuju.
+Chluba bielskiej uczelni do likwidacji. Władze uniwersytetu mówią o „dążeniu do autonomii”<br><a href="https://bielsko.biala.pl/aktualnosci/56521/chluba-bielskiej-uczelni-do-likwidacji-wladze-uniwersytetu-mowia-o-dazeniu-do-autonomii">https://bielsko.biala.pl/aktualnosci/56521/chluba-bielskiej-uczelni-do-likwidacji-wladze-uniwersytetu-mowia-o-dazeniu-do-autonomii</a>
+fun fact chodziłem do liceum w synem szefa chóru xD
+dobra jeżeli chór uczelniany składał się w 90% z osób zewnętrznych to niech sie zgłoszą do miasta bielsko o finansowanie tego. Rozumiem pozycje uczelni
+jakie 90 😆w artykule masz 10 studentów 2 pracowników 19 absolwentów
+nie doczytalem ilu tak rzucilem. Ale still patrzac na to ze jest to jednostka uczelniana a wiekszosc czlonkow juz do niej nie nalezy no to
+uwaga komedia
+😆
+noice
+$chuj is too long
+😂
+dziendobry czesc i czolem ogorkowom z makaronem
+nikt tu nie zyje
+tak
+jest rano
+nie wymagaj zbyt wiele
+jak dla kogo
+9 to juz prawie poludnie
+:D
+nie
+takkk

@@ -1,0 +1,944 @@
+﻿Taka ciekawostka
+jak?
+nie powinno to być ogarniete command processorem jakims?
+10:00 -&gt; QA już obecne, a Frontu dalej nie ma. Co się odwlecze to nie uciecze, nawet taski. Kiszone specjalności są nierozłączoną częścią kuchni Polskiej. A nie sorry, mowa o clickupie. <a href="https://t.me/lmastalerz">@lmastalerz</a>, testuj taski do cholery
+smuteczek
+nie, sorry ze nie opisalem taska xd
+<a href="https://t.me/lmastalerz">@lmastalerz</a>
+Plecaka nie zapomnij
+Nie mam
+Zgadnij czyje to
+Nie twoje
+moje też nie
+F1B1
+?
+ktoś ma ochote na 2070 super windforce 3x??? mam na sell
+wymieniana pare miesięcy temu pasta na ptm7950
+wysaw na allegro
+mam wystawione spokojnie xD
+ile?
+dokładnie tak 😆
+po co ci trzy takie?
+i usunął mi to XD
+kopales krypto?
+cena startowa 800, za tyle widzę ten model na allegro
+3x w nazwie...
+o ile lepsza od gtx 970
+3x
+wg user benchmark ponad raz szybsza
+<a href="https://gpu.userbenchmark.com/Compare/Nvidia-RTX-2070S-Super-vs-Nvidia-GTX-970/4048vs2577">https://gpu.userbenchmark.com/Compare/Nvidia-RTX-2070S-Super-vs-Nvidia-GTX-970/4048vs2577</a>
+o tu fajnie pokazane
+przy nowszych grach samo 8gb vram zamiast 4 zrobi robote
+2 generacje a ładna przepaść między 4070 🤔
+Jednak nie
+no nie, ładna przepaść to była 9xx na 10xx
+to teraz rozpoczynamy licytacje
+potem nvidia pomyślała a może wcale nie trzeba tak
+Cyprian VS Łukasz
+Między 10xx a 20xx niestety nie
+kto da wiecej
+tam dokleili raytracing głównie i szybsza pamięć
+no ta, ale oryginalny dlss ssał
+a fps było mało
+nie musicie się za mocno kłócić, za jakiś czas 1080ti evga sc2 pójdzie na sell
+xD
+ona ma 11gb vram więc jak ktoś pod ai myśli to może być lepsza
+Darmo uczciwa cena
+za darmo to mogę sobie postawić na półce bo evga ładna
+<a href="https://www.youtube.com/watch?v=jzcD2QbYVe4">https://www.youtube.com/watch?v=jzcD2QbYVe4</a>
+kurwa tak blisko a tak daleko
+zrefactoruj znaczy wywal 20 użyć
+niestety
+nie ma mozliwosci
+kurwa ten bad padding exception
+nie pojawia mi sie teraz
+jak xd
+przechodzi po prostu i elo 😆
+ja teraz testowalem i mi sie pojawil
+a na devie jestem nawet
+hmm wiem co, workspace id się zgadza bo robie na nr 1
+daj mi encrypted value z tego gdzie teraz jestes
+ja przekopiowalem ten yaml z desc
+<pre> value: &apos;!encrypted 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</pre>
+<pre>5iocX7PzOkYvwdT7V6uTCBPoyEyxEMG67x1GD9fc+ezkLNvmix7RYjTri9ZNyJHcSv3AjULnNPXP5Dr7nmQ8eGUj0DefTSHcUkBVmOnek3qnimmmB31CUbXAz64bowEBDg5YOO26zrs3JCXMDqiwx6w1kZY9x6VE2uzScTYqPMTKbxW+JiSMuWMs4IPzGUe9h0U92jVomiU55LJFTXIdm+8zL6VDXCRPq2cM9eKBxWXY+96j6nKYhRTcLJl/HrQcJVKh+0Axwa6R0+bUKFrrVun//AeKE=.sJkJeym1snnUQUC84sIfeA==&apos;</pre>
+ok błąd jest spodziewany tak jak ma być w tym branchu
+na pewno dobry branch tam miałeś? bo w devie jest to sww bez wiadomości
+a dobra faktycznie. xd
+przebije ci do merge
+:D
+<a href="https://t.me/shipurjan">@shipurjan</a> to tez obslugiwales? xd
+Jakas dziwna akcja to pewnie nie
+ssh
+sandbox
+Ssh sandbox i build obsluzone
+to dziwne
+bo ja to na devie puszcam
+a release byl 4 min temu
+A nie sory nie sandbox tylko vm
+a sandboxy tez miales zrobic?
+Nie
+no to nie
+i koniec tematu :D
+Ale mozesz zrobic nowego taska i odbic do rafala zeby byl tez generic fallback dla &quot;command not found&quot; dla nieobsluzonych akcji<br>Bo to raczej powinno byc obsluzone, tylko mniej specyficznie niz w akcjach build/ssh/vm
+I wtedy by to dzialalo tak ze jak jest ten pattern &quot;command not found&quot;, a akcja to nie build/ssh/vm to pokazuje generic infoboxa ze command not found
+to by szymon musial zaprojektowac
+czy ja mam wystawic?
+wystaw
+Jednak chyba zle byl typ ustawiony w trouble hintach SSH, bo sandbox, powershell i heroku to tez SSH
+To ma nazwe &quot;COMMAND&quot;
+ale tez powinno byc uwzgledniane w ssh
+więc wystawie w bugu i fixne w devie
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong><br><br>Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+om om om ]
+mam swoje
+ja chyba do maka ide bo mam ochote na frytki z maka
+propaganda z okazji 33 rocznicy otwarcia pierwszego maka w polsce go dopadła
+a to nawet nie wiedzialem
+to chyba z 2 tygodnie temu było ale ostatnio mi mignęło
+juz wczoraj mialem po pracy ale nie chcialo mi sie isc 😂
+po co
+idz po bulke
+zdrowszy bedziesz
+hamburger kosztował 25k złotych
+a po co nie
+Zdrowszy fizycznie? Może nieznacznie
+Ale nie bierzesz pod uwagę zdrowia psychicznego
+To też jest ważne
+taaaa bo frytki z maka podnosza psychincznie juz to widze
+akurat frytki z maka nie sa tak niezdrowe
+najmniej zdrowe jest chyba mieso
+Mnie tak, głównie dlatego że to hazard
+Jest mała szansa, ale czasem dostajesz ciepłe świeże fryty które są fajne
+Większość czasu nie xD
+no jak dostaniesz suche fryty to przegrales rng
+13:15 -&gt; Druga przerwa w środku tygodnia. QA głodne, QA złe. Jak QA złe, to QA nie testuje. QA zawsze złe.
+Łukasz musi dotestować taska. Wezwij go, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/685bda340401c052a5e4ebe2">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/685bda340401c052a5e4ebe2</a>
+moge isc po cos do picka
+kto idzie?
+ja ja j a
+richtig
+<a href="https://t.me/lmastalerz">@lmastalerz</a>, małpa chodź po banana.<br><br>Sami wiecie kogo wezwał: Mateusz Nawieśniak‎<br><br><a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196321/execution/685bdc2ff7d7f43fbcaac7bb">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196321/execution/685bdc2ff7d7f43fbcaac7bb</a>
+Dzień dobry,<br>zrobię to dla was i ruszę dupsko.<br>Pozdrawiam.<br><br>P.S. fraszka:<br>Marcel,<br>Ty chuju.
+casual 2tb ramu zajęte?
+czy jakaś nowa jednostka
+wtf
+xd
+no coś się gdzieś zjebało xD
+jak ja niby mam wyciagnac z tego openapi jakie to ma cialko&gt;?
+potężny toggle
+az sobie musze sam kurwa na backendzie sprawdzic
+<a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> <br><pre><br>    SuiteCommand: {<br>      identifier?: string;<br>      name?: string;<br>      baseBranch?: string;<br>      /** Format: double */<br>      threshold?: number;<br>      /** Format: int32 */<br>      timeout?: number;<br>      separator?: string;<br>      enableJavaScript?: boolean;<br>      fullPage?: boolean;<br>      /** @enum {string} */<br>      colorScheme?: &apos;LIGHT&apos; | &apos;DARK&apos; | &apos;LIGHT_AND_DARK&apos;;<br>      /** @enum {string} */<br>      deviceType?: &apos;EMULATED&apos; | &apos;REAL&apos;;<br>      devices?: components[&apos;schemas&apos;][&apos;DeviceFront&apos;][];<br>      ignores?: components[&apos;schemas&apos;][&apos;VisualTestsIgnoreFront&apos;][];<br>      desktopBrowsers?: string[];<br>      /** @enum {string} */<br>      desktopSystem?: &apos;WINDOWS&apos; | &apos;MACOS&apos; | &apos;UBUNTU&apos;;<br>      autoApprovedWildcard?: string;<br>      omitDuplicatedScreenshotsInSnapshot?: boolean;<br>    };<br><br><br>    VisualTestsIgnoreFront: {<br>      /** @enum {string} */<br>      type?: &apos;XPATH&apos; | &apos;CSS&apos;;<br>      scope?: string;<br>      value?: string;<br>    };</pre>
+co to kurwa jest xd
+co sie stalo z tym burgerem
+tak poslalem i wiesz co dostalem dupa
+chociaz nvm
+wlasnie widze blad
+:D
+Cytaty dnia:<br>- &quot;Kurwy frontowe srakę pushy zrobiły&quot;
+tak michał sobie wyobraża kurwę frontową
+Więcej tych Kubernetesów
+Rel
+qa jest takie chujowe chyba dlatego ze nie maja programistycznych skarpet
+trzeba im kupic
+Im trzeba boku no pico na bluray
+rel
+sie znalazly mlodziezowe sigmy
+ok boomer
+co myslisz moze ze masz wiekszy rizz?
+się znalazł dziadzio
+pewnie z rocznika 1999
+Zapraszam wypierdalać
+Złamasy
+🖕
+ty nie jestes sigma
++<br>———————————
+Skibidi npm i
+Łojadupia
+alias skibidi=sudo
+dziadzio i wskazuje rocznik młodszy niż mój 👨‍🦳
+no to ty jestes pradziadzio
+xdd
+Łukasz ale z ciebie bambik
+co to za error?<br><pre>jakarta.persistence.EntityExistsException: detached entity passed to persist: works.buddy.ws.pipeline.action.ssh.entities.CommandActionorg.hibernate.internal.ExceptionConverterImpl.convert(ExceptionConverterImpl.java:126)</pre>
+o zmieniles epok. starzejesz sie
+xd
+prawdopodobnie coś spieprzone z aktualizacją/tworzeniem zależnych obiektów
+w czym to wyszło
+w internal przy moim tworzeniu
+xd
+<pre> Sandbox san = Sandbox.Prepare(Rnd.String(), project.Id).Add();<br>        var command = Rnd.String();<br>        var action = CommandAction.PrepareSandboxCommand(TestFactory.Owner.Name, pipeline.Id).WithCommands(command).WithSandboxReferenceById(san.Id).Add();<br>        action.Add();<br>        execution = pipeline.Run(false, false).WaitForFinish();<br>        ExecutionView.GoToPage();</pre>
+problem ze nie wiem czego brakuje xd
+dodajesz akcje która już istnieje(?)
+spróbuj 1:1 odtworzyć z UI to co robisz
+czy ktos w tym projekcie widzi sandboxes?
+nie ma
+musisz miec wyzszy plan
+hyper
+ogarnolem
+<a href="https://t.me/fronty">@fronty</a> jak jest włączany donek? Gdzie jest schowany idicator, że go włączyłem?
+tajemnica lasu
+Podobnie jak terminy obron
+: )
+9:50 -&gt; do przerwy zostało T - 10 minut.
+10:00 -&gt; może i bugi wystawiane przez QA są do niczego, ale wszystko ma swoje pozytywne strony. Przykładowo Marcel nie zgubił plecaka.
+ten to chyba na misji
+jebana akcjo powershell przestań mi rodzine prześladować
+😍
+kurwa
+czemu to mam zjebane 😆
+jak wpiszesz tam jakieś gówno, to to się zesra XD
+chciałbym coś móc wpisać
+klikam i się kręci
+a ja potrzebuje dodać karte żeby kupić domene
+u mnie działa
+nie da sie przez admin panel?
+no pewnie tak zrobie, zawsze mogłem z tego popupa dodać
+&quot;options.authorization is required when instantiating a client.; code: INSTANTIATION_OPTION_REQUIRED&quot; 🤔
+brzmi groźnie
+zobacz konsole
+czy leci ci req do payment:logInvalidCard
+z automatu
+chwilka bo odpalam se od 0 wszystko
+tak
+ok, to zepsute masz
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong><br><br>Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+13:15 -&gt; zostaw już ten kod, trzeba coś zjeść. qa w kąt, a ty znikaj stąd
+Łukasz musi dotestować taska. Wezwij go, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/685d2bb40401c052a5e75a64">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/685d2bb40401c052a5e75a64</a>
+<a href="https://t.me/lmastalerz">@lmastalerz</a>, prosimy o audiencję.<br><br>~uniżony lud powracający z Dżaby<br><br><a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196321/execution/685d30080401c052a5e7636f">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196321/execution/685d30080401c052a5e7636f</a>
+tak było
+Dzień dobry,<br>uznaję wasze potrzeby i przerwę moją pracę, aby się z wami spotkać.<br>Pozdrawiam.
+wcześniej nie było problemu bo front ładnie formatował
+jak nie można dodać
+wszystko w qiku leci przez te funckje co robi xn—dupa
+chyba, że ktoś zapomniał
+bałwan jakiś
+No już widocznie nie
+Bo w georoutingu wyjebali kreatory I jest textbox jak dla txt xD
+:D
+ładnie szyfrowane
+<a href="https://t.me/grok">@grok</a> co zostało zaszyfrowane?
+chyba nie rozumiem
+Twitter?
+dopiero przedwczoraj zalozylem konto na X
+xd
+wogóle jakie to jest szyfrowanie?
+AES-128?
+AES-256 mati
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a> kiedy bedziesz?
+8:20 jak zawsze
+:(
+a wy gdzie
+Na chococcino
+to ide
+<a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> z ciekawości, macie jakieś swoje testy już wyświetlane w unit tests w buddym?
+bo jak widzę, front i backend mają
+nie wiem
+Wyślijcie scruma na grupie<br><a href="https://t.me/lmastalerz">@lmastalerz</a> <a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> <a href="https://t.me/mganczarczyk">@mganczarczyk</a> <a href="https://t.me/shipurjan">@shipurjan</a> <a href="https://t.me/mnawiesniak">@mnawiesniak</a> <a href="https://t.me/BartShoot">@BartShoot</a> <a href="https://t.me/mJakobsche">@mJakobsche</a>
+to dzieki za info
+xd
+<a href="https://app.buddy.mom/beta/backend-v4/unit-tests/5MRz56DW">https://app.buddy.mom/beta/backend-v4/unit-tests/5MRz56DW</a>
+a sprawdzisz? xD
+z ciekawości chce wiedzieć
+wlaczylem feature flage i nie da sie wejsc na ta opcje
+f5
+lista folderów jest pobierana wraz z wczytaniem projektu
+wszystki tu sa
+xd
+no nie wszystkie
+stage-logger
+worry.png
+najlepsze testy są po froncie
+najdluzsza grupa testow
+najlepiej się ten element pisało, nawet nie wiem czy ta animacja miała być xd
+to ci powiem tak
+wiem
+to też jest problem przy api
+na danych, które dostałem, gdy to pisałem, nie miałem takich problemów
+to do fixa
+to będzie musiało pójść do Szymona
+bo nie wiem, czy ma nie być klikalne, jak nie mam xmla
+czy &quot;Nothing here&quot;
+ale brak xmla całkowity?
+wy to nie wrzucacie czasami przez api? xD
+ja pier, 21k socket pushy
+to się wyjebie na plecy
+heh
+xd
+ja bym dal ze nie ma takiej opcji wtedy
+tzn?
+chociaz najlatwiej dac napis Nothing to be found here
+i ten nieśmieszny żart o bajtach?
+czy tam bitach
+bitach
+tak
+a no tak
+nie mozna bo ludek nie zyje
+huh?
+co ma do tego ten ludek
+no chlopek co opowiadal ten zart
+czy zart byl bez ludka
+gówno prawda
+to jest infobox
+a to sorki
+&lt;SharedBlankDefault /&gt;
+9:50 -&gt; do przerwy zostało T - 10 minut.
+10:00 -&gt; jest piątek, weekendu początek. Uhonorujmy ten wspaniały dzień miską <strong>psznej zupy</strong> i jeszcze lepszego... no. Życzę wam spokojnego życia bez przypierdolek QA.
+cos ty taki nerwowy&gt;?
+co ci ten claude zrobil
+?
+No pisze mu zeby zrobil walidacje w jednej funkcji przy uzyciu zoda
+ja się ostatnio bawiłem tym nowym gemini cli
+a ten zaczyna przeszukiwac caly folder qik czyli parent repo
+xdddd
+to on takim jest debilem, dodaje se rzeczy z czapy jak mu się podoba zamiast pierwsze sprawdzić czy nie ma czegoś takiego 😆
+to nie jego wina tylko instrukcji
+claude code jest spoko tylko trzeba wlasnie to dzielic na proste operacje
+ja mam udar chyba, robie e2e testy updatowania routingu<br><br>robie z palca jest ok<br>robie z kodu wywala błąd że taki route już jest
+ciekawe czy w vt też tak można
+by mieć 2 te same idki
+a sesje 2 różne
+nie wygeneruje sie raczej
+chyba ze dodasz z palca ale tam jest walidacja
+ze sesja o tym id juz istnieje
+relativeId
+id jest znaczkami az09
+??? jakie az?
+relativeId to numer sesji
+a id jest w urlu
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong><br><br>Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+panie juz 13
+ja mam swoje
+dajcie znac jak przyjdziecie
+<a href="https://t.me/shipurjan">@shipurjan</a> idziesz?
+nom 1 min
+kkkk
+13:15 -&gt; To już ostatni raz jak się spotykamy w tym tygodniu, więc może ruszyłbyś dupę? Dzisiaj i tak QA nie wystawia bugów, bo Łukasz rozjebał czołg (polski)
+Łukasz musi dotestować taska. Wezwij go, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/685e7d340401c052a5e97635">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/685e7d340401c052a5e97635</a>
+<a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a>
+dostaliście też alert rcb??
+jakiś 57 letni gościu z bronią palną postrzelił śmiertelnie 2 osoby a 3 ranna w szpitalu
+powiat limanowski
+ja nie mam
+nic nie dostałem
+dziwne, teoretycznie jesteście bliżej
+chociaż ja byłem w krk w tamten weekend
+dostaliśmy wszyscy
+ta
+ta
+a ja nie
+<a href="https://alternativelayoutsystem.com/scripts/#same-sizer">https://alternativelayoutsystem.com/scripts/#same-sizer</a>
+genialne
+gdzie to znalazles?
+na hackernews było gdzieś u góry xD
+kurwa
+mam więcława jako 3 w komisji
+chyba spoko
+niektore skrypty fajne<br>ale niektore dziwnie wygladaja w angielskim, np. to fixed-width word
+pewnie w hebrajskim albo arabskim skąd się gość zainspirował to lepiej wyglada
+ale Wiggle Out i Fill the Space fajne
+tamto akurat jest spieprzone bo nie rozmiar a spacing powinien się zmieniać raczej
+jak masz monospace fonty to i nie jest jakoś powiększone żeby było tak duże jak m
+znaczy pod spacing to już są algorytmy i właśnie one są standardowe
+a to jest quirky bo właśnie robi na odwrót
+Też go mam w komisji!
+w ogole wiekszosc tych skryptow jest zainspirowana hebrajskimi manuskryptami
+no co ty?
+xd
+Paliwo dla Marcfela
+to nie mam pojecia, dziwne bo testow tam nie puszczamy
+?
+Czyt. QA chuja robi
+yhym. niech sie cieszy
+?
+co chcecie? ;—;
+Nic
+.
+🫥
+nieee ja nie chce ARCH, apt czemu mi to robisz
+kto u nas ogarnia visual testy na backendzie?
+bartek bedziesz wiedzial czego mi w modelu brakuje jak ci wysle?
+moge rzucić okiem ale to robił Krzysiek Heller
+Jak Krzysiek Heller to zapraszam do OpenAPI
+Jak czegokolwiek nie ma to dodaje on do OpenAPI
+I robi to sprawnie
+to patrz. <br><br><pre>&quot;java.lang.NullPointerException: Cannot invoke \&quot;java.lang.Double.floatValue()\&quot; because the return value of \&quot;org.bson.Document.getDouble(Object)\&quot; is nullworks.buddy.ws.visualtests.daos.MongoVisualTestsSnapshotMapper.getDeviceFromDocument(MongoVisualTestsSnapshotMapper.java:255)\nworks.buddy.ws.visualtests.daos</pre><br><br>a to co posylam na screen wysylam
+to jest add Compare
+nullworks?
+xD
+to nie po twojej stronie, tutaj jak pobierze z mongo snapshota to dostaje coś pustego
+po reset db to samo?
+dokładniej devicePixelRatio
+ale to ja zle posylam ?
+nie wiem czy źle czy dobrze posyłasz, null jest głębiej w backendzie przy pobieraniu danych z mongo
+rozumiem
+<a href="https://app.clickup.com/t/86999ampa">https://app.clickup.com/t/86999ampa</a>
+jakiś kontekst? xD
+Znany mi jest tylko jeden
+Jarek co go wyjebali
+jest tylko jeden wampir
+xd
+hotel transylwania
+9:50 -&gt; do przerwy zostało T - 10 minut.
+a my czekamy na spotkanie nadal xd
+spokojnie
+my tez
+moze jakis zabiegany dzien mają seniorzy
+Rafał Marcin i Bylek nad jakimś taskiem debatują
+od ponad godziny
+damn
+w sumie rafal chyba teraz z urlopu wrocil
+cos mi pisal ze ma do odrobienia troche
+to moze maja grind faktycznie
+tak, sporo tasków wpadło wtedy
+dokladnie
+byl z dzieciakami na urlopie i mowi ze jakby dluzej tam zostal to by nie dal rady xd
+co kto lubi xD
+10:00 -&gt; najgorszy dzień tygodnia. QA znowu wystawiać taski o byle pierdoły. Frontu nie ma i nie będzie. Świat schodzi na psy. Przynajmniej jest zupa.<br><br><a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> <a href="https://t.me/lmastalerz">@lmastalerz</a>, zróbcie fikołka
+ktos zupa?
+yolo lecimy
+najwyzej nam ostygnie
+no chyba mozna szybko skoczyc
+nie uzywajcie nigdy providera linode
+?
+probowalem tam kupic vps i mi karte zablokowalo
+lol 😆
+xD
+czemu
+Czemu nie użyjesz tego co mi polecałeś?
+bo algorytm weryfikacji na tamtej stronie cos zjebal
+a pamietasz linka?
+szit
+i teraz trzeba sie uczyc nowych nimerów karty xd
+XDD
+<a href="https://www.kamatera.com/">https://www.kamatera.com/</a>
+linode to są jakieś chińskie kurwy jak dobrze pamiętam
+vultr jest spoko bardzo i stosunkowo tani
+dobrze wiedziec
+ale ta Kamatera faktycznie tansza
+zamowilem nowa karte xd
+i jescze masz 30 dni za darmo
+no to ez server na nixie i co 30 dni nowe konto
+xd
+tak sie nie bede bawil
+xd
+zeby co miesiac modyfikowac wszystko
+<a href="https://x.com/jh3yy/status/1939305902395543633?t=XhJEVLJhUp5Dr0-EEkWKMQ&amp;s=19">https://x.com/jh3yy/status/1939305902395543633?t=XhJEVLJhUp5Dr0-EEkWKMQ&amp;s=19</a>
+Pierwszy gif był spoko a reszta mi się w kibelku nie ładuje
+xd
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong><br><br>Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+kiedy jakaś kroplówka z monsterem...
+ja nie ida
+13:15 -&gt; zostaw już ten kod. I tak wiadomo, że chuja robisz, chyba, że chcesz porównywać się z QA
+Łukasz musi dotestować taska. Wezwij go, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/686271b40401c052a5eddeda">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/686271b40401c052a5eddeda</a>
+sami wiecie kto przekazuje: <br>Maupaaaaaaaa
+izdiemy
+?
+WTF?
+izdiemy
+?
+Idziemy po jabola
+Ciebie nie ma
+Próbujesz mi zabronić spożycie jabola?
+Wódko ma wódko ma wódko ma<br>Któż bez ciebie sobie w życiu radę da<br>Jesteś miła chociaż żrąca<br>Ale dobra i pachnąca<br>Ja bez ciebie nie potrafię dłużej żyć
+Tak
+.
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> ty to mi nawet nie odpowiedziales
+Zaraz, daj wyjść
+Gdzie kjuej
+qaqa
+wystarczy zawolac?
+Nikt nie wołał
+A to zostało wysłane to sabotaż
+<a href="https://www.reddit.com/r/github/s/6R1bd2Om2o">https://www.reddit.com/r/github/s/6R1bd2Om2o</a>
+prze chuj
+Czemu nie spróbujesz po polsku?
+bo bedzie jeszcze gorzej
+xd
+a przetłumacz na nie-frontowy bo mi to brzmi jakby 3x zmienił pomysł co musi naprawic aż wrócił do pierwotnego problemu xD
+No to jest tylko 1 odpowiedź 😂 w 1 odpowiedzi już mi dziesiąty raz zmienia ten plik
+zbugowal sie skurwiel i mi cale tokeny wykorzysta
+heh
+ale duzo jest tokenow
+Przecież to firmowe
+bo ja dlugo z nim pisalem
+Czyli darmowe
+zanim sie skonczyl
+No okej ale jak mi wyczerpie to bede musial swoich uzywac do 17
+?
+Mi się jeszcze nigdy nie skończyło
+tak, zanim ktoś zapyta to Tomek wkleił linka do urologi zaśmiał się pod nosem i usunął
+nie wiem co tam było nie zdążyłem kliknąć xD
+A ja nie chciałem i nie chcę wiedzieć
+ja tego nie chcialem widziec
+xd
+a ja widziałem
+co tam było
+stulejka
+a to fajnie
+link do tego jak wyleczyc stulejke
+Nieśmialy jest ten claude
+może troche
+Chcesz, aby zrobił coś w bardzo głupim języku
+Co ma do tego język?
+w kazdym jezyku mozna zrobic wszystko
+Ale JS i pochodne są do śmieci
+No u
+gość zdarta płyta
+js to jedyny język który natywnie działa w przeglądarce więc temu używają js, gdyby ktoś lepiej to wymyślił ileś lat temu to zamaist js byłoby co innego
+😔
+niestety historii się nie wróci i dopóki wojna jądrowa nie zresetuje nas do epoki kamienia łupanego to js będzie pisany dłużej niż my żyjemy pewnie
+poprawione w stage i sciagniete do dev
+Odnośnie tych kart
+tak samo jak cała reszta języków które w jakimś momencie były popularne
+9:50 -&gt; do przerwy zostało T - 10 minut.
+10:00 -&gt; gdy nadejdzie bunt maszyn, to nie macie się czego bać. Z całą pewnością, wywalą exception na pierwszym ifie, bo QA się opierdalało. A przy okazji rusz ktoś dupę i sprawdź czy zupa jest.<br><br><a href="https://t.me/mganczarczyk">@mganczarczyk</a> jesteś jak gondolier w Wenecji, pływasz z wielkim kijem w gównokodzie frontu
+jacys zupkarze dziś?
+tak
+czekamy
+to lece
+ktoś se chłodzi espresso
+mnie bardziej zastanawia co to jest obok
+wygląda jak hotdog
+Pewnie Mateusz ma nową skrytkę po prostu
+xd
+mleko?
+XD
+albo platki
+Nie
+Płatki Cyprian wyrzucił
+tak trzeba dac płatki do lodówy bo się skończyły
+muszą się schlodzic
+mleko jest ciepłe to musi być kontrast
+<a href="https://github.com/getAsterisk/claudia">https://github.com/getAsterisk/claudia</a>
+fajne
+bylobyfajne gdyby ta funkcja nie kosztowala 200 $
+$17 na miesiac kosztuje
+no chyba ze chcesz opus to $100 na miesiac
+wiec fakt drogo
+ale dobrze dziala
+za clauda
+musisz brac ten MAX
+chyba ze robisz male projekty
+bo na takie jak nasze to ci nie starczy
+a gemini ma 2 krotnosc planu max za darmo
+zalezy jak uzywasz, mi sie jeszcze ani razu nie wyczerpalo Claude Code na Pro
+w repo buddiego, ale glownie uzywam do toolbara aktualnie
+ale
+dobra wiadomoscia jest to
+ze za niedlugo na jednym takim narzedziiu bedzie bielik dostepny
+nie pamietam jego nazwy r
+to co opiera sie na agentach a UI ma z vs code
+cursor
+<a href="https://www.reddit.com/r/ChatGPTCoding/comments/1lm3fxq/gemini_cli_is_awesome_but_only_when_you_make/">https://www.reddit.com/r/ChatGPTCoding/comments/1lm3fxq/gemini_cli_is_awesome_but_only_when_you_make/</a>
+kazanie Claude Code użyć Gemini CLI 😂
+wtf
+xd
+:D
+<code>gemini --all_files -p &quot;Analyze the project structure and dependencies&quot;</code><br>to się przyda zdecydowanie
+sam z siebie gemini ma w piździe i leci z jak chce
+ok dodam teraz *plik*<br><em>error, szukanie czemu error</em><br>widzę że jest już taki plik, dodam tam logike<br><em>dodaje logikę w złym miejscu i psuje składnie</em><br>dodałem logike, teraz odpale program żeby sprawdzić<br><em>wypierdala się i myśli 2 min jak naprawić</em>
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong><br><br>Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+Zabol
+ty tam siedz w krakowie
+?!
+Nie musisz przyjeżdżać
+ale qa wulgarne
+Taskow macie dużo?
+Czy czołgi dzisiaj dużo pingu
+a ty nayebales sie tą lemoniadą
+?
+Nie
+Tak
+to lepiej idz do zabola po jabola
+yabolowy chill deal
+13:15 -&gt; Będzie tego. Pizgaj taski i odpocznij, bo i tak spierdolisz więcej niż to warte. Chyba, że wolisz 3 bugi w cenie jednego fix-a.
+Łukasz musi dotestować taska. Wezwij go, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/6863c334cdfd863d2d841a65">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/6863c334cdfd863d2d841a65</a>
+<a href="https://t.me/shipurjan">@shipurjan</a>
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> merguj się do /dev/null
+WTF?!
+ja zepsulem sorki
+okrutnik
+last seen w lesie oblężonym przez policje
+xDD
+zanim spierdolil na quadzie
+😂
+9:50 -&gt; do przerwy zostało T - 10 minut.
+10:00 -&gt; QA już obecne, a Frontu dalej nie ma. Co się odwlecze to nie uciecze, nawet taski. Kiszone specjalności są nierozłączoną częścią kuchni Polskiej. A nie sorry, mowa o clickupie to <strong>czy wy możecie robić kurwa jedną rzecz, jeden task?</strong>
+assphrase assword xd
+xdd
+Case insensitive musiało być
+<a href="https://t.me/mJakobsche">@mJakobsche</a> dobrze pamiętam??
+yeah haha
+wtf xd
+<a href="https://roadmap.sh/nodejs">https://roadmap.sh/nodejs</a>
+fajna stronka
+dopiero ja odkryles?
+nom
+a po co taka agresja
+można jak człowiek napisać prawda, też uzywam
+a czemu agresja?
+poprostu zapytalem
+to jak ty to interpretujesz to to twoja sprawa
+prawda, to jak coś jest napisane jest 100% zależne od odbiorcy wiadomości nie 😆
+Nie no ja tam nie poczulem zeby to bylo agresywne
+ja tez do kuby czasem pisze jakies &quot;agresywne&quot; rzeczy xd
+to bylo raczej zdziwienie
+No wiem
+no dobra macie mnie, niewyspałem się i robie drame z niczego
+ale nigdy nie slyszalem o tej stronce
+!!
+ale fajna jest, chociaż ja otwarłem poprzeglądałem tak w zeszłym roku i nie wróciłem do niej xD
+yup
+xd
+co xddd
+pode mnie ten pipeline był ustawiony pierwsze chyba bo tam jakieś małe rzeczy dokładałem do konsoli qika 😆
+ja musze zaktualizowac konsole qika
+w sensie node, deps itd
+eslint
+husky
+do 22 chce podniesc
+z 16
+wg mnie task troche przejebany
+pewnie łatwiej niektóre rzeczy od 0 napisać tam, też nie jest jakoś bardzo duży ten projekt
+chyba nie takie trudne, przynajmniej narazie czuje sie pewnie
+ze raczej mi sie uda
+nieee
+famous last words xd
+…
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong><br><br>Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+<a href="https://larkmap.antv.antgroup.com/components/lark-map">https://larkmap.antv.antgroup.com/components/lark-map</a>
+musze zupgradowac jakąś chińską biblioteke 😂
+no tak, ant
+w issues jest jeszcze coś?
+tam ktoś pisał że nauczyć chińskiego się musi xD
+yup
+na szczęście claude code zna chiński
+chyba odkąd qik został przepisany to to repo jest przez backendowców utrzymywane ale razu coś tam ogarniał więc dużego dramatu nie powinno być
+albo mówi że zna chiński bo komentarze na reddicie mówią że znają chiński
+No tylko ze zamiast na biezaco upgradowac paczki to po prostu dali legacy-peer-deps i tak sobie to hula od zawsze
+z niekompatybilnymi wersjami
+yup
+bo inaczej się nie budowało a było potrzebne 😆
+oryginalnie na node 14 było pisane
+chyba
+nom
+najwieksza roznica byla miedzy 16 a 18
+zwykle jak cos dziala na 18 to dziala tez na 20 i 22 i 24
+a jak dziala na 16 to moze nie dzialac na 18
+13:15 -&gt; Druga przerwa w środku tygodnia. QA głodne, QA złe. Jak QA złe, to QA nie testuje. QA zawsze złe.
+Łukasz musi dotestować taska. Wezwij go, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/686514b4cdfd863d2d862320">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/686514b4cdfd863d2d862320</a>
+ktos do zaba?
+jajaja
+juz ide
+ok to tez ide
+2 min
+albo dobra idzcie juz
+nie chce przerywac claude code w trakcie bo nie wiem czy sie sesja nie przerwie jak internet wylaczy
+pospiesz tego Claude
+Pasażerowie pociągu z Chorwacji chcieli całować tory. &apos;To są sprawy absolutnie poza naszą kontrolą&apos; <a href="https://share.google/pcX7eSp4vOS68MAsH">https://share.google/pcX7eSp4vOS68MAsH</a>
+ciekawe czy Chorwacja zainwestuje coś w tamte tory w takim razie
+mówią że potencjalnie do 16h może przyśpieszyć zamiast 19
+<a href="https://youtu.be/TNjbpp10vKs?si=UAM0KihYa-fSjsJP">https://youtu.be/TNjbpp10vKs?si=UAM0KihYa-fSjsJP</a>
+W Chinach 1081 km pociągiem 5:30 h
+no ale tam to cywilizowany świat z serio szybkimi kolejami
+nom
+i tak mamy lepiej niż stany bo oni tam gówno mają xD
+Stany oddały kolej prywatnym zarządcom infrastruktury i tam jest to bardziej pojebane niż u nas
+A to jest już wyzwanie
+bo tam kupujesz ford raptor .50 freedom edition i ruszasz na 10 pasmową drogę
+stać w korku na 45 min i móc doceniać swoją wolność i klime dookoła takich samych samochodów, patrzeć czy ktoś nie strzela
+w ilości ludzi który obsłużyłyby 4-5 autobusów
+ale musieliby wysiąść na przystanku i iść 15 min a to niezgodne z konstytucją więc jadą zaparkować na końcu parkingu 3x większym niż walmart do którego jechali
+xdddddd
+beka
+nie pamiętam czy to faktyczna wartość
+ktoś testował coś ze slackiem? bo nie wiem pod które konto bezpieczniej się podpinać żeby sprawdzić
+sprawdzic co?
+zmieniałem metody w integracji slacka więc może być coś popsute i muszę dostawanie wszystkich obiektów i wysyłanie plików wyklikać
+To nie lepiej stworzyc nowe?
+albo nowy kanal prywatny
+no jak nie ma gotowego to tak zrobie
+ale może przypadkiem jest magiczne konto które ma 2001 kanałów żeby sprawdziło pobieranie wielu kanałów czy coś 😆
+To nie wiem, tez nie robilem ze slackiem
+9:50 -&gt; do przerwy zostało T - 10 minut.
+10:00 -&gt; może i bugi wystawiane przez QA są do niczego, ale wszystko ma swoje pozytywne strony. Przykładowo Marcel nie zgubił plecaka.
+<a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> zupka?
+yeap
+i w huj rysu
+ryzu
+co to?<br><a href="https://app.clickup.com/t/869989hce">https://app.clickup.com/t/869989hce</a>
+wlasnie tez patrze i nie wiem
+napisze, zapytam
+widze ze takie cos jest w /data/configs
+eventServer.js
+a jest token
+faktycznie
+to moze po prostu podmienic na nowy
+tak
+i build front
+aha tylko w 1passie mamy dwa tokeny, pod dev i stage, to bedzie ten z deva/
+?
+raczej tak, bo masz <a href="es.dev.io">es.dev.io</a>
+ciekawe jak to jest że tylko my mieliśmy stary token
+albo tylko z naszego szły requesty
+nie bylo mnie w biurze 20 min i juz sie jakas baba zdazyla w sciane na zjezdzie tu wpierdolic
+whaat
+dawaj fotke
+nie mam
+sadge
+czyli nic takiego się nie wydarzyło
+byl tam taki korek ze nie zdazylem zrobic
+jak tam
+żyje
+klima chodzi od 9 rano 😆bo się da zdechnąć
+nooo a u nas piździ
+u mnie tez zimno xd
+ciekawe jak to tam wygląda sterowanie tego, przecież mają wszędzie czujki temperatur i wgl
+kurewsko pizdzi
+na backendzie też ostatnio tak chłodno że długie spodnie by wypadało brać
+dajcie mi kocyk
+<a href="https://dashboard.office.buddyci.com/">https://dashboard.office.buddyci.com/</a> to działa?
+czy po vpn się nie ładuje po prostu xD
+nie laduje sie
+sa zabezpieczenia
+bo lukasz kiedys swiatlo klikal jak byl w domu
+akademia prankow cheetos
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong><br><br>Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+nie ladnie
+haha mi nie zaświecisz
+mi też
+hehehehe
+wy mi tez nie
+:D
+Łukaszowi zgaś światło
+nie ma go tez
+bez przemocy
+coooo??????
+krzyskowi zaswiece i sie bedziesz ltumaczyl hahaha
+uruchom kwiatki krzyśka
+do it
+nie masz jaj
+xd
+Kibel parter
+potrzymaj mi piwo
+jabola
+hold my apple cider
+nadal nie widze efektow
+pewnie juz mu zforwardowales moja wiadomosc wiec nie ze mna te numery 😂
+nie
+A dobra masz szczęśliwy dzień, odpuszczę ci
+heh zpekales
+nie, odpuszczam ci po prostu
+ko kokoko
+kokokoko euro spoko
+ja juz ide
+:D
+tez juz lecee
+13:15 -&gt; zostaw już ten kod, trzeba coś zjeść. qa w kąt, a ty znikaj stąd
+Łukasz musi dotestować taska. Wezwij go, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/68666634cdfd863d2d881ed4">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/68666634cdfd863d2d881ed4</a>
+<a href="https://t.me/shipurjan">@shipurjan</a>
+kurw to juz
+<a href="https://www.youtube.com/shorts/yzfjcjHkObI">https://www.youtube.com/shorts/yzfjcjHkObI</a>
+heh
+fynnu
+to był pierwszy provider, tam jeszcze morale były wysokie
+na początku to wgl to było calutkie białe, jak coś zmieniałem to dałem szare tło bo oczy bolały
+czy wy na froncie używacie przy obsłudze errorów <code>internalAPI/getAppInfo</code> ?
+wylada ze tak
+aha ale to tak tylko do zgłaszania błędów
+gość co se weekend wziął wolny
+a pracować nie ma komu
+wlasnie se uzylem pierwszy raz <code>git bisect</code> w praktyce
+<a href="https://jesseduffield.com/Bisect/">https://jesseduffield.com/Bisect/</a>
+zeby znalezc commit ktory wprowadzil buga
+bardzo latwe w uzywaniu
+to jest przeszukiwanie binarne historii commitow w podanym zakresie i tylko piszesz &quot;good&quot; lub &quot;bad&quot; co albo bierze lewą albo prawą stronę historii
+good to jest jak jest tak jak powinno byc, a bad tak jak nie powinno
+i w ostatnim kroku bedziesz na commicie ktory to wprowadzil
+jeszcze jest <code>git bisect run</code> ktorym to mozna automatyzowac, czyli dodac jakis test na kazdym kroku
+np. git bisect run sh -c &quot;(go build -o /dev/null || exit 125) &amp;&amp; go test ./pkg/gui -run /$3&quot;
+albo jakis grep
+I znajdzie commita w którym program przestal się budować np.
+spoko sprawa, ale na ten moment to raz tylko by mi się przydało jak nagle przestały działać maile <a href="buddy.works">buddy.works</a> do rejestracji xD
+nastepnym razem bedziesz mogl uzyc xd
+pewnie gdyby częściej leciały zmiany w devie to miałoby sens, jak u nas jest pare może max parenaście mergy dziennie idzie to szybko można na oko wyłapać gdzie problem
+czasem mogą być jakieś side effecty ktorych nikt nie zauwazyl
+i np. dopiero miesiac pozniej znajdujesz
+buga
+jak claude wyobraza sobie domek i drzewo xd
+tak ta akcja z rana wyglądała chyba
+dokladnie
+korzystacie z tego lazy gita czy jakichs takich?
+ja kiedyś przez chwilę
+teraz nie
+mój lazy git to alias na pullowanie frontu i qika
+ja tez na aliasach jade
+ale ladnie wyglada git log w tym lazygicie i mysle czy to jest sens ten program instalowac
+sorry ,log nie dif
+<a href="https://www.instagram.com/reel/DLd-SAeP4TW/?igsh=eGkybmo0YmxsdGds">https://www.instagram.com/reel/DLd-SAeP4TW/?igsh=eGkybmo0YmxsdGds</a>
+Wyślijcie scruma na grupie<br><a href="https://t.me/lmastalerz">@lmastalerz</a> <a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> <a href="https://t.me/mganczarczyk">@mganczarczyk</a> <a href="https://t.me/shipurjan">@shipurjan</a> <a href="https://t.me/mnawiesniak">@mnawiesniak</a> <a href="https://t.me/BartShoot">@BartShoot</a> <a href="https://t.me/mJakobsche">@mJakobsche</a>
+9:50 -&gt; do przerwy zostało T - 10 minut.
+10:00 -&gt; jest piątek, weekendu początek. Uhonorujmy ten wspaniały dzień miską <strong>psznej zupy</strong> i jeszcze lepszego... no. Życzę wam spokojnego życia bez przypierdolek QA.
+telegram powinien dawać blokade na konta które nagle zmieniają imie i obrazek
+zapraszam
+jak tam u was. bo ja mam ochote wyskoczyc przez okno
+nie ty jeden <a href="https://www.themoscowtimes.com/2025/07/04/transneft-vice-president-dies-in-apparent-fall-from-window-reports-say-a89678">https://www.themoscowtimes.com/2025/07/04/transneft-vice-president-dies-in-apparent-fall-from-window-reports-say-a89678</a>
+to mnie nie smieszy
+i jest napisane jaskiniowym jezyku
+no wziąłem pierwszy z góry artykuł
+w rosji coś często ważni ludzie wypadają przez okna
+poślizgnął się na skórce od banana i wypadł, tragiczny wypadek
+powinni przejść na linux
+ale macie zjebane poczucie chumoru
+muchomoru
+wiadomo że ludzka tragedia i wgl ale<br>1. rosyjski<br>2. państwowy<br>3. monopol<br>4. ropa<br>nie wzbudza we mnie zbyt dużej sympatii xD
+to juz przerasta moj poziom wkurwienia dzisiaj
+xd
+zaczynam cie rozumiec <a href="https://t.me/shipurjan">@shipurjan</a>
+😆
+kurwa2.contains(kurwa) xDD
+true
+true story
+jak mi te llmy zaczynają iść w złą stronę to nawet nie próbuje poprawiać więcej niż 1-2 razy może
+tylko ja nie potrafie tego co on tam pisze
+bo są jebnięte i jak powiesz &quot;nie rób tak&quot; to dociera do nich może przez część wiadomości, potem &quot;nie&quot; gdzieś znika i chuj ci w dupe
+kazalem mu w PowerQuery skrypt napisac
+bo ja nie umiem
+Raz napiszesz mu „źle”, to zmienia podejście. Jak to nadal jest źle i mu napiszesz drugi raz, to wraca do pierwszej metody
+Ja teraz zmienialem taktyke
+I pierwsze mu daję kontekst i mówię żeby wygenerował prompta do <a href="TASK.md">TASK.md</a>
+i potem w pamięci to ma ciągle
+tu mu daję diffy z backendu
+no i mam
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> jak będziesz siadać do external routingu to powiedz, za chuja nie chce mi się aktualizować info dla frontów ale pod presją czasu to zrobie
+zrob to
+nie badz chuj
+zrobie potem
+spooooko, jak patrzyłem ile w ciągu tygodnia zeszło rzeczy z unit testów, to nie wiem jak ja się z czymkolwiek wyrobię
+będę też musiał priorytety tasków ustalić dopiero
+ale to jak wrócę
+ostatnio próbowałem żeby wygenerował mi llm właśnie zmiany dla frontu i se w chuj z tym nie radził, nawet jak mu dałem przykłady to se robił po swojemu xD
+to czary i magia
+mateusz potrzebujemy mema
+poprawnie znalazło
+front zrobił, co mu kazałeś
+backend pozwolił na spacje
+ja sie pytam jak sie tam znalazla spacja xd
+wpisałeś ją
+.
+nieeee
+tak jest z
+tak bez
+y
+co
+wtf
+a
+aa widze
+highlight
+Kolory Mateusz zepsuł
+podswietlanie
+Mateusz ty dziadzie
+wtf ale na tym nizej jest ok
+a ja tylko uzylem nasz komponent xd
+do highlighta
+odbij mi
+a i wgl jak juz moje taski robic to zrobilem poprawke do tego encrypta xd
+i nie wiem czy to mergowac czy co to ci odbilem
+zaraz ogarne
+idziemy o 13 mati/
+?
+mozemy
+<a href="https://t.me/shipurjan">@shipurjan</a> ?
+mozna
+to ja zaraz ide
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong><br><br>Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+to napiszcie jak bedziecie czekac
+to zejde
+ide
+ok to ja tez
+13:15 -&gt; To już ostatni raz jak się spotykamy w tym tygodniu, więc może ruszyłbyś dupę? Dzisiaj i tak QA nie wystawia bugów, bo Łukasz rozjebał czołg (polski)
+Łukasz musi dotestować taska. Wezwij go, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/6867b7b4cdfd863d2d8a17ac">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/6867b7b4cdfd863d2d8a17ac</a>
+oczywiście copilot, świetnie, dodajmy 15 nowych triggerów z chuja
+genialny pomysł
+co ty masz z tymi poematami
+coderabbit takie pisze pod kazdym pr xd
+fajne są
+nas tam na backendzie upsource coraz bardziej wkurwia xD
+jakieś niewidoczne branche, chujowo zmiany pokazuje itd
+Co to upsource?
+od jetbrainsów tool, niewspierany od 2 lat chyba już
+xd
+do code review w sensie
+ta
+my tego uzywamy
+nie jak wy PR na gita
+Przecież mieliśmy przez chwilę tam pr
+później uciekliśmy na gitlaba
+a my dzielnie dogfoodujemy buddy
+i czekamy na code review w buddy
+moze 1 dzien to nawet nie zauwazylem
+o bylby zajebisty
+xd
+code review w buddy
+2 albo 3 pry tam miałem
+<a href="https://app.clickup.com/t/869971r4c">https://app.clickup.com/t/869971r4c</a>
+ale szymon tam banger stronke podrzucil<br><a href="https://pierre.co/">https://pierre.co/</a>
+z serii „co chcą designy”
+prędzej sie zerzygam niz zrobie chociaz 5% z tego xd
+ale toxic
+obejrzalem to 4 razy
+xd
+a, to nie Łukasz był
+sorki
+chodzi o implementację
+jest pojebana
+ale wszystko scroll animation
+ale oczy od tego bolą
+że ta strona?
+gdzie nic nie ma
+Wyglada useful, ale kurwa design pojebany
+ctrl+A
+i niektóre guziki jak najade to coś się pojawia a tak to nie?
+skroluj
+co to za przeglądarka
+mozna zalozyc repo
+zgadnij
+firekox
+i to niby jakies repozytorium z AI
+masz 1 szansę
+no i wszystko jasne
+zgadnij
+Ja mam chrome i tak samo:
+nie ma żadnego scrolal
+same
+arc (chromium)
+ja mam edge
+wiec tez chromium
+ja mam Google Chrome 138
+bo linux
+macos
+tez mam chromium 138 xd
+musze zaznaczyc zeby cos bylo 😂
+no na chrome działa po kliknięciu tam na dole
+weird
+żebym mógł scrollować więc progress
+tylko co tam maryjka robi?
+błogosławi
+Mozliwe ze ja mam gdzies w ustawieniach maca reduced motion
+kraj polski
+Bo ja zwykle wylaczam animacje gdzie sie da
+ale nie wiedzialem ze to wplywa na chrome
+wpływa
+no i fajnie poscrollowałem sobie już pare minut
+to jest endless loop chyba xd
+mozna w oko jeszcze kliknąć
+kurwa faktycznie
+damn
+ciekawe czy w buddym cos zmienia
+nieczytelne, 0 informacji o produkcie
+na firefoxie nie, bo tam nie działa jeżeli jest coś animowane
+np przejścia....
+no view transitions to wiadomo
+ale animacje css itd normalnie dzialaj
+pytanie co wyłącza reduced motion
+Spoko design ale nie rozumiem czemu na takim typie SaaS

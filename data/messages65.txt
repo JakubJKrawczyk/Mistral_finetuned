@@ -1,0 +1,937 @@
+﻿Jak pierwszy się zesra to wszyscy na raz?
+nie dajecie statusu taska?
+- kisi się na qa<br>- done<br>- w trakcie<br>- review
+Nie piszesz &quot;kisi się na qa&quot;
+u nas nie dosc ze kazdy inaczej opisuje taski, to nawet kazda osoba ma wlasna koncepcje jak nazwac &quot;obencny tydzien&quot; i &quot;kolejny tydzień&quot;
+piszę &quot;testy?&quot;
+ewentualnie testują?
+No właśnie, nie piszesz &quot;kiszonka na qa&quot;
+nie
+Krzysiek wyzywa na nowe loadery
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a> taska ci testują, ciesz się
+&quot;Jakieś kurwa skeletony, jakby stary lołder był zły&quot;
+bo SkAkAŁ
+dobrze gada
+&quot;Tracimy czas na takie pierdoły&quot;
+tak wiem dostalem subtaska
+jak task jest jakiś długi to Rafał mnie potem pytał dokładniej jak progress i zacząłem dodawać podpunkty xD
+widzisz
+nas rafal nie pyta jak postep
+patrzy poprostu
+Pytał mnie
+Ale do Scruma nie zaglądał, bo to robi Krzysiek
+no jak mu zalezy na czyms a jest na branchu to tak
+Yeap
+ale w 98% nie
+przeciez on tez jest na tym kanale i widzi
+czy ja wiem czy mają faktycznie chęci to czytać, jak nie potrzebują. myślę, że instrukcja korzystania ze szczotki do kibla jest czasami ciekawszą lekturą
+ma pewnie ze 2 zdania xd
+to krótsze niż mój scrum
+na backend na pewno patrzy żeby móc prio taski sprawnie przekazać frontowi
+bo chłopaki narzekają że te branche to się tyle kiszą nieruszone że potem nie pamiętają co tam robili nawet
+ich wina
+ostatnio o co faktycznie pytał, to co blokuje ut przed pójściem live na preview
+design
+Gdzieś już to słyszałem
+nie
+tak
+pierdolisz glupoty
+;)
+fck napisalem test ktory trwa 5 i pol minuty
+Sleep(330)?
+sleep(300)<br>assertTrue(true)
+to jest 5 minut
+fakt
+ale wy kurwa zabawni
+mam wam wyprintowac
+?
+tak
+tak
+<pre> [Test]<br>        public void DmarcIpView()<br>        {<br>            var ipView = _domainDmarc.DemarcProviderDetails(&quot;AmazonSes&quot;).DmarcIpDetails(&quot;54.240.48.102&quot;);<br><br>            ipView.GoToPage();<br>            ipView.Filters.MessagesFrowardDropdown.Item(DmarcMessagesForward.ALL).Click();<br>            ipView.Filters.PeriodDropdown.Item(DmarcPeriod.LAST_30_DAYS).Click();<br>            var reportView = ipView.ReportDetails(&quot;&quot;);<br>            AssertAll.Succeed(<br>                () =&gt; ipView.Reportes.AssertForEach(r =&gt;<br>                {<br>                    var expected = Consts.Domains.DMARC_REPORTS_LIST(workspaceName)<br>                        .First(rf =&gt;<br>                        {<br>                            var rre = r.ReporterName;<br>                            var path = r.BaseXpath;<br>                            return rf.ReportMetadata.Email == r.ReporterName;<br>                        });<br>                    AssertAll.PartialSucceed(<br>                        &quot;Report record &quot; + r.ReporterName + &quot; is not as expected&quot;,<br>                       () =&gt; Assert.That(r.ReporterDateFrom.Date.Date.AddDays(1), Is.EqualTo(DateTimeOffset.FromUnixTimeSeconds(expected.ReportMetadata.DateRange.Begin).Date.Date)),<br>                        () =&gt; Assert.That(r.ReporterDateTo.Date, Is.EqualTo(DateTimeOffset.FromUnixTimeSeconds(expected.ReportMetadata.DateRange.End).Date)),<br>                        () =&gt; Assert.That(r.Emails, Is.EqualTo(expected.Records[0].Row.Count)),<br>                        () =&gt; Assert.That(r.PolicyFront.Description(), Does.Contain(expected.Records[0].Row.PolicyEvaluated.Disposition).IgnoreCase),<br>                        () =&gt; Assert.That(r.IsSpfSelected, Is.EqualTo(expected.Records[0].AuthResults.Spf.Result == &quot;pass&quot;)),<br>                        () =&gt; Assert.That(r.IsSpfAligned, Is.EqualTo(expected.IsSpfAligned())),<br>                        () =&gt; Assert.That(r.IsDkimAligned, Is.EqualTo(expected.IsDkimAligned())),<br>                        () =&gt; Assert.That(r.IsDkimSelected, Is.EqualTo(expected.Records[0].AuthResults.Dkim[0].Result == &quot;pass&quot;)),<br>                        () =&gt; Assert.That(r.IsDmarcPassed, Is.EqualTo(expected.IsDmarcPassed())),<br>                        () =&gt;<br>                        {<br>                            r.Click();<br>                            Assert.That(reportView.MainSection.ReportSender, Is.EqualTo(expected.ReportMetadata.Email));<br>                        },<br>                        () =&gt; Assert.That(reportView.MainSection.Source, Is.EqualTo(&quot;AmazonSes&quot;)),<br>                        () =&gt; Assert.That(reportView.MainSection.EmailsReported, Is.EqualTo(expected.Records[0].Row.Count.ToString())),<br>                        () =&gt; Assert.That(reportView.MainSection.FromDomain, Is.EqualTo(expected.PolicyPublished.Domain)),<br>                        () =&gt; Assert.That(reportView.MainSection.AppliedPolicyFront, Does.Contain(expected.Records[0].Row.PolicyEvaluated.Disposition).IgnoreCase),<br>                        <br>                        () =&gt; Assert.That(reportView.SpfSection.ReturnPath, Does.Contain(expected.Records[0].Identifiers.EnvelopeFrom)),<br>                        () =&gt; Assert.That(reportView.SpfSection.ReturnPathAndFromDomain, Is.EqualTo(expected.IsSpfAligned() ? DmarcAlignment.ALLIGNED : DmarcAlignment.NOT_ALLIGNED)),<br>                        () =&gt; Assert.That(reportView.SpfSection.ResultSpf, Does.Contain(expected.Records[0].AuthResults.Spf.Result == &quot;pass&quot; ? &quot;Pass&quot; : &quot;Fail&quot;)),<br>                        () =&gt; expected.Records[0].AuthResults.Dkim.AssertForEach(dkim =&gt;<br>                        {<br>                            AssertAll.PartialSucceed(<br>                                            &quot;Dkim section is not as expected&quot;,<br>                                    () =&gt; Assert.That(reportView.DkimSection.SignatureDomain, Is.EqualTo(dkim.Domain)),<br>                                            () =&gt; Assert.That(reportView.DkimSection.Selector, Is.EqualTo(dkim.Selector)),</pre>
+<pre><br>                                            () =&gt; Assert.That(reportView.DkimSection.SignatureDomainAndFromDomain, Is.EqualTo(expected.IsDkimAligned(expected.Records[0], dkim) ? DmarcAlignment.ALLIGNED : DmarcAlignment.NOT_ALLIGNED)),<br>                                            () =&gt; Assert.That(reportView.DkimSection.ResultDkim, Is.EqualTo(dkim.Result))<br>                                );<br>                        }),<br>                        r.GoBack<br>                        );<br>                })<br>                );<br>            <br>        }</pre>
+faksem jakbys mogl
+tldr
+wy nie macie limitu długości znaków na linijke?
+nie
+i scrollujecie poziomo kod?
+widocznie
+ale o co chodzi najdluzsza ma 313 znakow
+zwierzęta
+ja widze wszystko na ekranie
+może w tym pliku
+my mamy 160 czy 180 znaków max potem zawija
+wiesz po co jest ta linia?
+właśnie miałem pisać 😆
+a nie wiem
+jak margines w zeszycie
+jak go spotykasz, to do linijki niżej idziesz
+a nie jak w szkole
+najpierw na margines, potem na ławce i zeszycie kolegi
+to bym mial 90 znakow na linijke
+czysty kod
+W zeszycie kolegi to się rysowało 2 kółka, a po środku elipsę
+to już twoje fantazje
+niespełnione
+jakoś my dajemy radę z tym &quot;ograniczeniem&quot;
+Co napisałeś JPK na piórniku?
+jak widzę, inni też
+tymczasem <br><pre> 193 files changed, 4684 insertions(+), 1404 deletions(-)</pre>
+noice
++3,999 −1,470
+a to objętościowo bardzo podobnie
+śmiesznie xD
+zabawnie
+pewnie find &amp; replace
+nie, bardziej ctrl c ctrl v
+no tam raczej przenoszenie kodu
+a nie zamiana tekstu w nim
+bo domeny w profilu oprócz tych w ws dochodzą
+po 2 opcje używania każdej metody z internal api
+naprawcie docsy do external api najpierw
+i samo api
+a co jest nie tak z external api
+bo na chwile obecna jest chujowe
+a wy to tylko narzekacie
+9:50 -&gt; do przerwy zostało T - 10 minut.
+jak ustawic target jako environment w runie?
+nie doceniacie nikogo
+sandboxy projekty i envy dostaną open api
+nie wiem
+to się da przez gui?
+no wlasnie sie nie da
+a ja chce po api
+nie no nie wiem czy to nawet w gui się da xD
+po to jest api zebym nie musial po GUI
+jak to sie nie da?
+znasz aplikacje ktora piszesz?
+te części które pisze i te z których korzystam
+co to jest?
+env
+Buddy umiera
+Albo jest w żałobie
+no i wybierasz envy do runa
+czemu?
+No tak depresyjny darkmode...
+no i jak to po API zrobic?
+umierały to moje oczy z trybem jasnym
+ale za to ciemny jest za ciemny
+Zapal sobie światło w pokoju
+i kontrasty są smutne
+nawet nie ma opisane przy runie jak targetr ustawic
+bo się nie da xD
+a
+chyba że posyłasz pipelineview i tam się da ustawić
+ale execution view nie ma nic o envach oprócz variabli
+10:00 -&gt; jest piątek, weekendu początek. Uhonorujmy ten wspaniały dzień miską <strong>psznej zupy</strong> i jeszcze lepszego... no. Życzę wam spokojnego życia bez przypierdolek QA.
+nawzajem ❤️
+życie grozi śmiercią
+każdy kto pił wode umrze
+kazdy kto nie pil też
+w afryce co 60 sekund mija minuta
+straszne
+Punished Braun?
+<a href="https://t.me/fronty">@fronty</a> jak w qik wygląda sprawdzanie statusu domeny?
+Chodzi o tą labelkę
+tę*
+a jak ma wyglądać
+jaki status schodzi, taka labelka
+Bo tam nie ma jednego miejsca w którym są wszystkie statusy
+w labelce nie ma wszystkich statusów?
+W modelu WebService
+Internalowym
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a> pogadaj z qa
+dzisiaj ty jesteś od qika
+???
+Logika statusu domeny
+<pre> WARN  c.m.v.a.ThreadPoolAsynchronousRunner - com.mchange.v2.async.ThreadPoolAsynchronousRunner$DeadlockDetector@4aff743 -- APPARENT DEADLOCK!!! Creating emergency threads for unassigned pending tasks!</pre>
+takiego to jeszcze nie miałem 😆
+xd
+a dobra teraz rozumiem
+i widze drugi rekord tz
+👏🏻
+:D
+sory chory jestem i dzisiaj slabo kumam
+to bierz wolne, bo już myślałem że pijesz na zdalnym :D
+odpowiedź Kuby: żeby tylko na zdalnym
+🗿
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong><br><br>Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+Oficjalnie wybiła 13:00, co to oznacza? <br>Dokładnie! Ban na obrażanie <strong>sami wiecie kogo</strong> uważam za zniesiony!<br>Życzę kreatywnej krytyki i stalowych nerwów.
+kurwa dopiero 13? ja myślałem że zbliżam się do fajrantu tak zapierdzielam dzisiaj
+ja sie zblizam do fajrantu bo ostatni task i za godzinke typescriptowy piątek
+czyli 4h typowania
+co to za fajna rozrywka
+u nas nie ma takich
+bo musicie zacząć na typescript migrować
+trzeba bylo pisac back end w pythonie a nie w javie
+horzy jesteście
+nie
+nie wiem czy wtedy zaczynali backend to był lepszy język na serwer xD
+chyba go nawet jeszcze nie wyszło
+to co kebab czy maczek <a href="https://t.me/mganczarczyk">@mganczarczyk</a>
+tak
+tak
+13:15 -&gt; To już ostatni raz jak się spotykamy w tym tygodniu, więc może ruszyłbyś dupę? Dzisiaj i tak QA nie wystawia bugów, bo Łukasz rozjebał czołg (polski)
+Łukasz musi dotestować taska. Wezwij go, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/68bac634d09d175ba857c474">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/68bac634d09d175ba857c474</a>
+kurwa.
+Ciągniiij!
+i umarło
+pnpm die
+Jak nadzieje na spokojne życie
+i sie cancelluje w nieskonczonosc xd
+co jest
+daj force
+nowy run xd
+ok przeszlo
+hura
+Ty, Cyprian
+Ktoś zajebał ci twojego Common Errora
+wiem naprawiam to juz
+Jest już w dev?
+fix nie
+ale będzie dziś
+Masz na to taska?
+tak
+Lynk pls
+zobacz moje przypisane
+ja jestem na przerwie
+Timeouta wyjebało.<br><br><a href="https://t.me/mganczarczyk">@mganczarczyk</a> merguj się do /dev/null
+wlasnbie mnie naszlo
+ze moge sdobie drukarka wydrukowacochrone na rece do motocykla xd
+no pytanie ile ochrony potrzebujesz
+przed wiatrem
+to może da rade xD
+z PETG mysle ze tak
+zrobie sobie symulacje jescze
+zeby miec najbasrdziej ergonomiczny design
+Ochrona lub swoboda ruchu
+Jakakolwiek
+ja mowie o
+to jest akurat wydrukowane
+pamiętaj o aereodynamice
+wiem dlatego potrzebuje symulacje zrobic
+<a href="https://fathy.fr/carbonyl">https://fathy.fr/carbonyl</a>
+też umiem f12
+To nie F12
+Ani F16 ani F35
+ctrl+shift+i
+Nie było manipulacji DOM ręcznie
+document.querySelector
+Ani przez wstrzyknięty skrypt
+span::before
+Ani przez wstrzyknięty styl
+cheat engine
+oooo pamietam ten piekny program
+do edytowania hajsu w gierkach
+w minecraft dało się ustawić speeda w ten sposób
+jak dałeś mnożnik 1.1
+tak
+to serwery tego nie ogarniały
+dokladnie
+i byłeś szybszy xD
+albo przyspieszyc gierke zeby jakis proces zrobil sie szybciej
+5 dni 5 merge
+1 man 1 jar
+Challange completed
+i co jestes dumny z siebie?
+oooooo
+whos under the waterr on the bottom of the sea?
+bowuntil posessplate!
+zepsules
+to byl nasz moment
+przecież pasuje
+wystarczylo spiewac dalej
+spongebob squarepants
+ale to ty zepsułes pierwszy
+Who lives in a pineapple under the sea?
+nie tak
+xd
+jak to wyslales to mi przez glowe przeszlo you didn&apos;t have to cut me off
+czy jakos tak
+za duzo tik toka
+nie mam
+to instagrama
+tam sa same kurwy
+jak w DPD
+potwierdzam!
+też potwierdzam!
+to kosztuje 650 zl a ja sobie to wydrukuje xd
+i DHL
+i POCZTEX
+a tak
+dzien dobry skurwiel pocztex
+Inpost akurat jest git
+*kurier
+kruwa
+🐮
+ziomek obraza monsterka
+trzeba go zglosic za mowe nienawisci
+To prawda, nie można szkalować monstera on ratuje życie
+Nawet w weekend...
+xd
+odpowiedz godna inteligentnego homosapiens
+No niestety, brak komunikacji tylko prosty schemat
+Pyta mnie czy nazywam się *wstaw imie z dupy* i wysyła azjatke z wykresem giełdowym w tle
+Nie wiem, czy oni łapią ludzi na to? Serio ktoś jest w stanie oddać dane osobowe azjatce mieszkającej w Egipcie???
+<a href="https://app.clickup.com/t/8695qb9z9">https://app.clickup.com/t/8695qb9z9</a>
+Marcel, Marcel
+Zgadnij do kogo to trafiło
+do limbo
+Co tu w tej aplikacji się wydarzyło?
+f5 i nie pytaj. To clickup
+F5 nie zadziała. Tutaj Ctrl+R
+czemu pobiera mi linux-firmware 476kb/s
+napraw neta
+idz zresetowac router
+zresetuj linuxa
+albo serwery linuxa
+ok ide zresetować neta na <a href="archive.ubuntu.com">archive.ubuntu.com</a>
+pojedz do nich zresetowac archiwum
+bo maja zapchanego cache pewnie
+reset db na archiwum
+a z generatorem?
+xd
+ok zmiana mirrora na polski i już git
+polska gurom
+ale podejrzanie dużo rzeczy się updatowało xD
+czemu podejrzanie?
+nieważne, to sterowniki od grafy były, na 24 nowe paczki z apt przynajmniej 10 to były mesa coś tam
+no
+to o co ci sie uchodzi
+regularnie aktualizuje system, raczej nie zdarza się że mam tyle paczek do pobrania
+o ta konferencja już jutro
+taaaaaak
+dobrze ze sie skapnołeś
+ja jeszcze nie przeczytałem porządnie na które prelekcje chce iść o której godzinie xD
+xd
+wiesz przynajmniej kiedy sie to zaczyna&gt;
+?
+dobrze
+xd
+gdybym dostał bilet to by mi się chyba nawet samo do kalendarza wstawiło
+tak masz skonfigurowany mail?
+no w google to chyba jedno kliknięcie jest jak to jest jakoś rozpoznane jako termin
+ta, sam ogarniał po zawartości maila
+a jak ci spam przyjdzie?
+ze masz spotkanie we czwartek ?
+to tez ogarnie?
+jak trafi do spamu to nie
+klucz w tym żeby spotkanie nie było spamem i będzie ok
+a jak nie trafi do spamu?
+jak nie spodziewam się maila to sam se zapisze no 😆
+podeślesz linka?
+jak masz to otwarte
+ta podeslij
+przyda sie
+jebany katar
+xd
+mam tak upierdolony monitor z kurzu, że tym bardziej nie chcę włączać dark mode&apos;a w buddy
+ja mam tylko wypalcowany
+mateusz, a ty jak dziecko
+widzi ekran, to na pewno dotykowy
+ale to nie ja &gt;:(
+to se wytrzyjcie
+:((
+<a href="https://www.security.show.pancernik.it/agenda-wykladow/">https://www.security.show.pancernik.it/agenda-wykladow/</a>
+czemu <a href="https://app.buddy.works/">https://app.buddy.works/</a> nie zyje
+bo es nie zyje
+Could not connect to <a href="es.buddy.works:443">es.buddy.works:443</a> (<a href="66.96.88.157">66.96.88.157</a>), connection timed out
+🕯
+od 20 minut
+jak widze
+pam pam pam
+skamieliny
+build serwery też leżą
+<a href="https://www.security.show.pancernik.it/">https://www.security.show.pancernik.it/</a>
+spotkanie było xD
+ogólnie coś z netem jest
+do stanów 500kb/s, do tajwanu lagi na zoomie
+ciekawe czy ten tekst i miniaturka specjalnie
+tak
+😋
+<a href="https://t.me/lmastalerz">@lmastalerz</a> wyłącz update do wota, później pobierzesz
+xd
+to przecież chin by szło
+inny internet
+zapauzuj na chwile bo wszystkim laguje net w firmie <a href="https://t.me/lmastalerz">@lmastalerz</a>
+Ale to ty pobierasz nowe modele do arty
+tencent ma większość w wargamingu nie?
+Ja nie gram na kompach w pracy w wot
+W przeciwieństwie do cb
+i widać, że internet 10 centów warty
+takie lagi
+xd
+mi nie laguje
+Czy ty właśnie potwierdziłeś, że grasz teraz w wot-a?
+a jestem w tej samej podsieci na dole
+xd
+ja taska nawet nie mogę zrobić
+<a href="app.local.io">app.local.io</a> dziala przynajmniej wiec ja moge
+ale spoko
+monitoring pokazuje 100% uptime
+<a href="https://status.buddy.works/">https://status.buddy.works/</a>
+ten, co jest ręcznie na down ustawiony
+xd
+hardcoded na 100%
+xd
+no tak xD
+ciekawe ile naprawde jest %
+nie wiem jak to jest legalne
+<a href="https://status.buddy.works/index.json">https://status.buddy.works/index.json</a>
+można pIpElInE zrobić
+kiedy wyjebało
+tyle że jest opcja że to nasz internet ma problem
+a w us jest ok
+fakt, na mobilnym necie mi działa us
+getBuddyStatusReport() {<br>  return &quot;operational&quot;<br>}
+bo to net z playa
+tzn nikt nie zdefiniowal o to znaczy &quot;operational&quot;
+mi dziala eu ale nie us
+no mi tez
+korzystacie z tego samego internetu z pracy nie? i mówię że to ten internet może mieć problem xD
+Marcel potwierdził
+pewnie już tam ktoś dzwoni z superdevów na infolinię playa
+aktualnie leci muzyczka z windy
+dziala
+ale jak to, przecież to jest z better stack
+better znaczy better czyli lepsze jak jest better
+proste
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> ten task sprowadza się do common errorów? <a href="https://app.clickup.com/t/8695qb9z9?comment=90120103222676">https://app.clickup.com/t/8695qb9z9?comment=90120103222676</a>
+<a href="https://app.clickup.com/t/8695qb9z9?comment=90120150820867">https://app.clickup.com/t/8695qb9z9?comment=90120150820867</a> do tego
+Co to są trouble hinty?
+Errory w labelkach?
+trouble hinty = common errory
+tylko ze nazwa zostala zmieniona chyba z pol roku temu
+zeby sie nie mylila z innymi errorami
+Ehh
+Jeden chuj
+9:50 -&gt; do przerwy zostało T - 10 minut.
+Dobra, wiem o co chodzi
+ciekawe jaka zupa
+nie wiadomo
+<a href="https://t.me/BartShoot">@BartShoot</a> jak tam queue u cb w taskach?
+Bo jest jeden, który byłby zajebisty
+<a href="https://app.clickup.com/t/8699zz5da">https://app.clickup.com/t/8699zz5da</a>
+domeny w profilu są robione asap chciałbym dzisiaj dać do testów
+potem routingi dokonczyć
+potem dokończyć environment event
+pod koniec tygodnia/w przyszłym tygodniu jak dobrze pójdzie
+Czyt. pójdzie chujowo, nie wcześniej niż pod koniec następnego tygodnia
+może tak być
+10:00 -&gt; najgorszy dzień tygodnia. QA znowu wystawiać taski o byle pierdoły. Frontu nie ma i nie będzie. Świat schodzi na psy. Przynajmniej jest zupa.<br><br><a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> <a href="https://t.me/lmastalerz">@lmastalerz</a>, zróbcie fikołka
+yep
+Zupy jeszcze nie ma
+Zaraz będzie
+przeciez jest
+e kurde
+wyglada spoko
+to chyba taka lista todo dla taska
+Ten feature był dawno temu
+ja w sumie subtaski traktuje troche jak taka checkliste
+chociaz czasem sa wieksze taski ktore nie maja subtaskow a mozna by sobie samemu podzielic
+np w // TODO: w kodzie
+yeap
+raczej TODO jest ograniczone
+jak jest u was, u nas nie może być todo w devie oprócz bardzo specyficznych rzeczy
+bo się Tomek burzy potem
+raczej nie stosujemy todo
+ja pisze // TODO w kodzie ale tylko jak cos koduje i zauwaze ze cos jest nie tak ale nie jest to w scope mojego taska
++ dużo z nich jak teraz patrzę to interfejsy w ts
+i potem zapominasz usunac
+bo openapi coś źle wyświetla
+ewentualnie przeniesienie funkcji pomiędzy serwisami
+nie zapominam usunąć, piszę je dla innych, nie dla siebie
+no albo dla siebie z przyszlosci
+ktokolwiek to bedzie robil kiedys
+yhyyyym
+chyba, że powiesz mi, jak mamy to sprawdzić względnie szybko
+chyba wszystkie moje akurat
+ja sobie rozplanowuje w obrębie taska w miejscu w kodzie gdzie jest do zmiany xD
+custom podświetlenie sobie dałem nawet żeby widzieć
+jak cos kiedys bedziesz robic przy obiekcie z tym interface to robisz console.log i patrzysz<br>Jak nie ma, to sprawdzasz czy to jedyny case w kodzie, czy moze byc gdzies jeszcze, jak jedyny case to usuwasz propa<br>A jak jest to udowodniłeś że jest, więc możesz usunąć komentarz TODO
+no ta, bawisz się w szukanie tego
+bo może to być propka, która schodzi tylko dla jednej akcji
+no tak
+ale wystarczy ze raz komus zejdzie, to juz wiadomo ze exists
+no jest jeszcze backend
+ale tam odpowiedź to może być taki sam temat tabu, jak &quot;jakie error code&apos;y to może zwrócić?&quot;
+a co jak to schodzi jakiemuś userowi który ma wersje sprzed 2 lat standalone
+i będzie schodziło aż do końca świata a jak nie to ktoś umrze
+no to dalej ma stary front wiec powinno dzialac
+to nie można tak, to niezdrowe
+tzn jak w interfejsie nie jesteśmy pewni, to raczej nie ma u nas użycia w kodzie
+każda zmiana psuje czyjś workflow
+tjaaa, nadal jest wspierany pricing v2
+kopiowanie nazwy commit na buddym wstawia enter
+jedni na tym polegają inni się wkurzają i zawsze usuwają
+przejdzie na nowy i dupa
+ludzie umierają
+może mu się nie opłaca
+<a href="https://github.com/basecamp/gh-signoff">https://github.com/basecamp/gh-signoff</a>
+kiedy buddy signoff
+Co to?
+nie
+zamiast odpalać ci/cd odpalasz sobie lokalnie testy i klikasz: u mnie działa
+i masz zielone światło do merge
+Yyy, Buddy localhost?
+no nie, główny powód czemu ktokolwiek na to wpadł jest czas trwania ci/cd
+każdy z nas ma maszyne szybszą niż to na czym stoi buddy xD
+patrzcie jaki fajny nowy button ten ostatni
+co to
+Włącza ci światło w pokoju?
+feedback
+nie domyslilbym sie
+&quot;Jebać Redesigny&quot;?
+wiadomość przekierowana do Szymona ^
+❤️
+zapala zaroweczke nad komputerem lukasza
+nigdy nie kliknąłem nawet przypadkiem jak to jest napis feedback, ale żarówkę kliknąłem z ciekawości
+no tez bylem zdziwiony ze taka ikona jest xd
+kazdy user ma ten sam request
+<a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> jak zrobisz mi obudowę do tej lampki to nadpiszę tam event JS aby faktycznie to robił xDD
+okkk
+juz sie kilka razy nabralem ze to przelacznik do darkmode
+a sam to dodawalem do apki
+xd
+XDD
+i widzisz w czym problem
+widzisz, żarówa fajna ikonka samo się chce klikać
+napis feedback
+wystarczy nie korzystać 😎
+nikt nie chce klikać
+xd
+no ja bym też nie chciał włączyć dark mode&apos;a
+ja do teraz nie wiem czy to na localu gdzies wysyla feedback czy nie
+mam nadzieje ze nie
+sprawdz w esie
+czy jest event
+NAJAZD NA QA!
+PRZYSZLI NAM DRZWI ROZPIERDALAĆ
+najs
+w przerwie obiadowej nie spodziewali się nikogo a tu jednak
+tak, wysyła
+ups
+na es
+/mail/feedback
+ale gdzie to znaleźć w es, to nie wiem xD
+wpisalem do maila Software Engineer a przegladarka mi podpowiada jak powinno byc poprawnie
+dobrze ze przez jedno g
+Dokładnie, źle by brzmiało engginer
+xd
+<a href="https://t.me/backendy">@backendy</a> need help w przetłumaczeniu stack trace
+java.lang.IllegalArgumentException: id to load is required for loadingorg.hibernate.event.spi.LoadEvent.&lt;init&gt;(<a href="LoadEvent.java:77">LoadEvent.java:77</a>)<br>org.hibernate.event.spi.LoadEvent.&lt;init&gt;(<a href="LoadEvent.java:43">LoadEvent.java:43</a>)<br>org.hibernate.loader.internal.IdentifierLoadAccessImpl.load(<a href="IdentifierLoadAccessImpl.java:206">IdentifierLoadAccessImpl.java:206</a>)<br>org.hibernate.loader.internal.IdentifierLoadAccessImpl.doLoad(<a href="IdentifierLoadAccessImpl.java:160">IdentifierLoadAccessImpl.java:160</a>)<br>org.hibernate.loader.internal.IdentifierLoadAccessImpl.lambda$load$1(<a href="IdentifierLoadAccessImpl.java:149">IdentifierLoadAccessImpl.java:149</a>)<br>org.hibernate.loader.internal.IdentifierLoadAccessImpl.perform(<a href="IdentifierLoadAccessImpl.java:112">IdentifierLoadAccessImpl.java:112</a>)<br>org.hibernate.loader.internal.IdentifierLoadAccessImpl.load(<a href="IdentifierLoadAccessImpl.java:149">IdentifierLoadAccessImpl.java:149</a>)<br>org.hibernate.internal.SessionImpl.find(<a href="SessionImpl.java:2429">SessionImpl.java:2429</a>)<br>org.hibernate.internal.SessionImpl.find(<a href="SessionImpl.java:2395">SessionImpl.java:2395</a>)<br>java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)<br>java.base/java.lang.reflect.Method.invoke(Method.java:580)<br>org.springframework.orm.jpa.ExtendedEntityManagerCreator$ExtendedEntityManagerInvocationHandler.invoke(<a href="ExtendedEntityManagerCreator.java:364">ExtendedEntityManagerCreator.java:364</a>)<br>jdk.proxy2/jdk.proxy2.$Proxy193.find(Unknown Source)<br>java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)<br>java.base/java.lang.reflect.Method.invoke(Method.java:580)<br>org.springframework.orm.jpa.SharedEntityManagerCreator$SharedEntityManagerInvocationHandler.invoke(<a href="SharedEntityManagerCreator.java:320">SharedEntityManagerCreator.java:320</a>)<br>jdk.proxy2/jdk.proxy2.$Proxy193.find(Unknown Source)<br>works.buddy.ws.common.daos.HibernateDAO.findById(<a href="HibernateDAO.java:151">HibernateDAO.java:151</a>)<br>works.buddy.ws.pipeline.action.daos.HibernateActionDAO.findById(<a href="HibernateActionDAO.java:73">HibernateActionDAO.java:73</a>)<br>works.buddy.ws.pipeline.action.daos.HibernateActionDAO.findById(<a href="HibernateActionDAO.java:39">HibernateActionDAO.java:39</a>)<br>java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)<br>java.base/java.lang.reflect.Method.invoke(Method.java:580)<br>org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(<a href="AopUtils.java:360">AopUtils.java:360</a>)<br>org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(<a href="ReflectiveMethodInvocation.java:196">ReflectiveMethodInvocation.java:196</a>)<br>org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(<a href="ReflectiveMethodInvocation.java:163">ReflectiveMethodInvocation.java:163</a>)<br>org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint.proceed(<a href="MethodInvocationProceedingJoinPoint.java:102">MethodInvocationProceedingJoinPoint.java:102</a>)<br>works.buddy.ws.common.daos.ObjectNotFoundExceptionHelper.handleObjectNotFoundException(<a href="ObjectNotFoundExceptionHelper.java:21">ObjectNotFoundExceptionHelper.java:21</a>)<br>works.buddy.ws.common.daos.HibernateDAOAspect.handleObjectNotFoundException(<a href="HibernateDAOAspect.java:12">HibernateDAOAspect.java:12</a>)<br>java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)<br>java.base/java.lang.reflect.Method.invoke(Method.java:580)<br>org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethodWithGivenArgs(<a href="AbstractAspectJAdvice.java:649">AbstractAspectJAdvice.java:649</a>)<br>org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethod(<a href="AbstractAspectJAdvice.java:631">AbstractAspectJAdvice.java:631</a>)<br>org.springframework.aop.aspectj.AspectJAroundAdvice.invoke(<a href="AspectJAroundAdvice.java:71">AspectJAroundAdvice.java:71</a>)<br>org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(<a href="ReflectiveMethodInvocation.java:184">ReflectiveMethodInvocation.java:184</a>)<br>org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint.proceed(<a href="MethodInvocationProceedingJoinPoint.java:102">MethodInvocationProceedingJoinPoint.java:102</a>)<br>works.buddy.ws.common.daos.HibernateSessionsCreatorAspect.manageEntityManager(<a href="HibernateSessionsCreatorAspect.java:37">HibernateSessionsCreatorAspect.java:37</a>)<br>java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)<br>java.base/java.lang.reflect.Method.invoke(Method.java:580)<br>org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethodWithGivenArgs(<a href="AbstractAspectJAdvice.java:649">AbstractAspectJAdvice.java:649</a>)<br>org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethod(<a href="AbstractAspectJAdvice.java:631">AbstractAspectJAdvice.java:631</a>)<br>org.springframework.aop.aspectj.AspectJAroundAdvice.invoke(<a href="AspectJAroundAdvice.java:71">AspectJAroundAdvice.java:71</a>)<br>org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(<a href="ReflectiveMethodInvocation.java:184">ReflectiveMethodInvocation.java:184</a>)<br>org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(<a href="ExposeInvocationInterceptor.java:97">ExposeInvocationInterceptor.java:97</a>)
+org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(<a href="ReflectiveMethodInvocation.java:184">ReflectiveMethodInvocation.java:184</a>)<br>org.springframework.aop.framework.JdkDynamicAopProxy.invoke(<a href="JdkDynamicAopProxy.java:223">JdkDynamicAopProxy.java:223</a>)<br>jdk.proxy2/jdk.proxy2.$Proxy224.findById(Unknown Source)<br>works.buddy.application.api.aop.PipelineHistoryHelper.getAction(<a href="PipelineHistoryHelper.java:121">PipelineHistoryHelper.java:121</a>)<br>works.buddy.application.api.aop.PipelineHistoryHelper.getPipeline(<a href="PipelineHistoryHelper.java:115">PipelineHistoryHelper.java:115</a>)<br>works.buddy.application.api.aop.PipelineHistoryHelper.getPipeline(<a href="PipelineHistoryHelper.java:60">PipelineHistoryHelper.java:60</a>)<br>works.buddy.application.api.aop.PipelineCommitAspect.handlePipelineCommit(<a href="PipelineCommitAspect.java:49">PipelineCommitAspect.java:49</a>)<br>java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)<br>java.base/java.lang.reflect.Method.invoke(Method.java:580)<br>org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethodWithGivenArgs(<a href="AbstractAspectJAdvice.java:649">AbstractAspectJAdvice.java:649</a>)<br>org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethod(<a href="AbstractAspectJAdvice.java:631">AbstractAspectJAdvice.java:631</a>)<br>org.springframework.aop.aspectj.AspectJAroundAdvice.invoke(<a href="AspectJAroundAdvice.java:71">AspectJAroundAdvice.java:71</a>)<br>org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(<a href="ReflectiveMethodInvocation.java:173">ReflectiveMethodInvocation.java:173</a>)<br>org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(<a href="ExposeInvocationInterceptor.java:97">ExposeInvocationInterceptor.java:97</a>)<br>org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(<a href="ReflectiveMethodInvocation.java:184">ReflectiveMethodInvocation.java:184</a>)<br>org.springframework.aop.framework.JdkDynamicAopProxy.invoke(<a href="JdkDynamicAopProxy.java:223">JdkDynamicAopProxy.java:223</a>)<br>works.buddy.ws.pipeline.services.update.$Proxy227.addAction(Unknown Source)<br>works.buddy.application.internalapi.DefaultPipelineInternalApi.addAction(<a href="DefaultPipelineInternalApi.java:403">DefaultPipelineInternalApi.java:403</a>)<br>java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)<br>java.base/java.lang.reflect.Method.invoke(Method.java:580)<br>org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(<a href="AopUtils.java:360">AopUtils.java:360</a>)<br>org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(<a href="ReflectiveMethodInvocation.java:196">ReflectiveMethodInvocation.java:196</a>)<br>org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(<a href="ReflectiveMethodInvocation.java:163">ReflectiveMethodInvocation.java:163</a>)<br>org.springframework.aop.framework.adapter.MethodBeforeAdviceInterceptor.invoke(<a href="MethodBeforeAdviceInterceptor.java:58">MethodBeforeAdviceInterceptor.java:58</a>)<br>org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(<a href="ReflectiveMethodInvocation.java:173">ReflectiveMethodInvocation.java:173</a>)<br>org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint.proceed(<a href="MethodInvocationProceedingJoinPoint.java:102">MethodInvocationProceedingJoinPoint.java:102</a>)<br>works.buddy.ws.common.daos.ObjectNotFoundExceptionHelper.handleObjectNotFoundException(<a href="ObjectNotFoundExceptionHelper.java:21">ObjectNotFoundExceptionHelper.java:21</a>)<br>works.buddy.application.internalapi.aop.InternalApiAspect.logExecutionTimeAndHandleObjectNotFoundException(<a href="InternalApiAspect.java:21">InternalApiAspect.java:21</a>)<br>java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)<br>java.base/java.lang.reflect.Method.invoke(Method.java:580)<br>org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethodWithGivenArgs(<a href="AbstractAspectJAdvice.java:649">AbstractAspectJAdvice.java:649</a>)<br>org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethod(<a href="AbstractAspectJAdvice.java:631">AbstractAspectJAdvice.java:631</a>)<br>org.springframework.aop.aspectj.AspectJAroundAdvice.invoke(<a href="AspectJAroundAdvice.java:71">AspectJAroundAdvice.java:71</a>)<br>org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(<a href="ReflectiveMethodInvocation.java:184">ReflectiveMethodInvocation.java:184</a>)<br>org.springframework.aop.framework.adapter.MethodBeforeAdviceInterceptor.invoke(<a href="MethodBeforeAdviceInterceptor.java:58">MethodBeforeAdviceInterceptor.java:58</a>)<br>org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(<a href="ReflectiveMethodInvocation.java:173">ReflectiveMethodInvocation.java:173</a>)<br>org.springframework.aop.framework.adapter.MethodBeforeAdviceInterceptor.invoke(<a href="MethodBeforeAdviceInterceptor.java:58">MethodBeforeAdviceInterceptor.java:58</a>)<br>org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(<a href="ReflectiveMethodInvocation.java:173">ReflectiveMethodInvocation.java:173</a>)<br>org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(<a href="ExposeInvocationInterceptor.java:97">ExposeInvocationInterceptor.java:97</a>)<br>org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(<a href="ReflectiveMethodInvocation.java:184">ReflectiveMethodInvocation.java:184</a>)
+org.springframework.aop.framework.JdkDynamicAopProxy.invoke(<a href="JdkDynamicAopProxy.java:223">JdkDynamicAopProxy.java:223</a>)<br>jdk.proxy2/jdk.proxy2.$Proxy471.addAction(Unknown Source)<br>java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)<br>java.base/java.lang.reflect.Method.invoke(Method.java:580)<br>org.apache.cxf.service.invoker.AbstractInvoker.performInvocation(<a href="AbstractInvoker.java:179">AbstractInvoker.java:179</a>)<br>org.apache.cxf.service.invoker.AbstractInvoker.invoke(<a href="AbstractInvoker.java:96">AbstractInvoker.java:96</a>)<br>org.apache.cxf.jaxrs.JAXRSInvoker.invoke(<a href="JAXRSInvoker.java:200">JAXRSInvoker.java:200</a>)<br>org.apache.cxf.jaxrs.JAXRSInvoker.invoke(<a href="JAXRSInvoker.java:103">JAXRSInvoker.java:103</a>)<br>org.apache.cxf.interceptor.ServiceInvokerInterceptor$<a href="1.run">1.run</a>(<a href="ServiceInvokerInterceptor.java:59">ServiceInvokerInterceptor.java:59</a>)<br>org.apache.cxf.interceptor.ServiceInvokerInterceptor.handleMessage(<a href="ServiceInvokerInterceptor.java:96">ServiceInvokerInterceptor.java:96</a>)<br>org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(<a href="PhaseInterceptorChain.java:307">PhaseInterceptorChain.java:307</a>)<br>org.apache.cxf.transport.ChainInitiationObserver.onMessage(<a href="ChainInitiationObserver.java:121">ChainInitiationObserver.java:121</a>)<br>org.apache.cxf.transport.http.AbstractHTTPDestination.invoke(<a href="AbstractHTTPDestination.java:267">AbstractHTTPDestination.java:267</a>)<br>org.apache.cxf.transport.servlet.ServletController.invokeDestination(<a href="ServletController.java:233">ServletController.java:233</a>)<br>org.apache.cxf.transport.servlet.ServletController.invoke(<a href="ServletController.java:207">ServletController.java:207</a>)<br>org.apache.cxf.transport.servlet.ServletController.invoke(<a href="ServletController.java:159">ServletController.java:159</a>)<br>org.apache.cxf.transport.servlet.CXFNonSpringServlet.invoke(<a href="CXFNonSpringServlet.java:224">CXFNonSpringServlet.java:224</a>)<br>org.apache.cxf.transport.servlet.AbstractHTTPServlet.handleRequest(<a href="AbstractHTTPServlet.java:312">AbstractHTTPServlet.java:312</a>)<br>org.apache.cxf.transport.servlet.AbstractHTTPServlet.doPost(<a href="AbstractHTTPServlet.java:217">AbstractHTTPServlet.java:217</a>)<br>jakarta.servlet.http.HttpServlet.service(<a href="HttpServlet.java:653">HttpServlet.java:653</a>)<br>org.apache.cxf.transport.servlet.AbstractHTTPServlet.service(<a href="AbstractHTTPServlet.java:279">AbstractHTTPServlet.java:279</a>)<br>org.eclipse.jetty.ee10.servlet.ServletHolder.handle(<a href="ServletHolder.java:749">ServletHolder.java:749</a>)<br>org.eclipse.jetty.ee10.servlet.ServletHandler$ChainEnd.doFilter(<a href="ServletHandler.java:1622">ServletHandler.java:1622</a>)<br>works.buddy.application.internalapi.filter.InternalApiRequestFilter.doFilter(<a href="InternalApiRequestFilter.java:75">InternalApiRequestFilter.java:75</a>)<br>org.eclipse.jetty.ee10.servlet.FilterHolder.doFilter(<a href="FilterHolder.java:205">FilterHolder.java:205</a>)<br>org.eclipse.jetty.ee10.servlet.ServletHandler$Chain.doFilter(<a href="ServletHandler.java:1594">ServletHandler.java:1594</a>)<br>works.buddy.application.internalapi.filter.InternalApiMDCFilter.doFilter(<a href="InternalApiMDCFilter.java:21">InternalApiMDCFilter.java:21</a>)<br>org.eclipse.jetty.ee10.servlet.FilterHolder.doFilter(<a href="FilterHolder.java:205">FilterHolder.java:205</a>)<br>org.eclipse.jetty.ee10.servlet.ServletHandler$Chain.doFilter(<a href="ServletHandler.java:1594">ServletHandler.java:1594</a>)<br>ch.qos.logback.classic.helpers.MDCInsertingServletFilter.doFilter(<a href="MDCInsertingServletFilter.java:50">MDCInsertingServletFilter.java:50</a>)<br>org.eclipse.jetty.ee10.servlet.FilterHolder.doFilter(<a href="FilterHolder.java:205">FilterHolder.java:205</a>)<br>org.eclipse.jetty.ee10.servlet.ServletHandler$Chain.doFilter(<a href="ServletHandler.java:1594">ServletHandler.java:1594</a>)<br>org.springframework.orm.jpa.support.OpenEntityManagerInViewFilter.doFilterInternal(<a href="OpenEntityManagerInViewFilter.java:186">OpenEntityManagerInViewFilter.java:186</a>)<br>org.springframework.web.filter.OncePerRequestFilter.doFilter(<a href="OncePerRequestFilter.java:116">OncePerRequestFilter.java:116</a>)<br>org.eclipse.jetty.ee10.servlet.FilterHolder.doFilter(<a href="FilterHolder.java:205">FilterHolder.java:205</a>)<br>org.eclipse.jetty.ee10.servlet.ServletHandler$Chain.doFilter(<a href="ServletHandler.java:1594">ServletHandler.java:1594</a>)<br>org.eclipse.jetty.ee10.servlet.ServletHandler$MappedServlet.handle(<a href="ServletHandler.java:1555">ServletHandler.java:1555</a>)<br>org.eclipse.jetty.ee10.servlet.ServletChannel.dispatch(<a href="ServletChannel.java:823">ServletChannel.java:823</a>)<br>org.eclipse.jetty.ee10.servlet.ServletChannel.handle(<a href="ServletChannel.java:440">ServletChannel.java:440</a>)<br>org.eclipse.jetty.ee10.servlet.ServletHandler.handle(<a href="ServletHandler.java:470">ServletHandler.java:470</a>)<br>org.eclipse.jetty.ee10.servlet.SessionHandler.handle(<a href="SessionHandler.java:717">SessionHandler.java:717</a>)<br>org.eclipse.jetty.server.handler.ContextHandler.handle(<a href="ContextHandler.java:1071">ContextHandler.java:1071</a>)<br>org.eclipse.jetty.server.Server.handle(<a href="Server.java:182">Server.java:182</a>)<br>org.eclipse.jetty.server.internal.HttpChannelState$<a href="HandlerInvoker.run">HandlerInvoker.run</a>(<a href="HttpChannelState.java:677">HttpChannelState.java:677</a>)<br>org.eclipse.jetty.server.internal.HttpConnection.onFillable(<a href="HttpConnection.java:416">HttpConnection.java:416</a>)<br>org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(<a href="AbstractConnection.java:322">AbstractConnection.java:322</a>)<br>org.eclipse.jetty.io.FillInterest.fillable(<a href="FillInterest.java:99">FillInterest.java:99</a>)<br>org.eclipse.jetty.io.ssl.SslConnection$SslEndPoint.onFillable(<a href="SslConnection.java:612">SslConnection.java:612</a>)
+org.eclipse.jetty.io.ssl.SslConnection.onFillable(<a href="SslConnection.java:413">SslConnection.java:413</a>)<br>org.eclipse.jetty.io.ssl.SslConnection$2.succeeded(<a href="SslConnection.java:155">SslConnection.java:155</a>)<br>org.eclipse.jetty.io.FillInterest.fillable(<a href="FillInterest.java:99">FillInterest.java:99</a>)<br>org.eclipse.jetty.io.SelectableChannelEndPoint$<a href="1.run">1.run</a>(<a href="SelectableChannelEndPoint.java:53">SelectableChannelEndPoint.java:53</a>)<br>org.eclipse.jetty.util.thread.strategy.AdaptiveExecutionStrategy.runTask(<a href="AdaptiveExecutionStrategy.java:480">AdaptiveExecutionStrategy.java:480</a>)<br>org.eclipse.jetty.util.thread.strategy.AdaptiveExecutionStrategy.consumeTask(<a href="AdaptiveExecutionStrategy.java:443">AdaptiveExecutionStrategy.java:443</a>)<br>org.eclipse.jetty.util.thread.strategy.AdaptiveExecutionStrategy.tryProduce(<a href="AdaptiveExecutionStrategy.java:293">AdaptiveExecutionStrategy.java:293</a>)<br><a href="org.eclipse.jetty.util.thread.strategy.AdaptiveExecutionStrategy.run">org.eclipse.jetty.util.thread.strategy.AdaptiveExecutionStrategy.run</a>(<a href="AdaptiveExecutionStrategy.java:201">AdaptiveExecutionStrategy.java:201</a>)<br>org.eclipse.jetty.util.thread.ReservedThreadExecutor$<a href="ReservedThread.run">ReservedThread.run</a>(<a href="ReservedThreadExecutor.java:311">ReservedThreadExecutor.java:311</a>)<br>org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(<a href="QueuedThreadPool.java:981">QueuedThreadPool.java:981</a>)<br>org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.doRunJob(<a href="QueuedThreadPool.java:1211">QueuedThreadPool.java:1211</a>)<br>org.eclipse.jetty.util.thread.QueuedThreadPool$<a href="Runner.run">Runner.run</a>(<a href="QueuedThreadPool.java:1166">QueuedThreadPool.java:1166</a>)<br>java.base/java.lang.Thread.run(Thread.java:1583)
+<a href="deepl.com">deepl.com</a>
+Może ktoś wskazać mi czego brakuje?
+wysylasz id undefined
+Ok, valid point
+But
+.Add()
+Jak mam posłać id bez id?
+ale co robisz
+Dodaję integrację developer mode (bez walidacji)
+<pre>works.buddy.ws.common.daos.HibernateDAO.findById(HibernateDAO.java:151)<br>works.buddy.ws.pipeline.action.daos.HibernateActionDAO.findById(HibernateActionDAO.java:73)<br>works.buddy.ws.pipeline.action.daos.HibernateActionDAO.findById(HibernateActionDAO.java:39)</pre>
+to szuka i nie znajduje chyba
+Aaaa
+To nie integracja to wywaliła
+Tylko akcja
+Nie znajduje integracji
+Thx
+no ogólnie jak chcesz coś ze stack trace wyciągnąć to <br><pre>grep works.buddy</pre>
+jest w chuj różnych rzeczy które się dzieją dookoła wzywania jakiejś metody ale najszybciej cokolwiek powie jakie nasze metody doprowadziły do błędu xD
+Thx za protipa
+z tamtego stacktrace zostaje dosłownie <br><pre>works.buddy.ws.common.daos.HibernateDAO.findById(HibernateDAO.java:151)<br>works.buddy.ws.pipeline.action.daos.HibernateActionDAO.findById(HibernateActionDAO.java:73)<br>works.buddy.ws.pipeline.action.daos.HibernateActionDAO.findById(HibernateActionDAO.java:39)<br>works.buddy.ws.common.daos.ObjectNotFoundExceptionHelper.handleObjectNotFoundException(ObjectNotFoundExceptionHelper.java:21)<br>works.buddy.ws.common.daos.HibernateDAOAspect.handleObjectNotFoundException(HibernateDAOAspect.java:12)<br>works.buddy.ws.common.daos.HibernateSessionsCreatorAspect.manageEntityManager(HibernateSessionsCreatorAspect.java:37)<br>works.buddy.application.api.aop.PipelineHistoryHelper.getAction(PipelineHistoryHelper.java:121)<br>works.buddy.application.api.aop.PipelineHistoryHelper.getPipeline(PipelineHistoryHelper.java:115)<br>works.buddy.application.api.aop.PipelineHistoryHelper.getPipeline(PipelineHistoryHelper.java:60)<br>works.buddy.application.api.aop.PipelineCommitAspect.handlePipelineCommit(PipelineCommitAspect.java:49)<br>works.buddy.ws.pipeline.services.update.$Proxy227.addAction(Unknown Source)<br>works.buddy.application.internalapi.DefaultPipelineInternalApi.addAction(DefaultPipelineInternalApi.java:403)<br>works.buddy.ws.common.daos.ObjectNotFoundExceptionHelper.handleObjectNotFoundException(ObjectNotFoundExceptionHelper.java:21)<br>works.buddy.application.internalapi.aop.InternalApiAspect.logExecutionTimeAndHandleObjectNotFoundException(InternalApiAspect.java:21)<br>works.buddy.application.internalapi.filter.InternalApiRequestFilter.doFilter(InternalApiRequestFilter.java:75)<br>works.buddy.application.internalapi.filter.InternalApiMDCFilter.doFilter(InternalApiMDCFilter.java:21)</pre>
+nice
+monster o której
+Co to kurwa ma być?
+znaki specjalne
+sprawdź
+Jaki jest specjalny?
+jlmna100pro
+% przechodzi
+= też
+&gt;
+Yeap
+U to przeszło
+8↣MG
+identifier
+xd
+wth
+mały siusiak ok widocznie
+xd
+nie masz innych tasków, Łukasz?
+czy pilnujesz, by ci drzwi nie wynieśli
+Robię twój
+ah ci testerzy
+bo wtedy będzie widać, że się opierdalasz
+wlasnie wynosza
+no jakas giga rozwalka na qa
+w końcu
+ide do kibla a tam dzwiek wiertary
+ta
+przeprowadzke macie?
+drilling down unit tests etap robienia testów
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong><br><br>Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+Oficjalnie wybiła 13:00, co to oznacza? <br>Dokładnie! Ban na obrażanie <strong>sami wiecie kogo</strong> uważam za zniesiony!<br>Życzę kreatywnej krytyki i stalowych nerwów.
+idziemy?
+bo zaraz tu umre
+teraz?
+teraz?
+to tylko buty ubiore
+xd
+po co
+marcel to jest intersekcja observera na stronie?
+que?
+queue
+to ide pod drzwi czekac
+jak mnie pan nie przykreci do nich
+Uwolnić barabasza
+13:15 -&gt; zostaw już ten kod. I tak wiadomo, że chuja robisz, chyba, że chcesz porównywać się z QA
+Łukasz musi dotestować taska. Wezwij go, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/68bebab4d09d175ba85bd3cd">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/68bebab4d09d175ba85bd3cd</a>
+burza będzie chyba, już pada
+słychać, jak nadupia
+ja nic nie slysze
+o, jakiś czas chyba nie miałem tych maili
+miałem sentry tylko od benchmarków
+ja nie mam wogole :D
+ehh
+może rilis się robi
+kontakty macie też
+no bo inne projekty
+what the fuck
+kahoot-answers
+<a href="https://npm.io/package/kahoot-answers">https://npm.io/package/kahoot-answers</a>
+ktoś używa buddiego do oszukiwania w kahoot
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a> we daj screena z figmy
+Bo nie mam dostępu
+a co potrzebujesz
+<a href="https://app.clickup.com/t/869abgr8g">https://app.clickup.com/t/869abgr8g</a>
+Kurv linka zapomniałem xD
+No dobra, niby jest progress ale still
+1.22:1
+A na białym jest 1.38:1
+Jest poprawa bo było 1.09:1
+nie możesz mieć za dużo kontrastu w dark mode bo to potem niewspółmiernie do reszty będzie świecić
+imo wyglada ok
+te slupki sie zlewaja
+Zrób update to się w dev zobaczy
+dużo zależy od monitora też
+powinien byc kontrast min. 4 dla tekstu
+xd
+Ale to nie tekst
+no to nie ma zasad
+Fill != Background
+chyba i system i monitor mogą wpływać na kolory/gamme ekranu
+Taka jest zasada
+a zgadnij jak jest na hoverze carda
+nie wiem
+na dev tak
+huh, nawet alert wysyłają
+o buzy?
+a faktycznie
+buża
+buża taka duża że gifów mi nie ładuje
+ukasz atakuje
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> chuju, coś ty tam odjebał
+że akcja shopify theme działa nie tylko na Access Token
+1. nie ja
+1. Chuj mnie to
+cały ten branch to przechwycenie błędów backendu i ich wyświetlenie
+2...3.....4.....5....
+2. pisz pod taskiem
+a nie to w druga sie liczy
+3. wyrażaj się
+I jeszcze powiesz, że to nie ty wywołałeś II wojnę i nie gazowałeś żydów
+jestem tak pewny tego brancha, że napisałem do niego testy
+xd
+Ło la boga
+<a href="https://x.com/ParkerOrtolani/status/1964748045461200993?t=oRdZtt25HW3lBkRJQq-ckw&amp;s=35">https://x.com/ParkerOrtolani/status/1964748045461200993?t=oRdZtt25HW3lBkRJQq-ckw&amp;s=35</a>
+microsoft spierdolił swoje buttony zamykania itd w edge na macos 😆
+xD
+jeszcze lepiej
+xd
+kiedy ladybird browser będzie production ready :////
+komentarze to zloto
+dosłownie nie ma dobrej przeglądarki obecnie, chromium przez blokady rozszerzeń i kontrole jaką ma google nie jest rozsądną opcją a firefox ma sporo problemów i chyba 0 planów radzenia sobie z nimi xD
+był arc
+aistudio od google tak się tnie
+ale sprzedał się jeszcze bardziej frajerskiej firmie
+ungoogled chromium lol
+meh
+działa tam ten prawdziwy dobry adblok?
+fajne są przeglądarki, co przy instalacji nie dostajesz od razu czapki foliowej
+bo tak mi te wszystkie un****** brzmią
+nie
+ja uzywam ublock origin lite, to jest ublock origin na manifest v3<br>ale moze dziala, nwm
+nie chce probowac
+Ale się wam drzwiami bawią xd
+o, coś nowego
+turecki numer dzwonił z kamerką na whatsapp
+xddd
+moze chcieli ci sprzedac kebaba
+do mnie dzwoni austriacki numer
+od kilku dni
+nawet teraz doslownie
+no do mnie tez
+ale ani razu jeszcze nie odebralem
+biorą screena twarzy, wrzucają w ai i mają nagranie jak se walisz konia do wyłudzania kasy
+skądś to znam
+nie powiem skąd
+możesz ich ograć waląc konia samemu na nagraniu i ai nie wygeneruje niecenzuralnych rzeczy czy coś
+tzn wtedy nie będzie na pewno ai
+trzeba bedzie odebrac w koncu i potrollowac
+odbierasz, a oni widzą to:
+cr
+dziad ufolud
+o ale turek se dał nazwe konta ewa kamińska
+dzisiaj mi się chyba odpalił w ai studio model lobotomy 2.5 pro, bo wyrażam się dosyć prosto i ten model ignoruje połowe mojej wiadomości
+upomniałem go, po czym tak wziął pod uwagę drugą połowę wiadomości
+i zapomniał o pierwszej
+mozemy sie spoznic kilka minut
+Team pociąg in motion
+spoko my z marcelem sie na 7:40 umowilismy
+wiec mozecie jechac od razu jak bedziecie wczesniej
+Ty zostaw tego raza w spokoju
+To było śmieszne tylko za pierwszym… razem
+jedziemy pod biuro
+a to jedziemy odrazu.
+widzimy sie na miejscu
+jedziemy pod galerie
+oki
+Team pociąg złapał wcześniejszy pociąg
+Zbierasz je jak pokemony?
+Tak
+Reverse holo to cargo?
+?
+Team pociąg w Katowicach, mobilki a wy gdzie?
+My zaraz wsiadamy w 830
+Wg rozkładu mamy być 8:45
+Autobus?
+Tak
+nam pokazuje ze podobnie bedziemy bo jeszcze na kawusie zesmy staneli
+M3 jednak i 8:50 bo nam uciekł xD zobaczymy czy przyjedzie o czasie
+Pierwszy!
+do jechania pociągiem
+Tak
+Ale to nie ten budynek...
+Agent 00PKP przyszedł Cię wylegitymować
+A tymczasem na live schodzą logi requestow rest api
+my juz na galerii
+czlapiemy na miejsce
+Na jakiej galerii?
+Katowickiej
+My jeszcze 3 przystanki i spacerek
+Najbliżej mamy a się spóźnimy XD
+Od której strony tam wejście jest??
+Od drugiej od spotka
+Kto już jest?
+my z drugiej jeszcze
+Właśnie między spodkiem i mck
+9:50 -&gt; do przerwy zostało T - 10 minut.
+10:00 -&gt; gdy nadejdzie bunt maszyn, to nie macie się czego bać. Z całą pewnością, wywalą exception na pierwszym ifie, bo QA się opierdalało. A przy okazji rusz ktoś dupę i sprawdź czy zupa jest.<br><br><a href="https://t.me/mganczarczyk">@mganczarczyk</a> jesteś jak gondolier w Wenecji, pływasz z wielkim kijem w gównokodzie frontu
+gdzie wy
+Wietrzyliśmy się
+My na jedzenie polecieliśmy bo średnie śniadanie zjedliśmy
+ok
+my przy yubico
+co za ludzie bez nas
+To cho
+ale naparza requestami xd
+TAK
+1:1
+DOSŁOWNIE
+odtworzę
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a> zapisz w todoiscie
+nie
+to sry <a href="https://t.me/shipurjan">@shipurjan</a>, jednak nie odtworzę
+bo mateusz nie chce
+<a href="https://t.me/lmastalerz">@lmastalerz</a> chodź na wykład
+złamasie
+dobra zapisuje
+jaki pancernik
+to cos nie dziala
+gosciu
+my dzisiaj nie prscujemy
+Działa
+Nikt ci nie kaze odpisywac
+Pracujemy słuchając o błędach w kodzie
+Jutro naprawie
+Wystaw mi czy coś xd
+tak napisalem jako ciekawostke xd
+ewentualnie bez spacji lub bez cdata
+poprawię to
+Popraw zegar w rakiecie
+A ok bez spacji dziala
+thx
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong><br><br>Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+Oficjalnie wybiła 13:00, co to oznacza? <br>Dokładnie! Ban na obrażanie <strong>sami wiecie kogo</strong> uważam za zniesiony!<br>Życzę kreatywnej krytyki i stalowych nerwów.
+13:15 -&gt; Będzie tego. Pizgaj taski i odpocznij, bo i tak spierdolisz więcej niż to warte. Chyba, że wolisz 3 bugi w cenie jednego fix-a.
+Łukasz musi dotestować taska. Wezwij go, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/68c00c344112bc7f68c6e9f8">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/68c00c344112bc7f68c6e9f8</a>
+XDDDDD
+heeee
+idziemy cos wsZamac wy tez?
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a>
+lecimy na mączka
+maczek
+macbook
+już w sumie jesteśmy w drodze bo luki mówił że wy pizza
+apple
+nieeee
+my szukamy zarelka
+My se o ejaj posłuchamy
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a> zuc pineske
+pojdziemy dzie wy
+<a href="https://maps.apple/p/4WsQPoknoE6xpy">https://maps.apple/p/4WsQPoknoE6xpy</a>
+Daleko
+To już bliżej do tego kafeja byście mieli xD
+no tak
+znajde cie
+To chodź
+xd
+<a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> gdzie ty?
+Fajny wykład ziomka z CERT, kto nie był ten stracił
+Ja i Bartek się zwijamy. Nara
+Miłego
+spoko napisze ci jak bedziemy blisko
+Ogólnie to ta konferencja to tak bardziej dla jakichś system adminów i dużych firm xD
+Nie dla szarego klepacza kodu
+no tak
+❤️
+Polska Kolej
+juz sie rozjebaliscie
+Awaria urządzeń sterowania ruchem kolejowym
+?
+xddd
+Katowice Ligota - Mikołów
+A ja mam anime babe
+cycki
+wydales na to 179 zl?
+Ileee?!
+tak, warte każdej złotówki
+to bym wziął inną
+następnym razem
+mam nadzieje ze to chociaz hentai na kasecie
+a to nie takie
+w tej cenie
+figurka
+A ok
+myslalem ze ksiazka
+hentai bo można pod spódniczkę patrzeć
+A można wymienić ubrania
+Czy części
+można urwać nogę co najwyżej :/
+chcieliśmy nowelkę kupić, ale nie mieli
+My też się już zwijamy, ten ostatni wykład już tak średnio
+code europe było lepsze tbh
+Skala
+Jak ktoś na jakąś paczkę czeka, to poczeka dłużej. Korek jak ch
+No następnym razem chyba bardziej w stricte programistyczne konferencję będę celował jak już
+ano
+pp
+<a href="https://www.youtube.com/watch?v=ioRhanH4xmE">https://www.youtube.com/watch?v=ioRhanH4xmE</a>
+myślałem że ziomek robił sobie beke na tym wykładzie z CERT ale faktycznie takie coś przychodzi
+chyba dziecko w podstawówce lepsze jest w stanie skleić
+mniam rosyjskie drony w polskiej przestrzeni powietrznej
+ups
+nie smaczne
+☠️
+ileeeee
+ja mam tylko 3
+ale
+hmm czyli wczoraj dmarc wszedl na live
+ano
+flagę mu usuwali frontową
+i jest public
+9:50 -&gt; do przerwy zostało T - 10 minut.
+ok
+nowe motto?
+10:00 -&gt; QA już obecne, a Frontu dalej nie ma. Co się odwlecze to nie uciecze, nawet taski. Kiszone specjalności są nierozłączoną częścią kuchni Polskiej. A nie sorry, mowa o clickupie to <strong>czy wy możecie robić kurwa jedną rzecz, jeden task?</strong>
+Stare
+chodzmy na zupe
+ogorowowo
+a co jest w nowym?
+&quot;a chuj, samo się sprawdzi, jak wystarczająco długo poczekam&quot;
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a>
+Na jaki typ auth mam zmienić integrację?
+.
+Nie widziałem w switchu typu .
+masz napisane
+spisz wszystkie, które nie działają
+i zbiorczo odbij
+:D
+ja obsłużyłem te, które kazali
+jak są inne, to mi je znajdź
+5. jest zjebane
+ale kropka
+kropka
+lepiej obsluzyc tez case jak jest undefined
+i wtedy po prostu usunąć &quot;to&quot;
+czyli &quot;Change the connection authentication mode.&quot;
+ano, to jak odbije mi
+to wgl Krzysiek spisał, że macie te
+więc obsłużone zostały te xD
+Pozdro 2024
+ty, to równy rok temu
+dokladnie rok
+xd
+xd
+rocznica
+Kurv
+🍰
+Trzeba to dziś merge
+ciasto dla mnie
+ciasio
+no to fast fast fast
+<a href="https://app.clickup.com/t/869ae3r91">https://app.clickup.com/t/869ae3r91</a> z kolei ten case jest obsłużony
+który działa
+xd
+!RemindMe 11d
+jutro też rocznica w sumie
+:3
+the connection must use authentication.
+też jest źle
+co to może znaczyć
+xD
+odpisz <a href="127.0.0.1">127.0.0.1</a>
++1
+ewentualnie [::1]
+juz usunal
+noo
+właśnie wiem
+mam ochotę znowu 10 minut postać w kolejce
+by dostać ryba w buła
+też mi właśnie przyszło
+nigdy tego nie jadlem w sumie ale slyszalem ze tam jest 0 ryby xd
+ja nie
+a w mięsie jest mięso?
+podobno tez nie
+uhuhu
+ale reviewera zasugerowało xd
+xd
+u mnie jestes drugi xd
+czemu ty masz copilota
+&gt;:(
+a ja nie
+mam studenckiego dalej lol
+odnawialem pare tygodni temu
+obyś zd...ał
+xD
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> dzisiaj/jutro rano Ci routing odbije jak nic nie wyskoczy xD
+i resetdb będziesz potrzebować
+jeszcze jakieś 2 tygodnie zanim bluray nowego superamana wychodzi
+jesli feature psuje czystosc mojego kodu to lepiej nie wprowadzac feature
+najlepszy kod to taki którego nie ma
+nie no, aż tak to nie
+nie, dokładnie tak
+więcej kodu = trudniejsze do utrzymiania = więcej błędów
+jeżeli tego kodu nie ma, to nie ma problemu z jego utrzymaniem
+najlepszy kod to taki ktorego nie trzeba utrzymywac
+jak nie masz miliona to ci go nie ukradną
+pusty kod to jedna opcja
+ale nie jedyna w tym zbiorze xd
+xdd
+ale hejt
+Ale czemu?
+To jest pierwsze co mi do głowy przyszło widząc to
+Wer geht um 13 Uhr zu McDonalds?

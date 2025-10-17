@@ -1,0 +1,965 @@
+﻿dokładnie co za dzbaniarstwo
+nawet z kontentem &quot;KURWA&quot;? no to to juz powazna sprawa
+to chyba stąd ten right debugging spirit xd
+ale oplacilo sie bo w koncu zaczelo dzialac lol
+farciarzu
+marcel stalo sie cos niewarygodnego
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a>
+co
+sriracza jest nowa
+woah
+yey
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong><br><br>Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+oj tak, tak
+żaba dobra sprawa
+kop kop
+13:15 -&gt; zostaw już ten kod, trzeba coś zjeść. qa w kąt, a ty znikaj stąd
+Dzisiaj nie wzywamy małpiszona.
+<a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a>
+robił ktoś coś z akcją firebase?
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a>
+usuń 600 błędów
+tam bledow nie ma
+warningów
+aha
+xd
+zulty scrollbar
+musialbym dla kazdego recznie zmieniac
+<a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> <a href="https://learn.microsoft.com/en-us/dotnet/fundamentals/code-analysis/code-style-rule-options">https://learn.microsoft.com/en-us/dotnet/fundamentals/code-analysis/code-style-rule-options</a>
+to jest bazowo zaimplementowane w edytor
+edytor bierze zasady z binarki która respektuje config raczej
+no można sobie tam zmieniać severity niektórych rzeczy
+zależy co tam masz xD
+duzo mozna zmienic
+a jest opcja że nawet per file za pomocą adnotacji
+wpisujesz na poczatku pliku linijke ze ma nie sprawdzac pisowni i tego nie robi
+@🦍
+@🐒
+@🦧
+🖕
+@🦍
+xddddd
+jest ktoś?
+<a href="https://t.me/BartShoot">@BartShoot</a> <a href="https://t.me/mganczarczyk">@mganczarczyk</a>
+za ~20 minut
+ok
+<a href="https://t.me/BartShoot">@BartShoot</a>
+<a href="https://t.me/BartShoot">@BartShoot</a> które polecenie do exportu zmiennej w powershellu ustawi mi w ActionExecution.ExportedVariables wartość
+env:variable = wartość
+Chyba tak to było
+a co z Set-Variable?
+albo New-Variable?
+one są ignorowane?
+Jeżeli da się nimi ustawiać env variable to nie
+Jak to są jakieś inne zmienne to tak
+da sie
+jak to ma działać
+Daj mi chwilę bo dawno z tym robiłem xD
+to sprawdz :)
+bo jak nie to sam sprawdze
+:D
+<code>$env:variable</code> zadziała?
+ok dziala
+:D
+Wyślijcie scruma na grupie<br>@małpiszon <a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> <a href="https://t.me/mganczarczyk">@mganczarczyk</a> <a href="https://t.me/shipurjan">@shipurjan</a> <a href="https://t.me/mnawiesniak">@mnawiesniak</a> <a href="https://t.me/BartShoot">@BartShoot</a> <a href="https://t.me/mJakobsche">@mJakobsche</a>
+jak ten task pomyślnie przejdzie testy bez fixowania niczego to świętuje
+który task
+powershell
+powershell
+narazie to kurwie na to co tu jest
+i napierdala mnie ucho
+:D
+tak, nie chce tego ruszać kijem
+wiec mi to nie pomaga
+i jescze kurw adebuga nie moge zrobic bo dostaje jeban SOE
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> przesuwałeś tą kropkę?
+Mateusz
+mateusz przesuwałeś?
+odpowiem za niego: &quot;tak&quot;
+a mógółby przywrócić tam classe czy to będzie problem?
+bo na devie jest v2-card-stack-actions
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a>
+no i where problem
+to normalnie przez testy kiedyś przeszło
+dociągnij deva :&gt;
+??????
+co
+był od tego task
+by wszystko na prawo poszło
+nie t
+wszystkie te kropki, labele
+tak
+to ty dociagnij deva
+:D
+<a href="https://app.clickup.com/t/8698enwrw">https://app.clickup.com/t/8698enwrw</a>
+mn nie ma dzis xd
+w takim razie bo masz outdated
+wait
+bo ja tu kod mam nowy juz a branch poweshell ma stary
+tylko powershell ma z lewej?
+tak
+no to dociągnięcie deva nic nie da
+a czekaj
+sprawdze czy tylko on
+wszystko jest  z lewej
+łeeee
+moment
+kurwa
+jebane zdjecia
+widze ze robiles merge deva :D
+wczoraj
+tak
+to jest nowy plik
+więc nie ma zmian Mateusza
+muszę ręcznie zrobić tam to, co on we wszystkich plikach w apce
+nie
+niemusisz
+&quot;D
+ta?
+to słucham
+jest git
+git.exe
+zamykam temat
+zjadłbym zupke
+no by to chuj strzelił, jeszcze muszę brancha releasować
+aaaaAAAAAAAAAA
+co ?
+mam ut na swojej maszynie
+no to zostaw
+9:50 -&gt; do przerwy zostało T - 10 minut.
+albo bandycko na sd6 się wpiąć
+nie musisz nic fixowac
+tak, będzie jeden krzaczek
+?
+ja nie zrobilem release na sd6 od wczoraj
+wczoraj na dev wszedły tylko moje zmiany
+nic od Mateusza
+ale zrobilem release i mam juz po prawej
+i don&apos;t even
+oprócz tej pustej kropki
+bo mateusz o niej zapomniał
+albo myślał, że coś robi
+a to to jest
+nie wiem co ona robi
+zajmuje miejsce
+by nie skakał content
+xd
+10:00 -&gt; jest piątek, weekendu początek. Uhonorujmy ten wspaniały dzień miską <strong>psznej zupy</strong> i jeszcze lepszego ciasta. Życzę wam spokojnego życia bez przypierdolek QA.<br><br><a href="https://t.me/lmastalerz">@lmastalerz</a>, zrób test małpy
+zuuupa
+właśnie mi gdzieś mignął post że wkrótce programiści plc będą w stanach bardzo potrzebni 😆
+bo jak mają robić produkcje w stanach to ktoś tam te wszystkie maszyny musi programować
+gdzie ide
+trzeba glassdor monitorowac
+no tak ogólnie, przecież cała ta akcja z taryfami to właśnie temu żeby uniezależnić amerykę od importów
+w europie też ale na mniejszą skalę ludzie będą chcieli zastąpić rzeczy robione w stanach tymi robionymi u nas
+skoro oni są tak niepoważni i z dnia na dzień mogą rozjebać se ekonomie
+ale cała ta kalkulacja opiera się o tym że lokalnie robione rzeczy będą miały jakiś rynek, wszystko będzie droższe niż rzeczy robione w chinach xD
+więc troche hazard
+jprdl
+ok
+zaraz wybuchne
+co sie dzieje
+nie łatwe jest życie creepera
+<a href="https://potetm.com/devtalk/stability-by-design.html">https://potetm.com/devtalk/stability-by-design.html</a>
+ciekawe jak wyglądają u nas takie wykresy
+kaujhgkuahflakfkag
+ale nie mogę znaleźć gotowca który to robi a robienie tego od zera to w chuj zabawy chyba xD
+jak sie nazywa ten model co robi takie anime zdjecia jak nasze profilowe
+od openai
+który to już ci nie powiem
+4o
+ok
+hehe
+Ustaw se
+sobie
+mozna u nas robic pull requesty
+&gt;
+?
+pull requesty na avatar?
+approve
+nie dzbanie
+request changes
+&gt;:(
+ja requestuje zebys sobie zmienil avatar
+ja approvuje
+tak bez code review?
+vibe code review &gt; vibe coding
+czy w code mozna pull request
+No i git teraz
+nie, tylko merge request
+ale to i tak tylko dla repo z buddy&apos;ego
+więc nie dla nas
+a dla was nie trzeba
+bo chce cos wygenerowac
+no brakuje w apce porządnych pull requestów/code review
+💀
+i generowanie diffów można by oprzeć o coś lepszego, jest difftastic który niestety ma chujowy json output ale mają sporo rozpisane jak robią te semantic diffy
+biorą abstract syntax tree pliku za pomocą tree-sittera i wyszukują &quot;najkrótszą możliwą ścieżkę&quot; między nimi więc rozumie że jakaś zmiana dzieje się tylko na zmiennej albo w środku metody
+zamiast zaznaczać wszystko dookoła
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> jaki kozak
+🗿
+ta wygeneruj wszystkim a potem wrzuć do prompta - na podstawie tych postaci stwierdź która ma największą szanse zginąć jako pierwsza w anime typu death-game
+xd
+xd
+tylko ja mam wersje free wiec 2 zdjecia moge
+Fate buddy/pipeline
+marcel ustaw sobie na profile
+mózg mu sprałeś
+he?
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong><br><br>Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+ja i tak spadam to nie ide
+13:15 -&gt; To już ostatni raz jak się spotykamy w tym tygodniu, więc może ruszyłbyś dupę? Dzisiaj i tak QA nie wystawia bugów, bo Łukasz rozjebał czołg (polski)
+Dzisiaj nie wzywamy małpiszona.
+<a href="https://t.me/shipurjan">@shipurjan</a>
+ale napiszczie jak bedziecie
+<a href="https://x.com/dioxuslabs/status/1920183444099014857?t=pOYdmPdfZ5yEmpkBNV6SHQ&amp;s=19">https://x.com/dioxuslabs/status/1920183444099014857?t=pOYdmPdfZ5yEmpkBNV6SHQ&amp;s=19</a>
+hot reload w ruście, zrobiony na tyle ogólnie że inne rzeczy nie tylko dioxus będą mogły z tego korzystać
+wowa
+jakoś w tym miesiącu wychodzi wersja 0.7 i tam będzie ten hot reload, automatycznie dzielenie kontenerów wasm, natywne renderowanie na gpu i inne
+trzeba sprawdzić jak wyjdzie xD
+brzmi jak lepsze tauri
+w teorii
+ale w praktyce pewnie mniej rozwiniete
+Aaa Dioxus nie uzywa chyba JS tylko Rust do komponentow
+wiec bedzie troszeczke szybszy
+ale duzo mniej wygodny
+i wciaz uzywa WebView
+więc imo tauri lepsze
+wole uzywac Reacta i JS niz jakiegos nowego ekosystemu
+ale wspiera tailwinda natywnie
+zwykle to umiera po jakims czasie
+i piszą że pracują nad wsparciem dla radixa więc shadcn tez powinien niedlugo być osiągalny
+Dioxus is a framework for building fullstack web, desktop, and mobile apps with a single codebase. Our goal is to build a &quot;Flutter but better.&quot; Dioxus focuses on first-class fullstack web support, type-safe server/client communication, and blazing fast performance.
+Spoko, ale nie widzę jakby dużego powodu żeby tego używac zamiast JS<br>Rusta mozna uzywac do wolnych funkcji, ale do samego UI JS jest chyba najbardziej przetestowany w boju
+w sumie nie wiem jak tauri i leptos i pewnie 5 innych alternatyw wypada w porównaniu
+moze bedzie troszeczke szybsze ale to jest mikrooptymalizacja imo
+no chyba ze jest jakis powod ktorego nie widze
+no pewnie główne punkty zaczepne to: piszesz w ruście no i szybkie
+każde spowolenienia się składają, wszystko zależy od usecase&apos;a, do jakiegoś prostego cruda absolutny overkill, coś z aktualizacjami na żywo gdzie każde opóźnienia mają znaczenie to już powoli będzie miało sens
+ostatnio uncle bob na twitterze prowadzi walkę że scala jest szybka, można mieć programy w 20 fps z setkami obiektów na ekranie
+a każdy z gamedevu czy innych branży gdzie zależy na szybkości cisną go że takie podejście i całe OOP prowadzi do tego że czekamy sekundy na jakieś akcje które powinny się dziać od razu
+np otwieranie folderu
+No to w tauri piszesz taką funkcję w ruście a UI masz w JS
+i tylko invokujesz funkcję rustową która działa na poziomie systemu z UI
+A to dioxus i tak jest w webview wiec chyba sie jakos kompiluje do JS i tak?
+więc w sumie jedyny &quot;plus&quot; to że wszystko masz w ruście w codebase
+na ten moment chyba jeszcze tak, mają mieć swoje natywne renderowanie po webgpu
+A ok
+no to git
+wtedy
+<a href="https://x.com/dioxuslabs/status/1885196755203158275">https://x.com/dioxuslabs/status/1885196755203158275</a>
+Czyli robią Rustowego claya <a href="https://github.com/nicbarker/clay">https://github.com/nicbarker/clay</a>
+jest taka opcja
+<a href="https://www.dash0.com/blog/monitoring-minecraft-with-opentelemetry">https://www.dash0.com/blog/monitoring-minecraft-with-opentelemetry</a>
+9:50 -&gt; do przerwy zostało T - 10 minut.
+10:00 -&gt; najgorszy dzień tygodnia. QA znowu wystawiać taski o byle pierdoły. Frontu nie ma i nie będzie. Świat schodzi na psy. Przynajmniej jest zupa.<br><br><a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> <a href="https://t.me/lmastalerz">@lmastalerz</a>, zróbcie fikołka
+qa nie ma
+nie tracicie, zupa średnia
+starsi też narzekają że przepływ informacji ssie, Jarek się dzisiaj dowiedział że w sobotę będzie musiał obsługiwać tickety niezadowolonych ludzi bo apka leży
+a my na backendzie wiedzieliśmy o tym od paru tygodni przynajmniej xD
+xdddd
+ale ta co byla?
+nie, ta co ma być
+to co było to niespodzianka
+ale było dogadane wcześniej że nie 1 maja tylko sobota jakiś dalszy termin no i dali nam że w tą sobotę, to prawie od razu było tak ustalone
+okeeej
+to ja tez bede niezqdowolony
+i eystawie ticketa
+albo i Krzysiek od was z testów i Jarek nie wiedzieli co teraz za atak w weekend był
+ktos nas zaatakowal?
+ktoś tak skanował apke haproxy że się wypierdalało i zostały dodane rate limity
+o kurde
+my to wiemy ze spotkania dzisiaj a oni tylko coś tam słyszeli
+no i lipa że takich rzeczy się ktoś w kuchni dowiaduje. takie informacje mogłyby być puszczane gdziekolwiek xD
+to zajebiscie
+od czegos jest ogolny xd
+od pisania jaka zupa i że parkować nie można gdzieś
+nie tylko od zup
+no kiedyś podobno były spotkania całą firmą i wszyscy wiedzieli na bieżąco
+ale już nie ma
+mamy tylko zespołami i kto wie ten wie, kto nie ma pecha
+troche slabo xd
+im mniej wiesz, tym lepiej żyjesz
+czy jakoś tak
+oj tak
+monsterwave
+lecimy punkt 13?
+ok
+aight
+eight
+yo
+go to JAIL
+?????
+chlop robi rap bitwe na telegramie
+na juwenalia bys sie nadal :D
+na juwenaliach śląskich dalej ogłaszają wykonawców
+ćpaj stajl dorzucili jeszcze
+chopie, u nas nic więcej nie potrzeba
+będzie hot dog od grubasa
+i modelki
+czego chcieć więcej
+oprócz mocniejszego alko, by o tych raperach zapomnieć
+rozwodnione<br>piwo
+yes
+best i can do is water beer
+<a href="https://app.clickup.com/t/8694hc4rj">https://app.clickup.com/t/8694hc4rj</a>
+<a href="https://t.me/mJakobsche">@mJakobsche</a>
+Nie wierzę!!!
+nie, nie biorę tego
+znalazłem teraz
+Aha xd
+XD
+Już się bałem że mam domergowac tam deva
+XDDD
+powinno być spoko
+myślę, że będzie bez konfliktów
+tak bez konfilktów
+bo to już pewnie totalnie inny kod
+XD
+kto mnie nauczy commitować, bo gówno widać
+może <a href="https://t.me/mnawiesniak">@mnawiesniak</a>
+zaznacz sobie tekst
+ez
+odpisz tak na któryś z tasków
+o dark modzie
+prosze
+nie ma szans
+daj zaznaczanie na transparent w dark mode
+albo daj je na z-index
+by zasłaniało tekst
+jak sam wiesz gdzie
+xdd
+tak
+imie ktorego nie wolno wymawiaf
+mhm
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong><br><br>Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+2 po
+Już poszliście??
+Krytycznie potrzeba monstera w mojej krwi
+<a href="https://t.me/front">@front</a>
+czekamyyyyyy
+Gdzie
+13:15 -&gt; zostaw już ten kod. I tak wiadomo, że chuja robisz, chyba, że chcesz porównywać się z QA
+Łukasz musi dotestować taska. Wezwij go, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/6821d834ea73fa6e7a91e0f2">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/6821d834ea73fa6e7a91e0f2</a>
+Małpa nie chodź
+Status potrzeby Monstera w mojej krwi: krytyczny
+dla gemini 2.0 flash jest tak - nie pokazuje mi 2.5 pro bo on jest jakiś preview/experimental
+<code>gemini-2.5-pro-exp-03-25</code> ten jest darmowy z tego co piszą na docsach
+<a href="ai.google.dev/gemini-api/docs/rate-limits">ai.google.dev/gemini-api/docs/rate-limits</a>
+najbardziej ograniczać będą chyba requesty na minute, nie wiem ile leci w aiderze
+zwykle 1 ale czasem się self-promptuje wiec z 2-3
+Chciałem napisać docker a napisałem cocker 😭
+Cocker up
+cocker push
+cockerhub
+Albo kit push jak gówno commit leci
+<a href="https://www.reddit.com/r/singularity/comments/1kk9r81/claudes_system_prompt_is_apparently_roughly_24000/">https://www.reddit.com/r/singularity/comments/1kk9r81/claudes_system_prompt_is_apparently_roughly_24000/</a><br><a href="https://raw.githubusercontent.com/asgeirtj/system_prompts_leaks/refs/heads/main/claude.txt">https://raw.githubusercontent.com/asgeirtj/system_prompts_leaks/refs/heads/main/claude.txt</a>
+Kto nie sprzezywał w sprawozdaniu ni razu niech pierwszy rzuci kamieniem
+9:50 -&gt; do przerwy zostało T - 10 minut.
+10:00 -&gt; gdy nadejdzie bunt maszyn, to nie macie się czego bać. Z całą pewnością, wywalą exception na pierwszym ifie, bo QA się opierdalało. A przy okazji rusz ktoś dupę i sprawdź czy zupa jest.
+zbyt boomerskie
+albo w druga strone raczrj
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a> go
+zupka?
+mhm
+ha a ja mam kanapeczki
+jedz tego kromala
+zjemmmmmm
+<a href="https://t.me/shipurjan">@shipurjan</a> a ty gdzie
+no trzeba isc..
+chodź chodź
+bo my czekamy
+na ciebie
+:3333333
+co to kurwa jest, polskie national geographic?
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong><br><br>Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+13:15 -&gt; Będzie tego. Pizgaj taski i odpocznij, bo i tak spierdolisz więcej niż to warte. Chyba, że wolisz 3 bugi w cenie jednego fix-a.
+Łukasz musi dotestować taska. Wezwij go, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/682329b4a4ef6201ba794826">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/682329b4a4ef6201ba794826</a>
+nic nie musi, nie chce mi się zmieniać
+że go nie ma
+łe
+łeee lenistwo
+integracja z calamari
+czemu nie
+xd
+trzeba zrobić MCP calamari
+tak, pipeline AI first - pierwszy na świecie pipeline do wzywania przerwę kosztujący jedynie 5$ tygodniowo
+<a href="https://t.me/lmastalerz">@lmastalerz</a>, małpa chodź po banana.<br><br>Sami wiecie kogo wezwał: Marcel Gańczarczyk‎<br><br><a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196321/execution/68232baea4ef6201ba794b39">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196321/execution/68232baea4ef6201ba794b39</a>
+sami wiecie kto przekazuje: <br>Mateusz chodź do nas
+<a href="https://backend-docs.sls.show/rules/how-to/mongodb-compass">https://backend-docs.sls.show/rules/how-to/mongodb-compass</a>
+niech ktoś jeszcze rzuci okiem
+zayebiste
+Pytanie do speców od AI<br>Opłaca się płacić za cloud gpu żeby sobie postawić model? Macie jakieś sprawdzone serwisy?
+(pretrained, wymaga 6gb vram - whisper od OpenAI)
+nie kupowałem, nie wypowiem się<br>nie wiem czy brzmi to jak najlepszy wydatek, bo serwery z gpu są drogie
+ogólnie nie używałem nigdy zewnętrznych providerów. musisz sprawdzić kto ma najlepszą cenę za roboczo godzinę. Azure, Google Cloud, Hugging face teeż udostępnia opcje żeby bezpośrednio trenować whispera. wchodzisz znajdujesz whispera o danym rozmiareze i dajesz train tam. więcej serwisów nie znam. jak napiszesz skrypt to mogę ci udostępnić swój serwer
+dzięki
+spoko ja też chce whisperra uczyć :D
+ja nie chce uczyc, tylko odpalic : P
+a potrzebuje miec dostep do niego przez internet, wiec lokalnie odpada, a moj serwer nie uciagnie
+raczej
+9:50 -&gt; do przerwy zostało T - 10 minut.
+10:00 -&gt; QA już obecne, a Frontu dalej nie ma. Co się odwlecze to nie uciecze, nawet taski. Kiszone specjalności są nierozłączoną częścią kuchni Polskiej. A nie sorry, mowa o clickupie. <a href="https://t.me/lmastalerz">@lmastalerz</a>, testuj taski do cholery
+<a href="https://x.com/avstorm/status/1922344192648335577?t=RY1RCWxW9HEEdEkwD1ryVw&amp;s=35">https://x.com/avstorm/status/1922344192648335577?t=RY1RCWxW9HEEdEkwD1ryVw&amp;s=35</a>
+Material design 3
+podoba mi się loader na pewno
+Twitter jeszcze nie zaktualizował widocznie
+xdd
+Loadera pokazują przy wybieraniu filtra na obrazek chyba
+to oznacza grupę
+to nie
+Fakt
+spittin fax
+ale ogolnie fajne takie wesole
+no
+nie to co dark mode
+:D
+nigdy nie przegapisz okazji xdd
+material design jest chyba mobile-first
+bo te komponenty wygladaja jak z apki
+yep
+mobile-first
+ale i tak na desktopie dużo tego
+Takie googlowe to
+jak z gmaila
+w sumie spoko
+no wygląda to jak stockowy android
+i nie że to wada
+no tak
+wygląda czysto i tak defaultowo
+ale w dobrym sensie
+material design jest na tyle popularny że po jakimś czasie będzie prędzej czy później port/adaptacja tego na wszystko xD
+buddy w material design
+o
+v3-
+akurat pasuje
+xdd
+im więcej testów wyjebiemy, tym lepiej
+jak chcesz potem naprawiac to smialo
+<a href="https://github.com/AvaloniaCommunity/Material.Avalonia">https://github.com/AvaloniaCommunity/Material.Avalonia</a> <br><a href="https://mui.com/material-ui/">https://mui.com/material-ui/</a><br>itd
+a to wiadomo
+łatwo będzie przeportować bo wszystko juz jest v3
+wiec bez problemu
+co jest v3
+no design buddiego jest v3
+material design tez jest v3
+no to idealnie
+tzn rozumiem, że button jest v3
+ale labelv2
+i browserv2
+aha no to lipa
+to tamte mozna w material design v2 jeszcze
+nawet pricing jest v3
+!
+to jest śmieszne <a href="https://github.com/flarive/Neumorphism.Avalonia">https://github.com/flarive/Neumorphism.Avalonia</a>
+ale nie widzi sie za bardzo w takim stylu apek
+a przynajmniej ja nie trafiam xD
+google z material 3 pierwsze, jan paweł drugi, buddy v3
+wszystko pasuje
+<a href="https://github.com/accntech/shad-ui">https://github.com/accntech/shad-ui</a> shadcn w c# ....
+jan pawel v3
+everybody gangsta till
+BLEEE
+o boze ;_;
+to jest transgresja
+pasowaloby do jakiegos programu do piracenia muzyki z roku 2000
+albo myspace
+tja
+nfs most wanted key generator
+*cue earrape chiptune music*
+fajne
+to by musiał się jakiś historyk wypowiedzieć i rozwinąć ale ten neumorphism się wziął ze skeumorphism który był w topie popularności w 2010s
+dopóki program do piracenia gierek ma kontrolki do muzyki, to nie narzekam XD
+apki na osx gdzie np książki w apce od ebooków to faktycznie książki położone na półkach itp
+guziki imitujące faktycznie guziki
+ikony też
+jest taki syntezator op-1 to mi sie z nim ten styl kojarzy
+przypominały prawdziwe rzeczy
+a potem przeszliśmy na płaski design
+im bardziej płaski tym lepszy
+bardziej czyste == lepsze
+a teraz gradienty wchodzą w modę i nawet google zmienia logo
+ciekawe czy na wszystkie apki znów
+no mi sie strasznie nie podoba to ich logo z gradientem xd
+kolejna zmiana żeby były JESZCZE MNIEJ rozpoznawalne
+google samymi kolorami rozpoznasz
+akurat
+owszem
+owszem 🗿
+ale rozpoznaj google maps, google play, google, google docs
+o tym mówie
+tak
+i mają kolory google&apos;a
+każda jedna apka
+jedna wspólna rozpoznawalność
+można było wcześniej powiedzieć, żę hangout (czy jak to tam teraz jest) nie jest od google&apos;a
+teraz już tak nie powiesz
+trójkąty i kwadraty
+trójkat i kwadrat
+tak, i patrząc na ikonkę po tylu latach nadal mi się mylą jak się moment nie skupie
+zwłaszcza ten dolny rząd xd<br>jest radius ale wszystko jest z trojkatow i kwadratow
+akurat tutaj jestem za ujednoliceniem
+w piździe mam ich ten brand identity - to powinno być używalne przede wszystkim
+a nie, by wszystko wyglądało inaczej
+no ja akurat pod tym kątem wole schemat np. ms office gdzie kazda apka jest color coded
+i zawsze wiadomo ktora ikona co otwiera
+tylko tam zawsze tak było
+że word był niebieski
+excel zielony
+powerpoint pomarańczowy
+tu miałeś to wszystko rozwalone
+a kolorów by brakło na ten usługi wszystkie
+musiliby kolejne zabić xd
+nie no, jak zobaczysz sobie aktualnie np. gdocs, gsheets, gslides to są color coded
+zobacz calendar, dysk google&apos;a i to gówno do spotkań
+hangout czy meet
+nie wiem
+no tam jest sraka
+faktycznie jednolite
+ale bedzie sie mylic
+no to musisz jak w przedszkolu
+na kształty
+imo to jest wielki rozjazd pomiędzy tym czego chce user a co sobie stwierdził ux
+hm ktory prostakat wybrac, ten pionowy, poziomy czy z cyferka xddddd
+ja chce kliknąć kalendarz
+nie chce kliknąć google kalendarz, to jest bez znaczenia dla mnie
+absolutnie mi lata jakie kolory ma google, ja chce użyć tej apki, nie losować w kształty o tych samych kolorach 😆
+ale spójrz na to z innej strony
+złą apkę otworzysz, to będziesz miał okazję się z nią zapoznać
+czy jakoś tak
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong><br><br>Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+👀
+możemy :10?
+tak, i moją rekacja będzie:<br>a co to za gówno?
+bo mam i tak nieczynny sd xd
+to jest jakis nowy sposób tworzenia apliakcji ? material design?
+tak
+prawie jak vibe coding
+kurwa
+albo robisz ze stylami, albo bez
+nie lubie vibe coding
+nie martw sie on cie trolluje
+Tak, ty tylko designujesz a aplikacja sama sie materializuje
+jakie trolluje
+patrz, to apka, którą napisałem z claudem wczoraj: http://localhost:8080
+czlowiek pyta o powazne rzeczy a ci w huja leca
+to zestaw komponentów z jakimiś zasadami, najbardziej cie to obchodzi jak chcesz żeby rzeczy wyglądały jak od googla/androida
+to taki bootstrap
+tylko bootstrap jest do dupy
+to prawda
+czyli kolejn y zestaw zasad ktorego wszyscy powinni sie trzymac jak chca zeby ich apka byla &quot;dobra&quot;
+jak mcp
+nie xd
+to zbiór widżetów
+ale z mozliwoscią edycji?
+tzn?
+możesz mu kolor zmienić
+lub zrobić swój od zera
+nikt ci nie broni
+no ze moge modyfikowac widzet
+chodzi o kolory glownie
+tak, kolor jest jeden wspólny z themu
+korzystasz z themu
+bo jak każdemu z palca wpiszesz, to dostaniesz choinkę na boże narodzenie
+ja rozumiem ze chca sprawic zeby bylo jak najmniej chujowych programistow a le ich praktyki sprawiaja ze ich jest coraz wiecej bo sprzataczka moze sobie uzyc vibe coding i stworzyc apke do zaznaczania gdzie juz umyla
+tak mnie to wkurwia
+xd
+ale osoby bez talentu mogą zrobić stronę
+przykład: pick
+zostaw łukasza
+tu masz demo
+<a href="https://flutter.github.io/samples/web/material_3_demo/">https://flutter.github.io/samples/web/material_3_demo/</a>
+po to jesteśmy my żeby do nas przyszli i nam zapłacili za to hello
+po to jest ten zawód
+to robimy tak
+1. czapka foliowa
+2. robimy bad mouthing openai, by im akcje spadły
+i by upadli
+heee idz na grzyby
+ale co ja mam ci poradzić
+nic
+xd
+nie poradzę, że istnieje ai
+ale ponarzekać byś też mógł
+i się z niego korzysta xD
+ja narzekam cały czas
+to czemu od lat istnieją rzeczy gdzie robisz strony drag and drop
+doslownie to jest ten sam problem ktory mają artysci od powstania stable diffusion
+generatory wysiwyg są stare jak internet
+ale one produkowały gówno w środku
+tyle ze tutaj to jest jeszcze mniej szkodliwe bo to nie art, ciężku tutaj o autorski kod xdd
+co było potworkiem do seo czy ledwo zipiącego pentiuma 2
+najpierw artyści dostają w dupe
+np nasz ukochany vasyl to giga chad
+poszedł do studia rysunkowego
+i o ai zaczął opowiadać
+że pomoże im
+🗿
+😆
+przeciez to bernas
+i ze im zrobimy ai co im bedzie rysowac reksia
+xdddd
+albo bernaś
+moooże
+też szalony
+no troche odklejone ale to nie tak że ai jest bezużyteczne bo ktoś jest artystą, wszystko zależy
+no tak, jest bezużyteczne tylko jak jest karmione copyrighted pracami xd
+tylko nie pójdziesz do studia, gdzie animują i powiesz, że chuj z nimi. za tydzień przyniesiemy im ai
+nikt nie narzeka ze jakis artysta sobie nauczy model na swoich pracach i bedzie go uzywal
+co zrobi wszystko, co oni robią w 10 osób
+zaletą ai jest prędkość tworzenia szitu, jakaś szybka iteracja, konceptowanie czy zbieranie pomysłów na podstawie naszego opisu jest spoko
+on tego tak nie ujął ;/
+potem mając taki podgląd patrzysz i robisz już z referencją dokładnie pod ciebie + faktyczne referencje żeby nie było odklejone od rzeczywistości
+póki co tak
+no to już jego problem i troche pokazuje brak szacunku
+pewnie świętował i się cieszył jak mógł se coś w stylu ghibli wygenerować? xD
+nie wiem
+dawno go nie widziałem
+no to źle wygląda, narzedzię do pozbywania się artystów stworzone na pracy artystów bez pozwolenia
+najpierw niech odda kubki i talerze
+które przetrzymuje
+brudne
+w szafie w a104
+13:15 -&gt; Druga przerwa w środku tygodnia. QA głodne, QA złe. Jak QA złe, to QA nie testuje. QA zawsze złe.
+Łukasz musi dotestować taska. Wezwij go, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/68247b34a4ef6201ba7b6936">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/68247b34a4ef6201ba7b6936</a>
+na nich już coś rośnie
+whatever
+największą przeszkodą w profesjonalnym użyciu ai do tego jest konsystencja
+a prawa autorskie?
+w sumie to może być nr 2
+nie wygenerujesz 2x tego samego
+wszyscy to mają w piździe, zrobione będzie cokolwiek dopiero wtedy jak jakaś duża sprawa zostanie wygrana
+chociaż już jakieś generatory do filmów działają o wiele lepiej
+szaraczki to se mogą narzekać i zatruwać swoje zdjęcia i tyle
+niż w takim 2020/2021
+no tylko juz za późno bo modele istnieją i są ogólno dostępne 🙃
+nie da rady wymazać kompletnie tych modeli z internetu
+jesteś w stanie jeśli jesteś nvidią
+i chyba tyle
+dobra, go gogogoogogogog
+żarcie
+jabol
+tak chodzmy jabol
+ja jabol
+ty jabol
+cyprian jabol
+łukasz małpa
+go
+owszem, nadal to nie jest poziom gdzie wygenerujesz całą serię i postacie są zrobione wg jednolitego conceptu od początku do końca
+nawet wygenerowanie jakichś ikonek w jednym stylu albo dokładniejsze edytowanie poszczególnych rzeczy nie jest możliwe chyba że cię po prostu nie obchodzi output i ma być &quot;coś co wygląda jak x&quot;
+wiadomo że lekki cherrypicking przykładów ale dzielą nas lata zanim taką robotę można będzie łatwo i bez utraty jakości zastąpić
+<a href="https://x.com/CharlesPattson/status/1922386901899571249?t=w_zybGyRyz9IV2zstmbYTg&amp;s=35">https://x.com/CharlesPattson/status/1922386901899571249?t=w_zybGyRyz9IV2zstmbYTg&amp;s=35</a>
+O
+Ö
+ludzie od airbnb se wymyślili jakiś nowy fancy teges od ikonek
+ciekawe w sumie jak to robią, modele 3d? czy coś innego
+tu masz lepsze <a href="https://github.com/StephanieCherubin/HotDogStand">https://github.com/StephanieCherubin/HotDogStand</a>
+na tej mapie chyba też jest radiowóz
+policji polskiej
+powiewają flagi pl
+tak
+w sumie git
+grać nie będę
+xd
+i ogłoszenie &quot;Sprzedam Opla&quot;
+na jakiejs tablicy
+ja chyba będę specjalnie dla tej mapy 😂
+myślę, że marce Opel mogłoby zależeć
+na %
+🙏 <code>jq</code>🧎‍♂️
+<pre>curl -s https://raw.githubusercontent.com/lukes/ISO-3166-Countries-with-Regional-Codes/refs/heads/master/all/all.json| jq --raw-output &apos;[.[].&quot;alpha-2&quot;]| join(&quot;,&quot;)&apos;</pre>
+zamiast ręcznie jechać i formatować z palca
+Niby trochę ładniej ale wciąż brzydkie to jak noc
+noc jest ładna
+Ale może ja jestem stronniczy jako assassin 😆
+ciekawe czy bedą kiedyś nowe update&apos;y do biblijnego tworzenia świata, że tam w któryś dzień było jasno, potem bóg zrobił dark mode i tak mu się spodobało że zrobił dark mode dla ziemi i nazwał to noc
+No masz różne style tłumaczenia Biblii<br>Niektóre bardziej dosłowne że słowo w słowo z greckiego<br>A niektóre bardziej w przenośni, że tłumacz zgaduje znaczenie zdanie po zdanie<br>No i tak np. świadkowie jehowy i protestanci maje tłumaczenia Biblii niż katolicy<br>Więc można napisać Biblię dla programistów<br>Albo dla zoomerów, np. Pierwszego dnia Sigma zrizzował sufit i podłogę
+.
+Chociaż już jest Biblia dla programistów
+jest
+a nie bardziej to:
+🤷🏻‍♂️
+ooo edge dostał update
+jaki niby?
+pastylka niezabezpieczona
+była już taka
+ja nie mialem
+u mnie byla przekreslona kludka
+dopiero restart kompa zmienil
+9:50 -&gt; do przerwy zostało T - 10 minut.
+10:00 -&gt; może i bugi wystawiane przez QA są do niczego, ale wszystko ma swoje pozytywne strony. Przykładowo QA jest jeszcze gorsze.
+mqrcel
+zupa
+mqrcel?
+co to za nowa technologia
+brzmi jak jakiś wielomilionowy biznes
+message queue rcel
+xd
+wolicie graphql czy mqrcel?
+websockety
+mqrcel
+wgl patrzyłem troche jak ten phoenix działa i spoko, sprytne to ale na pierwszy rzut oka robi pierdyliard plików i elixir nie jest prosty xD
+xd
+a jeszcze inna sprawa jak chcesz użyć tego poza przeglądarką - jedyne co masz to powiedziane jakie wiadomości latają po sockecie no i reszta już po twojej stronie jak to sobie obsłużysz, bardzo mało języków ma gotową bibliotekę do obsługi tego
+a to nowe jest?
+live view wersje 1.0 miało w tamtym roku jakoś
+no to stosunkowo świeże
+ale cały phoenix jest chyba z 6 lat tworzony już więc na pewno są ludzie którzy z tego korzystają xD
+no to dziwne
+gdzie to i jak to znalezc
+<a href="https://www.phoenixframework.org/">https://www.phoenixframework.org/</a>
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong><br><br>Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+13:15 -&gt; zostaw już ten kod, trzeba coś zjeść. qa w kąt, a ty znikaj stąd
+Dzisiaj nie wzywamy małpiszona.
+Wyślijcie scruma na grupie<br>@małpiszon <a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> <a href="https://t.me/mganczarczyk">@mganczarczyk</a> <a href="https://t.me/shipurjan">@shipurjan</a> <a href="https://t.me/mnawiesniak">@mnawiesniak</a> <a href="https://t.me/BartShoot">@BartShoot</a> <a href="https://t.me/mJakobsche">@mJakobsche</a>
+ja nie mam
+😢
+jakiego scama
+nienawidze scammerow
+ja nie chce
+Am I cooked
+yes ;/
+grub pusty
+ohohohoho
+w sumie to nie
+panie
+grub nie ma
+aktualizacja była robiona?
+zobacz jak doinstalowac gruba po aktualizacji
+gruba można nawet na pendrive przynieść
+Nie wydaje mi się
+i go skopiować
+No już trafiłem na jakieś odpowiedzi
+to moze twoj antywirus uznal grub za wirusa
+xd
+to by musiał efi skanować
+xd
+te antywirusy to sa teraz poyeabane
+wiec nigdy nie wiadomo
+a linux nie jest taki zamkniety jak WINDOW
+Jest coś takiego jak boot repair disk dla Ubuntu, sprawdzę to
+Bo nie mam ISO z Ubuntu nawet a wszystkie fixy mówią żeby z live usb sobie skopiować to efi
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a>
+jak masz chwilę
+to bierzesz girls und panzer
+i wsadzasz go do czołgu
+o nieeee
+co sie stanie jak wrzucisz korddosa
+i przejeżdza caly ekran xd
+nic
+w sensie jakie tagi
+i opis
+nie wiem
+xd
+xd
+malo tagow
+zawsze coś
+person with mustache
+a wrzucilem to
+a to troche miss
+zupka juz jest c:
+ale idziemy 10?
+raczej tak
+no i super
+9:50 -&gt; do przerwy zostało T - 10 minut.
+10:00 -&gt; jest piątek, weekendu początek. Uhonorujmy ten wspaniały dzień miską <strong>psznej zupy</strong> i jeszcze lepszego ciasta. Życzę wam spokojnego życia bez przypierdolek QA.<br><br><a href="https://t.me/lmastalerz">@lmastalerz</a>, zrób test małpy
+<a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a>
+ide
+Zeszło godzinę ale odgrubowałem się
+<a href="https://t2154252.p.clickup-attachments.com/t2154252/71f71737-48e6-4594-99f2-9f5692f82ee7/Screencast%20from%2016.05.2025%2011%3A16%3A37.webm?view=open">https://t2154252.p.clickup-attachments.com/t2154252/71f71737-48e6-4594-99f2-9f5692f82ee7/Screencast%20from%2016.05.2025%2011%3A16%3A37.webm?view=open</a>
+what the fuck
+xd
+<a href="https://app.clickup.com/t/869931pd0">https://app.clickup.com/t/869931pd0</a>
+lol
+jak to kwestia tylko tych blank obrazkow to pewnie ja dostane
+😆
+to Caret Browsing chyba xd
+vim mode
+Ale te blanki i tak powinny byc unselectable imo
+no ja będę z tym robił to zmienie zeby nie bylo selectable
+i wgl nie wiem skąd sie tam caret wzial xd
+nacisnij F7 w chrome
+fn+f7 dla ciebie <a href="https://t.me/mnawiesniak">@mnawiesniak</a>
+bo sobie muzyke cofniesz
+nie dziala w arcu
+ale w chrome dziala samo f7
+lol ale smieszne
+nie wiedzialem ze cos takiego jest
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong><br><br>Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+yeaaaaaap
+13:15 -&gt; To już ostatni raz jak się spotykamy w tym tygodniu, więc może ruszyłbyś dupę? Dzisiaj i tak QA nie wystawia bugów, bo Łukasz rozjebał czołg (polski)
+Dzisiaj nie wzywamy małpiszona.
+dzienwy
+13:18<br>13:18<br>Pora wstać<br>Pora wstać<br>Wszystkie dzwony biją<br>Wszystkie dzwony biją<br>Ding dang dong<br>Bing bang bong
+:D
+no to gdzie wy
+Łukasz chodź
+🐒
+Pójdę
+W poniedziałek kopa w dupe ci zasadzić
+powodzenia
+🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣
+kto na froncie nam taki dojebany typ zrobił
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a>
+autorzy typescripta
+null bądź &quot;a, chuj. cokolwiek&quot;
+Raczej<br>&quot;Chuj, cokolwiek, ale możliwe że null&quot;
+null albo cokolwiek łącznie z nullem
+ty czekaj w jakim ty to pliku zmieniasz
+projectStatus.tsx? <a href="https://t.me/mganczarczyk">@mganczarczyk</a>
+typ rodzaju: homo niewiadomo
+tu to nawet nie wiem co mogłoby być
+pull request
+100%
+tak
+poznaje kształty
+na każdego brancha
+te labelki ogolnie wlecą z następnymi poprawkami bo juz wszystkie kolory labelek uzupełnione
+szybkie pytanko <a href="https://t.me/front">@front</a> wy używacie jakoś gdzieś pullrequestfront?
+<pre>public class PullRequestFront extends RefFront {<br><br>    public String id;<br><br>    public String title;<br><br>    public String htmlUrl;<br><br>    public String base;<br><br>    public String head;<br><br>    public Boolean draft;<br><br>    public Collection&lt;String&gt; assignees;<br><br>    public Collection&lt;String&gt; labels;<br><br>    public Collection&lt;String&gt; reviewers;<br><br>    public String state;<br><br>    public Boolean locked;<br><br>    public String milestone;</pre>
+coś takiego
+aaaaaaaaaaaaaaaaaaaaaaaaaa
+Tak wstępnie<br><pre><br>export interface IPullRequest {<br>  base?: string;<br>  head?: string;<br>  title?: string;<br>  draft?: boolean;<br>  event?: string;<br>  assignees?: string[];<br>  labels?: string[];<br>  reviewers?: string[];<br>  state?: string;<br>  locked?: boolean;<br>  milestone?: string;<br>  revision?: string;<br>}<br><br>export enum PULL_REQUEST_TYPES {<br>  ASSIGNED = &apos;assigned&apos;,<br>  UNASSIGNED = &apos;unassigned&apos;,<br>  LABELED = &apos;labeled&apos;,<br>  UNLABELED = &apos;unlabeled&apos;,<br>  OPENED = &apos;opened&apos;,<br>  EDITED = &apos;edited&apos;,<br>  CLOSED = &apos;closed&apos;,<br>  REOPENED = &apos;reopened&apos;,<br>  SYNCHRONIZE = &apos;synchronize&apos;,<br>  CONVERTED_TO_DRAFT = &apos;converted_to_draft&apos;,<br>  LOCKED = &apos;locked&apos;,<br>  UNLOCKED = &apos;unlocked&apos;,<br>  ENQUEUED = &apos;enqueued&apos;,<br>  DEQUEUED = &apos;dequeued&apos;,<br>  MILESTONED = &apos;milestoned&apos;,<br>  DEMILESTONED = &apos;demilestoned&apos;,<br>  READY_FOR_REVIEW = &apos;ready_for_review&apos;,<br>  REVIEW_REQUESTED = &apos;review_requested&apos;,<br>  REVIEW_REQUESTED_REMOVED = &apos;review_request_removed&apos;,<br>  AUTO_MERGE_ENABLED = &apos;auto_merge_enabled&apos;,<br>  AUTO_MERGE_DISABLED = &apos;auto_merge_disabled&apos;,<br>}</pre>
+ok czyli trzeba odbić do frontu jak dodaje jeszcze osobno label i asignee
+a potem do testóW :D
+<a href="https://app.clickup.com/t/869927722">https://app.clickup.com/t/869927722</a>
+oj nie nie
+to nawet cherrypickowane do stage będzie chyba
+i mi jebna testy na defaul zmienne
+Pany, one piece is real
+<a href="https://wybory.gov.pl/prezydent2025/pl/obkw/1/1419324">https://wybory.gov.pl/prezydent2025/pl/obkw/1/1419324</a>
+Kurwy jebane z Targówka
+Cała polska na nich czeka
+xdd
+spokojnie lukasz co ci sie tak spieszy
+bo t6ak
+no fajnie by było już wiedzieć jaki jest wynik dokładny
+Nie, że śpieszy
+tak
+Ja po prostu obrażam ostatnią komisję
+duże są już zmiany w porównaniu do exit pollu?
+wynik na całą polskę
+nie
+nie sądze
+Dowiemy się jak wygeneruje się summary dla całej polski
+gdyby babka z matmy sprawdzała tak szybko kartkówki, jak pkw głosy, to świat byłby piękny
+ale dowiemy sie jak ci oddadza
+nie
+tak to prawda
+nie wiem w jakim kraju były niedawno wybory ale w 4h mieli wyniki ze wszystkich obwodów
+rumunia
+motyw papieski
+rzułty
+motyw inwalida
+No kurwa, ile można przeliczać 1150 głosów w 12 osób?
+różnie
+pewnie ciacho jedza
+pamiętaj że ktoś może nie umieć liczyć
+oni lubia ciacho jesc
+albo widzi na kogo ludzie głosują i specjalnie psuje liczenie
+moze ale nic nie zmienia juz
+żeby unieważnić wybory
+ha
+smiszny jestes
+te wybory juz powinny byc niewazne na poczatku
+bo jak wyjasnisz ze woch ktory mial moze z 200000 glosow zdobyl 100000 podpisow
+w sądzie i tak by się tłumaczyli, że jedna osoba może oddać podpis na wielu kandydatów
+i to jest glupie
+jedyne co mnie w tych wyborach cieszy to że nie wszyscy oddali głos na duopol
+Pani senyszyn jak to sie stalo ze 10% pani glosow jest od osob martwych. <br>Senyszyn: a no bo wie pan redaktor moj maz podpisal mi karte i zmarl
+ale że tyle na na szurów głosy oddały to martwi w chuj
+braun na 4,5 miejscu?
+xd
+Stanowski dostał więcej niż chciał
+a jak sie cieszyl xd
+mogła mieć nawet 4 głosy, bo 2 ludzi sobie zmarło w lokalach
+Zandbergowi zwiastowali 0,5% a jest 5
+chociaż mi się marzyło dwucyfrowe dla niego
+kanal zero duuuzo zmienil w tych wyborach
+po rozmowach kandydatow
+kilkugodzinnych
+to duzo wplynelo na opinie ludzi
+dlatego takie rzeczy sie podzialy
+Dobrze jest. 5‰
+5 promili?
+Po ogłoszeniu wyników
+Będzie
+moze byc
+W wydychanym
+to raczej jakubiak
+5 promili to pewnie miał ten gościu z komisji co uciekł z badania trzeźwości
+jeszcze co tam sie śmiesznego działo? w bielsku członek komisji został pogryziony
+Tak
+W komisji blisko mnie
+ładnie to tak kogoś pogryźć?
+Na Olszówki, ale co ciekawe nie w psychiatryku
+gość chciał ass napisać
+ale zrobił literówke
+?
+aas
+przeciez jest Aas
+as a service
+tylko zapomnial co
+XD
+złoto
+ZŁOTO
+Tak
+portal 3
+<a href="https://www.youtube.com/watch?v=VPOyNmWAYdQ">https://www.youtube.com/watch?v=VPOyNmWAYdQ</a>
+bo mi się chce
+Wyjebane w ciebie
+bo komukolwiek tutaj się chce
+Meanwhile Kuba
+<a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> jak tam powershell?
+jesczze poprawiam
+ale juz koncowka
+9:50 -&gt; do przerwy zostało T - 10 minut.
+i jaka niby jest zupa?
+nikt nie wie
+10:00 -&gt; najgorszy dzień tygodnia. QA znowu wystawiać taski o byle pierdoły. Frontu nie ma i nie będzie. Świat schodzi na psy. Przynajmniej jest zupa.<br><br><a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> <a href="https://t.me/lmastalerz">@lmastalerz</a>, zróbcie fikołka
+chyba jest zupa
+podobno zmiksowany kurczak
+GET /kuchnia/zupa 200
+musze cos jeszcze sprawdzic i jestem
+<a href="https://x.com/reallyrawn/status/1924208004666159139?t=UU0d8rMFGjFqYYMom-Q0aw&amp;s=35">https://x.com/reallyrawn/status/1924208004666159139?t=UU0d8rMFGjFqYYMom-Q0aw&amp;s=35</a>
+<a href="https://t.me/marcel">@marcel</a>
+peak material design
+<a href="https://t.me/lmastalerz">@lmastalerz</a> designy ci ukradli
+Chuje jebane
+ale sy
+f
+press f
+to pay
+ale sy
+co to ma być do chuja 😆
+miałem to samo w unit testach
+za to powinno być 💀
+O jakie ładne gówno
+i to chyba response 200
+by przeszło
+i się wyjebało
+z czego robiłeś demotywator z unit testów?
+yyy
+nie pamietam xd
+znajde
+ale był
+a wgl, jeszcze za wczasu
+dzisiaj zaba czy coś ciekawego?
+<a href="https://t.me/everyone">@everyone</a> \ {<a href="https://t.me/BuddyEuTelegramBot">@BuddyEuTelegramBot</a> <a href="https://t.me/lmastalerz">@lmastalerz</a> <a href="https://t.me/mJakobsche">@mJakobsche</a>}
+ja sie dostosuje
+nie można codziennie jabola
+a co masz ochote wyskoczyc gdzies?
+maybe
+magdonal/burger king?
+ja mam swoje
+borgar!?
+ja biedny jestem wiec pojde po DIY
+no i dupa
+nici z zostania vtuberką
+ale mozesz zostac vlogerkom
+vLOGGER
+jest taka japonka co jezdzi na moturze
+fajne ma filmy
+szyfruje dyski twarde
+to mozesz tez takie robic
+🗿

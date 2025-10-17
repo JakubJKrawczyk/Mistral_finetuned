@@ -1,0 +1,951 @@
+﻿opis tego jest po niemiecku
+ale w opisie jest wiecej gadzetow
+wolę by sprzedawali anime
+niż produkowali hitlera
+change my mind
+cute
+to raczej ten sam case
+obudowa ma tył
+i przód
+wow
+wow
+<a href="https://cpstest.org/scroll-test.php">https://cpstest.org/scroll-test.php</a>
+Testowaliście nowe myszki?
+toucpadem?
+possession issue ^
+i am speed
+heh
+noice
+ale ten pomaranczowy nie widac
+Słabo
+no nie widac xd
+ledwo napisy przeczytalem
+<a href="https://t.me/kasz">@kasz</a>-tan
+<a href="https://t.me/pasz">@pasz</a>-tet
+meh
+a tymczasem lukasz na qa dwoma rękami kręci scrollem jak najszybciej
+ucieka przed kodem w c#
+tup tup tupot malych nozek
+Na poprzedniej myszce miałem 70-80k
+Adam miał 110k
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a> mam nadzieję, że rozumiesz, gdy piszę/mówię, że Łukasz zajmuje się pierdołami w firmie
+wruuum
+kola autobusu kreca sie kreca sie kreca sie
+kola autobusu kreca sie i frontowi zle
+spaliny zamiast klimy wdychasz?
+to pewnie wina cache&apos;a
+w00-cache
+9:20 -&gt; do przerwy zostało T - 10 minut.<br><br>Dzisiejsza zupa:<br>Krem z pieczonych pomidorów i papryki<br>Aromatyczna zupa z pieczonych warzyw, doskonała na ciepłe dni.
+<a href="https://app.clickup.com/t/8694xkau8?comment=90120062182867">https://app.clickup.com/t/8694xkau8?comment=90120062182867</a>
+9:30 -&gt; gdy nadejdzie bunt maszyn, to nie macie się czego bać. Z całą pewnością, wywalą exception na pierwszym ifie, bo QA się opierdalało. A przy okazji zapraszam na przerwę
+gdy ci smutno gdy ci zle zjedz se zupke odpręż sie
+<a href="https://app.clickup.com/t/86963p6du">https://app.clickup.com/t/86963p6du</a>
+<a href="https://t.me/shipurjan">@shipurjan</a>
+właściciel nieznany
+to już tam było
+dupa zbita trupa zryta. zupa dobra ogon bobra
+człowiek sobie chciał kultularnie <code>git pull origin dev</code> a tam <a href="sls.io">sls.io</a> wyjebane
+to wyjebanie sls się udziela
+i teraz też mam wyjebane
+czeka sobie commit na push
+<a href="https://news.ycombinator.com/">https://news.ycombinator.com/</a>
+wleciały targety, które Łukasz testował i wszystko zniknęło
+nie ma nic
+null
+undefined
+(to dwie różne rzeczy wbrew temu co Łukasz mitomanii)
+abrakadabra to czary i magia a w lesie sls plynie zjebany sok. Tam zlowrogi czarodziej marcel kaznodziej jebie bugami w waniliowy plot.
+JAAAAAAAAA?
+ja nieeeee
+Właśnie nie wleciały
+ja nie ja nie a wszystko to panie dzbanie dzbanie kijem w krok
+x<br>d
+cos czuje ze minalem sie z powolaniem
+powinienem zostac bruno marsem
+jak widziałem, że piszesz wiadomość, to spodziewałem się tego trochę
+zdarza się
+teraz za to do końca życia będziesz pamiętał że oauth to logowanie przez inne serwisy
+i okoliczności jak się tego dowiedziałeś
+a co to ma do rzeczy?
+że nie działają
+aktualnie nie dzialaja oauthy, bo musze callback urle pozmieniac
+nIe przeczytalem wiadomosci
+i napisalem
+doszedlem tylko do tego ze git bedzie dzialal
+dalej nie czytalem
+jeśli tak to spoko xd
+<a href="https://www.youtube.com/watch?v=aA-BlXCeH_w">https://www.youtube.com/watch?v=aA-BlXCeH_w</a>
+dobra ja dziś chce coś konkretniejszego zjeść
+kto jest ze mną
+smialo
+nikt cie nie zatrzyma
+zalezy co masz na mysli
+potencjalnie mimoza
+może kebab
+w tym pyszne bistro mają spaghetti po bolońsku albo gnocchi w sosie serowym
+albo dawno nie byliśmy w ten kanapkarni niam niam xD
+ten za maczkiem?
+yup
+bo ja chwilowo mam dosyć żaby, najwyżej energola stamtąd wezme xD
+imo spoko
+zależy ile osób jest chętnych na tripa
+a ile ma coś swojego
+tez bym wyskoczyl
+wolałem jak miałeś rolę &quot;anime jest super&quot;
+a nie cukierniczka
+ktos mi zmienil
+smakowa
+łukasz
+czyli idzie nas 4-5 tak??
+<a href="https://t.me/shipurjan">@shipurjan</a>
+tak, tez sie przejde, do tej kanapkowni?
+czy where
+no chyba
+ta
+spx
+chyba nie ma co dzwonić, po prostu poczekamy chwile
+albo na 2 tury pójdziemy 😆 jedni o 13 drudzy 13:15?
+sesja zdjęciowa biura(?)
+?
+jakiś fotograf łazi po tarasie i fotki cyka
+ale nie widzę czego bo mi się schował teraz xD
+co?
+[dev-lukasz-rundetailsChangelog-8694xkau8] Tests finished<br>❌ Others - 2030 passed, 7059 failed<br>❌ Executions - 1381 passed, 1750 failed
+<a href="https://milk.com/value/">https://milk.com/value/</a>
+<a href="https://t.me/shipurjan">@shipurjan</a> ale zgówniony ten twój branch xDD
+imo wg tego message to testy się wyjebały
+nie branch
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a> czym sobie na awans zasłużyłeś?
+(jaja se robie, a wyniki są zjebane bo release sd1 wyjebał testy)
+a ja nie wiem, nie ja to pisalem
+ala kurwa zeczywiscie
+Popatrzy ktoś? <a href="https://app.sls.io/beta/backend-v4/pipelines/pipeline/124629/execution/670508efc2e07d4cca50b4d7">https://app.sls.io/beta/backend-v4/pipelines/pipeline/124629/execution/670508efc2e07d4cca50b4d7</a>
+Na tests-api pisane o helpa
+popatrzyłem
+coś jeszcze?
+🗿
+ja tam nie wiem nie ma mnie na test-api
+mnie też
+ja mogę
+się uśmiechnąć
+że nie działa
+miłego dnia
+jak dobrze patrzec na problemy ludzi ktore mnie nie dotycza
+jeszcze
+Case pod tytułem: nieprzewidziana przymusowa przerwa
+nie wiem, tu piszą co trzeba zrobić chyba
+oooooo jeszcze dluuuuugoooooooo
+sprawdzales czy ci api nie jeblo na es?
+moze jest not responding
+ja tak rano mialem
+Nie ja na backendzie robię, nie interere mnie co jebło
+Ma stać
+powiem tak
+jezeli blad jest generowany nie przez nas to wyjebane. tak jak wyjebane ma front na to ze nwm wysylam im link i instrukcje postepowania widac ze task  czeka tydzien gdzie poszedl reset na aszyne i liogiczne ze link nie dziala. to ci zamiast uzyc instrukcji i zrobic reprodukcje pisza &quot;link nie dziala&quot; i czesc
+no ja daje
+widac ze jestes z frontu
+nie czytasz ze zrozumieniem
+przykład
+ale czy ja mowie o lukaszu
+przeciez wiadomo ze jest len
+a marcel bawelna
+Wykonujesz linia po linii
+zdycham z głodu, idziemy o 13?
+imo to fakt
+instrukcja jest jasna
+oke
+j
+nie wiem, nie działa
+🤔
+wy to byscie chcieli miec wszystko jak na tacy
+no
+ja bym prosił o akcje z dona
+in/out
+by zrobić repro
+takie 1:1
+<a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> następnym razem dla backendu robimy listę komend do cmd, a dla frontu chuja
+bez nas to swiat dawno by juz zostal przejety przez AI
+w ascii?
+dla was w ascii
+a jakby to było mp4
+że wchodzisz
+klikasz
+to już w ogóle
+kurde
+<a href="spryciarze.pl">spryciarze.pl</a>
+vibes
+hehe kurwa chcialbys
+no chciałbym
+a wy jesteście lenie
+lenie patentowane
+ha tfu
+Poza tym bez sd1 zielonego to nic nie zrobimy
+mają win11
+co to jest ShareX&gt;?
+<a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> dla frontu nagramy jak robimy commity do repo
+mogą na windowsowym pierdolniku do screenowania to zrobić
+tam jest funkcja nagrywania
+produkuje to obrzydliwie duży output, ale działa
+znajdzmy jakas muzyczke jebac front i beda ogladac filmik i w tle sluchac
+specjalnie taka nagram
+<a href="https://github.com/ssterling/varlpenis">https://github.com/ssterling/varlpenis</a>
+dlaczego
+co krwa
+8=======D~~
+w prima aprilis trzeba
+a moze bota który zczytuje długość wiadomości
+i wysyłą pod nią penisa o długości tej wiadomości
+ale by wkuriwało
+ja bym to dał na foncie
+zamiast kropek na haśle
+im dłużs
+dobra, wracam do qika
+o naprawione zostało rejestrowanie się z firmowego maila
+przynajmniej jak się ma don
+zajebiście, juz nie muszę tego temp maila otwierać XD
+teraz spam na firmowy znowu poleci
+wiesz ze mogles sie zalgowoac nadal?
+to ze provider nie dziala
+nie znaczy ze sie zalogowac nie mozesz
+gdzie napisał, że nie może
+z oauth
+QA async na jedzenie
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong>
+idziem?
+Ale ja mówię o app.local, tam było blokowane używanie maila buddy works
+Tak ja już na zewnątrz
+juz teraz?
+dbra
+No pisałem tam wyżej, ja zdycham z głodu xD
+13:15 -&gt; Będzie tego. Pizgaj taski i odpocznij, bo i tak spierdolisz więcej niż to warte. Chyba, że wolisz 3 bugi w cenie jednego fix-a.
+Wezwij Łukasza, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/670514345c75a329bb3bafd9">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/670514345c75a329bb3bafd9</a><br><br>to ty, gdy wezwiesz Łukasza, który udaje, że pracuje nad targety:<br>⠀  ⠀   (__/)<br>           (•ㅅ•)      Don’t talk to<br>    ＿ノヽ ノ＼＿      me or my son<br><code>/　</code>/ ⌒Ｙ⌒ Ｙ  ヽ     ever again.<br>( 　(三ヽ人　 /　  |<br>|　ﾉ⌒＼ ￣￣ヽ   ノ<br>ヽ＿＿＿＞､＿_／<br>       ｜( 王 ﾉ〈   (__/)<br>       /ﾐ<code>ー―</code>彡  (•ㅅ•)<br>      / ╰    ╯  /    &gt;
+Dzisiaj po raz kolejny wyszło że api pogodowe jest potrzebne
+Ja w podkoszulce bo prawie 20 stopni
+Chłopaki bluzy kurtki i teraz cierpią
+Małpa
+siekam cebulke
+Fronty kochane
+Interesa mam
+/:domain/targets/add/:type/path
+nie
+nie
+Może ktoś sprawdzić czy ten url jest reachable?
+Nie wiem, jakieś usage czy cuś
+Bo mam wrażenie, że on jest już unreachable i to pozostałość w kodzie
+w teorii reachable
+trafia do niego if/else
+czy ona ma sens, nie wiem
+nie sprawdzałem
+o, faktycznie
+Thx, nie muszę szukać w takiej sytuacji widoku, którego nie ma
+chyba, że chcesz jego jsx
+if nie reachable z gui: continue
+Spytam Michała, bo on na to ostatnio wyzywał
+najwyżej im testy jebną
+ale i tak jest po dev-&gt;stage
+więc git
+command git not found
+Jeżeli nie zesra się tak, że do HTML się jakieś linijki nie wczytają to nie ma na to testów
+sudo apt install git
+Będą jak VT trafią na sls
+error: permission denied
+vt są na sls
+Ty, ale to bug
+To pytaj Michała
+Albo kogoś, ja nie jestem decyzyjny na tym poziomie
+I pytanie dotyczyło, czy są testy
+Odp: testów nie ma
+Czy można zmergować?
+Odp: insufficient permissions
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a> jesteś jeszcze?
+nie
+:/
+a co?
+a zgadnij
+<a href="https://t.me/shipurjan">@shipurjan</a> taki grid by pewnie siadł do tamtych dashboardów 😆 <a href="https://webkit.org/blog/15269/help-us-invent-masonry-layouts-for-css-grid-level-3/">https://webkit.org/blog/15269/help-us-invent-masonry-layouts-for-css-grid-level-3/</a>
+ten ma jeszcze inny
+lewy do prawej
+chyba
+znaczy to i tak dopiero proposal jest 😆
+css grid level 3
+no ale problem jest taki że się nie mogą dogadać jakoś mocno, tak poglądowo widziałem jak theo z t3gg o tym gadał
+ja dzis na uczelnie jade panowie milej pracy
+QA dzisiaj off
+zatrucie wzielo gore?
+Yeap
+9:20 -&gt; do przerwy zostało T - 10 minut.<br><br>Dzisiejsza zupa:<br>Zupa z cukinii i pomidorów<br>Świeża i lekka zupa, pełna smaku z dodatkiem grzanki z gorgonzolą.
+Tak informacyjnie: <a href="https://t.me/Ownerro">@Ownerro</a> i inni nie mają zawracanej dupy. QA w osłabionym składzie
+Tak informacyjnie: Małpiszona dzisiaj nie ma, więc QA dzisiaj w osłabion... nie, nieważne. Bez różnicy. Nie było tematu.
+okrutnik
+9:30 -&gt; prawdopodobnie QA jeszcze nie przyszło na przerwę. Szkoda, więcej zupy dla reszty.
+dobra to mam dokładne info co do myszek, na razie wystawiają tylko te mx master 2s, jeszcze żadna nie poszła
+jak ktoś chętny to z Kingą pogadajcie, przelewem można zapłacić więc git xD
+skusisz się?
+yup, a nawet nie tyle ja co tata xD
+Ile za te mychy?
+100?
+ta, za 100 mają wystawione
+dobry deal, niektóre wyglądają jak nówki
+Za dużo wydaję...
+Ale chuj
+wydaje ci się
+<a href="https://www.ifixit.com/Guide/Logitech+MX+Master+2S+Battery+Replacement/159778">https://www.ifixit.com/Guide/Logitech+MX+Master+2S+Battery+Replacement/159778</a> jedyne co to o baterie się cykam ale wygląda na to że można wymienić
+Zastanawiam się nad tym kompem, 32GB to na takim robiłem i był zajebisty
+Ale co ja będę robił z 5 które już mam
+sprzedać można
+zrobić serwer
+kopać
+Kurwa, ktoś wie jak się sklonować?
+schować w beczce
+a gdzie wy to widzicie?
+olx
+wpisz mx 2s
+lokalizacja bielsko
+testować dystrybuowane wykonywanie aplikacji w elixisrze
+bo nie chce mi się linka szukać xD
+<a href="https://www.olx.pl/oferty/uzytkownik/1vojex/">https://www.olx.pl/oferty/uzytkownik/1vojex/</a>
+wystawia Kinga na bdy
+thx
+Trzebaby pipeline-a do skanowania tego xD
+Zamiast laptopa na uczelnię taki komputerek xDD
+lepiej, na olx jest taki magiczny guzik
+imo nie
+samo powiadomienie przyjdzie
+lepszy prestiż
+jakbyś z rpi przyszedł na uczelnie
+odpalasz go z powerbanka
+droższe
+no to zero w
+jeszcze wolniejsze
+szybsze niż kompy szkolne
+zależy od sali
+piri pirir
+glodny czlowiek na robocie wiercil dziury w bagnie, w blocie
+można spolszczyć
+chwast
+gomez ewidentnie nie wiedzial
+zielsko
+grzała
+Powiedzcie co to ustawię
+missing language pack
+what your problem broooo?
+Oreo kurwa
+This is my problem
+問題はない。
+do you think you can be better only cuz you chasing your dreams?
+yes i doesn&apos;t
+thats what i thinked e yo you better be looking your backs soldier
+do you know ligma?
+I know figma
+Balls
+☝️👌👈☝️☝️🤲
+proszę nie używać tych starych żartów
+Figma trolls
+Frontend
+testujesz moją cierpliwością
+panie z qa
+nie no ja tam czytałem ostatnio o jakiejś śmiesznej nowej apce się gobble nazywa
+jebane przecinki w sqlu
+co ci zrobiły
+oszukaly. mowily ze sa a jednego nie bylo
+a to gnojki
+trzeba je skasować wszystkie
+ostatnio zmasowany atak rzeczy martwych na ciebie
+XDD zapomnialem juz o tym
+ja myślę że <br><pre>DROP DATABASE *;</pre>
+i jeszcze gnome co się wyjebał
+don&apos;t get me started
+jebany gnom
+<a href="https://www.youtube.com/watch?v=Ms6YzGIQ7IM">https://www.youtube.com/watch?v=Ms6YzGIQ7IM</a>
+enough!
+XD
+kto używa środowiska dev-owego o nazwie <code>patryk</code>?
+cyprian
+nope, ja
+albo Marcel
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> zmienią ci tą nazwę xD?
+wierzysz w cuda?
+jak widać nie ma potrzeby, już wszyscy wiedzą
+razu pewnie zobaczył, bo lecą requesty qikowe
+Mam Nvidię
+spoko, Mateusz pewnie przejmie kiedyś maszynę Kuby
+może jak was teraz będzie 2 ze złymi nazwami to zmienią
+u was to jest chyba tylko rename kilku plików
+na froncie to też wymaga zmian
+<a href="https://player.style/">https://player.style/</a>
+fajne ^
+kiedy wideo tutoriale w buddy
+są na yt
+stare
+a aktualne w apce dla danego widoku??
+XD
+to byś co tydzień nagrywał nowe
+no i przynajmniej byśmy byli na bieżąco wszyscy XD
+prędzej by zapadła decyzja &quot;koniec redesignów&quot;
+niż byłyby nagrania na bieżąco xd
+Zapadła
+I przy okazji poleciał redesign redesignów
+yep
+myślę, że lista firm trzyosobowych się ostatnio zwiększyła
+znacząco
+to założą nową firmę
+firma krzak 2
+zależy
+jeżeli licencja działa tak że to osoba implementująca to musi pracować w firmie &lt;3 osoby to luz
+bo mamy ludzi na b2b 😆
+hmmm taki ładny macbook sobie leży na stole przy wejściu
+jak za darmo to biore
+Ja bym tego za darmo nie wziął
+to jakby byl drugi to tez chetnie przygarne
+jest jeden i raczej nie do wzięcia 😆 to macbook pro któryś nowszy bo czarny kolor
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a> jak będzie kiedyś czołg zaparkowany przed wejściem stał, to poinformuj Łukasza
+dobra tylko najpierw sprawdze czy ma polska flage
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong>
+ja mam kanapki ale chyba ide po jakiegoś energetyka
+sponsorzy na drewnie?
+jak to podświetlisz?
+oni mają taką dziwną czcionkę w logo?
+to tylko przymiarka do plexy
+oby
+spokojnie
+bo inaczej ktoś miałby niezłą odklejkę xD
+hehe
+Więcława/Wojtka tam masz, czy na odważnego tniesz?
+sam jestem
+jak na odwaznego?
+coś macie pieprznięte bo macie końcówki liter zaostrzone 😆
+systemy informatyczne w sensie
+zaraz ci pokaze tylko laser sobie odjrdzie
+co tu się stało
+to jest przymiarka ten kwadrat echodzi w postument
+sprawdzalem czy mam roeno nad postumentem
+rowno
+buddylang
+taa
+to program robi
+program robi to, co kazał user
+nie chce mi sie krzywych poprawiac
+as i said ^
+xD
+a i tak wyglada dobrze
+po chuju
+jak spieprzone ścieżki to jeszcze łatwo naprawić, jakby dostało proste kreski i je tak zaokrąglało to już gorzej 😆
+moze mamy inne logo
+no jak mam ta pikseloze poprawic xd
+w paintcie ktoś to rysował? XD
+no te małe literki jakby ktoś malował myszką tbh XD
+to program tak zaciaga svg
+nie ma ustawień jakichkolwiek?
+tak sobie scirzki tworzy
+albo coś nie tak ze skalą jest
+musisz pożyczyć od Łukasza książkę
+na pewno ma poradnik do cnc
+obok ksiażki do fluttera
+nie wiem czy to może stać obok książki do fluttera
+bo tu coś ewidentnie jest źle zrobione xd
+g-code wyszedł w 1963 roku <a href="https://en.wikipedia.org/wiki/G-code">https://en.wikipedia.org/wiki/G-code</a> więc będzie to dłużej używane niż ta jedna wersja fluttera
+może alfabetycznie sortuje?
+F - Flutter<br>G - G-Code
+a nie po dacie
+więc będzie stało obok
+imo
+potestuje te ustawienia
+albo sprawdź inny konwerter svg -&gt; dxf czy co to tam łyka
+bo faktycznie może być lipny konwerter
+13:15 -&gt; Druga przerwa w środku tygodnia. QA głodne, QA złe. Nie chcesz żeby QA było złe
+Dzisiaj nie wzywamy małpiszona.
+ktoś leci do żabki? czekam pod drzwiami
+<a href="https://www.olx.pl/d/oferta/apple-mac-mini-2018-i5-32gb-ram-250gb-CID99-ID12lhmJ.html">https://www.olx.pl/d/oferta/apple-mac-mini-2018-i5-32gb-ram-250gb-CID99-ID12lhmJ.html</a>
+maczek
+Nie taka zła cena
+Rozsądna
+<a href="https://t.me/mJakobsche">@mJakobsche</a> jaki tam procek masz? bo tobie takiego dali chyba
+no ale i3 czy i5 z 2018 to nie będzie jakiś demon prędkości
+Cenzor jebany
+Chuj ci w dupe po całości
+Nigdy nie zagaśnie
+spokój na czacie
+o huj chodzi
+ne, mam lepszy. i7
+ale tez z. 2018
+pewnie lepsze niż komp z linuxem
+???
+!?
+moje wszystkie problemy z obecnymi kompami biorą się z tego że jest tam grafa nvidii 😆
+i to nie jakiś rtx zwykły tylko quadro
+yep
+to jest prawda
+„With its dominance in the web browser market, <a href="https://en.m.wikipedia.org/wiki/Google">Google</a> has been accused of using <a href="https://en.m.wikipedia.org/wiki/Google_Chrome">Google Chrome</a> and <a href="https://en.m.wikipedia.org/wiki/Blink_(browser_engine)">Blink</a> development to push new web standards that are proposed in-house by Google and subsequently implemented by its services first and foremost. These have led to performance disadvantages and compatibility issues with competing browsers, and in some cases, developers intentionally refusing to test their websites on any other browser than Chrome. Tom Warren of <em>The Verge</em> went as far as comparing Chrome to <a href="https://en.m.wikipedia.org/wiki/Internet_Explorer_6">Internet Explorer 6,</a> the default browser of <a href="https://en.m.wikipedia.org/wiki/Windows_XP">Windows XP</a> that was often targeted by competitors due to its similar ubiquity in the early 2000s.”
+Powiem tyle, jedziecie na explorerze ; P
+no tbh przeglądarki w takiej formie jak są teraz to nie powinny być absolutnie przez żadne korporacje utrzymywane bo stały się zbyt ważne 😆
+nie wiem, niech unia zrobi przeglądarkę open source i ją finansuje
+oj przydali by sie do tego
+ej, był taki projekt w 2017 😆 <a href="https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/31045243/781524/H2020">https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/31045243/781524/H2020</a> <br><a href="https://www.ur-browser.com/en-US">https://www.ur-browser.com/en-US</a>
+ale ta przegladarka bylaby jeszcze bardziej pod kontrola niz kazda dostepna teraz
+zależy o jakiej kontroli mówisz
+wszystkich rodzajach
+pamiętaj że część kontroli byłaby dobra - jak np kontrola nad tym jakie dane zbiera twórca przeglądarki
+aktualizacja godzina 7:00 internetu brak a czuli leci na leb na szyje na gore.
+czyli dzisiaj lan party
+deluxe ski jumping
+albo wormsy
+trwa zagorzała debata na górze
+ja patrze internet jest
+to nwm co czuli mowi lecac na leb na szyje
+tylko backendowcy mogli o 17:35 stwierdzic ze nie maja neta po lanie
+no bo nie było
+jeszcze pół biedy gdyby te nasze lokalne rzeczy dalej działały
+ale apki nawet nie odpale bo es sie wyjebał bez neta
+czyli wszyscy do domu poszli?
+w biurze już byłem tylko ja z backendu
+bo jak nawet lokalnie wszystko zdechło, to nawet lan party odpada
+od tak gdzieś chyba 17
+albo wcześniej nawet 😆
+sie obudzili
+no pytanie jak lokalnie jest es postawiony
+dunno
+9:20 -&gt; do przerwy zostało T - 10 minut.<br><br>Dzisiejsza zupa:<br>Krem z kury<br>Kremowa zupa z drobiem, rozgrzewająca i sycąca.
+co to kurwa jest krem z kury
+miksowana kura
+wtf
+brzmi strasznie
+wjebali calego kurczaka i jeb do mlynika?
+*kure
+w najgorszym wypadku Mateusz zobaczy jak zupy bywają od nich do dupy xd
+wolalbym nie XD
+i po co straszyc ludzi
+prędzej czy później zobaczy zupe która wygląda jak gówno
+a smakuje jeszcze lepiej
+zupa review &gt; code review
+czyli co? wkoncu to zrobili? krem z rosołu?
+imo jak nie ma kosci to moze byc nawet dobre
+aleeeee
+9:30 -&gt; może i zupa bywa niedobra, ale wszystko ma swoje pozytywne strony. Przykładowo QA jest jeszcze gorsze.
+zbieg okoliczności? xd
+oby nie
+Chodź zobacz
+Spróbuj
+I wnętrzności
+im mniej wiesz tym lepiej śpisz
+dokumentacja frontu jest taka fajna i przydatna, że nikt nie zauważył, że od paru dni nie działa
+no się sandboxy wyłączyły i kaput
+kto chętny coś zjeść o 13
+a co?
+ja mam swoje
+ale do żaby można się przejść
+ja mam ta sama sytuacje
+a ja lubię javascript
+i z chęcią się do żabki przejdę
+ceisze sie z tego niezmiernie ze masz cos co lubisz
+jeden lubi pojazdy gąsienicowe, a jeden javascript
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong>
+lecim?
+to co idziemy?
+ayo
+<pre>curl wttr.in/bielsko-biala?format=&quot;%l:+%c+%f+Przewidywane+opady:%p\n&quot;<br>bielsko-biala: ☀️   +15°C Przewidywane opady:0.0mm</pre>
+dajcei mi 4 min
+tylko zmerguje
+async?
+niet
+to rusz d
+kurwa merge musze zrobic
+do deva
+kilasfkuaghewku;gh;liguj a😰lgtiw ;tlwfklj&apos;r
+Git merge --squash branch
+Git commit -a
+Git push
+Zajęło mi to z telefonu 30s
+zacial sie pusj
+push
+Brzmi jak skill issue
+Idziemy
+Za duże commity walisz
+Nie możemy git merge
+Od czasu jak dev wyleciał w kosmos
+Kto wywalił deva??????
+To jak mergujecie niby
+Z gui
+na sls pewnie
+Tak
+Jak myślisz?
+🙃
+git push sie zacina
+Spróbuj w żabie
+Tam lepszy net
+Chodź
+nieoge
+musze najpierw spushowac
+podobno juz poszloscie
+paaaaa
+13:15 -&gt; zostaw już ten kod, trzeba coś zjeść. front i backend w kąt, a ty znikaj stąd
+Dzisiaj nie wzywamy małpiszona.
+ale mnie wezwijcie : P
+Zaraz dopiero wychodzimy z żabki
+summon
+thanks
+<pre>print(chr(sum(range(ord(min(str(not())))))))</pre>
+Sus
+Uncaught ReferenceError: chr is not defined :/
+Co wychodzi z not()?
+true
+min(true) e
+._.
+tego nie zrozumiesz
+nie pamietam co robilem w tym tyg do scama
+wyślij im tę wiadomość jutro
+Ja na bieżąco dopisuje
+Rano klikam enter
+todo:<br>- zobaczy się w poniedziałek<br><br>done:<br>- nie pamiętam<br><br>bugfixy:<br>- testy dwa razy wyjebałem
+zeby tylko 2
+Przynajmniej się sumuje do 100%
+grug level debugging
+Dziko na tym technicznym xD
+XDDDDDD
+x
+d
+to ten moment w którym się pisze, że qa źle przetestowało?
+ogolnie tez moze byc to ze vt nie sa chyba nigdzie nigdy czyszczone bo do rm rf nie dali sudo i wywala no permissions
+na projekcie vt do release i reset release
+jak nie kasujesz danych to zostaja
+przyczyna: tester wiedzial nie powiedzial
+mowilem bylkowi
+to wszedl i recznie wyczyscil
+bo one są zapisywane jako pliki w fs
+w folderze
+chyba, że coś się zmieniło
+chyba nie
+od czasu, kiedy ja miałem 5 minut zabawy w vt
+548754125658575550
+to wysryw łukasxa
+Spierdalaj
+Nie pisałem nic w temacie i nie dotykałem VT
+uwu
+powiem tyle
+Marcel ma &quot;ten lepszy z frontu&quot;
+ja mam krawczyk jakub &quot;jakub krawczyk&quot;
+Co on wam ksywki daje??
+to wieclaw lukaszowi dal zjebany front
+A potem Marcel i Wojtek odkryli że nie ma permissji
+Wyślijcie swój kit że coś robiliście na grupki scamowe<br>@małpiszon <a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> <a href="https://t.me/mganczarczyk">@mganczarczyk</a> <a href="https://t.me/shipurjan">@shipurjan</a> <a href="https://t.me/BartShoot">@BartShoot</a> <a href="https://t.me/mJakobsche">@mJakobsche</a>
+o o  oo o
+9:20 -&gt; do przerwy zostało T - 10 minut.<br><br>Dzisiejsza zupa:<br>Barszcz z ziemniaczkami<br>Tradycyjna zupa o intensywnym smaku, z dodatkiem ziemniaków.
+Tak informacyjnie: Małpiszona dzisiaj nie ma, więc QA dzisiaj w osłabion... nie, nieważne. Bez różnicy. Nie było tematu.
+czemu w zadnym komunikatorze nikt nie wymyslil przycisko Mark All As Read
+discord: am i joke to you?
+Bo po to to jest
+Żeby czytać
+to jest per grupe
+ja chce wszystkie Naraz
+9:30 -&gt; jest piątek, weekendu początek. Uhonorujmy ten wspaniały dzień miską <strong>psznej zupy</strong> i jeszcze lepszego ciasta. Życzę wam spokojnego życia bez przypierdolek QA.
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a> zanim wytkniesz błąd w wiadomości, jest to nawiązanie do szkolnej 17
+ktos tez nie ma zasiegu wifi?
+ja mam 0 kresek
+na Buddy
+czapkę foliową anty-5g to na głowę, nie telefon
+XD
+A gdzie jesteś
+Bo w łazience to norma akurat xD
+siedze przed kompem
+Może wam padł router
+nikt u nas nie ma wifi xd
+mozliwe ze cos z routerem
+telefon to by mial raczej sfeterek foliowy anty-5g
+Łukasz ci przygotuje
+:3
+z amelinium?
+nie wiem czy Łukasz potrafi z amelinium ubranka robić
+no to inaczej nie ma to sensu
+to teraz każda z animacją skończy? xd
+:c
+a-ni-me
+where anime
+🗿
+na zawsze w sercu
+🗿
+chyba pora sobie zrobic sesje zdjeciowa
+tak
+w sumie z daleka wyglada tak samo
+na ikonce XD
+anime lepsze
+Szop &gt;&gt; Anime
+najbardziej by jakis hentai motywował
+🗿
+Do walenia pod biurkiem, a nie naprawiania kodu
+nie nie panowie
+i tak chuja robisz
+to podobne
+Ja nie potrzebuje motywacji do tego
+do walenia pod biurkiem?
+.
+set your hearts ablaze
+macie tak kod napierdalać żeby klawiatura się paliła
+raz się Szymonowi baseus palił
+prawie to samo
+Było
+Jebało
+cooo
+ze ten hub?
+ta
+xD
+w lipcu(?)
++/-
+Z wentylacji czuć było wtedy asfalt
+tak, erasmus z afryki przyjechał
+nie to
+to
+co to za ukryty magiczny text input XD
+zaraz ci sprawdzę
+wyglada jak by ktos tam dal input na imie i nazwisko przypadkiem xd
+ktoś musiał wziąć lizaka od Kuby
+to miała być ikona jakaś
+chyba, że to czeka na emoji picker
+od <a href="https://t.me/shipurjan">@shipurjan</a>
+ta
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong>
+ciekawe czy się wypierdoli jak dodam
+tekst?
+sww
+emoji - zadziała
+WARN  w.b.a.i.aop.ValidationAspect - addEnvironment - validation failed : Environment icon must single be emoji
+&quot;a&quot; wam ujebało
+front nie obsluguje
+albo nie
+to w ogóle yoda lang
+czy to ważne
+co wy regexem po messagu dopasowujecie error handling??
+nie
+po code
+śmieszkuje, ale śmiesznie by było tak na czuja te message wstawiać
+To są emotki do envów?
+na to wygląda
+Czyli będzie można zrobić 🖕na sd5
+Albo 💩 na app.local marcela
+🔥 na psd
+🚬 na dev
+wszystkie envy które działają na jakimś branchu mają emotki stopniowane wg ilości różnic do defaulta - 😃 😊 😐 😔 😢 😭 💀 🗿
+Skull i moai na odwrót imo
+13:15 -&gt; To już ostatni raz jak się spotykamy w tym tygodniu, więc może ruszyłbyś dupę? Dzisiaj i tak QA nie wystawia bugów, bo Kuba rozjebał dev-a (znowu)
+Dzisiaj nie wzywamy małpiszona.
+ja z <a href="https://t.me/mnawiesniak">@mnawiesniak</a> znikamy za chwilę
+ja ide pozniej, 14.30 jakos
+jak to tak magicznie?
+zmywarką
+nie. teraz idziemy?
+to napisz jak bedziesz sie zbieral, ja sobie merguje : P
+potwierdzam, merguje
+ten merge robie od trzech godzin : D
+taki dzisiaj jebany spam leciał na tych wszystkich monitoringach że to chuj XD
+no przejebane jest
+i 3 razy udało mi się zepsuć migracje
+na tej jednej od Darka
+musialem sobie wszystkie pliki powypisywac w programie, potem dodawac stopniowo do gita tylko te ktore nie maja bledow, potem te z bledami... jeszcze inne fikolki tam byly xd
+masakra 😂
+to ja na szczęście mało konfliktów miałem
+Znowu brak sieci?
+Chyba, myślałem że to coś u mnie na vpn
+Kurwa
+Ta wyłączyłem vpn od razu śmiga
+Czyli dokończę jedną rzecz i wcześniejszy fajrant XD
+Najpierw numeru do bramy nie opłacili, teraz internetu
+chyba startery w żabie kupują na bieżąco
+na darmowe 5GB
+XDD
+<pre>https://api.open-meteo.com/v1/forecast?latitude=49.8225&amp;longitude=19.0469&amp;hourly=temperature_2m,apparent_temperature,precipitation_probability,precipitation,surface_pressure,cloud_cover,wind_speed_10m,wind_gusts_10m,soil_temperature_0cm&amp;forecast_days=1</pre>
+jak się tym czata nakarmi to<br><pre>### Pogoda na 11 października 2024:<br><br>#### Rano (6:00-8:00, wyjście do pracy):<br>- **Temperatura**: 12.4°C (odczuwalna 10.3°C)<br>- **Wiatr**: 13.3-14.4 km/h (podmuchy do 29.5 km/h)<br>- **Zachmurzenie**: 100%<br>- **Opady**: Wysokie prawdopodobieństwo deszczu (100%), choć intensywność maleje (0.3-0.1 mm)<br><br>**Zalecenie**: Zabierz parasol, załóż cieplejsze ubrania, bo temperatura odczuwalna jest niższa. Może być wietrznie.<br><br>#### Południe (12:00-13:00, wyjście na przerwę):<br>- **Temperatura**: 11.5°C (odczuwalna 9.5°C)<br>- **Wiatr**: 6.1 km/h<br>- **Zachmurzenie**: 60-37%<br>- **Opady**: Brak deszczu<br><br>**Zalecenie**: Pogoda poprawia się, ale nadal chłodno – warto mieć przy sobie coś ciepłego. Parasola nie trzeba.<br><br>#### Popołudnie (15:00-18:00, wyjście z pracy):<br>- **Temperatura**: 12.4-11.8°C (odczuwalna 10.5-9.4°C)<br>- **Wiatr**: 7.2-9.0 km/h<br>- **Zachmurzenie**: Zmiennie, od 35% do 100%<br>- **Opady**: Brak deszczu<br><br>**Zalecenie**: Chłodno, ale bez deszczu. Lżejsze ubranie może być wystarczające, ale lepiej mieć dodatkową warstwę na wszelki wypadek.</pre>
+Hurra
+Dziaa
+cos coe zacina
+napisz to jeszcze raz, poprawnie
+mnie tez zacina
+[SPOILER] Lista zup na ten tydzień UwU
+Poniedziałek: <span class="spoiler hidden" onclick="ShowSpoiler(this)"><span aria-hidden="true">Pikantny krem pomidorowy<br>Ostry krem pomidorowy z dodatkiem grzanek, idealny na początek tygodnia.</span></span>
+Wtorek: <span class="spoiler hidden" onclick="ShowSpoiler(this)"><span aria-hidden="true">Barszcz biały na zakwasie z tartych ziemniakami i boczkiem<br>Tradycyjna zupa na zakwasie, sycąca i aromatyczna.</span></span>
+Środa: <span class="spoiler hidden" onclick="ShowSpoiler(this)"><span aria-hidden="true">Krem z bakłażana, pomidorów i papryki<br>Delikatny krem z warzyw, z chrupiącymi chipsami z parmezanu.</span></span>
+Czwartek: <span class="spoiler hidden" onclick="ShowSpoiler(this)"><span aria-hidden="true">Karroflanka na wędzonej kiełbasie<br>Zupa z kalafiora z dodatkiem wędzonej kiełbasy, o wyrazistym smaku.</span></span>
+Piątek: <span class="spoiler hidden" onclick="ShowSpoiler(this)"><span aria-hidden="true">Krem z brokułów<br>Gładki krem brokułowy z groszkiem ptysiowym i fetą, lekki i zdrowy.</span></span>
+pikantna pomidorowa
+Cypcek bo tu termin goni a bugi proste do fixniecia <a href="https://app.clickup.com/t/86964yhjh">https://app.clickup.com/t/86964yhjh</a>
+Chłopie, przecież jeszcze 2.5h do przybycia asasyna
+to zawczasu mu pisze
+pon pon pata pon
+tan tan łukasz-tan
+zróbmy grę rytmiczną
+na bocie?
+ok
+nie
+zeby na telegramie grac
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a> weź im powiedz
+Ctrl+Z
+powiedz co
+guwno
+Na froncie widzę biały dym
+tak, papierzaka wybrali
+smacznej kremowki
+wsadzę sobie ją do pikantnej pomidorowej
+niezapomnij sriraczy
+wolałem anime
+heheh
+to już jest robienie sobie jaj z pogrzebu
+Z Kordosem można co najwyżej wypierdalać
+nie pisz tak o guru c#
+On nie jest guru C#
+Tylko AI
+I RapidMinera
+ML .NET
+how dare you
+Upośledzone
+then
+nsfw na czacie <a href="https://t.me/mnawiesniak">@mnawiesniak</a>
+very nsfw
+After i Before Buddy
+no
+ale glow up
+tak
+taki tajniak
+badasss
+dobrze, że nie mają porównania po .net
+Ta, kurwa
+&gt;normalny człowiek<br>&gt;alkoholik, lat 12
+Na froncie normalni ludzie się zmieniają
+a u was co
+after .NET
+po .necie
+zostajesz gejem
+dlatego jest was tam parzyście
+na qa
+after JS
+smocze jajła
+wolę smocze
+niż kolegi
+ano
+Front =&gt;
+to zdjęcie wysyłasz częściej niż opowiadasz historię o podrywie na kasztana
+f. you too
+teraz mam na ruterze wyszukiwanie w google &quot;menel&quot;
+xD
+pierwszy wynik: strona kor**sa
+Ja dzisiaj śniadanko async
+Marcel, opowiedzieć ci fraszkę?
+Marcel, Marcel ty chuju
+9:20 -&gt; do przerwy zostało T - 10 minut.<br><br>Dzisiejsza zupa:<br>Pikantny krem pomidorowy<br>Ostry krem pomidorowy z dodatkiem grzanek, idealny na początek tygodnia.
+seriooooo?
+Frontowe śmieciarstwo
+Po co to przypinałeś?
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a> Fixuj to
+sam se fixuj
+dooobrze
+Ewidentnie zjebany front
+Czyli wy fixujcie
+9:30 -&gt; najgorszy dzień tygodnia. QA znowu wystawiać taski o byle pierdoły. Świat schodzi na psy. Przynajmniej jest zupa.
+udało mi się zrobić sww przy próbie dostępu do variousprojectsworkspace XD
+ladnie
+ale to miesiąc temu, i chyba zamiast branch/cos zrobiłem branch//
+w linku
+to skill issue nie bug
+2 miesiące temu
+bug jest taki że poleciał IllegalArgument exception z jakiegoś powodu
+nie umiem tego odtworzyć
+<a href="https://app.clickup.com/t/8695xn9ck">https://app.clickup.com/t/8695xn9ck</a>
+mhm
+może by ktoś kiedyś lepiej to pisał gdyby ktoś chciał z narzędzia do tasków korzystać
+nie ma osoby która chwali clickupa chyba
+ale to nie jest pisany task tylko znalazł ktoś sww które miało mojego maila
+i pytali czy pamietam jak to zrobiłem
+niezbyt więc tyle
+apka powinna być pisana tak że jak coś się wyjebie dostajesz cały zestaw danych które potrzebujesz do otworzenia sobie lokalnie w debugu 😆
+bład z javy, wina backendu niby
+Due date to tylko data release
+Sugestia
+są czasem due date taski które są open juz po zakończeniu tego czasu
+a zdioles walidacje frontu jak prosilem?
+w tasku trzeba było
+😆
+Bo w tasku nic nie ma i mnie się Paweł pyta czy miałem zielone światło
+cyprian nie uwierzysz
+backend wlaczyl walidacje
+No to dobrze
+mozesz
+zrzucic
+frontowa
+ciekawe który z nich pierwszy zacznie narzekać
+się dogadaj z Krzyśkiem też że Ty się tym zajmujesz bo to powiązane z tamty taskiem
+że front nie ma walidacji
+i znowu będą się śmiać
+xd
+daj mi chwile jeszcze raz sprawdze tego brancha
+i odbije ci taska
+ok
+Wszystkim się już wszystko pierdoli na QA
+A potem bug-i będą latały z
+jak coś będziemy odbijać do qa, to musimy dawać to:
+xd
+czemu do mnie to trafiło XD
+baaardzo mi się podoba jak grzebią coś z wentylacją
+ten pył w nosie, mniam
+chyba w łazience jest teraz najgorzej
+ile roboty leci dzisiaj
+xd
+nie martw się, dodałem Ci następnego taska do kolejki
+bo nie wiem czemu przypisali do mnie 😆
+bo task jest do merge
+gosciu
+jakiego merge
+no napisales walidacje do tego na branchu
+branch do deva
+tego nwm czemu krzysiek nie napisal
+ostatnie info jakie dostałem to żeby zostawić na branchu i to tam ogarniecie
+co to kurwa za zamieszanie jest
+ale jak do deva to spoko
+imo wiem
+&quot;clickup ty kurwo&quot;
+i idziemy dalej
+dokladnie
+daj mi 5 min
+jak faktycznie merge do deva to mi napisz w tasku żeby nie było że sam z czapy se merguje
+bo tak xD
+napisze ci i odbije to zmergujesz
+super
+tylkokurw nie wiem co sie dzieje robie 4 rzeczy naraz
+Bartek odbilem ci tego taska
+spoko
+no to nie wiem czy to nie powinno trafić do kogoś decyzyjnego
+bo ja zrobiłem tak jak jest tam gdzie była &quot;działająca&quot; waidacja tego
+to do kogo?
+to przebij
+bo ci  znowu odbilem
+idk do Rafała?
+czill
+z taka pierdola?
+no czy taką pierdołą jest zmiana dodawania variabli która była tam przez x lat?
+tylko 4?
+nie koniecznie zmiana tylko dodatkowy warunek po drodze
+chuj przebilem
+teraz czekac
+przebite do Szymona -&gt; &quot;chyba te całe variable trzeba przerobić, popchnijmy tego taska z variablami 3.0&quot;
+XD
+coooooooo
+eeee
+wszedł pozamiatał
+zostalemn sprostowany
+chciał zapobiec tej sytuacji po prostu
+Co się odwala?
+za duzo
+duzo za duzo
+dziala walidacja
+zrobie testy i to pokryje
+bo musze zmienic
+jak co to bede wystawial bugi jezeli czegos zapomnieliscie
+LLM screenowanie do maili zróbmy...
+bede robil
+jeszcze 2 kolejne XD
+ale to nie teraz
+<a href="https://www.hey.com/features/">https://www.hey.com/features/</a> to ma niby jakieś kozak filtrowanie maili ale no
+99$ za rok? nie stać mnie
+to tyle co na licencję do app store
+moj bedzie darmo :)
+odezwij się jak będzie mądrzejsze od chociażby tego rozwiązania
+do cb nie
+nie że chcę
+daj znać jak ci się uda
+xD
+to na chu mam sie odzywac

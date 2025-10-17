@@ -1,0 +1,954 @@
+﻿F
+też mam z tym problem 😆
+<pre>buddy-frontend $ du -sh .git<br>319M    .git</pre>
+a nie to repo xd
+<pre>du -sh .git<br>384M  .git</pre><br>backend zdalnie
+<pre>buddy-frontend % git rev-list --count HEAD &amp;&amp; du -sh .git<br>57425<br>289M    .git</pre>
+50783
+<a href="https://youtu.be/cw1FAQeNYS4">https://youtu.be/cw1FAQeNYS4</a>
+niech zgadne
+intellij idea: pracuje w banku
+Nie
+Film z kategorii lizanie każdemu
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> pamiętasz może:<br>- jakie wymiary ma laser w kańciapie resetu<br>- czy można nim ciąć cienkie arkusze miedzi?
+większy niż kartka a4
+pewnie zależy jak cienkie, w teorii chyba mógł? ale raczej tylko sklejkę robili bo dosyć słaby laser
+pewnie dałby radę
+Ale albo cienką, albo kilka razy przejechać
+<a href="https://www.reddit.com/r/lasercutting/comments/33p6z8/thinking_of_getting_a_40w_cnc_laser_cutter_can_it/">https://www.reddit.com/r/lasercutting/comments/33p6z8/thinking_of_getting_a_40w_cnc_laser_cutter_can_it/</a>
+z tego co czytam to ciężko, bez dokładnych liczb nie da się stwierdzić
+typ lasera też ma znaczenie xD
+jebany postman nie mam pojęcia jak to działa
+mam chyba z 3-4 rózne workspacy, jakiś dzielony, jakiś offline tylko, jakiś online z którego nie mogę korzystać 😆
+taka pogoda, że ja nie wiem jak my pójdziemy po napój potwór w puszce 0.5l 😭
+sprintem
+xd
+kajakiem
+dokladnie
+dobrze ze nie musimy plynac do zabki
+a oddałeś już łódkę?
+czy masz ją jeszcze?
+na 1 dzień
+nie przywiozlem jej z mazur
+fuck ;/
+ale zabralem krawat na pamiatke
+wiec czesc lodki mam ze soba xd
+a ty kordos2?
+a taki krawat
+nie krawat to lina na lodce do wiazania roznych rzeczy
+nie skojarzyłem, doooobra
+:D
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> fixuj to kurwa <a href="https://app.clickup.com/t/8699yjc6w">https://app.clickup.com/t/8699yjc6w</a>
+1. grzeczniej
+2. nie
+co za agresia
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a> fixuj to kurwa
+wgl coś się na becie zepsuło xD
+ale fajne
+sam se fixuj
+pipeline&apos;y stoją
+interaktywne
+9:50 -&gt; do przerwy zostało T - 10 minut.
+o 10 spotkanko
+inb4
+<s>dropdown zwariował</s><br>dropdown w kaftanie w pokoju bez klamek
+ja go nie chce naprawiać
+xd
+czemu zepsuło się skoro jakieś działają
+działają powoli bo jest za dużo executionów
+monitoring się wywalił
+eu i us
+nie potrafi wstać
+starzy jebneli sobie wycieczke marzen xd. prawie miesiac za granica ale zwiedzaja Dubaj, australie, nowa zelandie, fidzi  i singapur xd
+kto bogatemu zabroni
+poyebane xd
+powiedz to im
+co to masz xd
+wtf
+<a href="buddy.mom">buddy.mom</a>
+proste, front zepsuł
+ja nie widzę nic złego
+10:00 -&gt; najgorszy dzień tygodnia. QA znowu wystawiać taski o byle pierdoły. Frontu nie ma i nie będzie. Świat schodzi na psy. Przynajmniej jest zupa.<br><br><a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> <a href="https://t.me/lmastalerz">@lmastalerz</a>, zróbcie fikołka
+<a href="https://www.youtube.com/watch?v=6fnmXX8RK0s">https://www.youtube.com/watch?v=6fnmXX8RK0s</a>
+dobra zupa
+znaczy
+dobra, zupa
+juz zjedzona
+ale to tez prawda
+dobra zupa
+zagiąłem czasoprzestrzeń
+alert mieliście na tego executiona??
+wgl
+nie mogłeś dać 2137
+zamiast 2837?
+Dodajcie handlowanie BE2137
+qik jest ~28** błędy
+kurwa mać
+kogo tam u góry grzmocą tym młotkiem
+nwm
+i wyłączcie ten jebany wibrator
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a> ogarnij sie
+jebla idzie dostać
+bo zauwazyli
+kurde bele
+Kurwa rurwa
+mateusz przypadkiem dal se buttpluga na max
+i usiadł na betonie
+Uff
+bo nam dywan zajebali przez weekend
+tak uzywam mcp do buttpluga zeby nie musiec czytac co claude pisze
+tak jest wydajniej
+😂
+😂
+😂
+ja pierdole 😂
+czemu ten jebany qik ma tyle metod
+nowe znaczenie AR
+agent rektalny
+czy jakoś tak
+a widzisz tam jakieś które nie są potrzebne??
+ale mamy error handling w qiku
+na jednej metodzie
+XD
+jprdl
+ale patola
+noo
+<a href="client.post">client.post</a>(<code>/qik/zone/${encodeURIComponent(zoneId)}/invite</code>
+nieużywana
+Zobaczę co to
+The DNS winds may sometimes blow down,<br>But now our code wears a sturdy crown.<br>With 2837, we catch the fall,<br>And kindly notify one and all.<br>So if the service takes a nap,<br>The user gets a gentle clap—<br>“Try again soon!” from your friendly dev-rabbit.
+kurlik ❤️
+ten krulik cos w ogole jeszcze robi bez tokenow czy tylko wierszyki pisze?
+kupili kurlika
+albo nie, jednak nie
+znowu jest na free xD
+a odpowiedź to nie
+co to kurlik?
+chcemy kanal na telegramie z newsami?
+ten od wierszyków
+a nie mamy?
+martwy xd?
+jak chcesz coś wrzucić, to przestanie być martwy
+chodzi o to ze zautomatyzowalbym to
+&quot;D
+czyli że spam generator?
+w jaki sposob?
+no jak chcesz miec zautomatyzowane to sobie wejdz np. na <a href="daily.dev">daily.dev</a> xd
+mam automatyczne zrzucanie juz postów z blogów technologicznych na bazie RSS do discorda
+brzmi jak newsletter
+moge to wrzucic na telegrama
+daj jakiś reprezentatywny wycinek to może ktoś się skusi
+aktualnie mam dostęp do internetu więc nie czuje potrzeby mieć newsów też w telegramie
+ja daje kawalek
+u siebie mam tak
+ale moge wyciac i zostawic tylko naglowek i link
+a czytasz to później?
+przegladam jak mi zejdzie i jak cos jest ciekawego to tak
+<a href="https://app.clickup.com/t/8693gva2g">https://app.clickup.com/t/8693gva2g</a>
+no od tego jest rss zeby bylo spersonalizowane
+nie kazdy chce czytac content dla ciebie
+np. mnie to nie interesuje
+mozesz wyciszyc albo wyjsc?
+w tym tasku nie jest napisane, że nie jest używana
+no to wszyscy wyjdą xd
+no to wystarczy powiedziec ze nie chcecie
+buddy tech nius jest raczej o takich nowych technologiach generalnych
+ja tylko zapytalem
+dla kazdego
+te newsy sa generalne
+ja ich nie personalizuje
+nie no buddy tech news jest od leżenia gdzieś na dole listy kontaktów bo nic tam nie ma 😆
+tak
+ale np ten o gwyneth paltrow to z czapy
+ona jest chyba ostatnio bardziej znana z zapachów świeczek niż filmów
+masz tam kategorie
+mozna filtrowac po nich
+albo dac do chatbota zeby zrobil podsumowanie xd
+ja zamieram to podpiac pod asystenta
+no z jakimś podsumowaniem spoko, byle tylko strony bez blokad contentu xD
+Ja dzisiaj async
+tak sie lukasz wciagnal w targety ze musi async
+to nie jest tego warte
+czy ty piszesz async godzinę przed monke-summonem?
+kubernetes nie jest tego wart
+O 13 mnie nie będzie w firmie
+Pierdolisz
+ja bym powiedział że został wciągnięty bo słyszałem jak Krzysiek z Rafałem tutaj gadali że już za długo kiszony task a ludzie czekają
+nie jest :D
+ja nie czekam xd
+a jestem czlowiekiem
+Nie ma dnia bez wystawionych bugów
+to prawda
+ja dzisiaj 2
+a taski male
+Ja 4
+a tam bugi
+ficzery mają być
+release ciach ciach
+naprawi się w produkcji
+To zajebisty feature
+Robisz commita z zmianiami w yaml targeta
+Co się dzieje?
+Target się procesuje
+A potem?
+to dzisiaj nadzwyczajnie krótko jesteś
+Buddy robi commit ze starymi zmianami i efektywnie revert twojego commita
+jednak wychodzenie o 15:00 to za późno?
+Wrócę, jak wrócę z UM z Wydziału Komunikacji
+naprawione ._.
+jeśli chodzi o edytor
+w innym przypadku mam to w siurze
+Bo to wszystko się dzieje w backendzie
+alez on napierdala w klawiature jak na was krzyczy
+kto
+ukasz
+ukasz!?
+;Łukasz
+;Łukasz!?
+xd
+Chop co komentare w assemblerze robi
+mov rax, rbx<br>mov rbx, 2137<br>jmp error_jmg
+@qa namierzycie mi coś datowo?
+co?
+21.07 - wtedy wam gh zdechło?
+chyba tak
+chyba w weekend
+gdybym chociaż wiedział dlaczego ktoś mi tak napierdala to byłbym jakiś spokojniejszy
+<a href="https://www.youtube.com/watch?v=AwHGmEhk6pE">https://www.youtube.com/watch?v=AwHGmEhk6pE</a>
+Polecam, uspokaja
+nein
+9?
+neun
+znalazlem w tasku mateusza z poprawionym searchem projektów ciekawy bug
+xd
+nie wiedzialem ze jestescie w stanie tak to zepsuc
+jak wpiszesz w wyszukiwarce jakas litere i wyswietla sie projekty, kazdy najedziesz wywolujac hoover to po usunieciu wartosci w search sie jebie wyszukiwarka i lista sie zeruje
+xd
+pokazywalem na spotkaniu frontu xd
+serio? xd
+ta
+i co oni?
+no ze haha beka
+ale jak to zrobiles to nie wiem
+ja tez nie
+ja nwet nie wiem czy to ja XD
+chce ktoś scambaitować??
+zerkne na to kiedys bo teraz wazniejsze taski
+spoks
+bo ziomeczek właśnie mi powiedział że ukręcił na moim koncie 430k z powietrza
+odpisz mu po chinsku
+po arabsku
+xd
+uzywac wulgaryzmow w testach? xd
+lepiej nie
+jak napisze ze janek idzie po malpke to srednio? xd
+do żabola po jabola
+janek idzie po <a href="maselko.com">maselko.com</a>
+o dobrze
+xd
+xd
+u nas tylko jedna dupa
+nic więcej
+var dupa przechodzi
+a var kurwa nie?
+ogólnie to już nie pada za bardzo
+warunki sprzyjające wyprawie po potwora
+patrzcie jakie buty mozna kupic xd
+buty z gówna?
+z ziemi
+&quot;images AI can never recreate&quot;
+<a href="https://www.yerbamadredirtshoes.com/">https://www.yerbamadredirtshoes.com/</a>
+<a href="https://t.me/grok">@grok</a> wygeneruj buta z gowna
+<a href="https://t.me/grok">@grok</a> wygeneruj gówno z buta
+o 13:15?
+ja mam swoje
+masz swojego potwora?
+potwora nie potrzebuje
+może o 13
+oke
+żeby nie przegapić luki w deszczu
+@qa wasze ulubione dropdowny idą na przemiał
+Alleluja
+Nie ma chuja
+Wzielibyście się
+Za variable
+ty byś się wziął
+za taski
+Jak wy weźmiecie się za variable
+ale to nie działa w tę stronę
+Ooo
+🖕
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong><br><br>Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+Szczam i lecimy
+sek, bo buga fixujee
+<a href="https://t.me/kuba">@kuba</a>
+juz wrociliscie?
+ta
+ta
+ide
+13:15 -&gt; zostaw już ten kod. I tak wiadomo, że chuja robisz, chyba, że chcesz porównywać się z QA
+Łukasz musi dotestować taska. Wezwij go, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/68875bb48429fe30d03be03f">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/68875bb48429fe30d03be03f</a>
+i teraz mi gumisie po glowie chodza
+dzieki mati :D
+obejrzyj sobie
+puszczam muzę do kodowania<br><a href="https://www.youtube.com/watch?v=CJSZPslHkFI">https://www.youtube.com/watch?v=CJSZPslHkFI</a>
+xd
+M men N jars
+a ja to <a href="https://www.youtube.com/watch?v=CGLLglu9jaI&amp;list=RDCGLLglu9jaI&amp;start_radio=1">https://www.youtube.com/watch?v=CGLLglu9jaI&amp;list=RDCGLLglu9jaI&amp;start_radio=1</a>
+bo gumisie to są misie
+<a href="https://t.me/backendy">@backendy</a>
+Ile wy macie Unit Testów?
+co to za biel
+ikona disabled
+na dark modzie
+ale oczojebne
+chociaz przypierdalam sie
+to jest w trakcie naprawiania
+afaik
+hah marcel musze ci zepsuc perspektywe nie poprawiania code mirrora
+co tam znowu
+w nim
+na devie czy u mnie na branchu?
+bo na branchu mnie tam nie było
+xD
+ja to testowalem na branchu., ale sprawdze deva
+na devie tez
+wystawie ci taska:D
+niech to osobno idzie
+nie w tym, co były poprawki
+do bugów wrzucam
+przypisz mnie od razu
+zostaw raza
+done
+to czerwone kusi
+haha
+1 month
+Dawaj
+Tylko żeby ci się nie pomyliło ze znaczeniem tego pola
+no właśnie nowe musimy zrobić
+Ono nie informuje ile ty będziesz czekał
+daj 1 day
+jeszcze ciemniejszy czerwony
+i 3month
+Tylko ile będzie testowany
+A większość tasków jest na Queue
+Te In Progress idą sprawnie
+No chyba, że są zjebane jak K8S
+czemu ten edytor sam sie psuje
+nikt tam nie idzie
+i się wywala
+:D
+dodali mnie do jakiejs tajnej grupy
+oho
+reclutamiento de talento
+XD
+kurde jakis ziomek zaczal tam wysylac arabskie memy ale nie zdazylem zforwardowac xddddd
+:&lt;
+ale macie kolejke Lintów na froncie
+moge dorzucic wiecej
+dawaj
+niech będzie <br>Waiting: 69
+nie będzie tyle
+bo ramu braknie na becie
+to 2137
+dostaniemy zrzutke na telegramie &quot;jebło, jebło,jebło, jebło,jebło, jebło,jebło, jebło&quot;
+albo pół stacka
+pół stacka to może wiader
+czyli 8
+32
+jak tam ten task z codemirrorem wgl?
+bo nie wiem czy czekać na niego przed robieniem tego buga
+czy mieć to gdzieś i naprawiac po prostu
+ogolnie to puszczalem testy krote znalazlem na edytory i nie wywalaly sie
+bo tam chyba bieda jest
+na pewno macie testy na cancel?
+bo on nie działał <strong>nigdzie</strong>
+jak to nie dziala
+klikalem i mi dzialal
+na twoim branchu
+to ten test dopisze
+w jakims miejscu
+na moim tak
+na dev nie
+ok
+a
+i każdy jeden browse jest innym skryptem
+targety/code/envy/packages/pipeline
+więc jak działa edytor w code, to może nie działać w packages
+bo tam są tworzone kopie tego magicznego pliku, co ma 1500 linijek
+<a href="https://t.me/shipurjan">@shipurjan</a> ty tak sam w tym tasku? <a href="https://app.clickup.com/t/8696bde4y">https://app.clickup.com/t/8696bde4y</a>
+sam sobie odpisuje?
+pytaj Krzyśka czemu się nie ustawił
+Nie ma brancha z backendu
+Jest jakiś?
+a to nie twoje zajęcie go teraz znaleźć?
+Nie
+no to odpal czołgi
+i przestań o takie pierdoły pisać
+Odpalić ci mogę kopa w dupę
+to chodz
+Idę
+Za 41min
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a>
+jeszcze stworz skrypt
+ktory ci automatycznie bedzie ustawial
+👌
+muka
+kuba, co to wysyłasz
+no co?
+ja w autobusie jestem i już 3 raz otworzyłem ten kanal
+z tym obrazkiem
+pozdrawiam
+:D
+nie ogladaj hentajcow w autobusie
+lepiej w autobusie niż w pracy xd
+no coz
+:D
+zalezy kto co lubi
+moja ulubiona ikona aplikacji w figmie
+stany zjednoczone
+🇺🇸
+wyglada jak z army 1
+Timeouta wyjebało.<br><br><a href="https://t.me/mganczarczyk">@mganczarczyk</a> merguj się do /dev/null
+?
+Wczorajszy summoner
+długi timeout
+bardzo dlugi
+24H?
+czy 20H?
+tymczasem timeout został kliknięty ręcznie
+9:50 -&gt; do przerwy zostało T - 10 minut.
+10:00 -&gt; gdy nadejdzie bunt maszyn, to nie macie się czego bać. Z całą pewnością, wywalą exception na pierwszym ifie, bo QA się opierdalało. A przy okazji rusz ktoś dupę i sprawdź czy zupa jest.<br><br><a href="https://t.me/mganczarczyk">@mganczarczyk</a> jesteś jak gondolier w Wenecji, pływasz z wielkim kijem w gównokodzie frontu
+zupka lets go
+app server 14<br>git server 49<br>app core 451<br>build server 20<br>common classes 184<br>exec-utils 209<br><br>suma 927
+ut czy e2e?
+unit testy, to leci z wyłączoną apką
+bo na <a href="buddy.mom">buddy.mom</a> tylko e2e wrzucacie
+e2e, e2e daily i contract testy dla qika są
+daily też tam mamy
+u nas jest praktycznie 0% szans na to, że kiedyś coś jebnie
+zależy co masz na myśli jebnie
+jeżeli jebnie w sensie że apka nie wstanie? może tak
+jebnie że wszystko działa na 100% 100% czasu
+nie wiem czy kiedyś tak było, zawsze jakieś małe bugi są xD
+że będzie jakiś failed
+za duża apka
+tzn chodzi o nasze unit testy
+gdzie mamy 246 case&apos;y
+to po co takie testy
+<a href="" onclick="return ShowBotCommand(&quot;shrug&quot;)">/shrug</a>
+znaczy wiadomo, żeby nie zepsuć
+tam są akurat utilsy sprawdzane
+bo dopiero niedawno je zaczeli robic i guess
+backend też kiedyś był bez testów
+tylko co byśmy mieli testować? 🤔
+np. ja mam plan dodac testy do common errorow
+na wydajnosc i na poprawnosc
+bo aktualnie polegamy na qa
+a nie musimy
+jakieś parsowania, walidacje
+testy na różnych rozmiarach ekranów to pewnie visual testy
+w umowie o prace jest napisane ze mamy jedna przerwe 15 min xd
+i musimy swoja obecnosc rejestrowac na jakiejs liscie
+xd
+bo tyle jest prawnie wymagane
+a obecność to nie wiem xD
+A przerwy od komputera są?
+nie
+nie bylo to napisane
+Zgodnie z prawem 5min/h
+no tak
+~40min/dniówka
+ale umowa kompletnie nie odzwierciedla rzeczywistosci
+a jak masz, na określony czy nieokreślony czas
+umowy nie mam bo mi sie w wyplacie jebli
+nie pamietam co tam bylo napisane
+a wy jak macie?
+ja mam nieokreślony
+pewnie tez
+jprdl jakie profilowe
+xd
+<a href="https://t.me/grok">@grok</a> czy to prawda
+jak by je dac czarno bialo to moglo by byc jumpscarem na roblox
+o kurdi
+no i teraz całe państwo nastawione wrogo na kolumbijczyków
+ide robic zwariowane review
+będą chodzić i pytać skąd są imigrancji
+tldr
+państwo będzie zmuszone na to jakoś pieniądze wydać żeby bronić przed przyjazdem kolumbijczyków
+najmniejszy commit w historii frontu
+a prawdziwy sprawcy, wywiad rosyjski po prostu zacznie płacić innej narodowości za to 😆
+pewnie wyjebie wam 5 testów tym
+kiedys im sie skoncza narodowosci xdddd
+tak, skończą na polakach
+naucz się być oryginalnym
+ta
+Nie xD
+na rumunach
+wyniosą wszystkich polaków z polski i będzie spokój
+biedni polacy
+kto będzie po małpki chodził
+pipeline
+ostateczne rozwiązanie kwestii polskiej
+Brzydko
+Gdybyś powiedział: ostateczne rozwiązanie kwestii frontu jeszcze było by ok
+unit test queueue store
+o coopilot dostał upgrade
+albo down
+UI dostalo zmian
+Raczej to drugie
+w intellij copilot ostatio dostał to, a tak to bez zmian słabo działa cały czas xD
+Rename zwykły
+w zakldace czat wczesniej byl czaat, edit, agent
+teraz jest w dropdownie na dole
+a fakt, też to mamy
+nie zauważyłem
+mogliby to zmergowac do jednego
+genialne, zmieniające życie
+a nie kazdy osobno
+ja się mu nawet boje dawać do edycji dostęp bo ni chuja nie ogarniał
+szybciej mi pisać samemu niż naprawiać, on notorycznie jak uzupełnia kilka linijek kodu na raz to zostawia nawiasy czy średniki na pierwszym więc zostawia rozjebany kod xD
+tylko pojedyncze linijki są czasem dobre
+ja daje mu proste rzeczy
+dodaj komentarze i opisy
+takie elementarne rzeczy
+bo mi sie ich nie chce wymyslac xd
+dopiero 12:23 a ja bym juz do zabola poszedl
+mnie zasysa kurewsko
+u nas w backendzie komentarze to tylko jak coś jest specjalnie zepsute/omija security żeby nikt nie &quot;naprawił&quot;
+tak to ban na jakiekolwiek
+ja musze opisac co robi test i do asserta dac komentarz jak sie wywali dlaczego sie wywalil
+To może po prostu cofniecie godziny w ppl o 15min?
+powinny byc tylko 2 odpowiedzi: tak i jak najbardziej
+ale to nie zawsze lecimy o 13:15
+no nie, bo Cyprian dał ni
+mozemy isc wczesniej
+jeszcze wcześnij!?
+to czemu dales ni
+a
+ja się do 16 zrobię głodny
+znowu
+ja tez
+10 min cie zbawi
+mam 2 kinderki kupić?
+?
+chyba ze maczol dzisiaj
+👀
+co sądzą rabini
+ja jadlem maczola wczoraj
+dzisiaj bym zjadl DIY
+to pójdziesz na kuchnie w macu
+xd
+nie
+to idz do castoramy
+tak
+mniam, wkręty
+stracisz streaka
+mniam sklejka
+a w maczolu mozna robic gambling
+gamba
+jakiego gamba?
+gamba ci?
+no gamba ze gambling
+losowanie fryty z keczupem
+nie
+nie
+nie
+ja ide do zabola po jabola
+takze smaknego
+kurka rurka
+mozemy isc do maca <a href="https://t.me/mnawiesniak">@mnawiesniak</a>
+jak chcesz
+no w sumie poszedlbym
+ja wczoraj sie nazarlem. twister terijaki, do tego shaky fries, pieprzne ziemniaczki, serowe paluchy
+damn
+ale i tak czulem po nich pustke
+c&apos;est la vie
+to nie anime waifu
+jedzenie z maca cie nie przytuli
+taka co na co dzień czy inna?
+że w sercu
+w zoladku
+xd
+meh
+w sercu pustki nie mam
+ty masz?
+chcesz o tym pogadac?
+nie
+:D
+ja chodze do maca zeby ja spotkac
+niestety jeszcze sie nie udalo
+plaska
+mc waifu
+laska
+bo to loli
+why loli so smoli
+Rhonda McDonalda
+on Ronald
+ona Rhonda
+ono Rondo
+xd
+dlugo tego szukales
+Hefest got this run
+ostatnie 5 sekund
+dzięki za kółko byku, nie zauwazylbym
+to pierwszy wynik z google&apos;a, daj mi spokój
+xdddd
+twister średni, oprócz kurczaka tam prawie nic nie ma niestety xD
+sredni to jest nie wiem co. ale to jedyny smaczny twister w maku bo pozostale ssa
+ok to sory nie mam porównania, jeśli nie burger to wrapa biore i one są lepsze na pewno xD
+no wsensie wrap
+nie twister
+nie wiem czemu napisalem twister
+a to czekaj, bo ja pomyślałem że to inna kategoria jest to niech będzie <br><br>ale jak i to wrap i inne wrapy to jest ta sama klasa to nieporozumienie
+ja w moim miałem kurczak sos troche sałaty pare plastrów ogórka
+nie
+miałem laga mózgu
+podobnie
+ja nie wiem gdzie isc, nie mam ochoty ani na zabe ani na maa
+maca
+a jestme glodny troche xd
+<s>można też się najeść wstydu</s>
+ke bab
+jak nie wiesz gdzie isc to na kurwy
+ale to pewnie tylko bardziej zgłodnieje
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong><br><br>Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+go
+go
+takiego dashboarda sobie zrobiłem na raspberry pi zero 2 w
+raspberry 100zł
+monitor chyba z 60zł
+I autoboot chromium w X11
+bez żadnego desktop environmentu
+512 MB ramu, używam zram żeby kompresować ram
+a nie używac swapa bo to by zniszczyło kartę pamięci
+więc na samą stronkę na runtime zostaje około 100-120 MB ramu
+a samą stronkę hostuje na vercelu i zrobiłem secret key na backendzie 256 znaków
+ze go muszę podać w query paramie bo inaczej 403
+a to zdjęcie to zdjęcie mojego kota z czata gpt się odbija jak logo dvd xd
+13:15 -&gt; Będzie tego. Pizgaj taski i odpocznij, bo i tak spierdolisz więcej niż to warte. Chyba, że wolisz 3 bugi w cenie jednego fix-a.
+Łukasz musi dotestować taska. Wezwij go, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/6888ad347a70697efdd2a008">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/6888ad347a70697efdd2a008</a>
+😭
+<a href="https://slint.dev/">https://slint.dev/</a><br><a href="https://lvgl.io/">https://lvgl.io/</a><br><a href="https://doc.qt.io/embedded.html">https://doc.qt.io/embedded.html</a>
+QT?
+Skąd tyś to wyciągnął?
+co dokładnie
+<a href="doc.qt.io">doc.qt.io</a>
+w google dosłownie
+A czego szukałeś?
+<a href="https://www.google.com/search?q=qt+embedded">https://www.google.com/search?q=qt+embedded</a>
+Pisałem kiedyś w QT
+Na razie mi wystarcza chrome i lekka stronka i już nie mam pomysłu co więcej dodać poza zegarem i pogodą
+jak kiedyś dodam więcej to może przerzuce się na coś embedded
+a tak to jest good enough
+chrome też mam mocno zoptymalizowany z 50 flagami xD
+I mam OS DietPi co też jest dooptymalizowany
+jakieś przypominajki i kalendarz xD
+No
+mam na to 100mb ramu
+I pełne możliwości przeglądarki
+więc raczej ez xd
+jak ja bym robil to bym podpiął do gcalendar/todoist i wyswietlal podsumowania z taskami na dany dzien xd
+ah, yes
+tzn to bardziej ma byc dla calej rodziny nie tylko dla mnie
+ale moglbym zrobic ze np. oni sobie zaznaczaja cos w kalendarzu i sie syncuje
+jak uzywasz to mozna tez z home assistantem spiąć
+jakie syncuje
+każ im się łączyć po ssh do tego
+i komendami to
+łączyć po ssh i dopisywać w vimie w odpowiednim formacie w /etc/calendar/&lt;name&gt;/dd-mm-yyyy.txt
+a potem tylko sudo reboot
+nie no można chociaż troche ułatwić na początek, dodać skrypty i mieć je w ścieżce żeby mogli dodać <code>add-event &quot;treść eventu&quot; dd.mm.yy</code>
+widzialem tez ze niektorzy taki dashboard daja po lustro i fajnie wygląda jak dane się wyświetlają na lustrze
+no tam na początek można
+xd
+nawet jest repo z softem mocno gwiazdkowane xd<br><a href="https://github.com/MagicMirrorOrg/MagicMirror">https://github.com/MagicMirrorOrg/MagicMirror</a>
+wystarczy nie mieć matowego ekranu 😆
+widzialem to ale to jest na electronie
+wiec jeszcze cięższe niż chromium
+electron do czegoś takiego to jak kupowanie forda f150 raptor do wożenia dupy po mieście do sklepu i z powrotem
+wiec trzeba cięższego raspberry pi
+yeah
+A ja mam takiego <a href="https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/">https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/</a>
+no tutaj bonus jest taki ze mozesz sobie pisac widgety w sprawdzonym webowym ekosystemie
+i w sumie największy fun jest z optymalizacją właśnie xd
+i z tym ze jest malo zasobow
+czy ja wiem czy zero 2w jest aż tak biedne jeśli chodzi o zasoby
+nie jest wlasnie
+jest idealne na chromium kiosk
+cos ciezszego to strata zasobow
+rpi kupować pełnoprawne to tak
+a w fordzie raptor jest taki bonus że jak dziecko mniejsze niż 160cm podejdzie blisko to przejedziesz go i nawet nie będziesz wiedział że to nie była dziura w drodze
+plus są wielkie
+prawda
+xd
+ja mam 2 takie nieużywane <a href="https://pl.aliexpress.com/item/1005006271881076.html">https://pl.aliexpress.com/item/1005006271881076.html</a>
+jak robiłem klawiaturke to tym razem udało mi się nie spalić 😆
+noice
+ja mam jeszcze odroid n2+ co mi lezy nieuzywany
+wczesniej mialem na tym kodi do telewizora, ale juz nie mam telewizora
+zastanwialem sie czy buddy standalone sobie nie postawic
+coooo
+xd
+na chu
+zeby miec jakies pipeline
+to na chu standalone?
+A w życiu
+zeby miec self hosted
+na chu?&quot;
+Nie ruszy ci
+musisz miec 16 GB ramu
+To je kobyła
+minimum
+Milion kontenerów
+i jest okrojony bardzo z funkcji
+wydaje mi sie ze pojdzie na spokojnie ale ok
+Lepiej zainstalować sb agenta i z live odpalać
+która część
+to są 3 apki w javie
++ front
+I ile db?
+kiedys chcialem postawic to mi czuli odradzal
+on stawial
+<a href="https://buddy.works/docs/self-hosted/installation/linux">https://buddy.works/docs/self-hosted/installation/linux</a>
+sprobowac moge, najwyzej sie czegos dowiem
+o buddym
+ok to lipa
+ja mam 4 gb ramu
+ta dla uruchamiania 2 pipelineów
+masz jeszcze swap
+🗿
+To jest mysl
+polecam n8n
+jezeli chodzi o self hosted
+ostatnio mowiles ze jakies okrojone
+no właśnie
+i ze reklamują upgrade
+że chujowe jeśli darmowe
+a teraz polecasz
+CHORĄGIEWA
+bo może już zapłacił
+HATFU
+nie no pierwsze wrazenie bylo srednie
+ale jak tego pouzywalem to git
+funkcje ktore mi sa osobiscie nie potrzebne sa zablokowane
+ja się od selfhosted odbiłem przez hardwarowe problemy, adapter m.2 do ethernet leciał 100 nie 1000 internet
+xd
+Ale Kestra i Windmill to są takie bardziej open sourcowe alternatywy do n8n ponoć
+<a href="https://github.com/windmill-labs/windmill">https://github.com/windmill-labs/windmill</a>
+<a href="https://github.com/kestra-io/kestra">https://github.com/kestra-io/kestra</a>
+trzeba by sprobowac
+no ale w windmill sam klepiesz skrypty
+jak ci nie przeszkadza to czemu nie
+niektórzy wolą tak
+<a href="https://selfh.st/apps/?tag=Workflow%20Automation">https://selfh.st/apps/?tag=Workflow%20Automation</a>
+znaczy mi nie przeszkadza nawet robienie po prostu cronjobów na jakims lekkim linuxie 😂
+w plikach .sh
+ale tak sobie chce zainstalowac jakies gui
+<a href="alternative.to">alternative.to</a> dawaj
+crontab -e
+<a href="https://get.alternative.to/search-results/n8n">https://get.alternative.to/search-results/n8n</a>
+mi sie nie chce bawic z tymi cronami
+wole miec gui
+ee, to słabo
+zrób sobie gui
+terminal najlepszy
+które robi pod spodem crontab -e
+<a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> jest external api do visual testów?
+do np tworzenia sesji
+czy all internal
+external w sensie rest api?
+internal
+łe
+nie wiedzialem ze jest rest api do VT
+jest do UT
+i mi ułatwia życie
+do VT nie ma
+do dupy D:
+bo to inaczej dziala D:
+a jesli chodzi o VT to
+ale to jest do starej akcji raczej
+ja juz nie wiem
+to jest sekcja API
+mozliwe
+to nie ma tam nic o nowym
+daj link
+faktycznie to add action
+nom
+tzn będzie akcja vt nowa
+ale to raczej jest pod starą jeszcze, jeśli last edit kwiecień
+ja nie wiem co bedzie
+testuje to
+a nie wiem jak dziala
+bo wszystko naraz
+kto usunął linka którego wkleiłem
+<a href="https://buddy.works/docs/api/actions/add-action/visual-tests">https://buddy.works/docs/api/actions/add-action/visual-tests</a>
+Kuba
+chcesz sie bic?
+i ty brutusie
+ale to jest ta stara akcja
+vt
+więc whatever xd
+no ale tak samo last edit april
+nie ma api, może kiedyś będzie
+tak samo jak do domen w profilu
+nie będzie api chyba że ktoś będzie potrzebował
+nie wiem czy do tego jest wogole potrzebne
+internal api będzie praktycznie całe działać tu albo tu
+internal wymaga ode mnie visual-nfs w es
+z rest api jest ten problem że my wszędzie mamy ścieżki /workspace/{workspace/... itd
+a chciałem tylko pustą sesję stworzyć
+tak jak mogę przez rest api ut
+??
+to co napisałem
+a gdzie pusta sesje potrzebujesz?
+do taska
+ale lokalnie?
+i nie pustą, tylko sesje running
+to uzyj internal api
+nie da sie inaczej
+developer methods
+albo zwyklych
+spoko, ogarnięte już :)
+:D
+tekst z góry na dół!?
+musimy przywrócić flagę japonii!!!!!!1
+chyba na enterach
+nie, tam to jest nieustanna walka
+raz ktoś da te labelki piono
+to zaraz coś je znowu zmieni na poziomo xD
+jak to jest nowe, to już któryś raz to widzę
+konferencja na ktorej straznikiem jest robo pies z botlanda <a href="https://www.security.show.pancernik.it/">https://www.security.show.pancernik.it/</a>
+to mi bardziej to w oko wpadło
+xd
+super konferencja to musi być
+mi tez
+masz na stronie 4 panie
+&quot;najgorętsza&quot;
+jako pierwsze
+i od razu kupujesz bilet
+pancernik to nie są ci od caseów na telefony? xd
+a nie dobra bo to pancernik it
+<a href="https://bezpieczni.it/">https://bezpieczni.it/</a>
+albo to
+ich strona
+interesuje mnie to <a href="https://www.security.show.pancernik.it/agenda-wykladow/">https://www.security.show.pancernik.it/agenda-wykladow/</a>
+nic na środku; i 2 panie z dekoltem
+i tu łyso
+a u góry te przedziały czasowe do czegoś prowadzą
+to coś czuje że nie zobaczymy tutaj nic o UI/UX
+ty, bitad ma bogatszą agendę
+<s>jeśli chodzi o aule</s>
+ta
+xd
+<a href="https://www.mcmaster.com/">https://www.mcmaster.com/</a>
+Ta stronka jest wychwalana za to że jest mega szybka
+i zoptymalizowana
+prefetching robią na pewno
+w sumie uczciwa cena, bałem się że to będą jakieś kosmiczne kwoty jak potrafią być za różne eventy z IT
+ktos jest chetny zeby isc?
+bo wejsciowki za 0
+jak za 0
+tylko musze przez szymona zalatwic
+mam kod ktory zeruje cene biletow
+od dzialu cybersec ing banku slaskiego
+jak za darmo to uczciwa cena
+no chyba, że w mordę dają za darmo, to wtedy to nie jest uczciwe D:
+naszczescie tutaj nie jest zle
+boli mnie to
+czemu kółko w zaokrąglonym kwadracie
+xd
+<a href="https://t.me/shipurjan">@shipurjan</a> to hinczyki tak default dali??
+?
+no to w konsoli qika xD toggle czy jak to się nazywa
+A to może
+nwm
+<a href="https://ant.design/components/switch">https://ant.design/components/switch</a>
+chyab nie
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> <a href="https://t.me/mnawiesniak">@mnawiesniak</a>
+Ja tylko zalatwiam to z ksiegowa
+Bo do teraz mieliscie zlecenie na polowe etatu nie?
+I chodzi o to ze zmieniamy ja na caly ?
+Tak
+No, tylko żeby potem nie było problemów, bo na cały etat chodzimy od 1.07
+Wiem i za ten msc juz macie dostac 5k ogarne z ksiegowa
+Super
+Juz wszystko wiem :)
+Bede dawac znac
+Dziękki
+juz kinga jest obecna?
+tak
+ide ja nawiedzic
+:D
+nawiedzona
+:D
+czemu tak dużo i/o waitów na tamtym serwerze
+nie rozumiem pytania
+a sory to na kanale tests-api was tam chyba nie ma
+9:50 -&gt; do przerwy zostało T - 10 minut.
+jak i/o waity to wina naszej apki to trzeba to sprawdzić bo to jest dokładny usecase na wirtualne wątki
+10:00 -&gt; QA już obecne, a Frontu dalej nie ma. Co się odwlecze to nie uciecze, nawet taski. Kiszone specjalności są nierozłączoną częścią kuchni Polskiej. A nie sorry, mowa o clickupie to <strong>czy wy możecie robić kurwa jedną rzecz, jeden task?</strong>
+Gówno prawda
+Ja jestem
+Ich nie ma
+ide
+nie pierdol
+pff
+zostałem zroastowany chyba
+xd
+damn
+xDD
+a co zaokrąglać xD
+Dobrze!
+Linka do taska daj
+bo sie porozumieć nie potrafią co do czasu
+<a href="https://app.clickup.com/t/8699q6a0n">https://app.clickup.com/t/8699q6a0n</a>
+nie rozumiem gdzie jest w tym moja wina niby
+lol
+xd
+tak to jest jak sie zle robi ifa
+❤️
+Response Uilities.InternalAPIService.success
+We popraw tego errora
+tak robie
+Uilities 🇬🇧
+I w miarę możliwości nie rzucaj System.Exception
+To jest brzydkie
+RestException
+ja tylko testuje narazie czy to dziala
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> <a href="https://t.me/mnawiesniak">@mnawiesniak</a> ma ktoś przy sobie skan/zdj dyplomu?
+jak ma mieć Mateusz
+skan
+ze sobą
+?
+albo oryginał
+czemu odpowiadasz za niego xd
+okey potzrebuje skan/zdjęcie tego dyplomu z data
+wlasnie moze sobie wydrukowalem na prusie
+mateusz ja cie bronie a ty mnie atakujesz
+Dobra, nie skojarzyłem
+Kurwa
+Mateusz
+Czemu do chuja się nie broniłeś jak wszyscy?
+bo ma lepsze rzeczy do roboty
+kinga potrzebuje skanu waszego dyplomu magisterki?
+tak
+po co xD
+od nas inżynierki nie chcieli
+Status studenta
+ja musze dac jej bo magisterka wlicza sie do urlopu
+wiecie ze jak macie magistra albo inzyniera to okres studiow jest liczony jako praca
+no tak
+ale magister inżynier już nie wpływa
+Gotowe
+to jak minie mi 2 lata zatrudnienia to sie bede martwil
+czyli w sumie za miesiac xd
+bo wtedy urlop sie zwieksza do 26 dni
+tak
+a w 2026 wejdzie prawo ktore mowi ze UZ tez sie wlicza w urlop
+o, ja wiem
+a no wlasnie ja na poczatku pracowalem na UZ i niepelny etat wiec w sumie jeszcze nie za miesiac
+<a href="https://t.me/lmastalerz">@lmastalerz</a> wyślij to
+będzie git
+ładnie czatgpt wygenerowal
+duzo wiaderek wody poszlo

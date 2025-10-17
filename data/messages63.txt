@@ -1,0 +1,951 @@
+﻿czy ktos wie cos o liscie variabli majacej opcje kopiowania?
+bo ktos mi nasral do deva
+i popsul testy
+co się stało
+ktos dodal kopiowanie na caly ten wiersz nazwy
+i zmienil xpathy a nie powiedzial
+co za dziad
+2 dni temu
+kto
+komu nakopac?
+tobie
+mam tam przyjsc?
+Paweł Kapała
+Ooo
+Komuś nakopać?
+sobie
+Dobra, to Kuba idzie pawłowi, a ja przy okazji Marcelowi
+xd
+pizda jesteś, nie przyjdziesz
+Nie przyjdę
+Po co komu figma
+Wyślijcie scruma na grupie<br><a href="https://t.me/lmastalerz">@lmastalerz</a> <a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> <a href="https://t.me/mganczarczyk">@mganczarczyk</a> <a href="https://t.me/shipurjan">@shipurjan</a> <a href="https://t.me/mnawiesniak">@mnawiesniak</a> <a href="https://t.me/BartShoot">@BartShoot</a> <a href="https://t.me/mJakobsche">@mJakobsche</a>
+nie mam
+tyle to mi się nie chce spisywać
+- nasrałem do deva (znowu)
+<a href="https://www.youtube.com/watch?v=n-YK3B4_xPA">https://www.youtube.com/watch?v=n-YK3B4_xPA</a> w końcu się dowiem jak pisać jave żeby było szybko
+9:50 -&gt; do przerwy zostało T - 10 minut.
+10:00 -&gt; jest piątek, weekendu początek. Uhonorujmy ten wspaniały dzień miską <strong>psznej zupy</strong> i jeszcze lepszego... no. Życzę wam spokojnego życia bez przypierdolek QA.
+zupa
+dobra zupa?
+curry z dyni
+xd
+paweł
+find &amp; replace?
+casesensitive and words enabled
+podmieniłeś chyba wartość
+polecał mi find &amp; replace
+xd
+co to jest content-valuetype
+buddy http header
+A to nie na qa podmieniliscie<br>Bo taki header jest niestandardowy
+pawel szukal wszystkich value zeby podmienic na valueType bo mu sie struktura zmienila i podmienil wartosc w zmiennej
+sory wszystkich type
+hejtujesz a to po prostu wprowadzamy nowy standard webowy, zaraz nowy protokół httbuddy
+i podmienil content-type na content-valueType
+header to tylko sugestia
+A ok, dziwnie to pokazuje
+expected, was
+to zależy od ciebie, jak to interpretujesz
+myslalem ze expected to to co wy macie wpisane
+to zalezy co jest po lewej a co po prawej stronie rownania
+ta, pewnie w złej kolejności w teście jest xD
+nie
+chciałeś content-valuetype<br>było content-value
+pobieram zmienne z frontu z window.testManager i porownuje do swoich constów i czy sie wyswietla dobrze
+więc expected
+jest twój const
+nie
+expected to jest wartosc z window.testManager a was to jest wartosc na widoku
+idiotyczne
+ERROR<br>spodziewam się dostać <code>dupa</code> <br>ale dostałem <code>dupa2</code>
+spodziewam się
+zawsze tej samej rzeczy
+tu powinno być odwrotnie
+nie pamietam juz szczegolow
+dawno to pisalem
+<a href="https://app.clickup.com/t/869a7dtmd?comment=90120151437611">https://app.clickup.com/t/869a7dtmd?comment=90120151437611</a> ale interwencja
+ide zjesc zupe hinduską saary zaraz bede z powrotem
+tahnk you saar
+dobrze że backend tak nie robi, bo mnie czasem by kusiło napisać że ta metoda psuje mi estetyke kodu, tego nie robimy
+XD
+robi
+backend w devie
+gdzie
+a
+źle przeczytałem
+tylko ja normalnie w tasku piszę
+że mam na jednej linii za dużo rzeczy
+i gdzie mam to dać
+dostaję info, &quot;a chu, nie dajemy tego; daj buttony disabled&quot;<br><br>te buttony disabled będą wymagały ode mnie odbicia taska na backend :D
+scrum mi się nie mieści na ekranie
+taki długi
+D:
+a to mi się mieści
+o dziwo, działa wszystko
+myślałem że mogę zwinąć tak, żeby się nie mieścił ale to najmniejsze okienko telegrama jakie moge xD
+muszę dać na review
+X D
+spisałem wszystko, co poszło na dev ode mnie
+więc się nie mieści
+już wiem, czemu Krzysiek narzekał
+na mnie
+Marcel coś ty popelnil
+scrum
+chyba srum
+srum to na deva
+a scrum to srum ze srum na deva
+tak się da?<br><br>jeden endpoint mówi: są 2 itemy<br>drugi endpoint mówi: aaaa, masz 3
+może być cache, może być źle policzone
+czemu nas pytasz xd
+tylko problem jest potem to odtworzyć :/
+bo jak wrzucę ten sam xml na inny projekt to jest git
+a na tym zepsutym jak odświeżysz strone jest ok?
+nie
+myślałem że pushe może źle zeszły, ja tak często mam ze po postawieniu apki jakieś pierwsze pushe się gubią
+nie mam pushy pod agregację
+bo to nie ma sensu robić tam live
+masz zaznaczone &quot;last 24h&quot;, co jak user jest uparty i będzie siedział na tym widoku, mam mu w intervalu sprawdzać czy item usunąć? xd
+nie podsuwaj pomysłów QA
+to niech sobie sami to napiszą
+zapamiętać: NIE commitować na unit testy, gdy rename jest na branchu
+ja dzisiaj dostałem taki konflikt że oidc provider ma takie same permisje jak access token
+więc muszę albo zaadaptować tak, żeby się nie wyjebało albo dorabiać do oidc provider to samo co robiłem do access tokenu
+oidc provider to jakaś nowa rzecz, o której się dowiedziałem dzisiaj jak mi się build po mergu wyjebał 😆
+czemu tu takie paski są, co ten clickup znów zjebał
+nie wiem co poslales
+tego nie widzisz?
+tej lini?
+aaa
+paski
+ja przeczytalem taski
+xd
+redesign byl
+no takie bloczki
+na przyklad lista ma nowa ikonke
+jak teraz na live support taski wszedłem to wygląda syfiaście
+chyba ze juz miala ale ja zyje pod clickapowym kamieniem
+tak, jedna z niewielu zmian która nie jest negatywna
+ale też nie na plus więc nie wiem 😆
+działa jakbym miał 2mb ramu wolne z 512
+Kto niby odpala remaster mojej inżynieki w avalonii
+Którą nic nie robi oprócz wypierdala się+wysyła error do sentry xD
+xd
+tokyo japan
+zh-CN
+<a href="https://agents.md/">https://agents.md/</a>
+dafak
+skąd oni wzieli domene md
+kupili
+kraj mołdawia<br>The .md domain extension is primarily intended for use by individuals, businesses, and organizations related to the medical and healthcare sectors due to its association with &apos;MD&apos; or &apos;Medical Doctor&apos;
+&quot;primarily intended&quot;
+chyba, że rozszerzenie markdowna
+to może każdy
+<a href="https://syste.md/">https://syste.md/</a>
+lol
+Bo chcialem kupic jakas domene wlasnie bo mam pomysl na projekt z markdownem
+ale mylslaem ze md jest niedostepne
+Ale teraz moim większym problemem jest: co jeśli mołdawia przestanie istnieć 😂
+będzie plan migracji a prawdopodobnie ktoś przejmie rejestracie tego tld bo to jest dobry biznes
+ja kupuje chyba jedna domene .md za $50-$60
+zwlaszcza teraz jak markdown staje sie najpopularniejszym jezykiem programowania
+wiec mysle ze one moga zaczac drozec
+z .io jest jakieś ryzyko ze zostanie wycofane ale właśnie raczej to ktoś przejmie
+no już mogą drożeć, jak registrar uzna że jakaś domena jest premium to płacisz wielekrotność normalnej ceny rejestracji xD
+Co to znaczy ze ktos przejmie?
+A jak kupie np. za $50 to moze np. za rok sobie mołdawia stwierdzic ze mam zaplacic $2000?
+tak
+.io oficjalnie jest pod British Indian Ocean Territory - firma która się tą domeną zajmuje Internet Computer Bureau Ltd. <br><br>nad nimi jest IANA ktora decyduje jakie tld istnieją
+<a href="https://www.reddit.com/r/webdev/comments/1g125ek/it_looks_like_all_io_tlds_are_going_to_disappear/">https://www.reddit.com/r/webdev/comments/1g125ek/it_looks_like_all_io_tlds_are_going_to_disappear/</a>
+o nie
+damn dziwna sprawa z tymi domenami, ze to jest przypisane do krajow
+wyparuje <a href="itch.io">itch.io</a>
+no ale ogólnie nie ma ryzyka że nagle domena ci wyparuje, na pewno będą długie procesy wygaszania tego jeżeli się na to zdecydują
+myślę że nie ma chuja że .io zniknie, conajwyżej powinni to zmienić z ccTLD na gTLD czy jak to się nazywa to nie od kraju
+tak, to się zdarza no i ogólnie zazwyczaj jest tak że masz promke na kupno a odnawianie jest po normalnej cenie
+ale też możesz sobie przenosić te domeny później bo to nie jest tak że tylko jeden registrar ma prawo do tld
+jak to nie?
+<a href="tld-list.com">tld-list.com</a>
+mozesz sobie zerknąć z ilu źródeł da się kupić dowolną domenę
+😆
+rozumiem
+XDD
+LPTM
+looks papież to me
+looks papa to me
+psychopata
+xd
+ja mialem tak samo
+to jest za duzo sprawdzania
+fakt
+czemu polska zrobiła coś takiego z tymi domenami, dlaczego każde miasto i wojewodztwo ma swoje pieprzone tld 😆
+rosja też ma pare takich ale chyba nie aż tyle co u nas
+bo tak
+pewnie jebneli to wsyzstko jednym skryptem
+<a href="https://app.clickup.com/t/869a7ep9h?comment=90120151480137">https://app.clickup.com/t/869a7ep9h?comment=90120151480137</a>
+nie, to są osobne domeny
+przecież <a href="bielsko.pl">bielsko.pl</a> to aci na uczelni zarządza nie?
+tak
+nawet jest limitowane, gdzie możesz to kupić
+np tu <a href="https://www.wizja.net/domeny">https://www.wizja.net/domeny</a>
+dziwne ze to jest tld a nie po prostu domena i subdomena
+skocz wysoko
+prosto w oko
+to się oficjalnie nazywa registry suffix chyba
+<a href="https://t.me/backend">@backend</a> ktos da rade dodac do donka opcje zeby resolvowało dmarca?
+<a href="https://t.me/razu">@razu</a> wróć
+własnie
+w pon możesz go zapytać
+michal hankus tez urlop
+potrzebuje na teraz
+po co takie rzeczy potrzebujesz
+tag: later
+zeby generator dla dmarca przygotowac
+to po co ma resolvować
+dostałeś metodę dodawania
+no to do generatora wysyłanie maili
+jaka metode dodawania?
+whatever@
+to jest mail
+a co tam wysyłasz?
+to mam juz przygotowane wysylanie
+ale przydalobysie miec jeszcze domene
+czyli dodaje
+ktora ogarnie dmarca
+No wlasnie jak to jest domena to mozna miec maila np. <a href="mailto:marcel@ubb.bielsko.pl">marcel@ubb.bielsko.pl</a>
+w sumie spoko
+to co razu kazal. zipa z raportem w xmlu
+tzn jak masz jakieś generici
+typu fryzjer
+kwiaty
+to wiadomo
+kupujesz domenę <a href="bielsko.pl">bielsko.pl</a> i masz ładnie zrobione
+nom
+<a href="panodkomputerow.bielsko.pl">panodkomputerow.bielsko.pl</a>
+już widzę jak ktoś szczęśliwie wpisuje w przeglądarkę <a href="fryzjer.swieradowzdroj.pl">fryzjer.swieradowzdroj.pl</a>
+no to już przesadzone
+dlatego pewnie mamy <a href="bielsko.pl">bielsko.pl</a>, nie <a href="bielsko-biala.pl">bielsko-biala.pl</a>
+<a href="kwiaty.stalowawola.pl">kwiaty.stalowawola.pl</a>
+to tak dumnie brzmi
+kwiaty z tradycjami
+a nie <a href="kwiaty-bozena.o2.pl">kwiaty-bozena.o2.pl</a>
+<a href="klimatyzacja.serwis.wymiana.malopolska.pl">klimatyzacja.serwis.wymiana.malopolska.pl</a>
+fuj
+a potem komuś na wizytówce
+<a href="mailto:kontakt@klimatyzacja.serwis.wymiana.malopolska.pl">kontakt@klimatyzacja.serwis.wymiana.malopolska.pl</a>
+i od razu mniej klientów
+bo się jebną przepisując xd
+yup xD
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong><br><br>Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+Oficjalnie wybiła 13:00, co to oznacza? <br>Dokładnie! Ban na obrażanie <strong>sami wiecie kogo</strong> uważam za zniesiony!<br>Życzę kreatywnej krytyki i stalowych nerwów.
+to już 13?
+: O
+tak
+szybko zlecialo
+jprdl dzwieki tego visuala sa jakbym w kosci gral
+fajna domena jak chcesz sprawić że trudno ją znaleźć
+ci co maja ja znalezc to znajda
+np. mieć każdą część domeny w innym skrypcie
+<a href="https://www.dns.pl/lista_domen_funkcjonalnych">https://www.dns.pl/lista_domen_funkcjonalnych</a><br><a href="https://www.dns.pl/lista_domen_regionalnych">https://www.dns.pl/lista_domen_regionalnych</a>
+osobiście uważam że te regionalne są bardzo lipne i mało się tego widzi na reklamach
+ale mozna sobie zrobić bardzo dlugą subdomenę, np.<br>647ef43f-6d85-45ce-b717-49cc397f226f.kino. বাংলা
+A jakby zamiast <code>kino</code> i tego strina UUID dac jeszcze inne jezyki np. chinski albo cos 😂
+to powodzenia
+nawet jakmasz .pl
+to wpisanie takiego gówna w subdomene
+sprawia, że nikt tam nie wejdzie
+wiem
+kto zaba
+?
+ja marcel
+ale to jest ultra paranoja mode<br>Tzn i tak najlepiej po prostu zrobic autentykacje xDD
+zeby miec gwarantowane
+no ale
+no właśnie pytanie co się chce osiągnąć
+http ba by wystarczyło w sumie
+no ta
+ja mam dashboard na vercelu gdzie mam wlasnie w chuj dlugą subdomenę
+ale do tego mam jeszcze query param chyba z 256 znakow ktory ustawia ciasteczko
+jako haslo
+bo tam mają subdomene per user do tego pewnie
+wiec na dashboardzie mam zapisane ciasteczko bo to sie wlacza on boot
+<a href="bring-cushion-athlete-shield-vocal-child-burger-domain-drum.vercel.app">bring-cushion-athlete-shield-vocal-child-burger-domain-drum.vercel.app</a>
+Ale jeszcze trzeba ustawic query param sekretny bo inaczej redirectuje na 404
+za duzo
+nie macie czego robic?
+Uczenie sie to tez praca
+czego sie uczysz?
+o domenach
+jak vercel rozwiązuje multi user rozwiązanie
+które uwaga uwaga
+też będziemy chcieli mieć w buddy
++1
+ale jeszcze nie mamy
+-1
+lepsze to niz ogladanie anime
+ano
+jakbym ja tu włączył anime, to by krzywo na mnie patrzeli
+bo takie rzeczy to tylko w domu
+to jak bierzemy się z miejsca &quot;nie mamy&quot; do &quot;mamy&quot; <br><a href="https://app.clickup.com/t/8698bub9c">https://app.clickup.com/t/8698bub9c</a>
+np wg mnie to jest bez sensu, czemu ma być jakaś ekstra subdomena/domena per user co to komu daje
+Tzn to daje jeśli mieliby domene <a href="buddy.works">buddy.works</a>
+i wtedy <a href="user.buddy.works">user.buddy.works</a>
+13:15 -&gt; To już ostatni raz jak się spotykamy w tym tygodniu, więc może ruszyłbyś dupę? Dzisiaj i tak QA nie wystawia bugów, bo Łukasz rozjebał czołg (polski)
+Łukasz musi dotestować taska. Wezwij go, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/68b18bb453c4131a51d6e20d">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/68b18bb453c4131a51d6e20d</a>
+<a href="https://t.me/shipurjan">@shipurjan</a> ?
+ide
+yup, te regionalne to 2,76% wszystkich domen .pl xD
+włochy śmiesznie mają, bo mają 2 literowe przed .it
+np <a href="sp.it">sp.it</a>
+<a href="https://t.me/lmastalerz">@lmastalerz</a>, prosimy o audiencję.<br><br>~uniżony lud powracający z Dżaby<br><br><a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196321/execution/68b18e8fd33d1f40472c393e">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196321/execution/68b18e8fd33d1f40472c393e</a>
+Dzień dobry,<br>uznaję wasze potrzeby i przerwę moją pracę, aby się z wami spotkać.<br>Pozdrawiam.
+jakiś wysokobudżetowy bot tym razem
+Ile płacicie za medicover sport? (Czy jak inaczej się to nazywa)
+nic
+ja tego nie mam
+To daje zniżkę czy wejście za darmo?
+,alezy od lacoeki
+zalezy od placoeki
+w jednych masz znizki, w jednych wejscie za darmo a w innych uslugi
+na basen np mozna wziąć godzine plywania za darmo
+Qurwa <a href="https://t.me/mnawiesniak">@mnawiesniak</a>
+Miałeś dodać check all do targetów, a nie rozjebać Edit
+<a href="https://app.sd4.com/ttests/deploys/pipelines/pipeline/70068/action/248/edit">https://app.sd4.com/ttests/deploys/pipelines/pipeline/70068/action/248/edit</a>
+mozesz mi w tasku napisac repro zamiast tu spamowac
+🤨
+napisz pod taskiem, że w firefox nie działa
+odpiszemy linkiem do download chrome/edge/arc
+etc
+Ha, działa po wejściu z linka
+Ok
+Bez sensu
+Jeszcze byś mi odpisał u mnie działa, ja bym odświeżył i wyszłoby (znowu) że jestem debilem
+A tak to &quot;jebany cache&quot; i bajo
+heeeh
+po to jest clickup zeby takie rzeczy omawiac, nie muszą wszyscy tutaj sluchac litanii ktora ich nie dotyczy kompletnie xd
+No i o tym mówię
+Nie o tym
+Jebany cache
+??????
+nie gadaj
+Na clickupie ma być porządek
+jakbyscie pierwszy raz tu pisali takie rzeczy?
+twoja lista rzeczy, które są &quot;jebane&quot; są coraz dłuższa
+Clickup to prawdziwa dokumentacja
+dlatego zwracam uwage bo to juz nie pierwszy raz xd<br>tzn jak wam nie przeszkadza to spoko po prostu mam wrazenie ze bez sensu skoro to nikogo praktycznie tutaj nie dotyczy
+Ale wiesz, że to trochę jak słuchanie CB radia na autostradzie?
+bajo jajo
+musialbym pisac tak co chwile
+jak dla mnie to wyjebane
+bajo jajo
+jajo
+bajo
+NA INOWROCŁAWSKIEJ JESTEŚ KURWA!
+JA CI KURWA DAM BAJO JAJO
+?
+lukasz bo zniose dekret o 13:00
+<a href="https://youtu.be/Pg4w7dgfcZc">https://youtu.be/Pg4w7dgfcZc</a>
+? <br>że odpalenie opisu to taka wymagająca operacja że loading muszą mieć? <br>i trwa tyle że zdąże się zdziwić oburzyć i zrobić screena zanim mogę zacząć pisać w opisie?
+Telegram &gt; Clickup
+jak widać, clickup zawsze ma czym zaskoczyć
+oni powinni zmienic nazwe na ClickDown
+<a href="https://t.me/fronty">@fronty</a> dajcie znać jak assasyn się zrespi
+<a href="https://github.com/clickup/clickup-release/issues/16">https://github.com/clickup/clickup-release/issues/16</a>
+LD
+:D
+<a href="https://github.com/QuentinFuxa/WhisperLiveKit">https://github.com/QuentinFuxa/WhisperLiveKit</a>
+nadal nie ma, jakby co
+daj znać jak działa
+wlasnie sprawdze bo moze mi sie przydac do projektu ale dopiero w domu bo tutaj nie bede gadal
+xd
+rozumiem, że to na technicznym dotyczyło dev-&gt;stage
+gotowe
+idę nasrać do deva
+xd
+😎
+jedyne co mnie martwi to że chyba nie da się łatwo sterować outputem? jest <a href="" onclick="return ShowBotCommand(&quot;get&quot;)">/get</a> który daje gotową stronę jak dobrze rozumiem readme
+weź mnie tylko zapewnij, że sprawdziłeś logi w grupie i te bez
+mozesz pobierac output w kodzie normalnie i robic z nim co chcesz
+napewno sie da ogarnac
+trzeba to przetestować
+poprostu
+ale to pozniej
+darmowe 50 euro na hetznerze [ZOBACZ JAK]
+9:50 -&gt; do przerwy zostało T - 10 minut.
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> skąd ty takie magiczne wersje znajdujesz skoro jdk 25 to jeszcze early access 2 tygodnie
+Pany, taka prośba. Clickup mi przestał wysyłać powiadomienia jak przypiszecie mi taska. Ping na TG pls
+Może być z wyzwiskami
+taka nagroda za bycie clickup power user
+A, ok. Myślałem że jest gorzej
+Trzeba było przeczytać 3 razy
+landig
+jak kopiesz na kabel lan
+XD
+10:00 -&gt; najgorszy dzień tygodnia. QA znowu wystawiać taski o byle pierdoły. Frontu nie ma i nie będzie. Świat schodzi na psy. Przynajmniej jest zupa.<br><br><a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> <a href="https://t.me/lmastalerz">@lmastalerz</a>, zróbcie fikołka
+czy ktos widzial taska z usunieciem zakladki Settings z domeny pointowanej?
+tzn?
+nikt nie usuwał tej zakładki
+to zniknela xd
+<pre>    if (<br>      DnsService.isDomainOurs(domain) ||<br>      (!DnsService.isDomainPointed(domain) &amp;&amp; DnsService.isDomainCnameHint(domain))<br>    ) {</pre>
+Michał 27.08
+hmmm czyli tylko dla cname
+rozumia
+ta zakładka była praktycznie pusta afaik
+yhyyyy
+nie wiem czy tam było coś więcej niż forget
+ale zawsze cos
+masz w dropdownie
+za duzo klikania
+shaise
+co cię tak sfrustrowało?
+musze testy przepisywac
+nano banana?
+tak
+pasuje xd
+śmieszna nazwa
+teraz powiedziałem żeby zamienił ręce na banany
+nic nie zrobił
+dobre
+xd
+zajebiste
+nie macie co robic?
+zjadlbym banana
+odezwał się
+nie, bo releasuje mi sie maszyna
+mi też
+zaraz się wyjebie nawet
+więc mam 10 minut
+jakby chciał a nie mógł
+podobają mi się próby napisania toolkit
+wycieczka po monsterka
+o, kiedy
+13
+czemu oni wygladaja jak zombie
+bo nie wypili monsterka
+ale śmieszne że mają taki balans danych o tym czym jest sklep żabka że jest mix nowego logo i starego
+to teraz niech wygeneruje jak już dupneli monsterka i są pelni energii do pracy dalej 😆
+smieszki z was
+naprawde
+musisz lepiej promptować Cyprian
+jeden dalej jakiś niewyraźny
+ten z prawej
+pewnie jego ulubionego smaku nie było
+on nie pije kofeiny
+nie starcyzlo monsterkow
+no tak, on się zdrowo odżywia
+on tylko kokaina
+ale ewidentnie wszystkie te ai osobno traktują rzeczy na 1 planie i w tle
+jak chcialem wpisac front po sowitej kresce bialego proszku to mi powiedzial ze tak nie wolno xd
+dobra pora konczyc bo to jest zbyt smieszne xdd
+ano
+kurwaa
+XDD
+ale przystojny kuba
+ciekawe co z tym bananem zrobi
+xd jak wpisalem zeby pokazal front po zelkach funny vision ktore sprawiaja ze widza swiat w abstrakcyjenj formie to mam takie cos xd
+dobra, wracam pisać kod
+łukasz kiedy napierdala taski
+a tam walaszek leci
+chill monke
+czemu oni myślą o hyxrze
+hydrze
+ale piwniczaki
+że kod to hydra może nie wiem
+ale przyjrzyj się, myśli 1 ziomek i pudełko po pizzy
+w sumie tak
+<a href="https://t.me/backendy">@backendy</a> co oznacza ! w admin panelu
+error
+no to zajebiste, mam konto, ale nie mam workspace
+coś się wy je ba ło
+a zrób następne
+xd
+jak nie to odbij do backendu bo coś sie zjebało
+ciekawe czy kiedyś będzie clickup czyszczony
+ostatnio @qa mówiło, że same taski znikają
+te stare
+zajebiście 😆
+ale mamy skrypt
+który robi backup
+no imo jakieś bardzo stare taski powinny być przejrzane czy mają dalej sens
+na froncie sa taski przypisane do deactivated osob
+e, ok
+to ten skrypt
+jest uruchamiany codziennie
+ale to, gdzie robi backup, to pominę
+ta, chyba branch z backendu zjebany
+ale Krzyśka Hellera nie ma, więc
+okrutnie nie chce mi się z tym routingiem
+przeorać pół moich wszystkich zmian
+no właśnie widziałem, że Rafał odbił do Michała
+więc może będę miał wolne z tym xd
+nie wiem czy te subtaski do mnie odbite to teraz zrobić czy po tym jak ty zrobisz ten rewrite
+troche zależy, po mojej stronie to będzie tak, że scope, projekt ws i env będą w distribution
+distribution ma kolekcje routów
+route target bez zmian
+a i permissiony w distribution
+ale wczoraj dojebana zbiórka sie odbyła
+deweloperuch, ziomeczkowie od publikowania cen różnych inwestycji z rynku pierwotnego zrobili zrzutke na kupienie cen transakcyjnych nieruchomości czyli po ile kto faktycznie kupuje te mieszkania
+wczoraj wieczorem chyba 30k nazbierali, cel pierwotny to 5k było xD
+dla kontekstu, rząd bardzo szybko przepchnął ostatnio portal &quot;dom&quot; gdzie te dane miały być uśredniane, tak żeby kowalski nie dostał wartościowych informacji <br><br>koszt utworzenia 2mln<br>zakończone za 2 lata<br>na utrzymanie kolejne 6mln
+no to cos czuje ze te ceny transakcyjne nieruchomosci pójdą w górę zaniedlugo
+żeby plebs nie miał do tego dostępu
+nie no to się skończy strajkami bo to jest cyrk że sprzedaż mieszkań jest na poziomie &quot;pisz priv&quot;
+Jutro jest worek
+Jutro nie ma dnia
+mamy spotkanie we worek
+Chyba w worku
+gdzie ci tak pisza
+we*
+na każdej inwestycji która była wystawiona do sprzedaży przed czerwcem
+a co kupujesz mieszkanie?
+i nawet na tych które obejmuje już ta ustawa o publicznych cenach, to cena ofertowa i cena transakcyjna różni się nawet o kilkanaście procent często
+no kiedyś będę
+ja wole dom wybudowac
+powoli ceny mieszkan sa w cenie nowego domu
+mysmy nasze kupowali za 330k teraz jest warte 450k
+ja wybuduje dom jak mi się znudzi miasto, będę miał kasy jak lodu i nie będę musiał się przejmować gdzie będę pracować xD
+tego ci życzę
+czemu do niego nie napiszesz na priv?
+na pewno pisał przy changelogu swoje zmiany
+Bo mi się nie chce
+Dziękuję
+Pisanie gdziekolwiek &gt; Szukanie priv
+jak gdziekolwiek, to napisz tu
+pisanie do zainteresowanego &gt; spamowanie dziesieciu osobom
+o nie to jest killer
+tak pojdzmy krok dalej, niech cala firma slucha o waszym tasku xddd
+oni go zabija
+oooo tak
+Wiecie, nie rozumiem
+Łukasz piszący tam &quot;nie chce mi się czytać 2 wiadomości wstecz, co się tam zmieniło?&quot;
+jak tam napisze
+to bede musial wyjsc z pokoju
+no co ty najlepiej dyskutowac na kanale buddy
+bo w lukasza poleci strzal
+kiedy nie bylo grupek na telegramie, tylko osoba z ktora robisz taska wiedziala zes debil
+xd
+klasyk
+Cały czas piszę tu i nie mieliście problemu do dzisiaj
+Co się zmieniło?
+juz sie zmeczylismy
+poniedzialek
+Żem debil wiedzieliście od zawsze
+ja bym sobie monsterka wypił
+ja nie
+Dobra, jak tak chcecie to proszę bardzo
+monsterka?
+Ale raz usłyszę o czołgach/małpie to mam was w dupie, a jak będziecie mi potem usuwać wiadomości to będę je wysyłał znowu
+ja nie mogę usuwać
+Usunął Kuba
+nie wiem, ja np na tym kanale mam najszybszy czas reakcji bo mam go najczęściej otwarty z samej racji tego że tu tyle spamu
+ale tak strzelam że większość osób tutaj jak akurat sie skupia to wkurwia że tu co chwila numerek wiadomości rośnie 😆
+no w sumie sie tez zastanawiam czy to nie jest denerwujące jak gadasz z kims o tasku i zeby odnalezc te wiadomosci musisz odfiltrowac pozostale 10 osob
+a tak to masz wszystko na priv na jednym czacie
+jeszcze zależy jaki task, bo jak się można pośmiać czy coś jest spektakularnie zjebane to spoko
+za duzo piszecie
+za dużo słów
+Ty to czytasz?
+tak
+tak
+tak
+Ja sobie &quot;subskrybuję&quot; tan kanał gdy mam coś konkretnego
+najgorsze ze tak
+W defaultowym stanie reaguję tylko na pingi
+a uderzasz w dzwoneczek i zostawiasz lapke w gore?
+Tak
+Przy czym dzwonem jest Marcel
+nie, jebać atencyjne kurwy
+xD
+13:00?
+czy 13:15?
+13
+to idzta
+w swiat
+nie idziesz?
+ja jestem biedny
+ja ide do kfc kukurydze zjesc
+kusisz
+ja mam pyszne curry z ryżem
+ja mam ksiazke ale jej jesc nie bede
+nieeeeeeeeeeeeee
+pojebane to gemini
+jaki prompt?
+Generate a picture of a Minecraft villager librarian sitting in front of the Lectern, but he&apos;s eating bread and so the breadcrumbs have fallen all over his book
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong><br><br>Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+Oficjalnie wybiła 13:00, co to oznacza? <br>Dokładnie! Ban na obrażanie <strong>sami wiecie kogo</strong> uważam za zniesiony!<br>Życzę kreatywnej krytyki i stalowych nerwów.
+sek, bo generuje obrazek
+co to za szur
+jaki szczur
+to małpa
+on napisal szur
+a gdzie banan
+idziem
+idziem
+chluśniem bo uśniem
+Hehe
+Szczur
+zostawcie to JAJAj
+13:15 -&gt; zostaw już ten kod. I tak wiadomo, że chuja robisz, chyba, że chcesz porównywać się z QA
+Łukasz musi dotestować taska. Wezwij go, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/68b5803453c4131a51dae80b">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/68b5803453c4131a51dae80b</a>
+Ja np jestem w kuchni
+<a href="https://t.me/fromt">@fromt</a> jak tam waszą wycieczka do Kolejka Fried Czikem
+W trąbkę
+nce
+ciekawy bug, ikonki pojawiły mi się jako osobne aplikacje i nie mogłem klikać nic, tylko alt+tab xD
+noice
+Timeouta wyjebało.<br><br><a href="https://t.me/mganczarczyk">@mganczarczyk</a> merguj się do /dev/null
+o, są zamykane taski waiting for release
+czemu?
+a kto to wie
+pewnie się ich nazbierało dużo
+<a href="https://app.buddy.mom/beta/dockerfile-linter/pipelines">https://app.buddy.mom/beta/dockerfile-linter/pipelines</a>
+ktoś ma dostęp?
+nie
+bo jest niezerowa szansa że tam plik jest dupnięty
+image buddy/dockerfile-linter:latest
+gdzie my te obrazy mamy
+Pany, ile jest <a href="app.local.io">app.local.io</a>?
+a nie wiem, backend ma każdy swój pewnie?
+każdy ma swój
+bo to <a href="127.0.0.1">127.0.0.1</a>
+wy nie macie
+@qa
+0 globalnych, 1 lokalny dla danej maszyny
+a mozesz sie podpiąć do czego chcesz, do maszyny o nazwie <code>cyprian</code> <code>marcel</code> <code>sd1</code> <code>dev</code> itd.
+Ok, dobra. SELECT COUNT(*) FROM Users WHERE Users.Affiliation == &apos;Backend&apos; or Users.Affiliation == &apos;Frontend&apos;;
+do mojej to może chcieć
+branch jest spierdolony u podstaw
+nawet się pipeline nie da odpalić
+XD
+cała lista
+DROP TABLE users;
+adaml chyba tylko nieużywana
+a ja z Mateuszem nadal nie zrename&apos;owanych :D
+16 maszyn...
+Ty masz patryk, Mateusz ma jaki? 😆
+kuba
+I wy na te maszyny możecie zreleasować i frontend i backend czy są w jakiś sposób upośledzone?
+mozemy
+backend
+front stawiamy lokalnie
+na backendowe nie możemy releasować chyba, zawsze lokalnie oba odpalamy
+? xD
+potezny fix
+Teraz to buddy będzie chodził jak ta lala
+bo to są te
+poprawki wydajności
+teraz mniej ramu zużywa
+bo mniej tekstu w idea się mieści na ekranie
+a co jak to claude commituje te fixy
+chwilę temu czat mnie upomniał, że nie powinno się dawać id Integer tylko Long
+nasz cały backend ma inty w idkach xD chyba nie pracujemy aż z taką skalą jak ai
+string bylby mniejszy
+imo rozmiar bazy to nie problem, przy id chyba więcej znaczenia ma unikalność i indeksy
+kojarze że chyba nawet mówili o hashowaniu tego id i zapisywania prosto do bazy, wyszło sporo wolniej niż liczbowe id
+nowe rzeczy hashujemy tylko przy posyłaniu tego id na zewnątrz
+unit testy w jednym miejscu używają md5
+bo nikt nie jest na tyle odważny, by nazwę testu w urlu dawać
+przynajmniej ja nie byłem na tyle odważny
+<pre>GET http://192.168.5.54:9090/services/internalAPI/junit/session-queue?projectId=1&amp;ipAddress=172.217.16.42&amp;invokerId=1&amp;domain=cyprianzdebski<br><br>Out error:<br>Message: Something went wrong<br>Status code: 500<br>Rest code: 999<br>Stack:<br>org.hibernate.exception.SQLGrammarException: JDBC exception executing SQL [select uts1_0.id,uts1_0.base,uts1_0.ciProvider,uts1_0.createDate,uts1_0.creatorId,uts1_0.draft,uts1_0.duration,uts1_0.errorCount,uts1_0.errorMessage,uts1_0.failedCount,uts1_0.finishDate,uts1_0.folder_id,uts1_0.fromRevision,uts1_0.head,uts1_0.lastUpdateDate,uts1_0.refName,uts1_0.refType,uts1_0.relativeId,uts1_0.runId,uts1_0.runUrl,uts1_0.skippedCount,uts1_0.startDate,uts1_0.status,uts1_0.testsCount,uts1_0.toRevision,uts1_0.toRevisionMessage from unit_test_sessions uts1_0 join unit_test_folders f1_0 on f1_0.id=uts1_0.folder_id where uts1_0.status=? and f1_0.project_id=?] [(conn=2195446) Table &apos;m3at.unit_test_folders&apos; doesn&apos;t exist] [n/a]org.hibernate.exception.internal.SQLExceptionTypeDelegate.convert(SQLExceptionTypeDelegate.java:66)<br>org.hibernate.exception.internal.StandardSQLExceptionConverter.convert(StandardSQLExceptionConverter.java:58)<br></pre><br><br>Cos zjebane
+wylacze unit testy na mojej maszynie i guess
+jednak reset maszyny
+w sensie coś innego niż ten domyślny mechanizm hashId? dla unit_test_folder i unit_test_session mamy takie
+tyle też unit testy są na mongo
+Jak uruchamiałeś rename, to potrzebujesz reset
+Tak
+Kombinacja nazwy suite i testcase
+Oddzielona :
+co tam fonty?
+Dzisiaj? Comic sans ms
+dobrzeee
+A co ty dzisiaj taki śmieszek?
+bo dzisiaj nie poniedzialek
+i nie środa
+i juz po jednym chocochino dziecino
+Na live xD
+Krzysiek chciał usunąć stary projekt
+xd
+hej
+kto testował urle?
+Krzysiek
+pytanie gdzie?
+na sd, a gdzie
+chodzilo mi jakie url
+/-<a href="" onclick="return ShowBotCommand(&quot;environments&quot;)">/environments</a>
+itd
+Krzysiek
+chat idziemy na randke z ziomkiem z clickupa czy go ignorujemy
+dawaj
+Ignore
+nieeeeee
+bedzie zabawnie
+Jak to jest valid to nie robimy syfu
+oni robia syf
+A wygląda na valid
+i trzeba im powiedziec zeby posprzatali
+Ale co?
+wszystko
+swoją aplikacje
+Właśnie, czyli tak naprawdę chuja
+tylko trzeba zrobic liste rzeczy
+ktora nas wkurwia
+wybrali akurat tę osobę, która im nie powie, że mogą z tą apką, która się co chwilę wywala, wypierdalać w podskokach
+zeby nie improwizować
+imo forward do kogoś albo wystawić taska
++1
+i lista problemów które widizmy
+juz wystawilem. nikt nawet nie spojrzal
+nie maja repo specjalnego do issue
+pewnie dlatego ze byloby zalane
+xd
+Bo to dzbanie nie na repo się wystawia
+a gdzie niby ?
+napisze do pawla moze sie spytac czy to jest cos nowego czy juz to przerabiali i moge zignorowac
+To się na support płacze
+mam do supportu napisac i dostac label niech spieradala?
+Też dostałem
+pamiętaj żeby dodać że ten clickup tylko wolniej działa
+no jak napiszesz tak jak na tamtym issue wczoraj
+jak wypisują do wszystkich, to każdy dostanie xd
+to tak
+to jak kazdy dostanie to bez sensu zeby z tym kombinowac
+michal ma inną xd
+myslalem ze jestem specjalny, a jednak ryan gra na wiele frontow
+nie Ryana
+michal dostal murzynke i moze jej powiedziec na spotkaniu &quot;Mrrrauuuu. Come baby lets make some Chockocino. I will be cino and you will be Chocko&quot;
+moja mina gdy
+xd
+ciekawe czy ryan jest przystojny
+xd
+ciekawe jak decydują kto do kogo wysyła
+ciekawe czy jak skończą open api do buddy to zrobią z tego mcp
+Jak o tym pomyślą to może
+jzu jest
+jest MCP do buddy
+pisalem do rafala o niego
+ale odpisal ze po sandboxach odbija mcp na testy
+a sandboxy za tydzien na LIVE bo mi pisal zeby z LIVE usunal bo okazuje sie ze tylko my korzystamy z nich xd i wtedy szybciej release przejdzie
+no tam kompatybilność wsteczna idzie papa
+yeap
+przykładowo
+ale naszczescie na LIVE nie ma duzo klientow wiec mozna do nich napisac \
+jescze nie widzialem nowych sandboxow
+musze obczaic
+ja pamiętam ile tych problemów mieliśmy z nieszczęsnymi benchmarkami
+net tam wysiadał co jakiś czas
+jakieś problemy z pamięcią bo odpalaliśmy apke w dockerze
+i ten jebany error ze docker potrafil spuchnac z dupy
+spoko, fajnie to wygląda
+moje marzenie żeby jeszcze była opcja &quot;dev&quot; z zakładaniem kont, dodawaniem permissionów i podawania fragmentów custom yamla jak testujemy nowe rzeczy np
+9:50 -&gt; do przerwy zostało T - 10 minut.
+ide po zupe bo mi czacha dymi
+10:00 -&gt; gdy nadejdzie bunt maszyn, to nie macie się czego bać. Z całą pewnością, wywalą exception na pierwszym ifie, bo QA się opierdalało. A przy okazji rusz ktoś dupę i sprawdź czy zupa jest.<br><br><a href="https://t.me/mganczarczyk">@mganczarczyk</a> jesteś jak gondolier w Wenecji, pływasz z wielkim kijem w gównokodzie frontu
+zupka
+<a href="https://youtu.be/GM6NrMt0Ncs">https://youtu.be/GM6NrMt0Ncs</a>
+nie
+ja dzisiaj nie uzywam sluchawek bo musze sie skupic
+to ten czas kiedy ograniczam swoje zasoby tylko do 2 wątków
+Pany, potrzebuję kod common errora, który według was jest najbardziej pojebany do odtworzenia
+BE2236012
+Wdzięczność
+czy to qik ded
+bo nie odtworzy się w normalnych warunkach xD
+nie jest w executionie
+no, pojebany jest
+mi sie tylko raz udalo i to przez przyadek
+szkoda, że mockupowanie błędów wyleciało
+:/
+oj no faktycnzie ciężko odtworzyć
+Jaki jest trigger/regex po froncie?
+trigger jest taki, że musi zejść BE*** w logach
+Pulling image buddy/localshell:ubuntu_24.04<br>sha256:9050858c7136d8e4387c5139798ef4d76d1798ef0ce5f2aa9aa2c43c5a9368dc<br>Loading assets<br>Executing command: echo &quot;ERROR: [BE2236012]&quot; &amp;&amp; exit 1<br>ERROR: [BE2236012]
+Nie triggeruje
+wyskocze przez okno a tam dzieci mokno
+Ale BE807 działa
+<a href="https://app.awsdev.net/ttests/-/pipelines/pipeline/79551/action/66915/edit?tab=run">https://app.awsdev.net/ttests/-/pipelines/pipeline/79551/action/66915/edit?tab=run</a>
+Może ktoś na to zobaczyć? xD
+nk na polski na przetłumaczy
+W komendzie nie masz [BE807] a się dodaje w logach
+BŁĄD: eksporter portowca obecnie nie wspiera eksportu list manifestacyjnych
+a, dzięki
+to jest polski kurwa
+?
+tak
+kali jeść kali pić?
+masz warning jakiś
+a no mam
+duzo
+glupia logika dmarca
+o kurwa ale hardkor
+<a href="https://www.youtube.com/watch?v=2YdPIB7wVFk">https://www.youtube.com/watch?v=2YdPIB7wVFk</a>
+xd
+Yyy
+Ale po co?
+grasz dopoki ci sie nie scrashuje system
+nie scrashuje
+bo będzie snake w ramie
+ale caly system 32 wyjebany xd
+snake tak ale inne rzeczy nie xd
+tylko gosciu porusza aplikacjami na pulpicie
+xd
+jak tam
+zyjecie?
+Nie
+ta
+pomidor
+mniam
+mniej więcej
+ale naprawie to zaraz magicznym napojem
+planujesz wycieczke po napoj bogow?
+tak
+no ja bym wyskoczyl jak chcecie
+to dawaj przez okno
+otóż nie, jak wczoraj byłem w żabce to kupiłem wielosztuke i na dzisiaj mam drugiego
+ale ty przygotowany
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a> to chodźmy o 12
+oki
+xd
+po ambrozje?
+ta
+na olimp
+dobra, cho
+xd
+<a href="https://app.clickup.com/t/869a9m4q4">https://app.clickup.com/t/869a9m4q4</a>
+questy buddy
+a nie lepiej po prostu 1 zdanie co to jest na blanku
+albo jakies info
+no jak wchodziły te blanki to mówiłem o czymś takim xD
+chociaż odnośnik do docsów, cokolwiek
+z drugiej strony takie interaktywne questy fajniejsze z perspektywy usera wg mnie
+mi trudno stwierdzic bo dla mnie nie
+Michał spierdolił przed Czulim pod biurko
+a co zrobił 😆
+czuli wchodzi, Siema, a michal pod biurko wplywa &quot;nie ma mnie, nie ma&quot;
+normalka
+wiadomo, musi być opcja skipnięcia tego ale dla jakiegoś mniej zaawansowanego usera? <br>zrób sobie projekt<br>sklonuj repo<br>dodaj pipeline<br>wystaw na sandbox
+buddy się reklamuje tym że jest prosty i user friendly nie? xd
+juz podobno kiedys byla demo apka ale nikt z tego nie korzystal a same problemy z tym byly
+w jakim sensie demo apka
+ze ci pokazywala co gdzie i jak
+jest coś takiego jak guides
+znaczy razcej było, ale ślady zostały w apce i bazie xD
+omg mogli by dac dailies do buddy
+stworz trzy pipeliny
+zrób commit 200xp <br>zmień pipeline 300xp <br>restaruj sandbox 500xp
+dali by taki button Help na prawo i jak klikniesz to ci sie wysuwa z prawej taki div scrollowalny z opisem co gdzie robi i po co to
+wypierdol deva 2000xp
+no ogólnie mamy taki lekki problem że apka robi bardzo dużo rzeczy
+no ale z tymi blankami co jest tylko plusik to faktycnzie jest bardzo confusing
+doców nie ma komu pisać
+takie questy czy nawet ten scrollowany div żeby był użyteczny musi być 1000% up to date
+ktos pamieta jak sie dawalo wklejac variables i sie dodawaly jeden pod drugim?
+zrobić jak na discordzie
+zbierasz punkty
+byl na to jakis format ale nie pamietam
+i wymieniasz na 2 dni hypera
+xd
+marcel ty to robiles chyba
+jak pamietam
+co niby
+.env
+i to Cyprian chyba
+albo cyprian
+ta, było to
+ze dalo sie ctrl + v i wklejalo ci variables
+wtedy co patrzyliśmy jak zajebiście variable się dodają jak masz ich dużo
+jeśli wklejałeś ASD=value do value któregoś innego vara
+to dodawało inne
+bo nie było metody add many
+więc strzelało pojedynczo xd
+to działa cały czas
+jak dodajesz nowego vara
+to możesz na kolumnie po lewej kleić<br>ASD=value
+i uzupełni oba pola
+była
+pod spodem robi for loop z add one
+to <a href="https://t.me/shipurjan">@shipurjan</a> z niej nie skorzystał
+💀
+juz wiem
+no kopiujesz plik .env i ctrl+v
+ta
+ale to dziala tylko na tym glownym widoku variables
+ta
+bo są tez inne widoki czasem z listami variable to tam nie dziala
+a ja do envow dodaje
+no my chyba dosłownie tylko w jednym miejscu w apce używam dao.saveAll 😆
+a apka do zeszłego roku nawet nie mogła mieć batchowania operacji przez to że mysql stary miał słabe opcje generowania id z których korzystaliśmy
+wygenerowałoby 2x ten sam id?
+niee, bo by się wyjebało
+nie pamiętam z której opcji korzystamy ale mamy opcje 1 - id dostajemy dopiero po zapisie do bazy<br>opcja 2 - żeby zapisać hibernate odpytuje baze jakie id musi dostać zanim zapisze
+wogole to wklejanie .env
+to genialna opcja
+ale nikt o niej nie wie
+bo nie ma o niej napisane
+a to wyszukiwanie ssie
+bo mi szuka tylko jak sie wordy matchuja
+no ta szukajka to jest wybitnie mądra
+jest nowy (dla nas) bajer - id generowane przez sequence czyli apka rezerwuje sobie x id do przodu domyślnie 50 no i przy zapisywaniu dopiero po tych 50 pyta baze o następną porcję id
+zależy od tego jakie to są idki
+wszędzie integer
+autoincrement?
+chodzi ci że autoincrement na bazie? nie, to hibernate ogarniamy
+ale tak, same się ustawiają nowe id xD
+tzn np idki pipeline&apos;ów<br>70000, 70001, ...
+nie jestem do konca przekonany czy autoincrement to cudowny pomysł
+masz 70000 i 70002, jak jesteś ciekawym świata 5-cio latkiem, to idziesz w yamlu sprawdzić 70001
+albo gdzie tam chcesz
+1. od tego mamy permissiony
+2. owszem, temu nowe rzeczy mają hashowane te id
+one są przede wszystkim ze względu na czas wykonywania query, indeksy na intach sprawdzili że są szybsze niż na stringach
+jest np liczbowy id twitterkowy
+<a href="https://en.wikipedia.org/wiki/Snowflake_ID">https://en.wikipedia.org/wiki/Snowflake_ID</a>
+no u nas zdecydowali że id będą generowane tak samo i będziemy je hashować
+stare zostają po prostu liczbami żeby nie łamać kompatybilności rest api
+i linków itd
+no ta
+nieźle by to napsuło
+imo mogło to być jeszcze jakoś przemyślane żeby w obrębie WS mieć jakieś bardziej human readable id
+PIP0001
+alemnie oczy pieką
+za duzo przed monitorem
+to już fanaberia
+no ale opcja tego już dawno odleciała
+ale uuid w linku byłyby obrzydliwe
+takie coś z uuid zamiast id, by mi na cały ekran szło
+o taaaaaak
+linki byłby przyjemniejsze do czytania, łatwiej z palca wpisać
+a my w kodzie mielibysmy zabawe
+ktoś wpisuje link do edycji akcji w pipeline z palca?
+😟
+chory człowiek
+pen tester tylko
+pan tester tylko jak ma dobry dzień
+i testuje
+Pen tester dzbanie
+...
+,,,
+nie musisz pisać całego, klikasz w pasek i masz całą listę
+poprostu chialem dojebac :D
+bo mam w historii
+użytkownik widzi id w setkach tysięcy
+najpierw trzeba to tam wpisac
+ale ma /pipeline/70000
+tak szeroki kąt widzenia?
+więc to raczej id pipeline
+mieć w urlu /pipeline/PIP0001
+to takie duplikowanie
+i guess
+jak jesteś w workspace to masz wpisane dokładnie to samo
+?
+tak, chociaz w sumie to co mówię to jest to readable id które teraz pchamy
+łoooo dużo mi zapisuje
+default widok po odpaleniu <a href="app.buddy.mom">app.buddy.mom</a>
+no
+daje /
+tylko 9?
+i mam liste najczęściej odwiedzanych linków chyba
+nie moja wina że macie na froncie nasrane 15 czy ile 😆
+to nie ma sensu
+ja odwiedzam duzo stron
+co chwile gdzies indziej
+no spoko, do niektórych rzeczy ja się dostaje dopisując url zamiast klikać

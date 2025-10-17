@@ -1,0 +1,965 @@
+﻿<a href="https://backend-docs.sls.show/">https://backend-docs.sls.show/</a> w parenaście godzin zmigrowany stary knowledgebase, zrobiony automatyczny deployment i to nie byle jaki bo zero downtime 😎
+ale to se zobaczycie w firmie albo na vpn dopiero
+kuchnia
+!
+🤔
+og
+C++ vs js <br>8==D vs 8===D
+wiiiifiiii ssie
+Na jakim jesteś?
+buddy
+Hmm
+i nawet speed test .net mi wyswietlil ze polaczenie niestabilne xd
+a próbowałeś wyłączyć i włączyć
+xd
+faktycznie dziala
+odrazu 5 kresek
+u mnie git
+może się zawiesiłeś na jakimś dalszym access poincie
+albo w kiblu siedzisz, tam też nie działa
+moje wyniki sa prawie na odwrot
+ewidentnie gość ma umiejętności
+jak mieszka w akademii
+tbh myślałem, że to propozycję lokalizacji żarełka podesłał <a href="https://t.me/shipurjan">@shipurjan</a>, ale to jednak playground
+pogoda taka sobie, ja na szczęście mam obiad xD
+ja raczej zaba bo cienko z kasą
+Wypierdolił wszystko na serwery, dupeczki w krakowie i gówna to tera bida z żarciem xD
+chcialem isc na dupeczki w krakowie ale nikt nie chcial mnie tam zaprowadzic ;D
+actually
+to na rynku nie byłeś, tam by cię zaraz ktoś z parasolką grzecznie zaprowadził w fajne miejsce
+najgorsze ze niewazne gdzie patrzyles to wzgorza skakaly od zawieszenia
+tyle że byś wyszedł bez kasy albo z wpierdolem
+parasolki tylko nie miała ^
+bylem
+dziwne, w poznaniu na każdym rogu rynku ktoś zaprasza do gogo
+Kubie się już chyba film uciął wtedy, dwa razy ta sama osoba nas zapraszała xD
+przed i po wizycie w pijanej wiśni
+liczył że będziecie łatwiejsi
+A to nie na kino 7D?
+chyba DD
+JS DD
+pozatym ja biedny student to bym nawet za wejscie nie mial czym zaplacic
+do kina to nas zapraszał ten wysoki
+dziewczyna na 100% nie do kina xD
+nadrobimy następnym razem
+co ty piszesz człowieku
+co nic nie widziałeś
+xd
+oj znaleźli by ci metody
+nerki nie oddam
+a laptopa tym bardziej
+czapka z wlepką code two
+moge im dac naklejke z hrejterzy
+dziewictwo analne też swoje kosztuje
+tak to nie
+<a href="https://t.me/BartShoot">@BartShoot</a> nie obrazaj sie gosciu
+co
+😆
+xD
+bo mi nie odpisales
+ale co ja mam tam odpisać
+&quot;pozdrawiam&quot;
+dobra juz ogarnalem
+xd
+cyberbullying praktykują
+to idziemy do zabki&gt;
+?
+teraz?
+a kiedy chcesz&gt;?
+dobra, zostaw tam Łukasza w czołgu i idziemy
+czekam na dole xD
+wychodze
+<a href="https://t.me/lmastalerz">@lmastalerz</a>
+Idem
+<a href="https://t.me/BartShoot">@BartShoot</a>
+sekunda
+👍
+kitchen
+ło kierowniku, zapomniałem, że to już taka późna godzina
+i jak panowie co robimy?
+żaba
+dżaba?
+frok
+to zaraz wychodze
+;D
+Robimy tak, jak <a href="" onclick="return ShowMentionName()">Jakub</a> napisze &quot;zaraz wychodzę&quot;, to my czekamy jeszcze 10 minut zanim się ruszymy
+Wyszedł
+kuchnia?
+idziemy coś gdzieś zjeść? czy żaba
+smacznego
+nawzajem
+żaba?
+a kiedy?
+za 3 minuty?
+czemu on je dotyka
+podejrzany ten xcode
+ktoś się bawi światłami xD
+o zgasił
+nie wiem, zaświeciło się nade mną i obok
+ale nie patrzyłem dookoła xD
+może nie ma dark mode ale widocznie będzie loli mode
+to nie koncert życzeń
+o taaaaaaaaaaaaak
+utopia
+kuchnia!
+zegar macie na qa zepsuty
+nie
+nie pierdziel tylko cho
+Rusz kurwa dupsko
+bo co :DDDD
+git push buddy kuchnia
+Nie
+Git checkout -b w-drodze-do-auta
+git push --force buddy kuchnia
+Konflikty
+Fuck you
+Wizualizacja:
+Git checkout kuchnia <br>Git merge --squash w-drodze-do-auta
+xd
+qik ma niski bus factor
+to nie prawda
+chociaz
+na QA wystarczy jedna osoba
+nie no jakby razu oberwał busem to development się zatrzyma i to tak poważnie 😆
+to racja
+i nie ma dokumentacji!!!!
+xD
+więc nikt łatwo nie przejmie
+samodokumentujący sie kod
+SSK
+samodokumentacja przez telegram: &quot;o chuj ci chodziło, nie działa&quot;
+nowa zasada: od teraz każda metoda potrzebuje komentarz z numerem taska gdzie jest opisana po co i dlaczego istnieje
+metody bez komentarza automatycznie są usuwane
+😁
+piszesz jakąś metodę przez 4 h
+dajesz push
+zapominasz komentarza
+i do domu
+i cały wysiłek wpizdu
+dokładnie
+workflow z niepoprawnym authinfo trafił do deva, następny release i możecie się pobawić
+baza danych prawdopodobnie uruchomiła mechanizm anty spam
+idk dla mnie wygląda jak sukces
+może zrób sobie jakieś rate limity
+no chyba nie
+<a href="https://t.me/BartShoot">@BartShoot</a> daj like pod tym issue <a href="https://youtrack.jetbrains.com/issue/RIDER-40425/Support-Filtering-by-Test-methods-in-Find-Usages">https://youtrack.jetbrains.com/issue/RIDER-40425/Support-Filtering-by-Test-methods-in-Find-Usages</a>
+z domu bym musiał, tu się nie chce logować na swoje konta bez potrzeby xD
+?
+Przecież jesteś zalogowany do JetBrains Idea
+gdzie
+XD
+IDE
+do żabki?
+to jest bardzo dobra praktyka
+on nie uzywa ridera
+xd
+o której
+Jeden JetBrains
+a może jakieś normalne jedzenie???
+intelliJ?
+intellij idea
+wersja community edition
+no to skoro go uzywasz to jestes zalogowany
+już bym z vima wolał korzystać
+kontem firmowym
+report
+nope nie jestem
+Community?
+xd
+tak
+A wy nie dostaliście klucza?
+XD
+a po chuj
+ja lece na trial
+a no tak, bo rider jest taki zajebisty ze nie ma community edition
+Biedaki
+no ogólnie ta firma nie lubi wydawać jak nie musi
+odezwał się na licencji studenckiej
+:)
+w życiu byś tego nie kupił
+więc skoro community edition wystarcza to nie będą płacić ekstra
+ogólnie wszystko co jest subscription only bez opcji kupienia na stałe to i tak nie kupujecie
+nwm ja mam do marca 2025 licencje
+pewnie też studencka
+ale jestem zalogowany githubem
+czyli studencką
+dobra, bądźmy zgodni: jebać jetbrains
+gdzie idziemy jeść?
+tam gdzie daja w normalnej cenie food
+idąc dalej jebać wszystko co jest tylko na subskrypcje
+najlepszy FOSS
+no za wyjątkiem platform streamingowych
+youtube premium?
+ta to akurat gówno
+XD
+HMMMMMMMMM
+ale np nie wiem jak wy, nie wyobrazam sobie placic za kazdy album ktorego czlowiek slucha
+nie no platformy streamingowe też jebie bo większość ogranicza jak ktoś ogląda na pc
+No hej
+najgorzej
+nie wiem kto cie tak skrzywdzil
+ja mam subskrypcje na każdą platforme streamingowa oprocz yt premium (spotify, netflix, crunchyroll, disney, hbo, prime,cda)
+prime, disney i hbo nie dają oglądać w 4k hdr na pc bo chuj ci w dupe, netflix tylko jak oglądasz w środę o 14:37 i fazy księżyca są w recesji, masz jeden jedyny monitor 4k i żadnych innych i błogosławieństwo od przeglądarki
+zależy jak na to patrzeć, bo istnieje wersja dla studenta
+revanced to dla mnie nie jest argument
+a przynajmniej porównuje go do &quot;chuj z netflixem, są torrenty&quot;
+adblock adblockiem, ale yt premium chociaż płaci twórcom, których oglądam
+jakimś tam %
+🤔
+oj taki procent że każdy rozsądny Ci powie daj donejta 10$ i oglądaj z adblockiem, dasz 500x wiecej
+ale wy narzekacie zamiast zajac sie tym co powazne
+T - 9 min
+jakbym jebnął spotify, to miałbym yt music
+które ma więcej albumów jednak siłą rzeczy
+raczej limituj do liczb całkowitych dodatnich
+oj nie nie
+w tasku nie pamiętam czy 0-100 czy 1-100
+patrz
+1-100
+czyliiii
+inb4, backend mówi &quot;spokooooo, rozumiem. zapisujemy -9. chuj wie co się stanie, pozdraiwam&quot;
+no tak
+have a great day
+chyba, że to przemyślane
+i -1 oznacza infinity
+imo cokolwiek na - powinno w tamtym przypadku wyłączyć autoretry
+🤔
+big brain moment
+moje jest o tyle zabezpieczone że zwróci błąd? chyba
+przynajmniej jakby ktoś w yamlu wsadził
+zobaczę, wyłącze swoją walidację
+tak
+walnie errorem
+B)
+dobra, pany
+dwie rzeczy
+godzina i miejsce
+nagle coś słońce zaszło
+mam okno nad łbem i widzę niebo
+ok czyli idziemy gdzieś
+<a href="" onclick="return ShowMentionName()">Jakub</a>
+co powiecie na to gruzińskie dla testa
+mozemy
+<a href="https://khinkalnya.com/pl/wp-content/uploads/sites/3/2024/02/bielsko-biala-02.2024.pdf">https://khinkalnya.com/pl/wp-content/uploads/sites/3/2024/02/bielsko-biala-02.2024.pdf</a>
+<a href="https://khinkalnya.com/pl/wp-login.php?redirect_to=https%3A%2F%2Fkhinkalnya.com%2Fpl%2Fwp-admin%2F&amp;reauth=1">https://khinkalnya.com/pl/wp-login.php?redirect_to=https%3A%2F%2Fkhinkalnya.com%2Fpl%2Fwp-admin%2F&amp;reauth=1</a>
+dajesz Łukasz, hackuj i daj nam zniżke
+dlatego jebać wordpressa
+bo przyjdzie Łukasz i rzuci linkiem na wp-login
+Wiesz czym jeszcze mogę rzucić?
+pewnie kurwą, bo pracujesz na qa
+to tez
+fixed
+to idziemy teraz?
+chyba że później
+13:15
+bliczek na <a href="tel:530000551">530000551</a>
+40 złociszy?
+Nie
+wysłaned
+git doszło
+ja wysle potem
+nie ma pośpiechu 😆 mi udało się nie wydać całej kasy na serwery
+reminder: t-11 min deploy kitchen
+Git checkout -b dopiero-wstaje
+Git Push —force BartoshDobijaWsatawaj
+nie wydałem całej. Zawsze mam coś na czarną godzine i posłałem
+Gir jest
+ah, radość z pierwszego udanego runa, po 45 próbach
+mnie by już do pokoju bez klamek musieli pakować
+wczoraj bylem tego bliski, powoli wątpiąc we własne zmysły
+zresztą, przy PHPie było ich 120 XD
+ciekawy error <a href="https://app.clickup.com/t/8694vqp1n">https://app.clickup.com/t/8694vqp1n</a>
+błąd jak błąd
+dopóki nie zabiera środków z konta, to nie ma co się przejmować
+ale odkryłem go przez przypadek ;D
+a jak zabiera to ważne że userowi nie nam
+tak, bo to wina usera, że źle wpisał
+xd
+to jest przy tworzeniu folderu
+noo
+nwm czy tworzenie folderu pobiera środki
+czyli interakcja usera
+za każdy navigation zabierać 0.01$
+wina frontu bo dał userowi edytować jedną domenę przez 2 osoby jednoczesnie
+a nie backendu, że dopuszcza śmieciowe requesty z frontu?
+o bogowie walka
+wiadomo, można was pilnować na każdym kroku
+wina qa, bo testują coś co powinno działać
+i narzekają, że jest case, który jednak zepsuje
+ale po co jak zakładamy łaskawie że front to też programiści
+XD
+walidacja zmiennych po stronie backendu: typ zmiennej i ograniczenie kolumny w bazie
+👍 xd
+dla takich momentów warto żyć
+jakich?
+takich bitek
+musisz spytać kogoś czy możesz pracować w sobotę i niedzielę, by nie mieć obok siebie Łukasza
+jak tak bardzo chcesz żyć dla takich chwil
+xD
+albo po godzinie
+xd
+idziemy dzisiaj na małego pawła?
+nwm idziemy?
+pytasz mnie a ja ciebie
+a jak nas wyrzucą?
+a co to mały paweł
+duży paweł tylko mniejszy
+ok a co to paweł
+buła
+był taki jumper jeden
+dawno temu
+ale się połamał i nie jumper
+jemy coś czy żabka
+xd wieszy ze to to samo?
+ok to &quot;jemy coś dobrego czy żabka&quot;
+jak dla mnie żaba styknie
+13:15?
+jesczze 2 min
+cards collection
+card grid
+xD
+JebcaJS
+overview jakis
+FlowGrid
+<a href="" onclick="return ShowMentionName()">Jakub</a> jak my będziemy robili do tego xpathy to się zesramy
+wymawia się dżebka dżej es
+i dobrze wam tak
+maybe thats the point
+<a href="" onclick="return ShowMentionName()">Jakub</a> pokaż jakiegoś przykładowego xpatha
+gorzej, jak zaczną to pisać w blazorze 💀
+To naprawdę będzie wtedy wyjebcaJS
+człowieku, to jest front. user widzi, co do niego piszesz
+//table[contains(<a href="https://t.me/class">@class</a>,&apos;v2-form-table&apos;) and .//tr[contains(<a href="https://t.me/class">@class</a>,&apos;v2-qik&apos;)]]//tr[<a href="https://t.me/class">@class</a>=&apos;v2-table-row&apos;][21]<a href="" onclick="return ShowBotCommand(&quot;following&quot;)">/following</a>-sibling::tr[contains(<a href="https://t.me/class">@class</a>, &apos;v2-diff-row&apos;)][1]//td[1]//span[.<a href="" onclick="return ShowBotCommand(&quot;span&quot;)">/span</a>]
+Ładny, ale mogłeś znaleźć lepszy
+szukam lepszego
+bo ten jest chujowy
+Weź tego xpatha do review
+Tego co ma albo a albo span
+On jest na nazwę domeny w staged
+[21] śmieszne xd
+to akurat numer porządkowy
+bo to jest xpath do listy
+Tyle że z mojego brancha
+a dokladnie jednego elementu listy
+pracuje tu 3 miesiące i dopiero teraz ogarnąłem że jestem w stanie w fotelu wysunąć do przodu siedzisko a oparcie wysunąć do góry :&apos;()
+nie czytał
+Wy dostaliście ode mnie
+ja od ciebie nic nie wziąłem
+Wziąłeś
+nie
+Tak
+nie
+Tak
+nie
+Nie
+dokładnie :D
+Ty zajebałeś
+nie bic sie dzieci za 9 min kuchnia
+tajest
+dzisiaj ryba
+mówiłeś wczoraj, że ryba opcjonalna
+(//div[(<a href="https://t.me/data">@data</a>-active = &apos;true&apos;) or (not(contains(<a href="https://t.me/class">@class</a>, &apos;v2-d-none&apos;)) and contains(<a href="https://t.me/class">@class</a>, &apos;v2-cards-wrapper&apos;))]//div[(<a href="https://t.me/class">@class</a> = &apos;v2-card&apos; or contains(<a href="https://t.me/class">@class</a>, &apos;v2-card &apos;))])[1]//table[<a href="https://t.me/class">@class</a> = &apos;v2-form-table&apos;]//tr[contains(<a href="https://t.me/class">@class</a>, &apos;table-row-hover&apos;)]
+no bo jest
+opcjonalna
+//table[contains(<a href="https://t.me/class">@class</a>,&apos;v2-form-table&apos;) and .//tr[contains(<a href="https://t.me/class">@class</a>,&apos;v2-qik&apos;)]]//tr[<a href="https://t.me/class">@class</a>=&apos;v2-table-row&apos;][14]<a href="" onclick="return ShowBotCommand(&quot;following&quot;)">/following</a>-sibling::tr[contains(<a href="https://t.me/class">@class</a>, &apos;v2-qik-diff-row&apos;)][1]//td[4]//div[contains(<a href="https://t.me/class">@class</a>, &apos;v2-log-line&apos;) and not(contains(<a href="https://t.me/class">@class</a>, &apos;added&apos;))]
+czytelne jak regex
+Wkurwiające jak wojtek
+🤔
+to ja mam... standardowe pytanie
+tak
+jestem za
+dobre jedzenie czy żabka
+żaba
+a byliśmy tam już raz
+my 3 razy
+nie maja alkoholu
+już mają
+jak bardzo chcesz
+noo taki browar do programowania w sam raz
+albo 5
+zależy od taska
+czteropak JebJS
+ja tu grzecznie pytałem dzisiaj chata żeby mi fajne komponenty zrobił do docsów, jak będę miał jakiś przestój to sprawdzę czy z sensem xD
+strasznie wulgarni są Polacy, ngl
+np takie qa
+to już w ogóle
+skala wyjebała
+ups przepraszam za słownictwo ogółem
+żeby to stwierdzic to trzeba by taką dyskusję merytoryczną wytoczyć ponieważ to ciężko tak na wyznaczyć czy są czy nie są, otóż uważam ze wulgarność to spektrum i jej poziom cały czas się zmienia. W mojej rozprawce
+a tak bez gpt się da?
+gościu to własnymi rękami pisałem
+kod nie
+różnica między tym co wysłałeś a tym co chat z mojej strony jest taka że z grubsza czaje co czat mi napisał, Twoje rozwiązanie jest pewnie bardziej eleganckie ale jako hejter *scripta nie do końca umiem przeczytać 😆
+nawet godotscript mi hejtują
+ale frajerstwo na tym czacie
+Programming Languages with &quot;Script&quot; in the Name<br><br>    ActionScript<br>    AppleScript<br>    BeanShell Script<br>    ECMAScript<br>    GameMaker Language (GML Script)<br>    JavaScript<br>    JScript<br>    LiveScript<br>    LotusScript<br>    MEL (Maya Embedded Language Script)<br>    PostScript<br>    VBScript<br>    Windows PowerShell Script<br><br>Scripting Languages Without &quot;Script&quot; in the Name<br><br>    AWK<br>    Bash<br>    Bourne Shell (sh)<br>    C Shell (csh)<br>    CoffeeScript<br>    F-Script<br>    Groovy<br>    Lua<br>    Perl<br>    PHP<br>    Python<br>    R<br>    Ruby<br>    Scala<br>    Tcl<br>    TypeScript (though it has &quot;Script&quot; in the name, it&apos;s generally considered separate from other &quot;script&quot;-named languages)<br>    Z Shell (zsh)
+dziękuje chatgpt
+F-Script
+HMMM
+impostor
++ od dzisiaj programuję w zsh xd
+ale wówczas vim jest wymagany
+miałem napisać, że miniaturka ma vibe &quot;i use arch btw&quot;
+ale zobaczyłem koszulkę
+czy tam żonobijkę
+Jeżeli użyłeś do tego GPT aby to wygenerować to chuj ci w dupe, a jeżeli pisałeś to sam to chuj podwójnie bo zmarnowałeś czas
+Łukasz wsiadaj do czołgu, bo coś ci się odkleiło
+Za dużo exceptionów
+Mieni mi się w oczach
+niech wsiada do lufy i nim strzelą
+mmm (lenny)
+/,nl,m.nbk.jKJgnsjfnjgn
+Ruszyć dupy
+ide
+taki test sobie dzisiaj napisałem
+takie api sobie dzisiaj napisałem
+XD
+no tu masz interfejs, jeszcze implementacja ale to też w miare czyste
+<pre>    @Override<br>    @Secured(level = WorkspaceMemberAccessLevel.class)<br>    @Validate(validators = {StringValidator.class, EmptyValidator.class, DomainValidator.class, IdValidator.class})<br>    public void finishDomainRegister(String domain, FinishOperationRequest request, String workspaceAlias, Integer invokerId) {<br>        sandboxClient.finishDomainRegister(domain, request);<br>        domainDevClient.sync(domain);<br>    }</pre>
+jak robisz code block&gt;
+<pre>```jezyk</pre><br>```
+a ok
+<pre>dupa</pre>
+tak
+<pre>sudo rm -rf /</pre>
+czy cos
+Przed takim gównem nawet zsh powstrzymuje
+A przynajmniej zapyta czy wiesz, co robisz
+jak jesteś na roocie
+czemu mówisz nawet zsh skoro zsh to ten z nowszych shelli xD
+nie miałem na myśli z tym &quot;nawet&quot;, że jest to gówno. Sam z niego korzystam xd
+ale wykrywa jak próbujesz wywalić za dużo plików
+zsh+oh my posh
+Wcześniej powerlevel10k, ale mu się umarło
+<pre>╭─   bartshoot  ~  IdeaProjects  backend-v4  main   dev-qik-sb-dev-communicat                                                                                                                               1.427s   14:02:43 <br>╰─ $</pre>
+A ja tam na bash-u popierdalam
+ok telegram nie obsługuje
+<pre>08:32:45.775 INFO [GridModel.release] - Releasing slot for session id fc9c62900f66942d0db3688ffac5a280<br>08:32:45.775 INFO [SessionSlot.stop] - Stopping session fc9c62900f66942d0db3688ffac5a280<br>08:32:45.776 WARN [LocalNode.lambda$new$5] - Removing Downloads folder associated with fc9c62900f66942d0db3688ffac5a280<br>08:32:45.776 WARN [LocalNode.lambda$new$6] - Removing Uploads folder associated with fc9c62900f66942d0db3688ffac5a280<br>08:37:15.159 INFO [LocalNode.stopTimedOutSession] - Session id 2bcf90175a769fde96e2e1c36dbf7d3d timed out, stopping...<br>08:37:15.709 INFO [LocalSessionMap.lambda$new$0] - Deleted session from local Session Map, Id: 2bcf90175a769fde96e2e1c36dbf7d3d<br>08:37:15.709 INFO [GridModel.release] - Releasing slot for session id 2bcf90175a769fde96e2e1c36dbf7d3d<br>08:37:15.709 INFO [SessionSlot.stop] - Stopping session 2bcf90175a769fde96e2e1c36dbf7d3d<br>08:37:15.709 WARN [LocalNode.lambda$new$5] - Removing Downloads folder associated with 2bcf90175a769fde96e2e1c36dbf7d3d<br>08:37:15.709 WARN [LocalNode.lambda$new$6] - Removing Uploads folder associated with 2bcf90175a769fde96e2e1c36dbf7d3d<br>08:39:45.162 INFO [LocalNode.stopTimedOutSession] - Session id 0c35b5fdfd37c5e69cba48f450184312 timed out, stopping...<br>08:39:45.722 INFO [LocalSessionMap.lambda$new$0] - Deleted session from local Session Map, Id: 0c35b5fdfd37c5e69cba48f450184312<br>08:39:45.723 INFO [GridModel.release] - Releasing slot for session id 0c35b5fdfd37c5e69cba48f450184312<br>08:39:45.724 INFO [SessionSlot.stop] - Stopping session 0c35b5fdfd37c5e69cba48f450184312<br>08:39:45.724 WARN [LocalNode.lambda$new$5] - Removing Downloads folder associated with 0c35b5fdfd37c5e69cba48f450184312<br>08:39:45.724 WARN [LocalNode.lambda$new$6] - Removing Uploads folder associated with 0c35b5fdfd37c5e69cba48f450184312<br>08:43:15.157 INFO [LocalNode.stopTimedOutSession] - Session id 61a3736815b6f4eecf1c10d58e6dd40d timed out, stopping...<br>08:43:15.776 INFO [LocalSessionMap.lambda$new$0] - Deleted session from local Session Map, Id: 61a3736815b6f4eecf1c10d58e6dd40d<br>08:43:15.777 INFO [GridModel.release] - Releasing slot for session id 61a3736815b6f4eecf1c10d58e6dd40d<br>08:43:15.777 INFO [SessionSlot.stop] - Stopping session 61a3736815b6f4eecf1c10d58e6dd40d<br>08:43:15.777 WARN [LocalNode.lambda$new$5] - Removing Downloads folder associated with 61a3736815b6f4eecf1c10d58e6dd40d<br>08:43:15.777 WARN [LocalNode.lambda$new$6] - Removing Uploads folder associated with 61a3736815b6f4eecf1c10d58e6dd40d<br>09:11:53.907 INFO [LocalDistributor.newSession] - Session request received by the Distributor:</pre>
+minimalistic mam raczej xd
+no też bash ale z ohmyposh
+z transient promptem
+oho ostatnio oglądany filmik pewnie
+nie wiem, jakichś super minimalistic bym nie chciał bo jak szybko scrolluje długie history to łatwo zobacze gdzie się komenda kończy xD
+a nie wiem, od dawna mam swój config. Wcześniej bash+starship był grany
+<a href="https://www.youtube.com/watch?v=9U8LCjuQzdc">https://www.youtube.com/watch?v=9U8LCjuQzdc</a> to ja ostatnio widzialem ten filmik jak ktoś z p10k na oh my posh z transient promptami przechodził i mi się skojarzyło
+widziałem
+mam podobny config nawet
+wyslijcie mi jak to wyglada
+a widze
+możesz się odwrócić to zobaczysz XD
+XD myslalem ze zmieniles, bo w tej wiadomosci to kosmicznie wygladaly
+widocznie takie unicode
+czy co to tam pod spodem zamiast nerd fontów
+ja nadal polecam wszystkim ustawic sobie &quot;auto ls&quot;
+u was jest to samo?
+yup
+wait nie
+nie mam chińskiego
+a no, gruzinski jakis jest
+to jest wgl pojebane ze w tym unikodzie rzeczy sie na siebie nakladaja
+hehe zróbmy nowy standard
+żeby był jedyny słuszny
+💀
+<a href="https://github.com/Roblox/react-lua">https://github.com/Roblox/react-lua</a>
+kiedy Buddy bedzie gotowe na taki upgrade??
+<a href="https://www.ebay.com/itm/176419915934?itmprp=cksum%3A176419915934fcec50a7d6f6405bbd30fd6c5be0963d%7Cenc%3AAQAJAAAA8GAdA8t7FtElKI2ebmtGeyHN7tUBBjTuccWX7rkI4j1hAliiPjnz6gJ4LjsrwD4IIWFTZAsB53BGk%252F69FsURuqLfpKLK%252B2LudM5%252BEschWN4qpdHNFmtXOafnEaMlKrkIsCmlxfGml%252BlqWKyE3r23gaSVn0JlZQ7SyiV2UxqfiZdDCYLD22VJj%252BfW62B%252B65FbLHDy1UF7dfCAI7amia%252Fnp8WkHkG6foN3m41orCGQ7pnzKAO1OvQFvKJAnZaB36g2b0rW5XBDcLn4OV2%252FRBjurIzg7tjXU%252Faf9TnCGQBjPZEqmWrqsf36Ldd3cItSKQzCow%253D%253D%7Campid%3APL_CLK%7Cclp%3A2332490&amp;itmmeta=01J0TVBPQ6BW0B7BNV4ZM38H32">https://www.ebay.com/itm/176419915934?itmprp=cksum%3A176419915934fcec50a7d6f6405bbd30fd6c5be0963d%7Cenc%3AAQAJAAAA8GAdA8t7FtElKI2ebmtGeyHN7tUBBjTuccWX7rkI4j1hAliiPjnz6gJ4LjsrwD4IIWFTZAsB53BGk%252F69FsURuqLfpKLK%252B2LudM5%252BEschWN4qpdHNFmtXOafnEaMlKrkIsCmlxfGml%252BlqWKyE3r23gaSVn0JlZQ7SyiV2UxqfiZdDCYLD22VJj%252BfW62B%252B65FbLHDy1UF7dfCAI7amia%252Fnp8WkHkG6foN3m41orCGQ7pnzKAO1OvQFvKJAnZaB36g2b0rW5XBDcLn4OV2%252FRBjurIzg7tjXU%252Faf9TnCGQBjPZEqmWrqsf36Ldd3cItSKQzCow%253D%253D%7Campid%3APL_CLK%7Cclp%3A2332490&amp;itmmeta=01J0TVBPQ6BW0B7BNV4ZM38H32</a><br>a gdyby tak zrobić sobie fioletową klawkę i setup cały fioletowy
+jeden kolor to nudnawo
+no można dodać jakieś odcienie, ciężko by się kodziło mając tło i tekst w jednym kolorze
+to moze dracula theme
+to ja catppuccina juz wolę xD
+mmm update clickupa zjebał mi apke desktopową najs
+<pre>07:36:54.326 (local-comm-server)  › Starting server on port 23435<br>Segmentation fault (core dumped)</pre><br>kurwa segfault
+<a href="https://t.me/BartShoot">@BartShoot</a> Mam tu taki endpoint<br> i teraz dla tego endpointu w response dostaje pole type i chce wiedziec jakie on moze wartosci zwrocic
+narazie mam takie
+tak samo
+jest pole action
+do tego tez chce enuma
+Zły kanał
+w sensie to feed z backendu?
+Tu się obraża Marcela
+no tak
+co?
+to pozatym
+Gówno szmato
+lipa może z tym być
+czemu?
+razu dzisiaj jest?
+jest
+to do niego napisze
+ale ogólnie czy na 100% tego endpointa potrzebujesz? XD
+tak
+niewazne jakie on parametry przyjmuje
+chodzi o te 2 pola
+bo zawsze jez zwraca
+to mam pisac razowi czy to ogarniesz?
+daj mi na to popatrzeć
+ok
+spoczko
+to się raczej nie będzie zbyt często zmieniać, bez sensu nowego endpointa imo robić <br><pre>// Zone Event<br>    public enum Type {<br>        DOMAIN_POINT_BEGIN,<br>        DOMAIN_POINTED,<br>        DOMAIN_TRANSFER_BEGIN,<br>        DOMAIN_TRANSFER_END,<br>        DOMAIN_TRANSFER_CANCEL,<br>        DOMAIN_TRANSFER_UPDATE_AUTHINFO,<br>        DOMAIN_TRANSFER_RESEND_FOA,<br>        DOMAIN_REGISTER_END,<br>        DOMAIN_DELETE_END,<br>        DOMAIN_AUTORENEW_STATUS,<br>        DOMAIN_LOCK_STATUS,<br>        DOMAIN_DNSSEC,<br>        DOMAIN_PERMISSION_UPDATE,<br>        DOMAIN_RENEW_END,<br>        DOMAIN_RESTORE_END,<br>        DOMAIN_EXPIRED<br>    }<br>// ZoneRecordEvent<br>    public enum Type {<br>        RECORD, RECORD_STAGE, RECORD_STAGE_DISCARD<br>    }</pre>
+Jakiego endpointa?
+jakiego endpointa?
+To chodziło jedynie o zawartość enuma
+a masz tam jeszcze dla action?
+bo czegos mi tu brakuje
+więcej konkretów, action gówno nazwa
+też z feedu?
+tak
+mam dejavu
+I&apos;ve just been in this place before.
+To by to było? <br><pre>public enum AdminFeedAction {<br>    ADD, UPDATE, DELETE<br>}</pre>
+taak
+<a href="https://t.me/BartShoot">@BartShoot</a> Jak możesz mergować to do deva to zrób to za pół godziny
+małe poprawki jeszcze mam
+Bo jak to zrobisz to będziemy mogli jeszcze chwilę oglądać inb4 jaka będzie + nie będziemy musieli tego fix-ować
+ten niezręczny moment że nie wiem czy jesteś taki stary że znasz różnice między inba a inb4 i trollujesz, albo jesteś taki młody że zawsze byłeś trollowany i serio nie wiesz
+To drugie
+Aha, ok
+Chodziło o inba
+<a href="https://t.me/BartShoot">@BartShoot</a> masz green line na merge
+chwilka
+kod już na branchu, może nei wybuchnie
+Na dev?
+tak
+a stare polecialy?
+nic nie znika
+szybko pisz bo zaraz jebnie
+dodane do backendu buddy zostały te nowe endpointy które wywołują pod spodem w registry
+po stronie qika zero zmian
+dobra spoko
+Tak jak mówiłem
+Inba
+ka-Boom
+Krzysiu zbladł
+<a href="https://youtu.be/0gAdqrFP4j8">https://youtu.be/0gAdqrFP4j8</a>
+<a href="https://vm.tiktok.com/ZGegaHJTU/">https://vm.tiktok.com/ZGegaHJTU/</a>
+tak blisko...
+dzisiaj krem z jesieniar
+ale jest lato
+no i co
+no nie będą pod ochroną jak jakieś inne zwierzęta?? żeby tak poza sezonem na nie polować...
+git add .
+git commit -m &quot;Kuchnia kurwa, Marcel chuju wypierdalaj&quot;
+sudo apt remove git
+You are not in sudoers group. This will be noted
+git push origin kuchnia
+apt install neovim
+i potem <br><pre>git clone https://github.com/nvim-lua/kickstart.nvim.git &quot;${XDG_CONFIG_HOME:-$HOME/.config}&quot;/nvim</pre>
+co dzisiaj jemy
+ja żaba
+ja marcel
+ale można pójść dzisiaj do żaby
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> robiłeś z grafaną?
+A robiłeś tak aby mieć doładowywanie rekordów w locie?
+od grafany 8 masz Grafana Live
+<a href="https://grafana.com/docs/grafana/latest/setup-grafana/set-up-grafana-live/">https://grafana.com/docs/grafana/latest/setup-grafana/set-up-grafana-live/</a>
+<a href="https://x.com/__femb0t/status/1804570980271989089?t=iu6LNgk1qDyung4AB-e1dA&amp;s=35">https://x.com/__femb0t/status/1804570980271989089?t=iu6LNgk1qDyung4AB-e1dA&amp;s=35</a>
+To jest data source?
+albo query type
+Chuja mi to daje
+Potrzebowałbym czegoś co po przescrollowaniu tabeli na sam koniec wyśle requesta po więcej
+myślałem, że chcesz dane live
+To swoją drogą
+Ale głównie to paginacja doładowywania
+Bo mam 20k wpisów i jak naraz wrzucam to request trwa w chuj
+kurde wyobraźcie sobie, jest inpost jedna z najbardziej prężnie rozwijających się firm na polskim rynku, ba nawet międzynarodowo wchodzi do coraz większej ilości krajów
+tworzycie inpost fresh żeby idealnie klienci zaczęli robić regularne zakupy, mieli super ceny no ogólnie cud miód
+i nie umiecie zrobić jebanego powiadomienia od paru miesięcy, powiadomienia z apki odsyłają do przeglądarki co odsyła do google play gdzie możesz kliknąć open
+i kontekst powiadomienia się traci
+ale mnie to wkurwia
+dosłownie dym z uszu leci jak to widzę
+to nie uzywaj
+żaba?
+no chyba, ale koło 13
+dosłownie
+Gra dzieciństwa
+Jak się cieszyłem gdy zrobiłem go na 100%
+A ile razy musiałem powtarzać...
+najlepsza była jednak 1 część
+chociaż na wakacjach było bardziej pomysłowe
+Nie, 2. lepsza
+I ten stres, żeby ciul cię nie przyłapał na piłowaniu nogi, albo syfieniu mikrofalówki
+to jak?
+idziemy?
+no chyba
+tylko każdy czeka te 10 min zanim wyjdziesz
+a juz czekasz?
+xd
+*Po twoim wyjściu
+Attention: chop się zdeployował
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> <a href="https://t.me/BartShoot">@BartShoot</a> wypierdalać
+aaaaa
+już
+nie bijcie
+kurde
+🐈
+<a href="https://t.me/lmastalerz">@lmastalerz</a>
+sory za fake info, nie Wojtek na backend
+misscommunication
+nie pisz kto, bo dopiero się zacznie
+no już widzę że jakiś opór materii i tylko znajomi jednej osoby są mile widziani w tej firmie
+ale co zrobić xD
+zrobić tej osobie &quot;negatywny pr&quot; xD
+dokładnie, dziwne że Rafał z Szymonem nie pytają go co mogą w firmie zrobić
+racja, te informacje na nasz poziom nie docierają i tak XD
+Meanwhile QA
+fajny rekord dodałem?
+nie
+jak front pozwolił to dobry
+jak nie działa to front źle że pozwolił
+papuez nigdy by czegos tkaiego nie zrobil
+Jan Papeu III konfigurował DNS-owe śmieci
+znowu papieża obrażają
+bo co? nie może ci odpowiedzieć, bo nie żyje?
+Papuez brzmi jak jakis brazylijski mafiozo
+Fernando Papuez
+sprzedawał dragi dla trójki dzieci
+Info od Adama odnośnie APU
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a>
+2 pytania, ale walidacji brak
+co oznacza walidacja
+Jak napiszesz przepis na naleśniki to też dostaniesz 5
+bo nie ma jej na froncie i w sumie nie rozumiem terminu
+(xD)
+No walidacja odpowiedzi na pytania na egz z APU
+<a href="https://t.me/BartShoot">@BartShoot</a> ty się nie śmiej, tylko wyłącz możlwiość wpisania, że pipeline może się retryować ujemną ilość razy
+pocieszę Cię, nie będzie nigdy niższa niż <br><pre>    public static final int MIN_VALUE = -2147483648;</pre>
+A co jak front pośle -inf?
+macie w kodzie minimalną wartość inta?
+wooooooot
+My też mamy
+to sie zesra bo nie zmapujesz -inf na inta
+czego my tu w kodzie nie mamy ;)
+Int.MinValue
+no ale to jest z obiektu int
+nawet nie tylko my
+tylko każdy to używa javy
+nie tak
+JF
+myślałem, że normalnie w kodzie napisane przez was
+coś tam jest
+ale nie, to też w paczce apache cxf
+Zajebiście się te testy pisze
+Wszystko wypierdala do [IgnoreBug]
+Kurwa rekord
+15/15 testów =&gt; Ignored
+Pierdole taką robotę
+brzmi jakbyś pisał złe testy
+XD
+Brzmi jakbym pisać testy do funkcjonalności niezaimplementowanej
+TDD
+Kurwa
+Guilty pleasure
+tdd ma sens jak się jest tworzącym kod
+robisz red, potem robisz żeby było green, potem przepisujesz żeby było ładniej i znów jest red i potem znowu robisz green
+czat mi się nie daje zalogować 😭
+<a href="claude.ai">claude.ai</a> wydali nowy LLM i se spoko radzi, oprócz zjebanego frontu bo na 4k wygląda tak domyślnie....
+max-w-7xl i już nie wygląda jak odpalona wersja na telefon... tak samo barany z chatgpt nie dadzą domyślnie tylko trzeba rozszerzenie które poszerza czat instalować XD
+no dobra, ale każda firma trzepie potężne pieniądze na tych asystentach
+nie mogą postarać się chociaż trochę żeby to wyglądało dobrze na większości urządzeń??
+dziwnie się czułem pisząc te słowa:
+😆
+14 lat temu ktoś zmienił fajną rzecz w kodzie a ja głowię się teraz czemu
+pewnie wygrzebią taska ze starego systemu bo ktoś na górze tak chciał
+i elo
+xD
+zastanawiam sie czy jak napisze do Darka o to to bedzie pamietal tego commita 💀
+To ja
+Po pracy z wami frajerzy
+broda ci urosła coś
+Odżywka białkowa
+ciekawe czyje to białko
+sus
+z wyciskarki soku z kuchni
+🗿
+Zostawcie ciężko pracujących ludzi i uczcie się na egzamin
+Macie go za 50min
+no to już za późno, bez sensu się uczyć
+Zupa jakas popierdolona
+CZEMU?
+wygląda w miare
+nazywa się też spoko
+To nie są lody
+pureee?
+jeśli leży obok zupy, to jest to opcjonalne
+dobra idziemy do kuchni
+już?
+let&apos;s go
+<a href="https://t.me/BartShoot">@BartShoot</a> za ile będziesz?
+bo mam coś dla ciebie
+to lody z ansua
+anshua
+Anchois
+<a href="https://tonsky.me/blog/crdt-filesync/">https://tonsky.me/blog/crdt-filesync/</a> nie dajcie pisać backendowcom stron nigdy
+dobrze mówi
+ale myszki maja ciekawy mechanizm
+a odpaliłeś już dark mode?
+albo to sa myszki wszystkich user ow co to przegladaja
+zajebiste
+gdzie macie myszke
+no na ekranie myszki latają
+wskaźniki
+.
+sory
+chodzcie do demo
+jestem
+ja rysuje penisy
+to sie zacina troche
+gdzie jest demo?
+na dole
+no pojawiła się na chwile jakas windowsowa myszka
+trzy byly
+tak, to legit multiplayer
+jestes pewien ze nie poprostu losowe wskazniki?
+a nie miałeś 2 czarnych tam?
+3
+no czyli sie zgadza
+w sumie 3
+i 4 biale
+a to chuj wie
+5
+to nie wiem inny serwer XD
+cho do ch1
+do kowala
+XD
+orange mnie chce zrekrutowac xd
+ale tylko do procesu rekrutacji
+chyba lecą z góry na dół po absolwentach ubb
+chyba tak
+też dostałem zaraz sprawdze czy to samo
+yep, też mam
+1:1
+xd
+Gdzie to dostałeś?
+linkedIn
+linkedin
+ciekawe jaka stawka
+wymagania są praktycznie zerowe
+mile widzane umiejętności front-end
+xd
+No to standardowo ja nie mam
+a to nawet nie sprawdzam
+do ciebie to nawet boty nie chcą pisać
+F
+🇮🇲
+E, nie jest tak źle
+Napisała do mnie
+ciekawe czy rate limit czy serio leci ręcznie
+kiedy idziemy?
+13? cienka zupa była
+można
+ale ja bym zjadł coś konkretniejszego, tego tajemniczego kebaba co był a go nie było już otworzyli
+<a href="https://www.google.com/maps/place/Nakha+Restauracja+Turecka/@49.8156869,19.0446653,19z/data=!3m1!4b1!4m6!3m5!1s0x47169f86dacb8fc1:0x710e9e7d1f4ac663!8m2!3d49.8156869!4d19.045309!16s%2Fg%2F11y36wkqsn?entry=ttu">https://www.google.com/maps/place/Nakha+Restauracja+Turecka/@49.8156869,19.0446653,19z/data=!3m1!4b1!4m6!3m5!1s0x47169f86dacb8fc1:0x710e9e7d1f4ac663!8m2!3d49.8156869!4d19.045309!16s%2Fg%2F11y36wkqsn?entry=ttu</a>
+zostawiasz nas i idziesz do Orange? c:
+ja bym tam napisał że no kurcze ja mam pracę, gdzie z praktykami wyskakują
+i gdzie widełki
+no w it bez widełek to 💀
+mi napisała 2 raz mimo iż odpisałem nie dziekuje xd
+wszędzie bez widełek to cyrk, a najlepiej jest jak piszą że &quot;konkurencyjne&quot; wynagrodzenie
+to czemu się nim nie chwalą jak takie konkurencyjne
+żeby konkurencja nie podłapała ofc
+xddd
+konkurencyjne może działąć w 2 strony
+może być i wyższe
+i niższe
+ta kurwa konkurują w wyścigu na dno rzeki i pod muł
+wyścig to wyścig
+<a href="urldefence.com">urldefence.com</a>:
+<pre>Found in:<br>    uBlock filters – Badware risks</pre>
+XD
+niezle defence
+czekaj
+ublock to do reklam
+xd
+dx
+jprdl
+trackingi też blokuje
+jakie gów
+albo przynajmniej ostrzega
+że ktoś dostanie twój unikalny odcisk odbytu jak klikniesz
+nie no ublock dziala zajebiscie
+nawet coockiesy blokuje
+no ja też korzystam, wkurza tylko czasem jak potrzebujesz serio podejrzane strony odwiedzać
+wychodze
+bo pare razy trzeba kliknać
+wrrr
+zaraz idę
+Na drzwiach jest napisane Srodo i Czwortek, a na menu na górze „Bółka”
+i po co mi kaleczysz wzrok
+Przynajmniej widać że nie jest udawany obcokrajowiec
+XD oryginalny
+Tylko prawdziwy pan Turek na własnych plecach przyniósł z Turcji co najlepsze
+tablice w turcji pisali
+Mięso na plecach z Turcji dźwigał, a wy się nabijacie
+Zawartością soli* na koncu
+<a href="https://www.reddit.com/r/neovim/s/Cmbtsj8jJQ">https://www.reddit.com/r/neovim/s/Cmbtsj8jJQ</a>
+michał do review
+komicuj sans
+szanuje w opór, za tę jebutną tabulację
+tak powinien wyglądać kod
+ładnie wygląda
+wiadomo że tak
+to kwestia configu, pojebały się 4 spacje z tabami
+imo
+można to sobie skonfigurować w nvimie
+w ogóle to standardem powinny być taby, bo każdy może sobie ich rozmiar dostosować personalnie
+używanie spacji jako tabulatury to bluźnierstwo przeciw Unix
+ja tam szanuję, gdy kod wygląda tak<br><pre>interface IDupa {<br>...<br>}</pre><br>a nie, jak w tym C#<br><pre>interface IDupa<br>{<br>...<br>}</pre><br><br>ktoś bez rozumu i godności człowieka to wymyślił
+dokładnie
+to drugie wygląda jak dwie osobne rzeczy - deklaracja interfejsu i jakis obiekt w nawiasach
+możliwe XP ale mi się przypomnialo i koledzy nie znali
+obie mają plusy i minusy, jedna bardziej kompaktowa, druga sprawia że masz większe wizualne oddzielenie
+uu kontrowersyjnie sie zrobilo
+ctrl + alt + L/O
+i znika
+like
+rozumiem oszczędność bajtów
+takie są zasady formatowania i nie można łamać
+drogie jednak te dyski są
+takiego HDD na allegro to za 5zł znajdziesz
+co prawda starte talerze, jak sandały Mojżesza
+najlepsza oszczesnosc bajtow to zagniezdzanie tych operatorów ? :
+XD
+a idź z tym w kij
+chyba, że wrapujesz w ()
+to jeszcze zostaje wybaczone
+jkjk
+jak widzę<br>var ? var2 ? asd : dsa : dsad
+rzeczy ze skomplikowaną logiką powinny mieć metody w stylu isConditionFullfiled(obj cos, obj cos) dla czytelności
+to 💀
+yea
+napisane w regexie
+nie no, z regexem to bym zrozumial ze ktos po prostu bardzo chcial cos ukryc
+if dupa:
+else
+else
+else
+zobacz jak Wojtek pisał pewną stronkę
+jak zobaczyłem kod, to pierwsze co zrobiłem, to poprawiłem mu każdy plik
+albo jak ludzie zapominają istnieniu switcha i robią 50 ifElse
+nie zawsze switcha zrobisz
+bywają dzikie ify
+to juz kwestia kontekstu
+bo nie można returnować wcześnie
+ale nieraz sie widzi cos takiego
+w sensie my mamy powiedziane że powinien być 1 return, nie więcej
+aneksy są
+;D
+a nie za miesiąc
+to tez sie czesto da zrobic bez elsa, przypisujac default wartosc na poczatku - zalezy od sytuacji
+to jest spoko, bo to masz to samo co z breakami
+1 albo 0 jak void 😆<br>bardziej chodzi o to że jak masz długą metodę i z dupy return w środku to potem szukaj se buga
+ze masz przewidywalny punkt zakonczenia metody
+breaki to tez sa red flagi
+jak wgl nie dociera Ci gdzieś logika a &quot;powinna&quot;
+dajcie znać ile wynegocjowaliśmy
+5k
+no to macie tak samo jak my
+pora na naszą podwyżkę :)) jak to świeżaki dostają tyle co my
+XD
+taki jest niestety rynek
+ze ci co przychodza zarabiaja tyle co ci co od roku robia
+;D
+ale jak co to nic od nas nie wiecie
+jak wam nie pasuje, to Orange podobno do was napisało
+;D
+XD
+wiadomo, my we wrześniu mamy gadać
+ale to najpierw musicie z Łukaszem M-Bo-RODO ustalić, bo on tu za sznurki pociąga w firmie
+widzę dużo ofert nawet junior java developer od 8k w górę więc zdecydowanie wydaje mi się że nie dostajemy jakoś bardzo dużo skoro coś umiemy i znamy projekt lepiej
+ja to jeszcze kurde java developer with kotlin to mnożnik jakiś się należy
+ja tam rusta trochę umiem i gówno mi z tego
+więc nie narzekaj
+na co ci rust na froncie
+chyba do pisania nowego js runtime
+<a href="https://rocket.rs/">https://rocket.rs/</a>
+ale to backend? czy cos nie łapie
+Marcel G-bo-Gówno
+skąd wiesz, że o ciebie znowu chodzi
+Wojciech K-bo-Kurwa
+wracaj tam czołgi operować
+Łukasz M pociąga w za sznurki w firmie
+za coś może ciągniesz
+mmm
+ale ja sznurków tu nie widziałem
+XD
+XD
+XD
+Ciągnę to responsy z api
+XD
+czasami responsem z api jest huj ci w dupę
+kto co lubi
+No jak taki response leci to my odpowiadamy taskiem
+Z qa się nie zadziera
+a jak dostajesz 403 forbidden to znaczy że się w złą dziurę trafiło?
+Jak dostaję 403 to zależy
+Jak testuję uprawnienia to ok
+Jak robię cokolwiek innego to leci task: zjebane
+ludzie bo mi sie wyjazd do krakowa przypomnial
+nienawidzę nazywać rzeczy
+nie wiem czy chcemy poznawac te historie jesli taki jest jej kontekst
+Z LLM korzystałeś?
+który fragment dokładnie?
+gorzej, na szybko z głowy
+zacyzna sie na woj i konczy lik
+wojlik
+ostatnie 5cm
+pierwsze to pewnie wojtyła
+Ja czekam aż Kuba dostanie GPU to będę commity robił z llamy
+czyli faktycznie 5cm
+😳
+panowie summon
+clickup: dodanie jakiegoś nowego zjebanego AI vs przyśpieszenie aplikacji
+co ty tu za gówno dajesz
+gościu
+podeślij mi swoją instancje buddy z panelem admina
+co
+Albo powiedz jak zmienić adres serwera licencyjnego
+co
+wersje standalone ale z panelem admina
+podobno posiadacz coś takiego
+to do mądrzejszych ludzi, ja jedyne co ze standalone miałem wspólnego to go prawie zjebałem
+jak zmieniałem nazwy
+do raza?
+co
+Dobra, bo Kuba nie umie
+Masz wejście do repo standalone
+nope
+Aha
+Hmm, to utrudnia sprawę
+mamy tam tylko mirror repo
+Masz dostęp do kodu?
+backend-v4
+jak jest osobne repo od standalone to nie
+Ok, możesz podejrzeć jak generowana jest licencja?
+chyba że to mirror backendu na standalone
+generowana? nie jest, to jest request do jakiegoś serweru
+Ale model musi być jakoś parsowany
+top sikret dane chcesz dostać
+Yeap
+Widać, że chce dostać coś za darmo
+I nic go nie powstrzyma
+Nawet licencja czy inne prawo
+<pre>public class LicenseFront {<br><br>    public String id;<br><br>    public String machineId;<br><br>    public Integer concurrentExecutions;<br><br>    public BigDecimal pricePerConcurrentExecution;<br><br>    public Integer pipelineRunners;<br><br>    public Integer usersLimit;<br><br>    public BigDecimal pricePerUser;<br><br>    public Status status;<br><br>    public String email;<br><br>    public OffsetDateTime createDate;<br><br>    public UserFront user;<br><br>    public LicensePlan licensePlan;<br><br>    public BigDecimal fee;<br><br>    public Integer version;<br><br>    public Integer freeUsers;<br><br>    public Integer additionalUsers;<br>// ...<br>}</pre>
+Jetbrains?
+Nie uwierzę, że kupiłbyś to gówno
+Jeszcze trzeba nam adresu serwera (pewnie stoi na domenie więc ją) i mamy wszystko
+no to są top sikret dane do których nie mam dostępu
+nie macie jakichś od testów specjalnych licencji?
+Mamy, ale jest od tego inny serwer
+Bigos jak mi coś testował ze standalone to coś wiedział
+Więc zobaczę jeszcze w skrypt instalacji standalone
+Pewnie jest tam jakaś opcja do zmiany url instancji serwera licencyjnego
+<a href="https://x.com/makeithackin/status/1805633572247626173?s=46&amp;t=DuwCOHB61QXTh9TN1QUp6w">https://x.com/makeithackin/status/1805633572247626173?s=46&amp;t=DuwCOHB61QXTh9TN1QUp6w</a>
+Znajdź impostora
+//label[.//div::parent[] and contains(<a href="https://t.me/class">@class</a>,&apos;v2-form-tile-checkbox&apos;)]
+Jak nazywać commity lvl QA
+blank co
+fix jakich testów???
+a co cie to interesuje
+kurwa wam by się przydało code review nazw commitów
+masz jakis problem?
+tak
+źle o was świadczy że nie macie z tym problemu
+XD
+myslisz ze ja mam caly dzien na to zeby opisywac w nazwie commita co zostalo tam zmienione
+&gt;

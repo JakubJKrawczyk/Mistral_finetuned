@@ -1,0 +1,938 @@
+﻿?
+tak
+musialbym kazda jedna rzecz opisac
+tak
+o to w tym chodzi?
+żeby można było łatwo namierzyć w którym momencie zjebałeś??
+Niee?
+to nie tak ze sobie napisze added component dupa tylko musze <br>tests fixed:<br>- Test A<br>- Test B<br>- Test C
+itd
+a wystarczy w changelog zobaczyc
+spokojnie, <a href="https://t.me/BartShoot">@BartShoot</a>. Zaraz na QA wpadną na pomysł, by dla oszczędzania miejsca, będą zipować cały projekti go pushować tak commitem jednym
+Jak jest zjebane to się woła: Kto to kurwa zjebał? Front
+Albo Backend dupy dał
+Lub jak nie wiadomo kto spierdolił to Wesoła deweloperka
+w tym rzecz ze jak cos jest zjebane to wystarczy poprawic i wrzucic kolejny kommit o nazwie errors fixed
+jak wasz kod jest na tyle prosty że wystarczy popatrzeć i naprawić to może
+jest prosty ale ilosciowo duzo
+u nas zmiany są czasem po kilka poziomów serwisów interfejsów repozytoriów to se szukaj wiatru w polu
+I potem:<br><br>Fixed error<br>Merge<br>Merge fix<br>Fix testów<br>Merge
+przynajmniej dla nas prosty
+u nas tez jest np zmiana w mechanizmie ktora przechowuje widok ktory przechowuje widok gdzie jest propka ktora sie zjebala
+ok
+Gównoscreen
+???????????????
+Gównoscreen 2x
+błąd czy design kogoś poniósł
+gwonoscreen 3
+Aaa, linia
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> zjebałeś xDD
+FRONT!!!!
+Ssie pałę
+Co to za widok?
+otwarta główna strona repo
+readme
+cała firma vs front
+czego chcecie ode mnie
+kopnolbys kolegow ze maniane odpierdalaja
+myślisz, że ja to robiłem?
+nigdzie nie napisalem ze ty
+ty nie
+jakiś zjeb tak
+<a href="https://t.me/shipurjan">@shipurjan</a> zjebem nie jest
+chodziło o ciebie <a href="https://t.me/lmastalerz">@lmastalerz</a>
+Ja na froncie nie robię
+kurde troche się nie chce robić jak wiem że w połowie taska będę leciał na urlop
+i będzie mergowania w chuj
+oby udało się chociaż zamknąć ten co Ty Marcel robiłeś 😆
+dostał to teraz Jarek, może się uda xd
+miejmy nadzieję
+Front:<br><a href="domains.map">domains.map</a>(lambda x: &lt;domainTile DomainName=x.Name, Price=x.Price /&gt;)<br><br>QA:<br><blockquote>GetElements($&quot;{BaseXpath}//label[.//parent::div[contains(@class, &apos;v2-d-flex&apos;)]//preceding-sibling::div[1][normalize-space()=&apos;{category.Description()}&apos;] and contains(@class,&apos;v2-form-tile-checkbox&apos;)]//span[{(name ? 1 : 2)}]&quot;).Select(e =&gt; e.Text).ToList();</blockquote>
+już poprawione<br><br><pre>private string GetTilesInCategoryXpath(DomainBuyTilesCategories category = DomainBuyTilesCategories.ALL) =&gt; $&quot;{{BaseXpath}}//label[.//parent::div[contains(@class, &apos;v2-d-flex&apos;)]//preceding-sibling::div[1][normalize-space()=&apos;{category.Description()}&apos;] and contains(@class,&apos;v2-form-tile-checkbox&apos;)]&quot;;<br> <br>    public List&lt;string&gt; NamesList(DomainBuyTilesCategories category = DomainBuyTilesCategories.ALL) =&gt; GetTextFromElements($&quot;{GetTilesInCategoryXpath(category)}//span[1]&quot;);<br>  <br>    public List&lt;string&gt; PricesList(DomainBuyTilesCategories category = DomainBuyTilesCategories.ALL) =&gt; GetTextFromElements($&quot;{GetTilesInCategoryXpath(category)}//span[2]&quot;);</pre>
+co tak wcześnie
+Co tak wcześnie?
+ale żaba
+ty i tak nie idziesz z nami nigdy
+ja nie widze problemu
+oki
+to samobojcza misja
+no to 12:45
+kszjglikglkjrgwjkfw
+I think I see a problem here!<br><br>It looks like there might be some translation issues or even a prank going<br>on.<br><br>&quot;Kszjglikglkjrgwjkfw&quot; doesn&apos;t seem to be any real Polish text. It&apos;s <br>possible that someone has generated this text using a character generator <br>or something similar.<br><br>As for the phrase &quot;tell me what could this mean&quot;, it&apos;s hard to say without knowing more context. Jakbb Krawczyk <br>is likely a person, but I couldn&apos;t find any information about them being a well-known expert or authority in any <br>particular field.<br><br>If you could provide more context or clarify what you&apos;re trying to understand, I&apos;d be happy to help!
+&quot;likely a person&quot;
+coś sie jebło z inputem
+co za dyskryminacja
+ale mnie ten chat obrazil
+xd
+llama3
+😭
+co to kurwa jest
+wasze piekło
+jak się dowiecie, że to ma drag &amp; dropa
+i przestawianie w miarę dowolne
+i zero data-component
+;)
+kogo pojebalo?
+Łukasza
+ale nie tym razem
+QA obsrane
+powiedz im, że jesteś chętny by to testować
+znaczy tam chyba nie za bardzo co testować bo to tylko komponent na razie? czy już to z jakąś logiką będzie łączone
+czy komponenty też testujecie
+poki to nie jest na dev
+to to jebac
+zanim bedzie na dev
+to pewnie sie rozmysla
+wątpie
+aj lipa będzie takie nieskończone nestowanie obsłużyć
+dobrze że ja tylko z qika taski dostaje ostatnio
+nie wystarczy przetrzymywac parentId w obiekcie or smth
+zależy jak front pośle obiekt ale sprowadzałoby się do custom serializerów żeby takie coś zrobić
+do ilu obiektów będzie można zagnieździć naraz?
+Max 30
+ale
+jak duza drabinka ?
+.
+jprdl
+jak to front zamierza wyświetlic
+Mają na to jakiś plan
+oby kurwa sprytny
+wychodze
+załamał się
+mamy springową validacje ale to o mapera chodzi
+<a href="https://t.me/lmastalerz">@lmastalerz</a>
+<a href="https://t.me/lmastalerz">@lmastalerz</a> rusz du
+pe
+<a href="https://x.com/FreyaHolmer/status/1806033459552694336?t=ZMkRhwzugZJdcUc7ZjvmsQ&amp;s=35">https://x.com/FreyaHolmer/status/1806033459552694336?t=ZMkRhwzugZJdcUc7ZjvmsQ&amp;s=35</a>
+loose conventions of every letter of the alphabet when used in math, in my experience:<br><br>a - variable, usually the first, or acceleration<br>b - variable, usually the second, or a basis function<br>c - constant, coefficient, or the speed of light, might be a third variable<br>d - infinitesimal/derivative notation, but could also be distance or diameter. using this as a fourth variable after a, b, and c is illegal under international law<br>e - euler&apos;s number, or a variable/constant if we&apos;re feeling extra brave<br>f - function, probably<br>g - probably also a function. or the scalar gravity constant<br>h - a variable, usually height, but might be a function too<br>i - the imaginary unit, if we&apos;re doing complex algebra/analysis, or a basis vector. could also be an integer<br>j - quaternion basis or basis vector<br>k - quaternion basis or basis vector<br>l - mostly unused, bad glyph, nobody likes it, too similar to 1 and | and I. you may use it only if you write it very squiggly cursively or for lagrange polynomials<br>m - a constant, or mass<br>n - an integer, or a normal vector<br>o - mostly unused? if I see this I&apos;m probably reading my own notes<br>p - a constant, usually an intermediate variable<br>q - a quaternion, or an intermediate variable<br>r - a radius, or a position vector<br>s - displacement or arc length<br>t - time or interpolation parameter, usually as an independent variable in a parametric equation, or a tangent vector<br>u - a coordinate in 2D space, or the first parameter of a parametric function with more than one parameter, or a time/interpolation value<br>v - a vector, might be a velocity vector specifically, or scalar speed, or a coordinate in 2D space, or the second parameter of a parametric function<br>w - the real part of a quaternion, or a phase/angular velocity/frequency<br>x - an independent variable or the first component of a coordinate/vector in 2D or 3D space<br>y - a dependent variable or the second component of a coordinate/vector in 2D or 3D space<br>z - a complex number, or the third component of a coordinate/vector in 3D space
+@ qa razu jednak idzie na urlop nie od poniedziałku tylko w następnym tygodniu to jednak nie macie aż tyle spokoju xD
+Przyszedł do nas
+aż tak solidny wpierdol wam się należał? 😨
+Nie, to on się pytał czy będzie bity
+Deadline jest do sierpnia
+niestety
+zdecydowanie za szybko chcą to wydać 😆
+my dopiero jakoś teraz mamy jedną jedyną domenę kupioną na live
+Was to jebać, my nie idziemy na urlop więc ogarniemy się z taskami (utopimy Michała)
+Bo do was nic nie mamy
+ja na tydzien moze ide
+ale tydzien przed deadlinem
+nowe efektywniejsze wyciąganie tajemnic biznesowych od nieświadomych użytkowników 😆
+ktoś zostawił odblokowany komputer??
+Chłop co programuje w minecrafcie
+Enchantuje kod
+Masz 30 lvl?
+i co zrobi z tym 30 lvl? jednego commita?
+ale policzył
+szacował
+Nie no, ekspiareczkę trzeba w firmie zrobić to będzie opłacało
+Najlepiej z endermanów
+to jest rasizm
+znowu czar*i
+czarli
+No co ja poradzę że są najwydajniejsi?
+rasista
+spotted
+I produkują się też zajebiście szybko
+a to nie ten kolor
+prawda, chociaż nie wszystko obsługuje to ich space-healing
+alert rcb znów
+pojebane 😆
+jakiś chujek ci dał kciuk w dół
+dałem w górę, by wyrównać
+&quot;dopiero&quot;?? 101 wersji i dalej nie jest idealny???
+to na pewno przez agile development
+qa chujowe
+musimy im <a href="https://t.me/lmastalerz">@lmastalerz</a> wysłać
+jako konia trojańskiego
+no to tylko 899 wersji przed nimi
+brakowało planning pokera
+która wersja najlepsza? waszym zdaniem
+neon
+i używanie innych styli dla specjalnych rzeczy w kodzie nie wydaje się złe
+yep, do pisania kodu Neon, ładny jest jeszcze Argon
+pozostałe do wyjebania
+argon tez spoko
+g
+xenon mi pasuje do jakiegos assemblera
+czemu nie mogą dać zwykłego g
+radon spoko na komentarze
+czyli jakiego
+w comicsansie masz
+w jetbrainsowym tez
+dobra, ale kodowanie w comic sansie &gt;&gt;&gt;&gt;&gt;&gt;
+comicsans najładniejszy
+zawsze opcją jest iosevka w której sobie sami wybieracie kazda literke
+no fira code tez jest dojebana
+a ja biedny na cascadia code 😅<br><a href="https://github.com/microsoft/cascadia-code">https://github.com/microsoft/cascadia-code</a>
+ja to jednak wolę gdy mogę zainstalować i jest dobre
+jak próbowałem ją skompilować bez ustalenia limitu ramu to mi kompa wyjebało
+XD
+taka kompilacja czcionek to pojebana sprawa
+w jakim kurwa świecie
+trzeba limit ramu do czcionki
+czegokolwiek z czcionką XD
+no do kompilacji jak widac trzeba
+XD
+myślę, że ta jeszcze do kodowania może być spoko
+ja kurde ustawilem sobie w sierpniu taką i teraz już w żadnej innej nie umiem rozczytać javy...
+do kodowania może i tak, ale nie do programowania
+welp
+ale jak elegancko by jakiś uglified kod wyglądał z tą czcionką
+którą?
+monaspace?
+tą
+unprettied ^
+<a href="https://skalman.github.io/UglifyJS-online/">https://skalman.github.io/UglifyJS-online/</a>
+😆
+ładnie się qa opierdzielało
+co?
+xd
+gościu
+wiesz ile my mamy tasków do zamkniecia?
+63 tylko w jednym miejscu
+czyli kolo 100
+Result: 80 days<br><br>It is 80 days from the start date to the end date, but not including the end date.<br><br>Or 2 months, 19 days excluding the end date.
+ok, to przepraszam
+to czemu ich nie zamykacie
+XD
+qa się nie opierdzielało
+tylko opierdala cały czas
+jak są do zamknięcia
+zamykamy. wczoraj zamknalem 4
+ogolem juz jakies 60
+ja osobiscie
+a to sory
+ale pewnie łatwiej by było jakby je na bieżąco zamykać 😆
+tylko ze tobie wystawia taska 1 max 2 osoby
+a nam wszyscy
+;D
+Kurwa ale lampa
+nie wszyscy, bo żadnego taska ci jeszcze nie przypisałem <a href="" onclick="return ShowMentionName()">Jakub Krawczyk</a>
+i na co czekasz?
+no tbh ja raczej nie przypisuje ludziom dalej
+tylko wpierdalam że zrobione i se leci w eter
+ja tam to robię, gdy dostaję explicit informację, komu mam to dać
+inaczej to na &quot;tests&quot; bez assignee
+no podobnie
+Tests to jest przypisanie całego QA
+jeszcze może iść do selected started jak do frontu pierwsze
+ale z priorytetem &quot;high&quot;
+widać na żółto
+My jak wystawiamy to Michał/Razu/Rafał
+I ekstremalnie rzadko i nikt nie ma odwagi
+Szymon
+Tak
+kto dzis tez w firmie kibluje do pozna?
+ja do 18 dzisiaj
+17 to nie jest &quot;późno&quot;
+dla mnie jest
+bo ty zawsze na 6:30
+dzis 10:45
+dzisiaj wcześnie, 17:30
+czy my coś papu?
+to dopiero o 15
+cały parking to kałuża
+koniec końców jak nas większość zostaje do późna to można iść później 😆
+i co obiad jesc o 15?
+nie pada
+tak??
+nie pada
+niet
+<a href="" onclick="return ShowMentionName()">Jakub Krawczyk</a> wyjdź na zewnątrz i zobacz dla pewności
+bo ty zawsze późno wychodzisz
+xd
+funny
+i trzeba na ciebie czekać
+prawda, <a href="https://t.me/BartShoot">@BartShoot</a>?
+kwadrans studencki jeszcze nie przekroczylem
+ale kwadrans studencki jest dla wykładowców
+nie dla studentów
+to jaka decyzja?
+kompromis i jemy o 14?
+no to dlatego pytam
+a potem pól dnia chcecie na głodzie siedziec?
+zupka i ciasto było
+aż tak?? no to może trzeba zjeść
+chociaż jak to mój tata lubi mówić
+od głodu jeszcze się nikt nie zesrał
+kto mial ten mial
+czemu, niepoważny
+dad jokes
+no dobra to chodzmy o :15
+no I WKONCU KTOS MĄDRY
+sry CaPS-LoCk
+mi obojetne
+capslock przebinduj na escape
+lepiej się w vimie pisze
+a na co lecimy?
+o kurde, to jest popularna praktyka??<br>ja sobie w klawce wlasnie tak dalem escapa - w miejsce caps locka jeszcze zanim w vimie robilem
+bo to logiczne zeby byly po przeciwleglych stronach
+esc i enter
+wśród użytkowników vima ta, bo caps tylko pierdoli input xD
+no to jest fakt
+ja wszedzie widzialem esc &gt; jk
+ale wtedy nie mozna powiedziec ze sie zartowalo...
+taa jeszcze hard mode
+o jezu az mi w ustach zaschlo od tego suchara
+nie ma klikania jjjjj
+tylko mądrze trzeba
+tja XD
+a napic sie czlowiek nie moze bo mi mucha jednak w soku zrobila cameo
+ajajaj
+może sitko trzeba
+żeby chociaż nie widać było w szklance że muszka brała kąpiel
+co????
+była ok ale nudne rzeczy wzieliśmy
+troche nieopłacalne, lepiej by było na pizze iść + obsługa wolna
+to by trzeba było zamówić teraz
+i se wyjść za chwile jak nam dadzą znac
+czemu mi buddy nie daje dac takiej subdomeny????
+troszczy się o użytkownika
+może za długa
+a wyświetla must be valid
+zamiast too long
+sprawdź dla pewności
+czy jakieś kij wie 500 znaków
+256 - dlugosc domeny
+no i teraz pytanie czy całości czy części którą dajesz
+jakby to powiedzieć
+jest :16
+bo jak validacja w boxie jest max 256 a potem sprawdzana jest to co wpisujesz + root
+to pyk task do frontu
+no pojawił się pomysł z pizzą
+i gdzie wy
+no jużżżżż
+Na dole ustalimy, chodź xd
+Jesteście tam jeszcze?
+Bo idziemy do was
+<a href="http://www.staggeringbeauty.com/">http://www.staggeringbeauty.com/</a>
+piękne
+oj machnąłem szybko
+to bait
+daje po oczach
+czemu on ma coś w brzuchu
+jest ostrzeżenie lewy dolny
+pills
+CZYM SĄ HAIRY DIVAS
+im mniej wiesz tym lepiej śpisz
+wrzucać na techniczny??
+NIE
+XD
+TAK
+:D
+lepiej jest czasami mniej wiedzieć
+;X
+kto chce se domene premium kupić 😆
+omg
+to much
+o jezu, <a href="api.do/update">api.do/update</a>
+alternatywa onlyfans dla programistów
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a>
+<a href="https://t.me/lmastalerz">@lmastalerz</a>
+<a href="tairiku.api.gay">tairiku.api.gay</a>
+<a href="kapitanbomba.gay">kapitanbomba.gay</a>
+Zobacz czy jest dostępna <a href="kapitandupa.gay">kapitandupa.gay</a>
+i na promce masz
+Ale zobacz <a href="kapitandupa.gay">kapitandupa.gay</a>
+tak jak tu
+<a href="https://www.ovhcloud.com/pl/domains/">https://www.ovhcloud.com/pl/domains/</a>
+ja se teraz patrze na <a href="https://tld-list.com/">https://tld-list.com/</a>
+<a href="api.bielsko.pl">api.bielsko.pl</a>
+Kup
+a co ja jestem?
+Dzban
+czy każda polska miejscowość ma swoje .pl? XD tak to wygląda
+<a href="api.lomza.pl">api.lomza.pl</a>
+domeną <a href="bielsko.pl">bielsko.pl</a> zarządza ubb
+jak kto woli
+albo ATH
+kij wie, ale jak nie przeszkadza ci jakieś <a href="strona.jgora.pl">strona.jgora.pl</a> to tanio
+ja se moge zrobić nawet do nicka <a href="mailto:bart@shoot.gay">bart@shoot.gay</a>
+yup
+nawet dostępna na ovh
+to pa tera
+😭
+jednak zadowolę się tą
+<a href="ismy.pet">ismy.pet</a> chciałem
+ale zajęte
+normalnie kupie qa.gurom i wystawie tam htm jebac backend i frontend i bedzie tam lista poemow z jebac js
+<a href="api.ba.it">api.ba.it</a>
+nie ma takiej tld
+<a href="qa.top">qa.top</a>
+To pewnie front.down
+<a href="qa.cheap">qa.cheap</a> nie takie cheap
+qa church - idziecie się modlić o 500
+albo <a href="qa.cool">qa.cool</a>
+qa christmas - wyskoczyła 500
+⣿⣿⣿⣿⣿⠟⠋⠄⠄⠄⠄⠄⠄⠄⢁⠈⢻⢿⣿⣿⣿⣿⣿⣿⣿<br>⣿⣿⣿⣿⣿⠃⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠈⡀⠭⢿⣿⣿⣿⣿<br>⣿⣿⣿⣿⡟⠄⢀⣾⣿⣿⣿⣷⣶⣿⣷⣶⣶⡆⠄⠄⠄⣿⣿⣿⣿<br>⣿⣿⣿⣿⡇⢀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠄⠄⢸⣿⣿⣿⣿<br>⣿⣿⣿⣿⣇⣼⣿⣿⠿⠶⠙⣿⡟⠡⣴⣿⣽⣿⣧⠄⢸⣿⣿⣿⣿<br>⣿⣿⣿⣿⣿⣾⣿⣿⣟⣭⣾⣿⣷⣶⣶⣴⣶⣿⣿⢄⣿⣿⣿⣿⣿<br>⣿⣿⣿⣿⣿⣿⣿⣿⡟⣩⣿⣿⣿⡏⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿<br>⣿⣿⣿⣿⣿⣿⣹⡋⠘⠷⣦⣀⣠⡶⠁⠈⠁⠄⣿⣿⣿⣿⣿⣿⣿<br>⣿⣿⣿⣿⣿⣿⣍⠃⣴⣶⡔⠒⠄⣠⢀⠄⠄⠄⡨⣿⣿⣿⣿⣿⣿<br>⣿⣿⣿⣿⣿⣿⣿⣦⡘⠿⣷⣿⠿⠟⠃⠄⠄⣠⡇⠈⠻⣿⣿⣿⣿<br>⣿⣿⣿⣿⡿⠟⠋⢁⣷⣠⠄⠄⠄⠄⣀⣠⣾⡟⠄⠄⠄⠄⠉⠙⠻<br>⡿⠟⠋⠁⠄⠄⠄⢸⣿⣿⡯⢓⣴⣾⣿⣿⡟⠄⠄⠄⠄⠄⠄⠄⠄<br>⠄⠄⠄⠄⠄⠄⠄⣿⡟⣷⠄⠹⣿⣿⣿⡿⠁⠄⠄⠄⠄⠄⠄⠄⠄<br><br>ATTENTION CITIZEN! 市民请注意!<br><br>This is the Central Intelligentsia of the Chinese Communist Party. 您的 Internet 浏览器历史记录和活动引起了我们的注意。 YOUR INTERNET ACTIVITY HAS ATTRACTED OUR ATTENTION. 因此，您的个人资料中的 11115 ( -11115 Social Credits) 个社会积分将打折。 DO NOT DO THIS AGAIN! 不要再这样做! If you do not hesitate, more Social Credits ( -11115 Social Credits )will be subtracted from your profile, resulting in the subtraction of ration supplies. (由人民供应部重新分配 CCP) You&apos;ll also be sent into a re-education camp in the Xinjiang Uyghur Autonomous Zone. 如果您毫不犹豫，更多的社会信用将从您的个人资料中打折，从而导致口粮供应减少。 您还将被送到新疆维吾尔自治区的再教育营。<br>为党争光! Glory to the CCP!
+przestancie zoltkami spamic
+bo sie rozleja
+🇨🇳
+tutaj jest oficjalny czat chińskiej republiki ludowej, uprasza się o zaprzestanie używanie innego języka niż 普通话, w przeciwnym razie zostaną odjęte punkty
+uwu
+wuw
+Gdybym miał 1$ za każdy piksel na tym gifie, to miałbym 0.5$
+<a href="https://www.figma.com/slides/">https://www.figma.com/slides/</a>
+kawusia?
+ale masz dobre pomysły czasami
+zupa przypłynęła
+⛵
+<a href="marczelszmata.pl">marczelszmata.pl</a> znalazł nam dość poważnego buga
+znowu obrażajo
+wulgarne to qa
+ale przyczyniłeś się do odkrycia poważnego buga
+czy ktoś widzi coś ciekawego?
+ciekawe ile razy to się rozjedzie xd
+Jebnę ci nowinką
+Siedzisz?
+nie, leżę pod biurkiem
+może być?
+Chce ci się srać?
+Jak tak to do kibelka i jak wrócisz to ci powiem, bo się posrasz
+no piszzzzz
+Jak skończymy QIK-a to nadupiamy visual testy
+jak to jest w podobnym stopniu rozjebane
+Utoniesz w taskach
+A ja i Kuba będziemy lać wodę
+ale większość z nich bierze Bartosz Wróbel ;x
+ja tu z doskoku xD
+czy my dzis ten tego gdzies ? : papu?
+<a href="" onclick="return ShowMentionName()">Jakub Krawczyk</a> propozycje?
+a bo ja wiem
+zaba?
+zaba
+teraz czy 15 po?
+mi bez różnicy
+to daj mi chwile
+napisze jak bede wychodzil
+oooo, coś nowego
+ide
+jednak moment
+angery
+Łukasz zostaw go
+Build in branch dev-jakub-newinvitecases-8694y7qhy failed by JakubKrawczyk!<br>Check:  <a href="https://sls.io/beta/tests/pipelines/pipeline/375/execution/66828d4c7178190624277f52">https://sls.io/beta/tests/pipelines/pipeline/375/execution/66828d4c7178190624277f52</a>
+to my, gdy pipeline jebnie
+2 min
+zobacze co jeblo
+a wszystko
+to za dużo
+a pokusilem sie zeby zrobic jak najdluzsze nazwy domen
+już
+<a href="https://t.me/lmastalerz">@lmastalerz</a> summon
+a Cypriana i Bartka kto zsummonuje?
+Bartek ma urlop
+no i co z tego.
+cyprian moze wyjsc ze zmywarki w kazdej chwili
+niewazne gdzie jest
+żarcia chyba nikt nie odmówi
+bartek tez moze
+<a href="https://t.me/BartShoot">@BartShoot</a> <a href="https://t.me/shipurjan">@shipurjan</a> gdzie wy? Zadupcać obiadek
+Urlop
+Mówi wam to coś??
+Przynajmniej ja
+Ok
+umpalumpa
+L
+heeeeeee
+git fetch<br>git branch kitchen<br>git push kitchen
+let&apos;s go
+conflict
+nie ma konfliktow przy tworzeniu nowego brancha
+dzisiaj żaba znowu?
+why not
+13?
+13
+let&apos;s googo
+☕
+☕️☕️
+☕⛵
+🤬
+<a href="https://codewithrockstar.com/docs">https://codewithrockstar.com/docs</a>
+szukalem dzisiaj info o flutterze
+i moj linkedin
+Jeszcze chwila i jebniesz tym C# 🔥🔥
+AI dla designów apek mobilnych
+Jakbym zamknął oczy będąc jednocześnie głupim i niewidomym, to bym i tak aż tak brzydkiego designu nie stworzył
+Czyli mówisz, że jak zrobiłbym design sam to wyszłoby lepiej?
+Mówiłem o sobie
+To pierdol się
+Mocno
+Ty byś tam żółte kolory dał
+Na brązowym tle
+ewentualnie pomarańczowe*
+MBP
+Matki Boskiej Pieniężnej
+co jest ze to swieto z kazdym miesiacem jest coraz wczesniej?
+Ludzie biorą urlopy, mogą pieniądze wydawać
+no w sumie prawda
+coffe?
+kitchen?
+i&apos;m on my way
+żaba
+tajest
+i masz na to realny case? ze akurat az tak chcesz przekombinowac te godziny?
+Ta, ma taki case
+Chce ustawić powiadomienie o śniadanku/obiadku o konkretnych godzinach
+...
+Tak, zgadzam się xD
+<a href="" onclick="return ShowBotCommand(&quot;start@BuddyEuTelegramBot&quot;)">/start@BuddyEuTelegramBot</a> 867b5bc23cae4ad8665d854df3ac4ac42ea3e71e9caad2141c1eed1044f17bb16c3a5161aaae457bd9a48cfc63fa10d6
+Integration with Buddy finished successfully
+czyli jednak
+Yeap
+tak
+why not
+nikomu to krzywdy nie robi
+9:20 -&gt; do przerwy zostało T - 10 minut.
+No to nieźle
+dokładnie tak
+Deploy
+9:20 -&gt; do przerwy zostało T - 10 minut.<br><a href="https://t.me/mganczarczyk">@mganczarczyk</a> <a href="https://t.me/lmastalerz">@lmastalerz</a> <a href="https://t.me/Jakub">@Jakub</a> <a href="https://t.me/shipurjan">@shipurjan</a> <a href="https://t.me/BartShoot">@BartShoot</a> <a href="https://t.me/mJakobsche">@mJakobsche</a>
+za 6 minut przecież
+głupszy niż na to wskazuje jednak
+spr
+do
+xD
+kuchni
+sprawdzian jakiś w kuchni?
+ja się nie uczyłem
+chcę zgłosić np
+Zjebane
+Upvote please
+<a href="https://app.clickup.com/t/869505338">https://app.clickup.com/t/869505338</a>
+Twórczość Kuby w Review
+xDD
+kafel 🗿
+🤔
+🐸?
+<a href="" onclick="return ShowMentionName()">Jakub Krawczyk</a>
+za 7 min dostaniesz powiadomienie xd
+9:20 -&gt; do przerwy zostało T - 10 minut.<br><a href="https://t.me/mganczarczyk">@mganczarczyk</a> <a href="https://t.me/lmastalerz">@lmastalerz</a> <a href="https://t.me/Jakub">@Jakub</a> <a href="https://t.me/shipurjan">@shipurjan</a> <a href="https://t.me/BartShoot">@BartShoot</a> <a href="https://t.me/mJakobsche">@mJakobsche</a>
+🤡
+9:20 -&gt; do przerwy zostało T - 10 minut.<br><a href="https://t.me/mganczarczyk">@mganczarczyk</a> <a href="https://t.me/lmastalerz">@lmastalerz</a> <a href="https://t.me/Jakub">@Jakub</a> <a href="https://t.me/shipurjan">@shipurjan</a> <a href="https://t.me/BartShoot">@BartShoot</a> <a href="https://t.me/mJakobsche">@mJakobsche</a>
+wtf
+12:50 -&gt; do przerwy zostało T - 10 minut.<br><a href="https://t.me/mganczarczyk">@mganczarczyk</a> <a href="https://t.me/lmastalerz">@lmastalerz</a> <a href="https://t.me/Jakub">@Jakub</a> <a href="https://t.me/shipurjan">@shipurjan</a> <a href="https://t.me/BartShoot">@BartShoot</a> <a href="https://t.me/mJakobsche">@mJakobsche</a>
+Chuju
+Moja reakcja na pipeline Kuby
+Do it
+Weźcie te oznaczenia w dupę wsadźcie
+kurw deszcz pada
+spr
+Bo przebijają się przez wyciszenie
+a to moja wina ze tak telegrama zaprogramowali?
+Marcel gdzie ty
+Pussy
+zaraz
+kurde
+daj odpisać na wiadomość
+Wypierdol go, a nie się zastanawiasz
+dodam na nowo
+Ale już admina sobie nie dodasz
+a i to lukasz kazal pingowac
+Ale projekt i pipeline twój
+ja chcialem byv mily
+juz nie ponguje
+Tymczasem pong
+Małpo chodź
+Gnoju śmieciu
+$RC_SUFFIX
+I chuj
+berbeciu
+ale sypl logger
+9:20 -&gt; do przerwy zostało T - 10 minut.
+Wypierdalać do kuchni
+Nie
+co sie na froncie dzieje
+ze lecą wam kartony z okien
+cpają
+czy to nie u was
+plastik
+co leci? xD
+nam się tylko klima zepsuła
+bo zaczęło z niej jebać plastikiem spalonym
+wymieniali teraz filtry chyba(?) xd
+Redesign polecial znaczy sie
+a to Szymon
+czyli masz 100% rację XD
+XP
+zastanawiałem się gdzie podział się karton, który niósł XD
+już wiem
+okej, już wiemy
+asfalt gdzieś niedaleko grzeją
+góra jest pierwsza na wylocie klimy
+dlatego my ćpamy, wy nie
+smutne, ale co poradzić
+12:50 -&gt; do przerwy zostało T - 10 minut.
+petycja żeby przesunąć przerwę na 13.30 (niekoniecznie dzisiaj)
+dobra pany
+gdzie ty
+na górze, ale już po woli na dole
+nie mielsimy 15 po isc?
+<a href="https://t.me/mJakobsche">@mJakobsche</a> ile masz tam osób w pokoju?
+hmm ze 4 chyba
+9:20 -&gt; do przerwy zostało T - 10 minut.
+<a href="" onclick="return ShowMentionName()">Jakub Krawczyk</a> dzbanie
+xdd
+12:50 -&gt; do przerwy zostało T - 10 minut.
+Kretyn
+macie jakis kurwa problem? nie da sie ustawic zeby. w werkend nie dziala
+Da się, tylko trzeba umieć
+9:20 -&gt; do przerwy zostało T - 10 minut.
+12:50 -&gt; do przerwy zostało T - 10 minut.
+9:20 -&gt; do przerwy zostało T - 10 minut.
+Deploy
+Cyprian na urlopie?
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a>
+do środy chyba
+To napisz to na Technicznym aby nie czekali
+powiem na spotkanku za 13 minut
+dlaczego w końcu w buddy nie ma dark mode
+bo będziesz miał v3, a nie v2
+front tego nie chce, qa tego nie chce
+a backend i tak działa w vimie i curlu
+a wiecie ze ostatnio wlasnie zaczalem wysylac requesty z vima przy uzyciu curla XD
+QA ma w to wyjebane
+Bo kolorków nie sprawdzamy
+backend to już jest v4
+tylko frontend nie chce a wszyscy potrzebują...
+ale jako użytkownik końcowy jestem zaniepokojony kierunkiem rozwoju tego feature
+wgl to aplikacje powinny byc robione dark-mode first
+kto to wgl wymysla zeby targetowac masochistow
+front to ma wersję w zmiennej scss zapisaną
+i to tylko v2
+jako prefix
+package.json ma 1.0.0
+?
+jestem zaniepokojony kierunkiem rozwoju dark mode
+niby czemu?
+bo go nie ma i nie będzie w najbliższym czasie xd
+12:50 -&gt; do przerwy zostało T - 10 minut.
+<a href="https://t.me/mJakobsche">@mJakobsche</a> ty nie chciałeś jakoś później?
+ogolnie tak, ale dzisiaj pozniej nie wiem kiedy bedziemy mieli spotkanie
+wiec raczej pojde teraz XP
+to nie macie o 13:00?
+nie my
+<a href="" onclick="return ShowMentionName()">Jakub Krawczyk</a> 13:00
+wiem
+ale to idziemy?
+czy masz spotkanie
+a on jest superdev?
+on jest tylko powarzny
+:c
+dobra
+ide
+przed wejście
+<a href="https://www.youtube.com/watch?v=GVolMTxBR5s">https://www.youtube.com/watch?v=GVolMTxBR5s</a>
+na pewno idziesz?
+na wesele? zalezy czyje
+a do żaby?
+a ro tak
+w00cash
+gówno po równo, czyli komunizm
+<a href="https://sls.io/beta/tests-visualtests/visual-tests/bid4t6v4e53ikdi0?filterTypes=UNREVIEWED%2CNOT_APPROVED%2CNEW%2CCHANGED&amp;review=true&amp;snapshotId=tbtctefojhhnslem">https://sls.io/beta/tests-visualtests/visual-tests/bid4t6v4e53ikdi0?filterTypes=UNREVIEWED%2CNOT_APPROVED%2CNEW%2CCHANGED&amp;review=true&amp;snapshotId=tbtctefojhhnslem</a>
+404
+ale gowno screens
+o+t
+na sls jest o+t?
+tu się vh psuje
+A nie
+o ile pamiętam
+Dobra, to nie wejdziesz
+jestem za bardzo leniwy :x
+tjaa, bo on bierze 100vh
+a 100vh chyba tam jest wartością umowną
+i wynosi w ch00y
+widać
+:D
+będę to musiał naprawić
+będziesz :D
+jak nie będę miał wolnego czasu na minusie
+zawsze możesz dać permisje imienne xd
+http://localhost:1337/parseDom.js
+To gówno rzuca pustą odpowiedź
+dla takich śmieci jak ty to jest pusty response
+a dla prezesa jest javascript
+Widać prezes pojebany
+heh
+Są jakieś logi z requestów w visual-tests-cli?
+jak włączysz flagę
+Jaką?
+sraką, dokumentację przeczytaj
+Hehe, 404
+Kurwa not found
+SNAPSHOTS_DEBUG
+na true
+Env?
+ale to tylko czas wykonywania loguje
+export SNAPSHOTS_DEBUG
+albo SNAPSHOTS_DEBUG=
+jak wolisz
+Chuj, ważne abym widział, że coś dobija do cli
+na sls jest projekt, który ma visual testy mojej stronki
+ze względu na zakaz <a href="kordos.com">kordos.com</a>
+albo zepsułeś w ch00y
+albo wypierdalasz cli
+i sam robisz requesty
+Cli wjebane do dockera
+cocker
+9:20 -&gt; do przerwy zostało T - 10 minut.
+Deploy
+Łooo
+Widzicie historię wiadomości?
+ta
+właśnie mi swager wyjebał przeglądarke
+12:50 -&gt; do przerwy zostało T - 10 minut.
+tylko robi się burdel, gdy chcesz zobaczyć kto jest online
+bo trzeba szukać xd
+<a href="https://app.clickup.com/t/86951h27j">https://app.clickup.com/t/86951h27j</a>
+nk wyśle tu screen ustawień akcji telegramowej
+bo nie chce mi się dodawać by zobaczyć jak jest teraz
+<a href="" onclick="return ShowMentionName()">Jakub Krawczyk</a>
+te ustawienia są tylko przy dodawaniu
+to nie przejdzie przy dodawaniu na kanał?
+jakiś ciekawy motyw macie
+podejrzane
+ale co chesz zrobić?
+ale kto
+zeby ten zjebany bot wysylal na inny kanal
+ty&gt;?
+pow
+ig
+spoko
+zmienie integracje
+dajcie chwile
+ale nie dasz radę raczej
+na jaki ma wysylac
+<a href="https://app.clickup.com/t/86951h27j">https://app.clickup.com/t/86951h27j</a>
+raczej tak
+ponieważ
+topic to osobny param w req
+a to nie tak że tam gdzie wpisze sz start to on wysyła?
+<pre>curl -X POST -H &apos;Content-Type: application/json&apos; \<br> -d &apos;{&quot;message_thread_id&quot;: &quot;1234&quot;, &quot;chat_id&quot;: &quot;-1001234567890_1234&quot;, &quot;text&quot;: &quot;This is a test message from the alert system. Do not pay attention on it&quot;}&apos; \<br> https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage</pre>
+dunno
+zakładam, że leci to w ten sposób
+i nie dostaje thread_id
+dunno
+trzeba przetestować
+<a href="" onclick="return ShowBotCommand(&quot;start@BuddyEuTelegramBot&quot;)">/start@BuddyEuTelegramBot</a> 867b5bc23cae4ad8665d854df3ac4ac4bb3af9463a5d6efcd4055257c59cce5b302747994c874e6919aa1cefbff57aa3
+Integration with Buddy finished successfully
+nie ten
+12:50 -&gt; do przerwy zostało T - 10 minut.
+Brawo
+XD
+kurw
+xd
+Kretyno
+mmm
+italiano
+🇮🇹
+Integration with Buddy finished successfully
+dupa
+czyli nie
+as i said
+bierze pierwszy kanal
+12:50 -&gt; do przerwy zostało T - 10 minut.
+nie, bierze główny
+general kenobi
+szkoda, że general nie da się renamować
+;/
+wait
+da się
+<a href="https://t.me/lmastalerz">@lmastalerz</a>
+General Kenobi
+proszę
+śmiesznie wyglądają powiadomienia na fonie
+dupa in vt q&amp;a
+nie jest źle
+<a href="https://t.me/mJakobsche">@mJakobsche</a> pipeline openAPI Generator
+Ty go uruchamiasz ręcznie?
+on jest manual
+tak zrobiłem dwa razy
+<a href="https://sls.io/beta/backend-v4/pipelines/pipeline/125623">https://sls.io/beta/backend-v4/pipelines/pipeline/125623</a>
+Ok, bo mógł być jeszcze uruchamiany przez inny pipeline
+<a href="https://t.me/mJakobsche">@mJakobsche</a> a mógłbyś go uruchomić?
+ty nie masz do niego uprawnień?
+spoko, why?
+i na jakim branchu
+jak vt, to im nie odpalaj
+Na <code>dev</code> i <a href="" onclick="return ShowMentionName()">Jakub</a> chce
+keidy grasz z snapshotami w szachy i aktualizujesz statuetki
+pójdę im do dupy nakopać
+No choć
+Dawaj
+ale nie chcecie vt
+nie mam powodu
+widzisz co wysłałem wyżej?
+patola
+na samym dev to chyba bez sensu
+a i pamiętaj, <a href="" onclick="return ShowMentionName()">Jakub Krawczyk</a>
+będą testowane i backend będzie obrażany
+obrażać to możesz (i powinieneś) tego, co ci siedzi po lewej stronie
+^—
+przecież puściłeś runa
+jak widziałem
+🤔
+yep, ale sie zastanawiam
+<a href="" onclick="return ShowMentionName()">Jakub</a>
+<a href="" onclick="return ShowMentionName()">Jakub</a>
+<a href="" onclick="return ShowMentionName()">Jakub</a>
+wyjebało się xD
+ano
+chociaż nie, wygenerował schema
+last modified 3 minuty temu
+dla latest.json
+zaraz zobacze
+masz
+na co mi to
+jeśli ten pierdolnik z ui nie wyswietli
+Na chuj to tu wrzucasz?
+fuck you
+<a href="https://openapi-files.sls.show/">https://openapi-files.sls.show/</a>
+dobra, jebta się
+obrażajo znowu
+;c
+<a href="https://t.me/mJakobsche">@mJakobsche</a>
+sie pipeline wyjebał to chuja się zaktualizowało
+Nie da się ciebie obrazić
+słuchajcie
+coś potrzebujecie, spoko
+przecież napisałem
+ale liczę na rozjaśnienie sytuacji, zanim wystosujecie takie prośby
+dokładnie!<br><br>&quot;Zrób se sam. Co, rąk nie masz do roboty, tylko czekasz na gotowe?&quot;
+Otóż
+wrzuciłem do formattera i się zacioł
+xd
+Kuba truje mi dupę, bo ma &quot;nieaktualne api&quot;
+Nie może zrobić sobie tego sam, bo nie ma uprawnień
+co ci <a href="" onclick="return ShowMentionName()">Jakub Krawczyk</a> nie działa?
+mam ci przypomniec ze czekasz az skoncze api i jak bedzie chuja dzialac to chuja zrobisz
+xd
+a masz jakiś deadline?
+nie
+xd
+no to po co ten płacz xD
+Dodatkowo ja nie powinienem grzebać wam w repo, a jedynie uruchomić pipeline do release na dev i to tylko za zgodą
+Wynika z tego, że wiem, że macie pipeline z generowaniem openAPI
+Ale nie mogę go ruszać
+spoko, rozumiem
+W szczególności, że teraz się rozjebał
+front ma chyba zielone światło do tego 🤔 Paweł nam pisał, że możemy uruchamiać
+ale jak jebło, to jebło
+I na dobrą sprawę to ja mam inne podejście do tego
+spoko nic się nie zmieniło :D
+Ja uważam, że jak jebło to jebło i chuj
+jak widzisz czerwone, to ci się morda cieszy
+my wiemy
+dupnij tam typ :any
+i elo
+😎
+<a href="https://t.me/mJakobsche">@mJakobsche</a> masz wejście na tego drugiego pipeline?
+ale męcząąąąąą
+co? pierwsze słysze
+byl jakis blad pewnie po ostatnim terminacie, teraz przeszlo
+ayyyyy
+tu jest z 50 pipelinów a ty mnie pytasz o drugiego?
+XD
+No cóż, context matter
+: P
+Black life no matter
+all life no matter
+anyways
+qa life no matter
+included
+jako dlc
+znasz nazwe tego pipelina?
+Już został uruchomiony z runem #70
+.
+to jest run 69
+70 przeszedl
+Ale zobacz jaka akcja się nie uruchomiła
+generate diff
+A jaką akcję masz na screenie?
+schema skopiowało normalnie
+a to nie mam
+tego pip
+a wiesz co ci baranie wysłałem w załączniku?
+Ok
+latest.json
+A wiesz co możemy z nim zrobić?
+pobrać
+i użyć?
+Pierwsze tak
+Drugie nie
+jakie są nazwy browser? w VT?
+chrome, ta zjebana z lisem i safari
+design ma jeszcze edge
+ale doslownie jest chrome, firefox, safari, edge?
+ok
+w formie? tak
+mogę ci zobaczyć co zwraca backend
+czy w uppercase
+pls
+CHROMIUM, FIREFOX, WEBKIT
+ok
+what
+spróbuje
+Z VT wypierdalać do VT Q&amp;A
+o ile mi na polski ktoś tamto przetłumaczy xD
+to jest ten sam kaliber co rafał
+nie
+co nie
+tak
+;c
+Z visual testami wypierdalać na kanał VT Q&amp;A
+ale to nie jest vt, we mi to przetłumacz x
+?
+zmień płyte
+mam propozycje
+oh no
+zabke i zarcie zostawiamy na general
+a pod taski robimy thready
+czy jak to tam sie nazywa
+topic
+wlasnie
+chyba, że w api
+to tam thready
+wtedy mozna sobie zmutowac, a nie ma rozpierdolu
+rozpierdooooooooolllllllllllllllllllllllllllllllllll
++1
+-1
+wow, pierwszy raz szacun za te opinie XD
+żabka out?
++1
+chodzi o Darka czy o kogo? XD
+bo ja dumb dumb
+do qika też można od razu
+no i pięknie
+<a href="https://t.me/lmastalerz">@lmastalerz</a> ty jesteś pewny, że ctrl+v nie działa w sandboxach?
+bo ja jestem innego zdania
+Jebać Macki
+bo jest różnica
+miedzy ctrl + V a command + V
+welll
+u mnie działa
+to tylko na mackach działa
+a linux?
+Na Chromie też nie działa
+<a href="https://t.me/mJakobsche">@mJakobsche</a>
+Ctrl+V w sandbox-ach
+Shift+Insert działa
+to przebinduj sobie w windowsie
+nie no ctrl c jest od aborta nie od wklejania
+No tak
+ctrl c nigdy nie bylo od wklejania
+kopiowania znaczy sie
+ale my o wklejaniu
+nie kopiowaniu
+na windowsie im nie działa
+no nigdzie nie będzie działać ctl v
+this
+this
+to jest command v
+no wlasnie
+czyli nie ctrl v
+no spoko
+12:50 -&gt; do przerwy zostało T - 10 minut.
+nie
+patrzę sobie czasami na designy w figmie
+i jestem przerażone zmianami czasami

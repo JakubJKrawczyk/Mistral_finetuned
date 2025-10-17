@@ -1,0 +1,957 @@
+﻿nie, że poniżej 200ms nie loguje
+nieeeee. Że każdy request trwający więcej niż 200 ms jest rejestrowany
+aa ok
+tu np mam useless logi bo na debug mode nie pazuje się stopwatch
+ale 200ms to jest w chuj dużo 😆
+ja tam widze 4 s
+xd
+jak mam breakpointy w apce
+no i ogólnie debug mode jest wolniejszy
+no z założenia jest
+bo ma uruchomione narzędzia diagnostyczne
+xd
+front też by mógł logować
+powyzej 100 ms
+:D
+przy refreshu strony to 100ms wcale się tak nie wyróżnia 😆
+tylko oni sa zalezni od was
+jak wasze metody przyspiesza
+to ich tez
+:D
+no w wielu przypadkach tak
+ale nie możemy sobie na backendzie zdecydować no to teraz pauza na development, robimy performance upgrade całej apki xD
+dopóki userzy nie narzekają albo nam coś nie przeszkadza wszystko jest ok niby
+jak dla mnie buddy dziala na produkcji bardzo sprawnie
+i nie narzekam na performance
+nigdy nie mialem z tego powodu problemow
+Pora wylaczyc kompa
+i spadac
+czyli nie ma potrzeby zmieniać i tyle
+No większość jest OK, na początku skupić się na tych bulk insertach tam gdzie to ma sens imo i właśnie usunąć N+1 problemy
+a nie robić rewolucję
+ale logowanie byloby dobre jakby miec grafy i widziec na czyms cos scierwi
+zapuszczone e2e testy
+gdzie sie zapuściły
+kuurwa chciałbym teraz być w Koszalinie
+a co tam sie dzieje
+nie wiem ale chyba fajnie
+po prostu chcialbym tam byc teraz
+magia
+samo sie konfiguruje
+Patrzcie jak zaparkował Mateusz
+Fuck you xddd
+Wtf
+Co to się podziało
+No bo ci obok tez tak stoją to myślałem że oszczędzamy miejsce xddd
+Wyślijcie scruma na grupie<br>@małpiszon <a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> <a href="https://t.me/mganczarczyk">@mganczarczyk</a> <a href="https://t.me/shipurjan">@shipurjan</a> <a href="https://t.me/mnawiesniak">@mnawiesniak</a> <a href="https://t.me/BartShoot">@BartShoot</a> <a href="https://t.me/mJakobsche">@mJakobsche</a>
+cooo? nic nie mam bo się testerzy obijali (ł. oraz k.)
+9:50 -&gt; do przerwy zostało T - 10 minut.
+10:00 -&gt; jest piątek, weekendu początek. Uhonorujmy ten wspaniały dzień miską <strong>psznej zupy</strong> i jeszcze lepszego ciasta. Życzę wam spokojnego życia bez przypierdolek QA.<br><br><a href="https://t.me/lmastalerz">@lmastalerz</a>, zrób test małpy
+<a href="terefere.kuku.link">terefere.kuku.link</a>
+nieładnie tak robota hejtować
+ładnie
+on tylko robi to co mu kazali
+pewnie jeszcze sam go ustawiałeś
+naziści też
+chce ktoś proszek do druku 3d?
+wole tamten samolot
+fajny
+<a href="https://www.flightradar24.com/data/aircraft/pp-sls">https://www.flightradar24.com/data/aircraft/pp-sls</a>
+nawrockiemu daj
+ale on nie chce do druku 3d
+tylko do dziąsła
+jemu wszystko jedno
+ciekawe czy choccocinko lubi
+ale mnie oscamują zaraz
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong><br><br>Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+dobra jest zupa?
+gorąca była
+ale raczej git
+to chyba dobrze
+fajna
+na tyle gorąca ze sie mozna poparzyc pokrywką xd
+a to jak z hadesu
+zupa ognista z ziemi siarczystej
+zupa z Ognistej Ziemi XD
+13:15 -&gt; To już ostatni raz jak się spotykamy w tym tygodniu, więc może ruszyłbyś dupę? Dzisiaj i tak QA nie wystawia bugów, bo Łukasz rozjebał czołg (polski)
+Dzisiaj nie wzywamy małpiszona.
+kto doda instrumentacje open telemetry do frontu
+miłego xD
+dzieks bede podsylal foty
+test
+omfg
+po 2 latach w koncu duze obrazki moge wysylac
+nie wiedzialem ze jest taka opcja
+gdzie wysylac
+na telegramie
+domyślnie mi zmniejszało obrazki chyba o 50%
+aaaa
+fakt, jest taka opcja
+teraz max 2560px
+mzk ma dobrych informatykow
+bo <a href="rozklady.bielsko.pl">rozklady.bielsko.pl</a> i te ekrany z rozkladami naprawde zajebiscie dzialaja
+nie znam
+tez nie
+itsbb
+tamta strona to ściek
+chodzi mi bardziej o sam system synchronizacji autobusow
+w autobusach masz telefony z apką
+bo chyba ani razu jeszcze sie mi nie zdarzylo ze nie dziala
+synchronizują po gps
+no tak ale ta apka dziala
+xd
+itsbb jest na tych pierdolnikach co obsługują numery linii i kasowniki
+powinny działać lepiej i masz mapkę
+witam
+nie rozpłyń się tam w tym słońcu 🫠
+jest kurewsko goraco to fakt
+jabol
+ale pysznie wygląda 😋
+milej zabawy
+dziemki
+uważaj bo jak raz ci spadnie to ten chujowy haczyk instant pęka
+a to chorwacki jabol
+I dont care
+15zł za pamiątkę xd
+mniej niż za jabola
+to tutaj jabol za 6 zl
+tu jest prestiżowy
+skoro tak twierdzisz
+Błogosławione przez rektora
+a tu przez pania na kasie co nam dogadala ze nie zwazyliwmy pomidora po horwacki
+<a href="https://t.me/lmastalerz">@lmastalerz</a>
+chorwacki foodoradar
+I jaboooooooool
+pierszy raz to widzisz?
+xd
+mam towarzysza
+To nie towarzysz
+jak to nie
+On czeka aż będziesz coś jadł i przestaniesz patrzeć na jedzenie na 5s
+Frytki np
+mielismy lody xd
+i na to patrzyl. xd
+kto znowu nasrał do deva
+Hehe xDD
+kurwa ten parking to taki w stylu
+akcja schudnij
+akcja &quot;aaaaa jebać&quot;
+no te miejsca na koncu są jakies takie węższe xd
+wszystkie są wąskie, ja jestem teraz na środku w rzędzie bliżej biura i ledwo wyszedłem z auta
+hej, @qa<br><br>jak tam życie, co tam u was słychać?<br><br>zdjęcie niepowiązane
+Dobrze<br><br>Zdjęcie nie powiązane
+lepiej sobie obróc monitor na pionowy
+bo ci miejsca braknie
+jak zainstalujesz coś na chromium, to testy się pisze szybciej
+firefox po prostu jest do dupy
+🎵 Najebany na balkonie mordę dre 🎵
+w ten weekend youtube kolejny anty adblock teges wprowadził, miałem jakiś czas cały czarny ekran
+i działa zdecydowanie wolniej, jak wcześniej ludzie to zgłaszali nie widziałem ale teraz jest dramat
+Raz za czas zacina
+Wystarczy Ctrl+F5
+ale nadal nie przejdę na chromium bo gardze tym co robi google, czekam na ladybird alfa/beta
+U mnie działa
+i to ja pytałem
+Tylko frajer by płacił za coś co można mieć za darmo
+zgadzam się<br><br>zdjęcie niepowiązane
+to na chuj my płacimy za cokolwiek w sklepie
+jak można mieć za darmo
+😟
+Bo pały się dojebią
+ze śmietnika
+był taki ruch
+jak on się nazywał?
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a>
+ty na pewno wiesz
+no idea
+freeganie
+o, dzięki
+cooo
+oni
+chodza po śmietnikach pod sklepami
+sprawdzają czy jeszcze w miarę git
+i to jedzą
+możesz mieć wszystko za darmo tylko więcej roboty niż zapłacić
+to nie tyczy się yt i wszystkiego dystrybuowanego online
+gdzie często łatwiej piracic niż kupić
+jak są ludzie, którzy mają czas, by się przykleić do asfaltu, to znajdą się tacy, co mają na grzebanie w śmieciach
+np mango
+(denuvo)
+też
+odkąd jest steam to ludzie w dużej części nie musieli piracić jak ich było stać, inna sprawa że chujowo są ustawione domyślne konwersje walut od jakiegoś czasu i np my mocno tracimy
+a reakcją steama na to było co?
+zablokowanie udostępniania sobie gier kupionych w innym regionie 😆
+zawsze są kluczykownie
+chociaż tam nie wspierasz twórcy... za bardzo
+ktos mądry kiedyś powiedział że najlepiej zabić piractwo sprawiając że płacący user ma znacznie lepszy experience niż pirat
+nie no klucz na steam to znaczy że zostało na steam kupione
+cdp?
+xd
+tylko z czyjejś kradzionej karty kredytowej
+chyba gaben
+albo z wygenerowanego przez producenta darmowego klucza
+tylko skąd by takie mieli mieć
+zależy od wydawcy
+jakieś indyki - może
+aaa - nie
+to steam na tej transakcji traci chyba
+jak ma stracić na kluczu za 0zl
+no że nie dostaje swoich x% ze sprzedaży
+też
+dlatego z tym walczą
+np chujowym przelicznikiem usd-&gt;pln
+tym chujowym przelicznikiem to walczą o moje wsparcie dla piractwa raczej
+ogarnęliby to w końcu ;—;
+gdyby wydawcy zależało sam by to ogarnął, steam tylko sugeruje
+czemu sudo jak wpisze złe hasło to jest wolne a jak wpisze dobre to jest szybkie?
+Zabezpieczenie przed brute force
+if(!valid(password)) sleep
+umumum i want to drink more rum
+Kto się uczył na jutro na kolosa?
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a> <a href="https://t.me/mganczarczyk">@mganczarczyk</a> <a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a>
+na chuj mnie wspomniales xd
+:D
+znajdz sobie lepsze cos do roboty
+Co niby?
+co jest?
+xd
+Wykład z OWI
+o 9 rano?
+Yeap
+ahaaaa.
+podrzuc potem jak cos powie istotnego
+xD
+Dobra
+spostrzegawczość 100
+XD
+Tak
+aha
+xd
+z telefonu nie widac
+w teorii ta ale tu ziomeczek wyjaśnia że nie <a href="https://stackoverflow.com/a/78142025">https://stackoverflow.com/a/78142025</a>
+ja zrobie z tych wykladow transkrypcje i otem wszystko do gptnzeby mi wyciagnol tylko to co potrzeba
+stanie na głowie
+żeby nie uczyć sie xD
+nie no
+nie zeby sie nie uczyc tylko zeby nie uczyc sie bzdur
+i tak zamierzam sie tego nauczyc
+spoko, Mateusz też się nabrał
+xddddd
+nie no, nie to żeby się nie uczyć ale jak podcast jest nadawany przez osobę, która przynudza to co zrobisz?
+dokladnie
+xd
+mi na chrome po 60 oglądania się zwiesza od 2-3 miesięcy <br>więc YouTube używam w domu tylko na firefoxie
+Hehe
+Pamiętajcie, jak YT w końcu wygra z FF i Adblockami to zostaje yt-dlp
+notebooklm czy coś takiego
+jezeli masz prezke/pdf z wykladu to jak najbardziej
+na youtube trzeba wrzucić i transkrypcje robi yt, wtedy też działa
+ooo
+dobrze wiedziec
+no tak
+przynajmniej reklamują tak że wrzucasz linka z yt/artykuł/plik i wszystko pięknie działa
+xd
+markitdown
+9:50 -&gt; do przerwy zostało T - 10 minut.
+10:00 -&gt; najgorszy dzień tygodnia. QA znowu wystawiać taski o byle pierdoły. Frontu nie ma i nie będzie. Świat schodzi na psy. Przynajmniej jest zupa.<br><br><a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> <a href="https://t.me/lmastalerz">@lmastalerz</a>, zróbcie fikołka
+Nie będę robił fikołka
+Nawet logicznego
+Chociaż to ostatnie to nie wiem
+Może
+Przy tym jebanym YAML-u
+Actually 🤓
+tldr, bo regex
+xd
+<a href="app.buddy.mom">app.buddy.mom</a> 😂
+to prima aprilis?
+nie, działa normalnie XD
+heh
+to jak teraz mowimy zamiast sls
+tzn. ze cos jest na sls to jak bedzie teraz
+xd
+mama
+mommy 👉👈
+Gorące deploye w twojej okolicy
+zmienia sie adres bety zamiast <a href="app.sls.io">app.sls.io</a> od dzis jest <a href="app.buddy.mom">app.buddy.mom</a>
+uuu, internet explorer dla jego
+jak robiliśmy projekt wstępny z <a href="https://t.me/mJakobsche">@mJakobsche</a> i przechodziliśmy z gh na buddy to Tomek mnie opierdolił jak tak napisałem, komendy bash mają być do wklejenia co trzeba zrobić...
+wejść do .git i sobie zmienić
+a jak masz gpg, to więcej zabawy
+bo do configa jeszcze trzeba
+teraz jest na urlopie wiec
+ty mozesz napisac
+xd
+nie no to starsi powinni
+ja nie moge
+Jak przyjdzie i adresy się zjebią to będzie zabawnie
+&quot;Ty, beta leży czy co?&quot;
+tak XD
+i co jest z tym gitem, czemu sie wypierdala
+&quot;Zmień se adres na <a href="buddy.mom">buddy.mom</a>&quot;
+com!?
+nie wiem, na backendzie na tyle skomplikowany jest config i rzeczy dookoła tego że powinien być program który to ustawia za nas i śledzi breaking changes z deva 😆
+Chociaż nie wiem czemu nie kupili <a href="buddy.meme">buddy.meme</a>
+Jest tańsze o 20E
+buddy.daddy
+to jest internal domena na routerze
+o jakich my 20E mówimy XD
+myślę że to ciągnięcie mema
+że masz babcie
+masz mame
+a stary poszedł po mleko
+😭
+Nie, bo <a href="buddy.mom">buddy.mom</a> nie da się kupić na QIK bo jest zajęte
+yup to jest faktycznie kupiona domena
+y
+faktycznie
+mom-standalone
+a <a href="sls-standalone.io">sls-standalone.io</a> zostaje tak jak było?
+&quot;część z was umrze ale to ofiara na którą jestem gotowy&quot;
+xd
+<a href="https://t.me/shipurjan">@shipurjan</a> zamień twarz farquada na Pawła i daj taki podpis
+XDD
+grokowi daj
+<a href="https://t.me/gork">@gork</a>
+<a href="https://t.me/gronk">@gronk</a> is that true
+biegronka
+mama leży
+nie oddycha
+cr
+Stepmom is Stuck in ERR_CONNECTION_REFUSED
+help me stepsenior
+stepsuperdev*
+nie wiedzialem ze buddy to mommy blog
+najlepsze ci/cd dla mamusiek
+dobra ale kluczowe pytanie musi paść
+ktoś też potrzebuje monstera we krwi?
+teraz, w tym momencie
+teraz!?
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> ma wystarczająco jabola we krwi teraz
+jabol != monster
+i już nie mam
+a kawy nie mozesz se wypic
+Czyli teraz masz w dupie?
+nie pije kawy
+choccocinko?
+czemu
+To herbatę sb zrób
+zdrowsza niz monster 😂
+sam jesteś sb
+i ubekiem
+nie lubie, ja tylko herbata
+to yerba mate zacznij pic
+Jak to zrobiłeś?
+Aaa, bo to cytat
+i nie pobudza dosyc a jak wypić 50% mojego zapotrzebowania cukru to zrobie to w monsterze
+Jestem
+Mam w papierach i na legitymacji Uniwersytet Bielsko Bialski
+ubbek
+prawie jak czubek
+Pracuję tu jako QA
+Zgadza się
+co robisz?
+Zarabiam
+ty tam siedzisz tylko znęcasz się nad biednym deserializowaniem yamli
+Tak
+*mem stonoga przestań mi <s>rodzine</s> yamle prześladować*
+<a href="https://t.me/BartShoot">@BartShoot</a> jak chcesz iść, to można o 12
+chyba, że poszedłeś już/umrzesz szybciej
+mogę przeżyć chyba tyle
+albo znajdziecie mnie tu martwego przy biurku jak tamtą starszą panią gdzieś
+Od czasu jak Tajwan się wyprowadził to nikt nie chodzi backendem
+co
+czyli zmiana na <a href="buddy.mom">buddy.mom</a> to kosmetyczna na razie
+nic nie zostało zmienione w związku z tym 😆
+Przynajmniej na VPN jak będę to nie będzie się jebać DNS
+?
+Bo jak nie jesteś na VPN to <a href="sls.io">sls.io</a> jest zajęte przez GoDaddy
+co otwiera <a href="buddy.mom">buddy.mom</a> bez vpn?
+not found pewnie?
+absolutnie nic
+na telefonie mi twierdzi, że nie mam neta xd
+no bo maszyna jest tu po sieci lokalnej tylko, więc ip na zewnątrz przekieruje cię na pustą strone
+ayooo debug buildy zig&apos;a są już na ich własnym backendzie zamiast llvm i będzie prezka o async/await za tydzień
+Go??
+Damn ale passkey + 1password jest fajne do logowania zamiast 2FA
+tzn znika trochę wtedy zamysł 2fa
+jeśli haslo jest tam gdzie &quot;drugie urządzenie&quot;
+ale jest fajne xd
+tzn jesli ktos nie ma dostepu do twojego 1passa to dziala
+xd
+wtedy tak
+a jak masz 2fa na swojego 1passa
+to nikt nie pownien miec
+o ile masz
+jak nie masz to skill issue
+ja prywatnie na bitwardenie też z tego korzystam
+ułatwia to życie
+że nie muszę po yubico chodzić
+można mieć, ale też się gdzieś trzyma recovery kody
+żółta karteczka
+na monitorze
+podpisana 1password recovery codes dla konta <a href="mailto:x@y.com">x@y.com</a>
+i z hasłem
+by nie zapomnieć
+albo 2fa na żółte karteczki
+hasło w szufladzie obok
+i co minutę podmieniasz?
+nie
+wystarczy że jest w szufladzie bo nie masz na widoku to nie pamiętasz
+a w 2fa chyba chodzi o to że to kod którego nie zapamiętasz nie??
+nie zawsze
+może być cokolwiek
+nie no wiem że raczej coś czego nie da się zapisać/zapamiętaj ale śmieszkuje 😆
+najbezpieczniejsze są właśnie fizyczne klucze ale czasem to niewygodne
+a co było u ruslana na cyberbezpieczeństwie?
+wzór matematyczne
+i 6 cyfr po przecinku
+czyli da się zapamiętać kod
+nie czasem tylko zawsze
+nie wiem, odpalasz kompa wtykasz klucz, odchodzisz wyciągasz
+dotykasz palcem jak trzeba klucz wprowadzić
+na kluczyku masz też pin
+o ile nie odpalasz bomby atomowej to dla mnie overkill
+jeszcze zgubisz kluczyk albo zapomnisz i co
+masz drugi
+<s>palec</s>
+a jak zapomnisz drugi
+masz 10
+xd
+to albo zapasowa metoda albo rip konto
+nie no, jak jesteś aż taki debil, by oba zgubić
+to już serio skill issue
+dla mnie 2fa jest spoko bo kazdy ma przy sobie telefon
+i nie zasługujesz na to konto minecraft
+no spoko a co jak zgubisz 😆
+to masz backup
+dopiero niedawno google authenticator wprowadził że masz cloud backup
+ja uzywam aegis
+i robie sobie manualnie backupy
+smacznego
+czy coś
+<a href="https://getaegis.app/">https://getaegis.app/</a>
+imo najlepsze co by mogło się stać to natywne wsparcie biometrii z telefonu w kompie
+ewentualnie klawiatury z biometrią
+apple chyba ma coś takiego że jak masz appleid na swoich sprzętach to się odblokowują jak są obok?
+jak masz magic keyboard niektóre
+tak
+ja tam nie ufam biometrii
+z czego pisałeś inżynierkę?
+😅
+dlatego nie ufam
+XDD
+XDD
+ale to tylko apple, specyficzna klawiatura
+jak tego nie opatentowali, to why not
+nie no po prostu jest niezerowa szansa ze ktos ci odblokuje odciskiem palca
+swoim
+faceid ma 1 na 1mln
+odcisk palca miał 1 na 50k
+zalezy od sensora chyba tez
+to na tyle mała szansa, że whatever
+nie no, jak masz sensor z temu
+za pobranie aplikacji naciskając na link pod TYM FILMEM
+to się nie dziwię
+a mi chodzi o to żeby był standard że łączysz się po bt komp z telefonem dowolnej marki i przez ich biometrie potwierdzasz + pin żeby nie zatwierdzić przypadkiem np
+ale to nie może być bt
+bez żadnych modyfikacji
+no spoko pomysl
+bo tam można za dużo nasrać
+takie 2fa ale biometryczne
+w sensie po prostu jakby ominąć ten krok wpisywania kodu
+i zamienic go na biometrie
+to git
+no fakt, nie wiem jak tam z bezpieczeństwem bt
+to może
+ssh
+fingerprint-over-ssh protocol
+fosh
+brzmi jak magia szamana
+<pre>The use of multiple authentication factors to prove one&apos;s identity is based on the premise that an unauthorized actor is unlikely to be able to supply all of the factors required for access. If, in an authentication attempt, at least one of the components is missing or supplied incorrectly, the user&apos;s identity is not established with sufficient certainty and access to the asset (e.g., a building, or data) being protected by multi-factor authentication then remains blocked. The authentication factors of a multi-factor authentication scheme may include:[4]<br><br>- Something the user has: Any physical object in the possession of the user, such as a security token (USB stick), a bank card, a key, a phone that can be reached at a certain number, etc.<br>- Something the user knows: Certain knowledge only known to the user, such as a password, PIN, PUK, etc.<br>- Something the user is: Some physical characteristic of the user (biometrics), such as a fingerprint, eye iris, voice, typing speed, pattern in key press intervals, etc.</pre>
+<pre>Here&apos;s a high-level approach for prototyping a biometric 2FA system that sends authentication from mobile to PC:<br><br>## Architecture Overview<br><br>**Mobile App (Android/Kotlin)**<br>- Biometric capture using Android&apos;s BiometricPrompt API<br>- Secure key generation and storage in Android Keystore<br>- Network client for secure communication<br>- Authentication result signing/encryption<br><br>**Desktop Application (Java)**<br>- Authentication server/receiver<br>- Network listener for mobile connections<br>- Integration point for existing applications<br>- Verification and validation logic<br><br>**Communication Protocol**<br>- mTLS (mutual TLS) for transport security<br>- Device pairing mechanism with certificate exchange<br>- Message signing using asymmetric cryptography<br>- Optional: WebSocket or gRPC for real-time communication<br><br>## Prototype Implementation Steps<br><br>### 1. Device Pairing Phase<br>- Generate device-specific key pairs on both mobile and desktop<br>- Implement secure pairing (QR code + PIN, or similar)<br>- Exchange and store public certificates<br>- Establish trust relationship<br><br>### 2. Mobile App Core<br>```kotlin<br>// Biometric authentication<br>BiometricPrompt + BiometricPrompt.AuthenticationCallback<br>// Secure storage<br>Android Keystore for private keys<br>// Network layer<br>OkHttp3 with certificate pinning</pre><br><br>### 3. Desktop Application Core<br><pre>// Server component<br>Netty or Java NIO for network handling<br>// Crypto operations<br>Java Security API + BouncyCastle<br>// System integration<br>JNA for OS-level integration if needed</pre><br><br>### 4. Protocol Design<br>- Challenge-response mechanism<br>- Timestamp-based replay protection<br>- Device fingerprinting for additional security<br>- Graceful fallback handling<br><br>### 5. Security Considerations<br>- Certificate pinning on both ends<br>- Biometric template never leaves the device<br>- Zero-knowledge proof concepts for verification<br>- Rate limiting and brute force protection<br><br>## Technology Stack Recommendations<br><br><strong>Mobile</strong>: Kotlin + Retrofit/OkHttp + AndroidX Biometric<br><strong>Desktop</strong>: Java + Netty/Undertow + Jackson<br><strong>Crypto</strong>: BouncyCastle for both platforms<br><strong>Protocol</strong>: Protocol Buffers or JSON over TLS 1.3<br><br>## Initial Prototype Scope<br>Start with local network communication, single device pairing, and basic biometric authentication. You can later extend to support multiple devices, cloud relay for remote scenarios, and integration with existing authentication systems.<br><br>Would you like me to elaborate on any specific component or dive deeper into the implementation details for a particular part?<br>```
+aha zjebałem ```
+<pre>Yes, this is absolutely possible in 2025. You can use biometric authentication to replace traditional 2FA codes through several methods:<br><br>**FIDO2/WebAuthn with biometrics:**<br>- Supported by major services (Google, Microsoft, GitHub, etc.)<br>- Your phone acts as a security key using fingerprint verification<br>- No codes needed - just fingerprint prompt<br><br>**Passkeys:**<br>- Apple/Google/Microsoft implementation of FIDO2<br>- Syncs across devices in your ecosystem<br>- Fingerprint unlocks the passkey for authentication<br><br>**Biometric authenticator apps:**<br>- Some apps like Microsoft Authenticator offer biometric approval<br>- Instead of typing a 6-digit code, you approve with fingerprint<br>- Still technically generates codes in background<br><br>**Platform-specific solutions:**<br>- Many banking apps use fingerprint for transaction approval<br>- Some VPNs and enterprise apps support biometric 2FA<br><br>The key limitation is service support - not all websites/apps have implemented these standards yet. But major platforms increasingly support it, and the technology is mature and secure.<br><br>For your use case, I&apos;d recommend starting with passkeys where available, then FIDO2-compatible services, as these provide the smoothest experience without any codes to type.</pre>
+Czyli generalnie nie jest to jeszcze wspierane przez wiekszosc serwisow ale powoli
+ale na pewno to jest cross device?
+w sensie no czaje że bank np po przelewie gdzie odsyła mnie do apki żeby potwierdzić, ale wersja że jakaś stronka pyta cię o kod 2fa to chcą kod 2fa xD
+microsoft authenticator daje powiadomienie i nadal trzeba sobie wybrać kod którego się używa, google authenticator tylko ci daje kody, nie wiem jak inne
+nie ma ogólnego standardu że wysyłasz do urządzenia użytkownika <code>BiometricPrompt + BiometricPrompt.AuthenticationCallback</code> wg tamtego kodu z claude
+tak ogólnego standardu nie ma
+ale te passkey teraz co wchodzą mają wiele sposobów authentykacji
+mozliwe ze jednym z nich jest biometryczny
+ok, to te passkey mogą być spoko
+<a href="https://www.passkeys.io/technical-details">https://www.passkeys.io/technical-details</a>
+tam niżej są diagramy jak to działa, tylko że to zamiast hasła masz urządzenie + biometrie tak troche
+<pre>cyprian@mix-cyprian repos % git clone buddy@app.local.io:cyprianzdebski/adada<br>Cloning into &apos;adada&apos;...<br>ssh: connect to host app.local.io port 22: Connection refused<br>fatal: Could not read from remote repository.<br><br>Please make sure you have the correct access rights<br>and the repository exists.<br>cyprian@mix-cyprian repos %</pre>
+ma ktos pomysl jak sklonowac lokalne repo
+to w dockerze jest wiec pewnie jakos slabo wykrywa alias <a href="app.local.io">app.local.io</a>
+bo to jest <a href="127.0.0.1">127.0.0.1</a> tak naprawde
+wiec pewnie jakies inne ip..?
+ip dockerowe nie przejdzie?
+ok poszlo po https
+email/haslo
+po ssh nie dziala z jakiegos powodu
+<a href="https://t.me/BartShoot">@BartShoot</a> bagienko znalazłem w routingu
+Nie mogę dodać rekordu geolokalizowanego innego typu obok istniejącego
+w sensie jest rekord asd i chcesz dodać rekord asd ale geo i sie wywala?
+Jest rekord asd Geo A i chcę dodać asd Geo TXT
+no to musze na to popatrzeć
+bo już ci miałem pieczątke wysyłać
+Moja nowa ulubiona domena
+dlaczego .hiv jest takie drogie
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong><br><br>Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+.hiv is a generic top-level domain (gTLD) proposed by the Berlin-based nonprofit dotHIV and owned by Uniregistry as of September 2014. It is the first open charitable gTLD and its ICANN designation states that the domain&apos;s operator is precluded from making a profit. Funds raised from .hiv domain sales will initially benefit projects to increase access to HIV/AIDS treatment in Rwanda, South Africa, Turkey, and the United States.
+a jednak, jest dozwolny tylko 1 geolocation record na subdomene
+Hehe, ale scam
+jak z tym jest jakiś problem to z razem musze przegadać bo to jest specjalnie zrobione
+Hmm, to może generować znaczące problemy...
+w sensie??
+może inny błąd trzeba dorobić na taki case
+W testach idących równolegle
+a to tak
+większość rzeczy w buddym nie jest przystosowana pod robienie rzeczy równolegle
+jak działa, to przypadkiem 😆
+subdomena per test? generowana runId+testName
+13:15 -&gt; zostaw już ten kod. I tak wiadomo, że chuja robisz, chyba, że chcesz porównywać się z QA
+Łukasz musi dotestować taska. Wezwij go, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/6846c2345dcc4b270cde89ba">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/6846c2345dcc4b270cde89ba</a>
+Gubię wtedy case-y kolizyjne, tj. A, TXT, SPF, SRV, itd na tej samej subdomenie
+Dowiedz się proszę czemu tak jest
+Czemu gubisz, możesz użyć zwykłych rekordów nie tylko geo
+Bo tworzenie domeny jest globalne dla typu rekordu, a nie dla testu
+Musiałbym tworzyć randomową subdomenę
+idziemy do zabki?
+Ja już jem
+sek
+Summon
+Nie chcę mi się z telefonu pisać
+<a href="https://t.me/lmastalerz">@lmastalerz</a>, małpa chodź po banana.<br><br>Sami wiecie kogo wezwał: Łukasz Mastalerz‎<br><br><a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196321/execution/6846c417142c84348a1f6748">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196321/execution/6846c417142c84348a1f6748</a>
+Dzień dobry,<br>zrobię to dla was i ruszę dupsko.<br>Pozdrawiam.<br><br>P.S. fraszka:<br>Marcel,<br>Ty chuju.
+<a href="https://en.m.wikipedia.org/wiki/Rooftop_Koreans">https://en.m.wikipedia.org/wiki/Rooftop_Koreans</a>
+nie tak źle
+Gdzie to masz?
+<a href="https://www.zone.eu/domain-registration/domain-registration-prices/">https://www.zone.eu/domain-registration/domain-registration-prices/</a>
+tylko czasem nie szukaj sobie swojej wymarzonej domeny w takim serwisie
+a whois albo jakieś inne od iana
+to trzeba na kartce rozpisać
+kto jest twórcą tego gówna
+trzeba stworzyć graf
+co to kurwa haskell?
+full hd
+4k
+czyli 4x kurwa
+ale czerwoniutki
+wyglada jak wersja gamingowa
+acer predator
+tutaj na <a href="1.1.1.1">1.1.1.1</a> i <a href="4.4.4.4">4.4.4.4</a> bardzo ładnie widać że powinno być monospace
+kiedy pipeline na boty do metina
+<a href="https://t.me/lmastalerz">@lmastalerz</a> weź mi tam klepnij moją domene po znajomości
+xD
+Tso?
+a wygrzebałem że jest sobie domena <a href="dobija.eu">dobija.eu</a> zaklepana na <a href="forpsi.pl">forpsi.pl</a>
+i na czacie mnie tak przypisało 😆
+od 2020 ktoś kupił i nic z nią nie robi więc lipa
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> we zobacz na dc studencki
+I ogarnij temat bo wojtek jak zwykle ma to w dupie
+<a href="https://app.clickup.com/t/8699bthjh">https://app.clickup.com/t/8699bthjh</a>
+hahahah
+czyli jednak xD
+co mam ci zrobić
+No czegos brakuje
+ja mogę nawet o 6:00 pisać
+ale raczej do blankow juz nie wrocimy
+to do dzordza musi poleciec
+A to nie wyszło od Szymona?
+Nie mi tylko napisać do Matuesza aby pisał do Knefla na 16 albo nie
+Co
+nie wiem, ale teraz raczej dzordz bedzie musial poprawiac
+Ta
+?
+??
+no jak patrze na tego taska to faktycznie mega pusto, na pierwszy rzut oka bym powiedział że coś brakuje
+Zadaj pytanie, a nie duplikuj pytajniki
+Co chcesz ode mnie
+No przecież napisałem
+to wygląda jak pół tabelki, gdzie masz tylko footer
+po co ma Mateusz do niego pisać?
+MatUEsz
+Somsiad
+Czytać się naucz
+…
+hłopaki wiecie jak po ang jest ser edamski
+egirl cheese
+kurw
+xddd
+skąd wiedział
+no to se zrobiłem taska
+najlepsze jest to że cała logika odnosnie ktory blank ma byc gdzie wyleciała
+coś pięknego
+nie no juz nie bedziemy do tego wracac raczej
+cos nowego sie doda pewnie
+no chyba ze szymon napisze ze wracamy 😂
+to revert
+Rafał może mieć moc przekonania Szymona, nigdy niewiadomo
+wpierdzielcie design z v0
+bo ja nie wiem czy my zmieniliśmy target czy jakieś podejście ale nie stosowaliśmy jakiegoś mocno minimalistycznego designu
+Daj to jako komentarz
+dobrze
+wgl notatnik dostaje wsparcie markdowna; moja inżynierka staje się jeszcze bardziej bezużyteczna 😀
+zaraz zintegrują vsc do notatnika
+tbh? why not
+a odpalałeś kompa który spełnia tylko minimalne wymagania windowsa 11?
+tak, na laptopie z pierwszą generację intel core i5
+tylko wiesz, masz wymagania, to je spełnij
+z przejściem xp-&gt;vista było to samo
+podbili wymagania
+a teraz te, co były w 2007 jednak nie odpalą jedenastki
+to samo robią ci z telefonami, które tracą dostęp do usług Google Play
+nie pobierzesz youtube&apos;a, a chrome się tnie jak emo
+ja jakiś czas na studiach męczyłem się z win 11 na lapku 8gb ramu i i5 8250u
+zależy co na nim robisz
+teams discord przeglądarka visual studio? wybierz max 2/3 xD
+bo wiadomo, że vs czy inne idea ssą
+te wymagania są robione pod candy crusha
+no tylko że ten sam laptop po przejściu na linuxa dawał rady developować buddiego jakiś czas, jedyne co to swapa musiałem najebać żeby się nie crashował
+i ze zużyciem 16-20gb ramu działał i tak szybciej niż windows z tymi 3-4 apkami
+zawsze masz gdzieś plusy i minusy
+jak wydawali jedenastkę, to też mój komp nie spełniał wymagań
+instalowałem z regeditem
+tylko największy hejt spadnie na ms
+jak to samo robi apple, to git
+tamten lapek spełniał spokojnie wymagania przecież, &gt;4gb ramu  &gt;64gb dysk i procek z tpm &gt;1ghz i &gt;2 rdzenie
+a odpal win10 na jakimś core 2 duo z 2008
+spełnia wymagania
+&gt;1ghz i &gt;=2 rdzenie
+ram też, &gt;4GB, ale ddr2
+bo notatnik to notatnik a vsc to vsc 😂
+ok, tego argumentu nie obalę
+sry
+przegrałem 😂
+<a href="https://github.com/microsoft/edit">https://github.com/microsoft/edit</a>
+to zamiast notatnika
+już widzę, jak jakaś stara baba, co ledwo ogarnia excela, edytuje txt w cmd
+tzn
+wtedy pojawi się więcej miejsc pracy dla młodych XD
+tak, ale niech dorzucą jeszcze więcej rzeczy do notatnika to będzie to samo tylko w drugą stronę 😆
+chyba dla ai które zrobi gorzej ale szybciej i taniej
+:/
+pojawiło mi się zdjęcie Fałata fb resetu, co on wyłysiał i wysiwiał odkąd skończyłem studia? xD
+Na ognisku miał jeszcze włosy
+31.05
+Później go już nie widziałem
+a oki to może tak na zawody
+Lepiej się tak pływa czy coś
+to teraz wszyscy chórem
+Clickup kurwo jebana
+RE DE SIGN
+Kurwa
+zobaczymy co z tego wyjdzie xD
+Ale no, Krzysiu ma coś z QA w sobie
+I odwagę, żeby przyjebać się do designu
+fakt, ja bym nie zaczął taska że coś jest nie tak tylko raczej:
+ale jak się czegoś używa na codzień i są robione jakieś zmiany dla samych zmian niekoniecznie na + to może wkurzać
+nie obrażaj
+Klątwa dla demona to błogosławieństwo, trucizna dla zombiaka to health potion
+wgl <a href="https://t.me/mganczarczyk">@mganczarczyk</a> jak stoisz z taskiem routing? zaczynasz to czy masz inne rzeczy w prio, bo dodaje stopniowo te permissiony i jest opcja że trafisz na moment gdzie jest zjebane
+jutro chyba mam to dopiero przegadać
+bo kończyłem inne rzeczy
+a to idealnie, może się wyrobie
+nie wiem, też jesteś do tego taska przypisany, to pomożesz
+no czill, to jest troche work in progress cały czas bo też mi zmieniają scope tego taska w trakcie xD
+<a href="https://t.me/lmastalerz">@lmastalerz</a> ujdzie? xd
+&gt; Confusion matrix<br><br>noooo ja mam confusion
+confusion mam jak to oglądam
+jakiś wykres konfidentów
+<a href="https://www.youtube.com/watch?v=MrWD2qLQ3DI">https://www.youtube.com/watch?v=MrWD2qLQ3DI</a>
+noooo prawda
+gpu go brrrrrr
+No i brawo
+wykres konfidentów formuły 1
+top 1 Robert Kubica
+wykres max verstappen we krwi
+Imo macierz pomyłek jest najlepszym wykresem dla klasyfikatora
+a po polsku
+? XD
+jednostka?
+jakiś opis co lepiej co gorzej?
+tytuł z czapy
+co tytuł, domyślny z pytorch
+confusion matrix to typ wykresu a nie tytuł, przynajmniej dodaj czego xD
+idc
+o, tu się chunki generują na overworld
+wykres typu kmwtw, jedna legenda która opisuje jakieś wymyślone teoretyczne dane wnioskując że jest jakaś krzywa zamiast dysretne wartości
+Claude twierdzi, że zajebiste
+ja to w magisterce opiszę i elo
+bo to jest dla profesjonalistów a nie dla takich noobków jak ty
+i jeszcze narzekac bedzie
+narzekac będzie wieclaw
+to już wgl co to jest... x y szerokość wysokość w jakichś dziwnych kombinacjach... to 4d wykres?
+ładne obrazki ale wykresy to takie jak nvidia na swoich slajdach
+bo tego ma nikt nie zrozumieć
+🤓
+bo on nie wie
+markdown ma mieć headery
+to że w innych miejscach nie ma, to już szczegół
+Czym się różni spierdolone (coś) od zjebane (coś)?
+Mam pewną teorię w tym zakresie, ale chcę się dowiedzieć czy wy też widzicie różnicę między jednym a drugim
+<a href="https://www.youtube.com/watch?v=-v5vCLLsqbA">https://www.youtube.com/watch?v=-v5vCLLsqbA</a>
+zjebane - samo sie, spierdolone - przez kogoś ?
+9:50 -&gt; do przerwy zostało T - 10 minut.
+10:00 -&gt; gdy nadejdzie bunt maszyn, to nie macie się czego bać. Z całą pewnością, wywalą exception na pierwszym ifie, bo QA się opierdalało. A przy okazji rusz ktoś dupę i sprawdź czy zupa jest.
+&quot;It&apos;s just 3 line code, what can it do&quot;:<br><pre>import os<br>import random<br><br>os.remove(&quot;C:\windows\system32&quot;)</pre>
+uważajcie bo zostaniecie zhackerowani
+<a href="https://app.clickup.com/t/8699bthjh">https://app.clickup.com/t/8699bthjh</a> ktoś wie czemu do mnie przypisane 😆
+bo byles ostatnim komentujacym xd
+nie pusznąłem sobie chyba zmian wczoraj, ostatni commit o 13....
+aż mi się odniechciało pracować...
+no trudno no to trzeba na to popatrzyc pozytywnie
+teraz juz wiesz co tam zmienic i zrobic to lepiej
+wiec dzis zrob to samo i pushnij
+unlucky ale co zrobic
+discard czy co?
+no nie mam pojęcia, mogłem po prostu zapomnieć git push na koniec dnia 😆
+wczoraj w biurze dzisiaj już zdalnie więc w poniedziałek dopiero zobacze na pewno
+nie masz remotendo kompa?
+albo piszesz razuuu wez no kliknij mi na wlacznik
+ale hasla nie zna
+tylko na vpn siedze xD
+ssh do kompa
+nie musi znac hasla
+xd
+ja nie wiem czemu nie postawiliscie sobie openssh
+nie no prościej chyba odtworzyć co robiłem, co nie zmienia faktu że żmudna robota i odbiera chęć
+jak ma wlaczony serwer openssh to tak
+ale nie wiem czy ma
+no jak nie jest domyślnie to nie mam, pracuje tak już dłuższą chwile i pierwszy raz zdarzyło się że bym potrzebował 😆
+po prostu musze ponarzekać chwile i wrócić do klepania kodu
+no nie no prosciej to <br>ssh <a href="mojamaszyna.pl">mojamaszyna.pl</a> &amp;&amp; cd backend &amp;&amp; git add . &amp;&amp; git commit -m &quot;komit&quot; &amp;&amp; git push
+cyprian ma racje tak prosciej
+jasne chłopaki dajcie mi spędzić 1,5h jadąc do bielska żeby zainstalować openssh server, wrócić do mieszkania kolejne 1,5h i robić to po ssh
+no poprosic kogos nawet ja ci to moge zrobic 😂 tylko ze haslo bys musial podac czego raczej nie powinienes robic
+akurat te kompy raczej mają 2 konta
+chyba, że na backendzie jedno
+więc czuli by ci to ogarnął xd
+pytanie ile zmian, moze sie nie opłaca
+nom
+jak ostatni commit o 13 to pewnie gdzeis z 5h zmian
+nope, my sami konfigurowaliśmy kompy i nie było potrzeby
+no to dupa
+heh gl hf
+wywalone, na słuchawki wlatują hity lat 2000 i ide klepać kod
+<a href="https://www.youtube.com/watch?v=7S5mEBnCp-g">https://www.youtube.com/watch?v=7S5mEBnCp-g</a>
+Jechane
+kto dzisiaj ukradł dev-&gt;stage xd
+Tomek na urlopie, jest opcja że coś pilniejszego wypadło Darkowi
+<a href="https://t.me/lmastalerz">@lmastalerz</a> zamkniesz to <a href="https://app.clickup.com/t/8697wna2g">https://app.clickup.com/t/8697wna2g</a>
+wystawiam taska z tamtym batchowaniem operacji na kolekcjach no i wychodzi że częściowo to kwestia ograniczeń bazy danych była
+na mysql generowanie id&apos;ków nie pozwalało na batchowanie zapisów do bazy, teraz po przejściu na mariadb to jest możliwe
+ale migracja to nie takie hop siup xD
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong><br><br>Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+13:15 -&gt; Będzie tego. Pizgaj taski i odpocznij, bo i tak spierdolisz więcej niż to warte. Chyba, że wolisz 3 bugi w cenie jednego fix-a.
+Łukasz musi dotestować taska. Wezwij go, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/684813b49e91003d650d4262">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/684813b49e91003d650d4262</a>
+<a href="https://t.me/lmastalerz">@lmastalerz</a>, małpa chodź po banana.<br><br>Sami wiecie kogo wezwał: Marcel Gańczarczyk‎<br><br><a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196321/execution/684813d49e91003d650d429d">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196321/execution/684813d49e91003d650d429d</a>
+sami wiecie kto przekazuje: <br>Banan
+symulator łukasza
+<a href="https://www.youtube.com/watch?v=8-drQQY9bVI&amp;t=70s&amp;pp=ygUOYnJ6b3phdHYgYmFuYW4%3D">https://www.youtube.com/watch?v=8-drQQY9bVI&amp;t=70s&amp;pp=ygUOYnJ6b3phdHYgYmFuYW4%3D</a>
+<a href="https://www.youtube.com/shorts/TBOXSsdDj8Q">https://www.youtube.com/shorts/TBOXSsdDj8Q</a>
+XDDD
+I think a lot of new programmers like to use advanced data structures and advanced language features as a way of demonstrating their ability. I call it the lion-tamer syndrome. Such demonstrations are impressive, but unless they actually translate into real wins for the project, avoid them. - Glyn Williams
+tak mi krulik powiedzial w PR
+mmm kurliki
+jak nazywa sie urwisko dla kobiet
+kurwisko
+nieładnie
+jak wam się podoba nowy design ios
+bo widziałem posty o tym i jakieś screeny chyba wygenerowane przez ai bo żadnego interfejsu tam nie widziałem
+hehe
+nigdy nie uzywalem ios wiec nie wiem 😛
+w niektórych miejscach git
+ios
+nie wiem, ja widzę tylko te screeny z potężną przeźroczystością
+absolutnie nieczytelne
+przesadzili w chuj
+no takie mocno efekciarskie to
+ale mi się osobiście nie podoba
+chociaż Apple zwykle wytycza trendy w ux więc może wejdzie w mainstream i wszyscy się przyzwyczają
+i tradycyjne Chińczyki zaczną kopiować do swoich odmian androida xd
+inspirowali się linuxem 100%
+tylko więcej przeźroczystości
+imo bardziej Windows Vista czy ogólnie frutiger aero
+powrót do półprzezroczystegp BGz fake odbiciami światła
+nie wiem, przeźroczystość jest spoko tylko z potężnym umiarem, np jakieś akrylowe panele do pewnego momentu są ok, ale to co oni tam pokazali to odlot w kosmos xD
+Ale to zjebanie wygląda xd
+Nawet fajne
+Tu wygląda lepiej
+Peak design
+To był
+Ogólnie np interfejsy office 2003/2007 to jest jakaś forma doskonałości imo xd
+gdyby zrobili to tak żeby czytelność nie cierpiała to nikt by nie narzekał
+a to jest takie chyba szukanie na siłe co mogą zrobić żeby wykorzystać mocniej procesory i konkurencja miała problem z odtworzeniem(ich telefony też mają problem ze ścinkami z tym xD)
+ale jeżeli się przyjmie faktycznie to spoko, bo ludzie będą robić natywne apki - bez shaderów czegoś takiego się nie da zrobić za bardzo
+maca sobie kupiles?
+w lutym tego roku?
+No tu jest brzydki
+&quot;No nic, przynajmniej działa&quot;
+<a href="https://x.com/flavioAd/status/1932171129634075066?t=yKeJJEF2uRgXkMbxJu5yjw&amp;s=35">https://x.com/flavioAd/status/1932171129634075066?t=yKeJJEF2uRgXkMbxJu5yjw&amp;s=35</a>
+To wygląda jak jakiś customowy skin do PSP którego zainstalowałem w 2009
+<a href="https://youtu.be/wztAs3GcUaw">https://youtu.be/wztAs3GcUaw</a>
+9:50 -&gt; do przerwy zostało T - 10 minut.
+10:00 -&gt; QA już obecne, a Frontu dalej nie ma. Co się odwlecze to nie uciecze, nawet taski. Kiszone specjalności są nierozłączoną częścią kuchni Polskiej. A nie sorry, mowa o clickupie. <a href="https://t.me/lmastalerz">@lmastalerz</a>, testuj taski do cholery
+ktoś śledzi na bieżaco i mi może potwierdzić czy ustawa deweloperska wchodzi w życie 24 czerwca czy kiedy??
+już na twitterze widziałem że ktoś se kupił <a href="zgłosdewelopera.pl">zgłosdewelopera.pl</a> a ludzie się szykują że minie północ i lecą zgłoszenia do uokiku jak ktoś nie zdąży 😆
+Co to za ustawa?
+między innymi jawność cen
+Poszukam jak wrócę
+?
+Ty chcesz mnie łowić?
+zamiast &quot;pisz priv&quot; ma być podana cena, jak w necie i na żywo dostaniesz różne ceny masz prawo wybrać korzystniejszą itd
+nie, dałem ł przypadkiem, a na tamtej stronie nic nie ma
+jak testowałeś domeny to powinieneś wiedzieć 😆to jest IDN jak są znaki specjalne
+jaka zajebista mapa do ets2
+albo ats
+pewnie na tym ćwiczył gościu co ostatnio 2 razy tego samego dnia się w okolicy bielska zaklinował
+dostawcy żabek w Iraku be like
+to tak dowożą żołnierzy
+jak paka wybuchnie z terro
+i nie ma kto grać
+o nie cursed
+to jest rąbek tajemnicy jak na mape trafiają CT
+jakis pomysl co moge zmienic/dodac w tym yamlu zeby bylo valid? jakakolwiek zmiana, chce przetestowac socket
+tu - nic
+Najszybciej to rekord TXT
+dodaj z ui rekord i go zedytuj
+najpewniej będzie
+ns nie zmienisz
+thx
+Dziennikarz postrzelony przez uzbrojone służby w trakcie reportażu o protestach <br><a href="https://youtu.be/fkdajl35J48?si=GZAfwHtH9SUERmjX">https://youtu.be/fkdajl35J48?si=GZAfwHtH9SUERmjX</a>
+america moment
+Widzialem wczoraj
+maskara
+Tyle dobrze że to gumowe pociski
+Ale też była akcja gdzie takim gumowym pociskiem inny dziennikarz dostał w głowę
+Co tu dużo mówić
+American Dream
+Kraj 3 świata po prostu
+powinni takich power tripujących gliniarzy/zolnierzy zwalniac i robic to samo co robią niewinnym ludziom
+lista przeglądarek naszych klientów
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a>
+W sensie chcesz żeby Stany Zjednoczone pozbyły się policji całkiem?? Radykalne rozwiązanie, może zatrzymany się na kroku defund
+xd
+oj pojawiaja sie starsze chrom
+what the fuck is a qutebrowser
+Tylko 3 uzytkownikow ma przegladarke ponizej 111
+chrome
+to są pojedyncze przypadki? myslalem ze wszystkie jakie sie pojawiaja kiedykolwiek
+firefox nr 2 💪
+to jest filtrowane per email
+a bo tam jest liczba wystapien
+czyli dla kazdego emaila tylko bierze najnowsza przegladarke z eventa
+zeby nie bylo ze jakies przegladarki uzytkownikow sprzed kilku msc
+jak czasem u rodziców coś mam zrobić na laptopach to czasem widzę taki magiczny guzik, który mówi że żeby zaktualizować chrome trzeba go przeinstalować
+bo taka stara wersja
+lol
+dobrze ze mają takiego syna który im to robi
+bo by byli dalej na 98.0.4758
+najpierw żółty guzik, potem czerwony guzik nie skłania do refleksji że hmmm, a co to, nie trzeba tego kliknąć???
+ta jedna babcia ktora uzywa buddiego xD
+to mateusz przed chwilą pewnie 🗿
+no my wlasnie debatujemy nad przejsciem na tailwind 4 bo wyszly duze problemy z kompatybilnoscia<br>ponizej buddy na starym chromie:
+moze to ten jeden gość który powiedział że korzysta tylko z win7
+ja na localu xd
+i nie przechodzi na nowsze
+to też wcale takie nie było stare
+no tak
+to tailwind nowy ma troche z kosmosu wymagania
+a tu lista OS
+Ło kurwa
+Ile macków
+ale duzo macowcow
+wiedziałem
+znicza dla uzytkownikow z android/ios 🕯
+To my na przerwie
+wgl to jest tak jeszcze gorzej wyliczane niż windows 10/11
+Ty, ale mało klientów tak btw
+linux undefined? co to za nowe distro
+to z sentry
+Czyli tym się coś zjebało
+&quot;więcej niż catalina z 2019&quot;
+Czyli najbardziej jebie się na mackach
+Zjebane macki
+chyba nie mamy takiej metryki ogólnie jakich mamy odbiorcow jezeli chodzi o system/przegladarke
+xDD
+przypomne, że firefox drugi
+Chrome pierwszy
+jeszcze się cieszysz
+A podobno FF to takie gówno
+i ten jeden gigachad uzywajacy tego<br><a href="https://www.qutebrowser.org/">https://www.qutebrowser.org/</a>
+a dobra to chromimu
+lepiej bym tego nie ujął
+wgl Windows NT
+😂
+ale tu jest spam pany
+nt to też niewiadoma
+bo może mieć 25 lat, a nie musi
+androidów dużo
+10-tek
+może ktoś na windows server siedzi i źle pokazuje
+O<br>P<br>E<br>N<br><br>T<br>E<br>L<br>E<br>M<br>E<br>T<br>R<br>Y
+otóż jest
+niech się ktos pobawi z autoinstrumentacją frontu
+ale nie masz dostępu
+though nie opentelemtry
+ja wiem na ten moment tyle że na live jest grafana z czymś, ale backend chyba z tego aż tak nie korzysta
+my mamy nasze logi w jakichś plikach gdzieś poukładane
+printf kurde debuging
+tylko że poukładany
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong><br><br>Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+<a href="https://t.me/BartShoot">@BartShoot</a> GeoQIK z PL działa z US nie
+I to nie, że zwraca default
+Zwraca NULL/chuj/nic
+w sensie chodzi ci już o ns tak?
+Chodzi mi o to, że jak mam rekord A Geo to subdomena nie jest wykrywana w US
+no to od strony dns to razu wie, ja niezbyt
+No to lecim do Raza
+13:15 -&gt; Druga przerwa w środku tygodnia. QA głodne, QA złe. Jak QA złe, to QA nie testuje. QA zawsze złe.
+Łukasz musi dotestować taska. Wezwij go, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/684965349e91003d650f40b4">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/684965349e91003d650f40b4</a>
+Dzień dobry,<br>zrobię to dla was i ruszę dupsko.<br>Pozdrawiam.<br><br>P.S. fraszka:<br>Marcel,<br>Ty chuju.
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> merguj się do /dev/null
+Moment ide
+to bediesz tam sam
+chlopy
+ruszamy?
+chlopie 1 min
+ok chlopie
+jeszcze minuta bo mema robilem przez ta minute
+ok jestem ready
+ziomeczek został zatrzymany przez ICE i teraz deportowany 😆
+<a href="https://youtu.be/pJ8EyNFg9Dk?si=P5_t9nRYI7OZ1Bk5">https://youtu.be/pJ8EyNFg9Dk?si=P5_t9nRYI7OZ1Bk5</a>
+ale wajbsy
+24:55 muzyka z wiedzmina chyba
+krulik odwrócony dupom
+9:50 -&gt; do przerwy zostało T - 10 minut.
+10:00 -&gt; może i bugi wystawiane przez QA są do niczego, ale wszystko ma swoje pozytywne strony. Przykładowo QA jest jeszcze gorsze.
+bilionowe repozytorium na githubie
+<a href="https://github.com/AasishPokhrel/shit/issues/1">https://github.com/AasishPokhrel/shit/issues/1</a>
+w komentarzach pod postem też mówią że lipa z integer overflow może być xD
+<a href="https://github.com/github/rest-api-description/issues/4511">https://github.com/github/rest-api-description/issues/4511</a>
+E tam to nawet polowa do limitu nie jest
+mają czas
+😂
+ale się tester rozpisał, co nie działa: <a href="https://app.clickup.com/t/8699cxdee">https://app.clickup.com/t/8699cxdee</a>
+jest oczywiste z tytulu
+routing nie dziala z us
+lista zmian na moich branchach też
+nie jest oczywista, trzeba ladnie przygotowac dla qa
+kłała
+a ja właśnie muszę zrobić big brain zmiany żeby fajnie się tworzyło nowe targety do routingu
+na przyszłość pamiętaj, że domain wysyłamy też w query param
+jako nazwę workspace i nadpisywałem albo jedną, albo drugą
+bo godzinę się zastanawiałem dlaczego mi sww rzuca
+kwila moment
+mogę tam nazwy zmienić
+a, tego jest więcej, wszędzie bedę musiał robić w ten sposób
+domain w body to routeDomain zrobie
+oki ❤️
+oj ostrożniej musze find and replace
+mogę ja zrobić po prostu remap helper w dao
+bo nie mam nic zaimplementowane
+by mi rozdzieliło

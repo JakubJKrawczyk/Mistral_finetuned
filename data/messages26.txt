@@ -1,0 +1,923 @@
+﻿dokładnie tak jest
+co jest
+no dziala
+ta tabelke nie może mieć jaśniejszego tekstu?
+bo teraz header się świeci bardziej niż ważniejsze info
+w rowach
+ja mam bialy
+nwm jakie jest zeby dac color na inne przegladarki
+font-weight
+teraz lepiej?
+w drugą stronę przesadzone
+teraz?
+dalem na 400
+i co jest lepiej firefox?
+czy gorzej?
+jak zrobic sum na liscie?
+git
+si
+xd
+wtf
+to jest projekt tego connectora
+zmniejszylem go o 2 mm
+dzięki
+mam nadzieje ze to nie sprawi ze bedzie latac
+2mm to dużo
+wlasnie tego sie boje
+to dam tylko1
+ale to w hackerze
+zostaw drukarkę więcława
+bluhahahaha
+to nie wieclawa
+tylko &quot;NASZA&quot;
+to po cholerę sobie kupowałeś xD
+drukuje tam gdzie jestem
+xd
+nie moge zdalnie swojej w domu uruchomic
+gdyż?
+nie jest wystawiona
+do sieci
+wystawić to można dupę
+włączaj nie peirdol
+no w hackerze
+dupę?
+i tak sie tam filament kurzy na polkach
+dupe to ty morzesz przez okno w lazience
+hmm
+do dupy z taką robotą
+jak majac obiekt ktory ma propke number o sciezce objekt.lastsession.failedtests zsumowac wszystkie te wartosci dla wszystkich objektow w tablicy?
+nie robiac for loop
+reduce
+arigato
+widzisz jaki js jest zaawansowany?
+nie to co tfu dotnet
+no tak bo .net to nie jezyk programowania
+js też nie
+js to życie
+xd
+w c# bym zrobil lista.sum((e) =&gt; e.lastsession.failedtests);
+[1, 2, 3, 4].reduce((a, b) =&gt; a + b, 0)
+krócej
+a tu musze this.pipelines.reduce((p, c) =&gt; p.lastSession.all + c.lastSession.all)
+napisałem ci w sumie example
+popraw kod
+bo nie zadziała
+co tojest 0?
+initial value
+a sie dziad nie czepia
+still nie dziala
+aaa
+ale nie w tym miejscu
+aaa
+skill issue
+sam jestes skill issue
+u mnie działa
+still 0
+kod?
+p.lastsession.all jest undefined
+cos tu nie ten tego
+wszystko mam udefined
+dooooookładnie
+👍
+reduce zabezpiecza jezeli previous value jest undefined
+?
+raczej nie
+<code>p.lastsession.all === undefined ? 0 : p.lastsession.all</code> ?
+jak ma zabezpieczac? robi to co wszedzie indziej jakbys chcial dodac undefined do czegos innego
+wykonuje zwykłąd matmę
+sam se musisz zabezpieczyc
+można szybciej
+p.lastsession.all ?? 0
+dobry debugger
+<a href="https://tailwindcss.com/blog/tailwindcss-v4-beta">https://tailwindcss.com/blog/tailwindcss-v4-beta</a>
+nareszcie
+nice czekalem na tailwinda 4
+2
+3
+ciesze sie waszym szczesciem
+patrząc po tests.local rozumiem
+przeszli na oklch z rgb
+co?
+co co?
+gowno
+a tobie cyprian nie poszla misja?
+ze taki nerwowy?
+a czy ja do ciebie cos napisalem?
+to dobre czy zle?
+jak ma się monitor 3 kolorowy
+czarny, biały i brązowa obudowa
+to bez różnicy
+wszyscy inni skorzystają z tej zmiany
+bo się poszerza zakres barw
+nie no chyba większosc monitorow na rynku nie wychodzi poza sRGB
+dobre, bo to szersza gama kolorow + wygodniejsza jednostka dla czlowieka
+w sensie duzo intuicyjniej jest kolor przyciemnic/pojasnic
+niz w rgb
+tzn. i tak spoko bo będą obslugiwani wszyscy userzy bardzo dobrze ale jak nie masz &gt; 100% sRGB to po prostu kolory beda aproksymowane
+to to?<br><a href="https://oklch.com">https://oklch.com</a><br>fascynujace!
+mobile first, mówi Ci to coś?? XD
+aaah faktycznie zapomnialem
+tam wszystkie amoledy na pewno mają szeroki zakres barw
+<a href="https://oklch.com/">https://oklch.com/</a><br><a href="https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl">https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl</a><br>przestrzeń kolorów OKLCH, działa podobnie do HSL, ale ma bardziej przewidywalną jasność, bo jest bardziej zbliżona do ludzkiego postrzegania niż matematycznego modelu, więc np. 70% jasności powinno być postrzegane jako taka samo jakość dla każdej barwy, a dla HSL stała jasność &quot;skacze&quot; dla ludzkiego oka w zależności od barwy
+Tu w sumie to kiedys wyslalem
+oo, spoko!
+<a href="https://c6gtyn.csb.app/">https://c6gtyn.csb.app/</a>
+a jak to dziala?<br>OKLCH frees designers from the need to manually choose every color. Designers can define a formula, choose a few colors, and an entire design system palette is automatically generated.
+<a href="https://palette-picker-beta.vercel.app/">https://palette-picker-beta.vercel.app/</a>
+cool
+<a href="https://hypejunction.github.io/color-wizard/">https://hypejunction.github.io/color-wizard/</a>
+o kurde to jest fajne
+fajne
+w punkcie 75, 0.1234, X sa dostepne wszystkie kolory (hue)
+to jescze jedno pytanie nooba. Jak mam tablice ktora ma 20k rekordow to jak wyciagnac z niej rekordy od 12k do 13k?
+slice?
+for int i=12000 i&lt;=13000 i++
+jazda
+no chyba nie xd
+slice
+slice
+slice to se szynki na kanapke
+jeszcze masz splice
+jak nie lubisz swojej tablicy
+nie
+miejsce w pamieci klienta jest ograniczone
+a tablica jest mi potrzebna
+a ja mam takie gówno i mocno myślę jak to poprawić<br><pre>    private fun getRegisterAttributes(domain: String, regType: String) = when (regType) {<br>        &quot;new&quot; -&gt;<br>            Item(<br>                &quot;attributes&quot;,<br>                DtAssoc(<br>                    listOf(<br>                        Item(<br>                            &quot;contact_set&quot;,<br>                            data = listOf(<br>                                DtAssoc(<br>                                    listOf(<br>                                        Item(<br>                                            &quot;owner&quot;,<br>                                            getContactInfo()<br>                                        ),<br>                                        Item(<br>                                            &quot;admin&quot;,<br>                                            getContactInfo()<br>                                        ),<br>                                        Item(<br>                                            &quot;billing&quot;,<br>                                            getContactInfo()<br>                                        ),<br>                                        Item(<br>                                            &quot;tech&quot;,<br>                                            getContactInfo()<br>                                        )<br>                                    )<br>                                )<br>                            )<br>                        ),<br>                        Item(&quot;custom_nameservers&quot;, &quot;0&quot;),<br>                        Item(&quot;custom_tech_contact&quot;, &quot;0&quot;),<br>                        Item(&quot;domain&quot;, domain),<br>                        Item(&quot;period&quot;, &quot;1&quot;),<br>                        Item(&quot;reg_username&quot;, &quot;qik&quot;),<br>                        Item(&quot;reg_password&quot;, &quot;1234567890&quot;),<br>                        Item(&quot;reg_type&quot;, &quot;new&quot;)<br>                    )<br>                )<br>            )<br><br>        &quot;transfer&quot; -&gt;<br>            Item(<br>                &quot;attributes&quot;,<br>                DtAssoc(<br>                    listOf(<br>                        Item(<br>                            &quot;contact_set&quot;,<br>                            data = listOf(<br>                                DtAssoc(<br>                                    listOf(<br>                                        Item(<br>                                            &quot;owner&quot;,<br>                                            getContactInfo()<br>                                        ),<br>                                        Item(<br>                                            &quot;admin&quot;,<br>                                            getContactInfo()<br>                                        ),<br>                                        Item(<br>                                            &quot;billing&quot;,<br>                                            getContactInfo()<br>                                        ),<br>                                        Item(<br>                                            &quot;tech&quot;,<br>                                            getContactInfo()<br>                                        )<br>                                    )<br>                                )<br>                            )<br>                        ),<br>                        Item(&quot;custom_nameservers&quot;, &quot;0&quot;),<br>                        Item(&quot;custom_tech_contact&quot;, &quot;0&quot;),<br>                        Item(&quot;domain&quot;, domain),<br>                        Item(&quot;reg_username&quot;, &quot;qik&quot;),<br>                        Item(&quot;reg_password&quot;, &quot;1234567890&quot;),<br>                        Item(&quot;reg_type&quot;, &quot;transfer&quot;)<br>                    )<br>                )<br>            )<br><br>        else -&gt; TODO(&quot;Unsupported&quot;)<br>    }</pre>
+chyba zostaje mi opcja schować to do innego pliku XD
+bo jakieś buildery czy coś dokłada mi kodu tylko, a nie będę tego używał wiele razy
+wy7glada jak mapa z mario
+a ja zabilem przegladarke
+alerty dla tych 1k rekordów zrobiłeś?
+nie dodalem wszystkie naraz do tabeli
+i sie wyjebalo a potem dopiero dopisalem doladowywanie
+chyba bym zaczal od ustawienia indenta na 2 spacje xd
+zmiana zasad formatowania odpada, no bez przesady 😆
+to rozbic na pod zmienne
+na razie moim planem jest wyjebać to do innego pliku
+większość tych rzeczy będzie użyta jednorazowo więc ciężko uzasadnić pisanie czegoś fancy pod to xD
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong>
+jakies prop? drwal z zurawina dop za 2 dni
+za ba
+okeee
+eee o co moze chodzic?
+lokalnie dziala
+filename jest undefined
+albo za wcześnie
+ale co to wogole xd
+albo po prostu schodzi ci puste
+a bo ja wiem co zrobiłeś
+tylko raz tak raz nie schodzi
+aha
+jebane auto importy
+<a href="https://www.linkedin.com/posts/diellauka_can-vr-be-your-gym-motivation-vr-can-offer-activity-7263917551292743680-0vRX?utm_source=social_share_video_v2&amp;utm_medium=android_app&amp;utm_campaign=copy_link">https://www.linkedin.com/posts/diellauka_can-vr-be-your-gym-motivation-vr-can-offer-activity-7263917551292743680-0vRX?utm_source=social_share_video_v2&amp;utm_medium=android_app&amp;utm_campaign=copy_link</a>
+kto idzie i gdzie
+za ba
+za ba
+ok
+me too
+13:15 -&gt; To już ostatni raz jak się spotykamy w tym tygodniu, więc może ruszyłbyś dupę? Dzisiaj i tak QA nie wystawia bugów, bo Łukasz rozjebał czołg (polski)
+Dzisiaj nie wzywamy małpiszona.
+Summoner innych. Status: polskie czołgi 🚧👷🛠️
+<a href="https://t.me/shipurjan">@shipurjan</a> ?
+ide
+Jebać wargaming
+dokładnie!
+<a href="https://t.me/lmastalerz">@lmastalerz</a>
+no nieźle się tam bawicie
+😂
+<a href="https://www.youtube.com/watch?v=MR3T7AU1kg4">https://www.youtube.com/watch?v=MR3T7AU1kg4</a>
+[SPOILER] Lista zup na ten tydzień UwU
+Poniedziałek: <span class="spoiler hidden" onclick="ShowSpoiler(this)"><span aria-hidden="true">Zupa grochowa z kiszoną kapustą<br>Gęsta zupa z grochu z dodatkiem kiszonej kapusty, idealna na chłodne dni.</span></span>
+Wtorek: <span class="spoiler hidden" onclick="ShowSpoiler(this)"><span aria-hidden="true">Krem z kiszonych ogórków<br>Lekki kremowy zupka o orzeźwiającym smaku kiszonych ogórków.</span></span>
+Środa: <span class="spoiler hidden" onclick="ShowSpoiler(this)"><span aria-hidden="true">Zupa omami z makaronem ryżowym i warzywami<br>Aromatyczna zupa z makaronem ryżowym i świeżymi warzywami, pełna umami.</span></span>
+Czwartek: <span class="spoiler hidden" onclick="ShowSpoiler(this)"><span aria-hidden="true">Nieczytelne<br>Przykro mi, nie mogę odczytać zupy na czwartek.</span></span>
+Piątek: <span class="spoiler hidden" onclick="ShowSpoiler(this)"><span aria-hidden="true">Krem z buraka<br>Gładka zupa z buraka, często podawana z dodatkiem koziego sera, zdrowa i kolorowa.</span></span>
+<a href="https://www.benji.dog/articles/git-config/">https://www.benji.dog/articles/git-config/</a>
+możecie sobie skonfigurować gitconfig na path url, np <a href="sls.io">sls.io</a>:beta będzie sobie miał inny klucz niż reszta repo
+taaaa
+inaczej się już w pewnym momencie nie dało xd
+jezu....
+directory z dużej 🤮
+it is what it is
+ubuntu też ma jakieś ~<a href="" onclick="return ShowBotCommand(&quot;Pictures&quot;)">/Pictures</a> Public itd ale w root przynajmniej wszystko ładnie z małej
+<a href="https://www.5snb.club/posts/2023/do-not-stab/">https://www.5snb.club/posts/2023/do-not-stab/</a>
+panowie jak mam tablice i w niej sa elementy caseId ktore sa stringiem to jak posortowac ta tablice wedlug tego stringa alfabetycznie?<br>wystarczy?:<br>table.sort((a,b) =&gt; a.caseId &gt; b.caseId)
+.sort((a,b)=&gt;a.localeCompare(b))
+dzieki :D
+tylko sobie ten kod dostostuj
+znając js to by posortował po długości stringa 😆
+nie bo wszystkie maja ten sam
+suma wartości znaków? idk
+nie zrobi nic
+potrzebuje 1 / -1
+by posortować
+jak cos jest proxyArray to znaczy ze jescze sie nie doczytalo?
+nie
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy</a>
+9:20 -&gt; do przerwy zostało T - 10 minut.<br><br>Dzisiejsza zupa:<br>Zupa grochowa z kiszoną kapustą<br>Gęsta zupa z grochu z dodatkiem kiszonej kapusty, idealna na chłodne dni.
+9:30 -&gt; najgorszy dzień tygodnia. QA znowu wystawiać taski o byle pierdoły. Frontu nie ma i nie będzie. Świat schodzi na psy. Przynajmniej jest zupa.<br><br><a href="https://t.me/mganczarczyk">@mganczarczyk</a> <a href="https://t.me/shipurjan">@shipurjan</a> , zróbcie fikołka z 1 piętra
+ostatni dzień lata
+ja o 13 kieruje się do kuchni
+<a href="" onclick="return ShowBotCommand(&quot;start@budevbot&quot;)">/start@budevbot</a> c755ac2c906ae7d2e7f60f7d0054ad4c3a49c72075b92826fbf4f347abafeedd84a2e93ccdfb33e85aaf2f480b3c65cd
+Integration with Buddy finished successfully
+małpa
+?
+pracuj
+a nie spam będziesz uskuteczniać
+#1 Backendy bandyckie run by <a href="https://app.dev.io/ttests/profile/18">Owner Lastname</a>
+Po chuj to tu
+!votekick bdevbot
+bo moze
+zostawcie
+albo wyciszcie
+<a href="" onclick="return ShowBotCommand(&quot;start@bustagebot&quot;)">/start@bustagebot</a> 817a9409a40e84144aa6128dcf596f736f27333e9958c42eaf83cf6c760aa19e
+Integration with Buddy finished successfully
+testujemy jedna rzecz
+o nie...
+naszą cierpliwość?
+bo jak nie to 2 rzeczy testujecie
+XD
+#1 Zjebany telegram run by <a href="https://app.awsstage.net/ttests/profile/1">Owner Lastname</a>
+Dziwne, działa
+działa na mojej maszynie
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong>
+pytanko takie mam
+a to nie dzisiaj mieliśmy się wybrać po 🍔?
+ja mam jedzenie więc odpadam
+@ reszta
+gdzie tak bylo mowione
+znaczy ja bym sobie zjadl jakiegos kebaba
+ja mam swoje ale w sumie moge sie przejsc jak bedzie wieksza ekipa<br>a jak nie to mozemy zawsze w inny dzien
+a nie, to za 2d
+to za ba?
+albo kebs
+też dobre
+a to ja chyba z kebab odpadam jak lecimy na drwalka jak bedzie
+ja mam swoje
+13:15 -&gt; zostaw już ten kod. I tak wiadomo, że chuja robisz i jedynie QA wkurwiasz<br><br>Kuba =&gt; wypierdalaj<br>Marcel to chuuuj
+Wezwij Łukasza, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/67446a4407637c6afd912014">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/67446a4407637c6afd912014</a><br><br>to ty, gdy wezwiesz Łukasza, który udaje, że pracuje nad pisaniem testów do czołgów (polskich):<br>⠀  ⠀   (__/)<br>           (•ㅅ•)      Don’t talk to<br>    ＿ノヽ ノ＼＿      me or my son<br><code>/　</code>/ ⌒Ｙ⌒ Ｙ  ヽ     ever again.<br>( 　(三ヽ人　 /　  |<br>|　ﾉ⌒＼ ￣￣ヽ   ノ<br>ヽ＿＿＿＞､＿_／<br>       ｜( 王 ﾉ〈   (__/)<br>       /ﾐ<code>ー―</code>彡  (•ㅅ•)<br>      / ╰    ╯  /    &gt;
+samkowa
+chyba ze idziecie do zaby to dajcie znac jak wrocicie
+toilet-to-kitchen pipeline
+out of context Cyprian
+Pojutrze można wyjebać te 2 boty
+nie pisz tak brzydko o qa
+Stare, było
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7266868538965905410?utm_source=share&amp;utm_medium=member_android">https://www.linkedin.com/feed/update/urn:li:activity:7266868538965905410?utm_source=share&amp;utm_medium=member_android</a>
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> <a href="https://t.me/mnawiesniak">@mnawiesniak</a> jak będzie ten tailwind to będzie to szybsze?
+he he
+smieszne
+tajest
+Znacząco?
+max verstappen
+a teraz tak na serio
+odpowiedź to
+jest szansa
+że kiedyś
+jak wszystko zostanie przeniesione do tw
+a przechodzicie na ten najnowszy czy jaki xD
+nope, jeszcze nie
+9:20 -&gt; do przerwy zostało T - 10 minut.<br><br>Dzisiejsza zupa:<br>Krem z kiszonych ogórków<br>Lekki kremowy zupka o orzeźwiającym smaku kiszonych ogórków.
+na 3 bo 4 ma zbyt małe wsparcie
+9:30 -&gt; gdy nadejdzie bunt maszyn, to nie macie się czego bać. Z całą pewnością, wywalą exception na pierwszym ifie, bo QA się opierdalało. A przy okazji zapraszam na przerwę
+oho to na pewno jakaś daleko spokrewniona z tobą osoba i jest niedaleko śmierci i chce ci przepisać 1 mln $
+na jakie dni jest idealna dzisiejsza zupa?
+kwaśne
+dyskusje wrą
+Dalej wyłączony copilot?
+nikt nie pisał, że można włączyć ;/
+no muszą to szyfrowanie sekretów dobrze ogarnąć
+i bonus że nie można mieć rzeczy skopiowane bo z clipboarda też wyciąga kontekst skurwysynek XD
+Niech ze sobą nawzajem porozmawiają
+xd
+czekam na update&apos;y
+meltdown
+unlucky
+odstraszyli potencjalnego pracownika bo nie umieją czytać
+A ja nie mam what&apos;s appa
+no i patrz, nie chcą z Tobą porozmawiać laski z RPA
+ja mam gorzej, bo ja mam i ze mną też nie
+Płaska 13.
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> jak mergujesz do deva brancha to usuwaj z details branch-front pls
+nie
+tak
+Raz.
+nie
+tak
+może
+zależy który task
+ten z ns wildcard
+nie ja mergowałem
+Michał te qikowe merguje xd
+michal napisal ok mozna zmergowac
+a, bo był draftem
+to jednak ja
+ale co ci to w twoim życiu zmienia
+duzo
+nic
+nie wprowadza mnie w blad
+mnie wprowadza status &quot;tests&quot; w błąd
+wiadomosc ok mozna zmergowac nie mowi mi ze zostalo zmergowane
+musze wejsc na front i sprawdzic czy ten branch istnieje
+bo nieodzwierciedla stanu faktycznego
+jak coś jest w &quot;tests&quot; to jest &quot;aaa, wyjebane&quot;
+robie test na pointowanie <a href="maselko.com">maselko.com</a>
+możecie narzekać jak nie będzie ani w komentarzu ani w tagu że zmergowane do deva
+jak jest w komentarzu to korzystajcie z oczu 😆
+no wlasnie narzekam
+nie jest w komentarzu
+ostatnia wiadomosc &quot;ok mozna mergowac&quot;
+no to <a href="https://t.me/mganczarczyk">@mganczarczyk</a> nie masz obrony
+tu ci poprawię.
+krw.
+do it
+jak Łukasz przetestuje merge itd
+co to  za task
+ci przypisal
+inactive zone
+teraz juz sierota
+nie inactive
+razu ma taska zone is no active
+żona została zdezaktywowana i osierociła swoja dzieci
+oj tam, mają rozrywkę w życiu
+powiem tak
+na backendzie byś miał fajniej, tam ręcznie usuwamy stare branche i czasem się jakieś zawieruszą 😆
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong>
+ba za
+ba ba
+you baba is
+13:15 -&gt; Będzie tego. Pizgaj taski i odpocznij, bo i tak spierdolisz więcej niż to warte. Chyba, że wolisz 3 bugi w cenie jednego fix-a.
+Wezwij Łukasza, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/6745bbc45afa606c530aba8f">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/6745bbc45afa606c530aba8f</a><br><br>to ty, gdy wezwiesz Łukasza, który udaje, że pracuje nad pisaniem testów do czołgów (polskich):<br>⠀  ⠀   (__/)<br>           (•ㅅ•)      Don’t talk to<br>    ＿ノヽ ノ＼＿      me or my son<br><code>/　</code>/ ⌒Ｙ⌒ Ｙ  ヽ     ever again.<br>( 　(三ヽ人　 /　  |<br>|　ﾉ⌒＼ ￣￣ヽ   ノ<br>ヽ＿＿＿＞､＿_／<br>       ｜( 王 ﾉ〈   (__/)<br>       /ﾐ<code>ー―</code>彡  (•ㅅ•)<br>      / ╰    ╯  /    &gt;
+ej kurwa to chyba jednak legit
+raczej nie
+Napisz, że git, ale muszą w eurogąbkach płacić
+1. Jak wyglądają rozliczenia ze skarbówką<br>2. Jakaś umowa?<br>3. Screeny nie są dowodem, bo każdy z nas jest wstanie podrobić dowolny screen
+Dobra, wracam do kręcenia sobie pętli na szyję
+Małpą jest Łukasz, gnoju leniwy
+?
+🖕
+Małpą jest Łukasz, gnojem leniwym
+ja za to dostałem w chuj podejrzanego maila
+<a href="https://t.me/BartShoot">@BartShoot</a>
+kahfrkhakja
+good luck
+It&apos;ll be fun
+heh
+ja robie magic breadcrumbs
+Nowa przygoda się rozpoczyna
+komus sie chcialo jprdl <a href="https://fatestaynight.vnovel.org/">https://fatestaynight.vnovel.org/</a>
+?
+visual novel
+fajne
+jest kozak ale ktos zeboil do 3 topowych serii
+tam jest chyba do zero i unlimited blade works tez
+well
+.
+nie ma zero
+jest heaven&apos;s feel
+no nie doszedlem do konca
+xd
+Co się stanie w JS jak zrobię <code>&quot;Marcel chuj&quot; * 10</code>?
+xd
+NaN
+to marcel ci wpierdoli
+mentalnie
+factcheck: zrobił dla visual novelki w której są te 3 ścieżki - zwykła ubw i heaven&apos;s feel<br><br>zero to anime original jest, a zwykła fate stay/night mocno odstaje od tych które robiło ufotable xD
+9:20 -&gt; do przerwy zostało T - 10 minut.<br><br>Dzisiejsza zupa:<br>Zupa omami z makaronem ryżowym i warzywami<br>Aromatyczna zupa z makaronem ryżowym i świeżymi warzywami, pełna umami.
+co to kurwa jest omami
+a bo ja wiem
+umami to wiem
+.
+co twoja wzmianka tego zdjecia zmienia?
+Nic
+Zupa omami to potrawa, która podkreśla smak umami, jeden z pięciu podstawowych smaków, obok słodkiego, kwaśnego, gorzkiego i słonego. Umami jest często opisywane jako smak &quot;mięsny&quot; lub &quot;wyrazisty&quot; i jest obecny w wielu składnikach, takich jak grzyby, pomidory, sos sojowy, parmezan czy bulion.<br><br>Zupa omami może być przyrządzana na bazie różnych składników, w tym warzyw, grzybów i bulionu, a jej celem jest wydobycie pełni smaku umami. Można ją wzbogacić o różne przyprawy i dodatki, aby uzyskać różnorodne warianty.
+9:30 -&gt; QA już na zupce, a frontu dalej ni ma. Co się odwlecze to nie uciecze, a Front i tak będzie miał okazję porzygać się zupką.
+pytanie czy chat debil czy kucharz debil, bo omami to nie jest umami, nawet literki nie są blisko
+why not both
+Grzybowa z kukurydzą
+Kto miał niezapisane zmiany?
+u was tez? xd
+<a href="https://t.me/backend">@backend</a>?
+wszędzie teraz szymon wyjebał prąd? xD
+kozak XD
+u mnie nie 😎
+ale jeblo
+co to tam się podziało
+wylaczyli nam prad na 3 sek
+i teraz juz nie pamietam co robilem
+ten drugi to musi być smutny
+bo go z gry w czołgi wyrzuciło
+swiatla nie ma
+ja tak moge pracowac
+luuuuu
+masz
+jak w narni
+ktory sie swiatlem bawil
+nagle zgaslo swiatlo i sie nad moim biurkiem lampa zapalila
+jakby mnie bog wzywal
+xd
+niektore z tych lamp mają domyslny stan zapalony po przywroceniu zasilania xd
+mi sie zapalilo takie potezne zolte
+ta napewno tylko nademna jest domyslnie wlaczona
+ja ostatnio ustawiłem jasność jako default
+ale mogę to ustawić tylko na włączonej, czy to znaczy że Tomkowi się teraz nad głową świeci??
+XD
+tobie to akurat ja.
+ale ty zapaliles to co jest przede mna
+bo na apce do zapalania te swiatla sie nie pokrywaja miejscami do konca z rzeczywistoscia xd
+nade mna jest to co w apce jest nad czulim i dzordzem
+Znalazłem chuja
+aaaa czyli tak to dziala
+<a href="https://t.me/shipurjan">@shipurjan</a> spizgane ikonki masz
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> mam dla ciebie fajną domenkę
+<a href="oiro.com">oiro.com</a>
+Spointuj ją, zaimportuj rekordy i powiedz dlaczego
+mx ma walidacje
+Czyli chujową
+Bo to zeszło z zewnętrznego providera
+trzeba być upośledzony, by do rekordów wpisać localhosta
+nie
+trzeba miec wszystko na jednej maszynie
+to po co wtedy kupujesz domenę?
+jak możesz to na routerze załatwić
+twoje pytanie nie ma sensu
+czyli każda osoba, która chce wejść na tę domenę bije &quot;do siebie&quot;?
+gosciu
+wali na domene
+na rekord mx
+chce wysłać maila
+pyta o serwer
+i serwerem jest A
+i mówi, nieeee &quot;chce do siebie&quot;
+?
+tylko to wyglada tak jakby serwer pocztowy byl na tej samej maszynie i komunikator wali na localhost
+Ty zrobiłeś przekierowanie maili do /dev/null
+To jest to samo tylko bardziej wyrafinowane
+a może gość chce mieć local only maila i elo
+na przyklad
+nie ma znajomych
+to wysyla sobie maile
+zeby nie czuc sie smutno
+wieczorem pisze sobie 50 maili ze jest chujem
+a rano je czyta
+Ma wirtualnych znajomych albo każdy ze znajomych ma localhost postawiony SMTP
+jego serwer bije do samego siebie
+google wysyła sobie
+ja wysyłam sobie
+buddy wyśle sobie
+skoro to zeszlo to jest to gdzies dozwolone
+i czego nie rozumiesz
+&quot;?
+/dev/null
+.
+nie napisalem &quot;czemu tam jest coś niedozwolonego&quot;
+uposledzonym to trzeba byc zeby takie grupowanie robic
+tylko, że trzeba mieć ujemne iq, by to zrobić
+jakie ttl tu mam?
+tak
+no kurwa tak
+:_
+Gdzie mam wysłać maila do <a href="mailto:dupa@domena.chuj">dupa@domena.chuj</a><br>DNS&gt; Wyślij do ja<br>Wysyłam do ja<br>SMTP na ja&gt; Wszystkie wiadomości przekierowuję na x.x.x.x
+nie
+durniu
+?
+<a href="durniu.com">durniu.com</a>
+nie ma takiej domeny
+wiec na durniu walil nie bedzie
+jakim prawem ma ci localhosta zresolvować do rekordu A
+który nie jest <a href="127.0.0.1">127.0.0.1</a>
+dns powie wyślij do &quot;ja&quot;
+nwm moze to jest bardziej zjebane dev/null
+i co ma zrobić &quot;smtp na ja&quot;?
+Nie rozumiem
+jakie znowu x.x.x.x
+Taka konfiguracja SMTP
+to fakt jest dziwne
+pan się chyba z czołgiem (polskim) zamienił na mózgi
+nie da sie tego logicznie ogarnac umyslem
+jestem klientem w sieci wewnętrznj
+podpinasz w thunderbird serwer pocztowy localhost
+Wysyłasz maila i on trafia na twój serwer
+mój serwer smtp też w niej jest
+wysyłam z klienta
+na mx domeny
+i odpowiada mi &quot;pierdol się, do siebie wyślij&quot;
+to by dzialalo tylko jakbys wyslal do siebie
+tak
+I tylko po to to jest
+jak ktos do cb wysle to  dostanie do siebie
+Np. do testowania maili
+dlatego trzeba być umysłowo spierdolonym, by w domenie publicznej sobie coś takiego ustawić
+.
+<a href="0zxc.com">0zxc.com</a>
+nieważne, sam sobie odpowiedziałem
+dzięki za pomoc <a href="https://t.me/lmastalerz">@lmastalerz</a>
+raczej mailinator nie ma MX na localhost
+Deja vu
+Łukasz ci maila w zębach przyniesie
+z localhosta
+na adres x.x.x.x
+O chuj ci chodzi?
+ztrigerowales go :D
+Nie łapię o chuj się przypierdala do x.x.x.x
+x.x.x.x =&gt; jakiś randomowy adres ip
+jak wyciagnac ikone ze strony? tej zakladkowej
+Znajdź request favicon
+szukasz &lt;link rel=&quot;icon&quot;
+Mów, że z grafany
+adshjfalijslighlfijafliajhf
+aljflaflkia
+cóż <a href="https://t.me/mganczarczyk">@mganczarczyk</a> Michał cie przegadał
+zdania szefa nie przegadasz
+Fixuj to
+mam ciekawsze rzeczy do zrobienia
+liczę hz w lampie nad głową
+jak nawet nie jest zapalona
+no właśnie
+pomoc ci?
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong>
+halo ekipa
+13:15 -&gt; Druga przerwa w środku tygodnia. QA głodne, QA złe. Nie chcesz żeby QA było złe
+Wezwij Łukasza, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/67470d44971e7c1c06174595">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/67470d44971e7c1c06174595</a><br><br>to ty, gdy wezwiesz Łukasza, który udaje, że pracuje nad grzmoceniem QIK-a:<br>⠀  ⠀   (__/)<br>           (•ㅅ•)      Don’t talk to<br>    ＿ノヽ ノ＼＿      me or my son<br><code>/　</code>/ ⌒Ｙ⌒ Ｙ  ヽ     ever again.<br>( 　(三ヽ人　 /　  |<br>|　ﾉ⌒＼ ￣￣ヽ   ノ<br>ヽ＿＿＿＞､＿_／<br>       ｜( 王 ﾉ〈   (__/)<br>       /ﾐ<code>ー―</code>彡  (•ㅅ•)<br>      / ╰    ╯  /    &gt;
+lecensko do maczka?
+ja juz mowilem
+to my lecimy frontem w takim razie
+to smakowa
+ten drwal z kurkami bez szału
+Timeout<br>~~Małpą jest Łukasz, a gnojem leniwym Marcel~~
+hmm
+ŻU RA WI NA
+ok ciekawe czemu ostatnio fala spamu
+a wam ile karta w przegladarce zjada RAMu ?
+na tym miejscu sie zwiesila przegladarka jak sie odwiesila to bylo 4,5 GB
+karta 2 GB a dev tools 2,5 GB
+ale to na pewno nie calosc
+ja jebe daje w js if(isWorking) return a on ni chuja return
+to widocznie nie jest working
+jak doliczę renderery to wychodzi ~2GB
+!isWorking musisz
+Ależeś wyciągnął...
+Fire font pozostał
+Na każdym excelu
+9:20 -&gt; do przerwy zostało T - 10 minut.<br><br>Dzisiejsza zupa:<br>Leczo wegańskie z wędzonym tofu, idealne na upał
+Tak informacyjnie: Małpiszona dzisiaj nie ma, więc QA dzisiaj w osłabion... nie, nieważne. Bez różnicy. Nie było tematu.
+idealne na upał 🔥
+Tak informacyjnie: Dzisiaj Krzysiek czy tam Michał nie dostaną review na 5k zmian. QA w osłabionym składzie
+Wjebał się między bota
+9:30 -&gt; może i zupa bywa niedobra, ale wszystko ma swoje pozytywne strony. Przykładowo QA jest jeszcze gorsze.
+ty wlamali mi sie na konto z zagranicy
+nowe logowanie z sosnowca
+gdzie
+<a href="https://ankush.dev/p/reliable-benchmarking">https://ankush.dev/p/reliable-benchmarking</a> @qa jakbyście robili testy performance poważniejsze to warto by takie czary robić pod to
+ochłodziła mnie ta zupa
+temu na upał
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong>
+13:15 -&gt; zostaw już ten kod, trzeba coś zjeść. front i backend w kąt, a ty znikaj stąd
+Dzisiaj nie wzywamy małpiszona.
+Summoner innych. Status: polskie czołgi 🚧👷🛠️
+jakas za ba?
+można, ale to zaraz
+ale ten czas leci dzis
+o kurwa $12 zeby zablokowac widok 😂
+za osobę
+xD
+xdddddd
+to tak jakby figma chciala 100$ za mozliwosc edycji za osobe
+a nie czekaj...
+za miesiąc
+figma &gt; clickup
+jebany whiteboard w figmie
+niektóre saasy to scam w chuj
+którego się nie da eskportować
+ha tfu
+ile kurwa niby kosztów utrzymania itd ma ta figma 😆
+2 raspberry pi dla zapewnienia niezawodności
+i jakiś s3 bucket
+najs, pierwsze w życiu trzęsienie ziemi
+gdzie
+może coś groundbreaking po prostu
+<a href="https://www.facebook.com/groups/804209666719433/posts/1980115982462123/">https://www.facebook.com/groups/804209666719433/posts/1980115982462123/</a> ja w Bytomiu czułem, znalazłem post że w chuj daleko to też odczuwalne 😆
+nie mogę namierzyć nigdzie sejsmografów live
+Damn
+co kurwa
+what
+<a href="https://www.facebook.com/share/p/LyMYWx1Tk4guT7hn/">https://www.facebook.com/share/p/LyMYWx1Tk4guT7hn/</a>
+Tak
+Wyślijcie scruma na grupie<br>@małpiszon <a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> <a href="https://t.me/mganczarczyk">@mganczarczyk</a> <a href="https://t.me/shipurjan">@shipurjan</a> <a href="https://t.me/mnawiesniak">@mnawiesniak</a> <a href="https://t.me/BartShoot">@BartShoot</a> <a href="https://t.me/mJakobsche">@mJakobsche</a>
+shieeet
+ale faza
+cooooo xd
+śmieci wywóz
+nagranie nieumie tego przechwycic
+co ma przechwycic
+paczke bagiennego ziela
+wszedlem na strone gdzie sie zmienia navbar
+i jak stane w konkretnym pikselu
+to nadupca
+<a href="https://scrapfly.io/blog/how-to-select-all-elements-between-two-known-elements-in-xpath/">https://scrapfly.io/blog/how-to-select-all-elements-between-two-known-elements-in-xpath/</a>
+szybko przelacza miedzy jednym a drugim
+9:20 -&gt; do przerwy zostało T - 10 minut.<br><br>Dzisiejsza zupa:<br>Krem z buraka<br>Gładka zupa z buraka, często podawana z dodatkiem koziego sera, zdrowa i kolorowa.
+Tak informacyjnie: Małpiszona dzisiaj nie ma, więc QA dzisiaj w osłabion... nie, nieważne. Bez różnicy. Nie było tematu.
+doczekaliśmy się discord 2
+whaaaat
+discordowa akcja
+2
+?
+nie wiem, tak jest nazwane
+moze moz e
+co sz tego bedzie
+akcja dla discorda 2
+9:30 -&gt; jest piątek, weekendu początek. Uhonorujmy ten wspaniały dzień miską <strong>psznej zupy</strong> i jeszcze lepszego ciasta. Życzę wam spokojnego życia bez przypierdolek QA.<br><br><a href="https://t.me/lmastalerz">@lmastalerz</a>, zrób test małpy
+ladnie sie podpisales
+to zajebiscie tani i potezny sterownik smart home<br><br><a href="https://pl.aliexpress.com/item/1005007459041635.html?spm=a2g0o.order_detail.pcOrderDetail.4.7a0c43ceHTtkWa&amp;gps-id=pcOrderDetail&amp;scm=1007.38956.373968.0&amp;scm_id=1007.38956.373968.0&amp;scm-url=1007.38956.373968.0&amp;pvid=fc343f42-2eff-4e23-bb3b-7de4540f0cb3&amp;_t=gps-id:pcOrderDetail,scm-url:1007.38956.373968.0,pvid:fc343f42-2eff-4e23-bb3b-7de4540f0cb3,tpp_buckets:668%232846%238107%231934&amp;pdp_npi=4%40dis%21PLN%21127.17%21105.99%21%21%2130.41%2125.35%21%40211b816617328778841902791e37ee%2112000040842479562%21rec%21PL%214813866071%21X&amp;utparam-url=scene%3ApcOrderDetail%7Cquery_from%3A#nav-specification">https://pl.aliexpress.com/item/1005007459041635.html?spm=a2g0o.order_detail.pcOrderDetail.4.7a0c43ceHTtkWa&amp;gps-id=pcOrderDetail&amp;scm=1007.38956.373968.0&amp;scm_id=1007.38956.373968.0&amp;scm-url=1007.38956.373968.0&amp;pvid=fc343f42-2eff-4e23-bb3b-7de4540f0cb3&amp;_t=gps-id:pcOrderDetail,scm-url:1007.38956.373968.0,pvid:fc343f42-2eff-4e23-bb3b-7de4540f0cb3,tpp_buckets:668%232846%238107%231934&amp;pdp_npi=4%40dis%21PLN%21127.17%21105.99%21%21%2130.41%2125.35%21%40211b816617328778841902791e37ee%2112000040842479562%21rec%21PL%214813866071%21X&amp;utparam-url=scene%3ApcOrderDetail%7Cquery_from%3A#nav-specification</a>
+jako bonus zawsze online priorytetowe połączenie do chin
+jak masz ujemny social credit to pali ci urzadzenia w domu
+nie no chiny za granicą są bardziej subtelne
+a ci odrazu krytykuja
+np finansowanie tiktoka i boostowanie algorytmu w kierunku brainrot wszędzie poza granicami 😆
+jaki pojebany serwer
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong>
+13:15 -&gt; To już ostatni raz jak się spotykamy w tym tygodniu, więc może ruszyłbyś dupę? Dzisiaj i tak QA nie wystawia bugów, bo Łukasz rozjebał czołg (polski)
+Dzisiaj nie wzywamy małpiszona.
+Summoner innych. Status: polskie czołgi 🚧👷🛠️
+[SPOILER] Lista zup na ten tydzień UwU
+zupki:
+Poniedziałek: <span class="spoiler hidden" onclick="ShowSpoiler(this)"><span aria-hidden="true">Zupa Z cukinii i pomidorów<br>Lekka zupa na bazie cukinii i pomidorów, idealna na letnie dni.</span></span>
+Wtorek: <span class="spoiler hidden" onclick="ShowSpoiler(this)"><span aria-hidden="true">Francuska zupa Z grochu<br>Aromatyczna zupa grochowa z dodatkiem salsy z kiszonego ogórka i grzanek.</span></span>
+Środa: <span class="spoiler hidden" onclick="ShowSpoiler(this)"><span aria-hidden="true">Chowder z kurczakiem<br>Kremowa zupa z kurczakiem, idealna na chłodniejsze dni, podawana z krakersami.</span></span>
+Czwartek: <span class="spoiler hidden" onclick="ShowSpoiler(this)"><span aria-hidden="true">Ramen<br>Tradycyjna japońska zupa z makaronem, bogata w smaki i aromaty.</span></span>
+Piątek: <span class="spoiler hidden" onclick="ShowSpoiler(this)"><span aria-hidden="true">Krem Z pieczonej papryki i pomidorów<br>Gładki, kremowy smak pieczonej papryki i pomidorów, doskonały na zakończenie tygodnia.</span></span>
+<a href="https://t.me/shipurjan">@shipurjan</a> ten złamas wysłał o 7:00 z 28.07
+idealne na ciepłe dni
+wlasnie tak sobie myslalem w domu ze cos wczesnie te zupki xd
+nieeeeeeeważne
+ramen
+hmm
+to coś się ostro zjebalo
+xd
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> brzydkie to
+najpiękniejsze, co dzisiaj widziałem
+czemu label nie jest wycentrowany w swoim kontenerze?
+ja wiem ze wszystko jest do lewej ale nawet gapa nie ma chocby 5 px
+bo ma większy height
+bo jest przyklejony zeby user widział do czego ten label
+twoj argument mozna latwo obalic
+ten go w dupe caluje
+Cmok
+to po co takie długie subdomeny
+nikt ich nie zapamięta
+wpisz &quot;dupa&quot;
+będzie git
+i dostane po glowie
+za?
+dzis jest zupa z trupa i kosci ku uciesze wszystkich gosci
+no żeby jeszcze, z warzyw ma być
+<a href="https://docs.markwhen.com/">https://docs.markwhen.com/</a>
+ideaTyKurwoCounter++
++++
+?
+no co jakiś czas pada na głos ten tekst
+aha to tak
+bo uzywacie jakis VS
+nie, raczej nie używamy
+Kuba się nie wyspał chyba
+no ja zdycham, ~5h snu to w chuj mało
+ile? XD
+7
+3h here
+xd
+4
+no dobra ale akurat w poniedziałki ja mam dojazd 1,5h w jedną stronę 😆
+ayy ;—;
+jak się zdrzemnę po drodze to domu to mogę se już nie wrócić hehe
+ale nie ty prowadzisz cnie?
+jak nie jak tak
+Prowadzisz pociąg?
+komunikacją to jest bliżej 3h 😆
+pociag ford fiesta kolor niebieski
+e to szybki pociąg
+Taki?
+inny odcień
+o, czas na tego mema
+:D
+bliżej tego
+Ta kurwa. Tam na prawdę jest zbrodnia i cargo
+tak się czułem
+jeszcze zaraz przed bielskiem tak idealnie słońce jebało po oczach
+ale fajny candlelight
+9:20 -&gt; do przerwy zostało T - 10 minut.<br><br>Dzisiejsza zupa:<br>Zupa Z cukinii i pomidorów<br>Lekka zupa na bazie cukinii i pomidorów, idealna na letnie dni.
+?
+?
+??
+?\
+⁉️
+!
+MALPISZON_PRACUJE=1<br>HEJTER_PRACUJE=1
+PSUJA_PRACUJE=1
+bawił się ktoś z api google sheets?
+Nope
+19 wiadomosci?????????
+jest taki fajny spreadsheet<br><a href="https://docs.google.com/spreadsheets/d/13t4l-kO3qAio4RCF3j1lF0X2AxaIr_G5kFIqIF3LAZU/edit?gid=1203932299#gid=1203932299">https://docs.google.com/spreadsheets/d/13t4l-kO3qAio4RCF3j1lF0X2AxaIr_G5kFIqIF3LAZU/edit?gid=1203932299#gid=1203932299</a><br><br>który powinien być kurwa w jebanym api opensrs ale chuj nam w dupe
+screenshot i ocr
+🗿
+i się zastanawiam czy mogę z niego zbierać po api dane
+software developer vs solution engineer
+XD
+przerwa? zupa!
+9:30 -&gt; najgorszy dzień tygodnia. QA znowu wystawiać taski o byle pierdoły. Frontu nie ma i nie będzie. Świat schodzi na psy. Przynajmniej jest zupa.<br><br><a href="https://t.me/mganczarczyk">@mganczarczyk</a> <a href="https://t.me/shipurjan">@shipurjan</a> , zróbcie fikołka z 1 piętra
+ok
+co ok
+tu nic nie jest ok
+qa się opierdala
+codemirror posysa
+polskie (czołgi)
+ok
+ok
+powinno byc ipv6 w targetach bo na wielu VPS w dzisiejszych czsach ipv6 jest za darmo a za ipv4 trzeba doplacic
+wiec niektorzy w ogole nie maja ipv4
+do cholery zajebali mi rowery bo nie mialem wykupionego I pv 4
+?
+trzymaj, przyda ci się
+przekąska
+Zapach
+glue stick moja ulubiona przekąska
+ipv6 to rozdają za darmo
+tia
+Nie w AJC
+ja mam ich aż tyle, że mógłbym każdy request handlować unikalnym v6
+taki klej to se lej. Mnie to nie jara tak mowi twoja mama. Oby sie dzis nie zaciela znowu brama.
+;)
+Pojebany
+Kuba sabotuje brame
+Albo pierdolnięty
+nie, to akurat ty
+the riddler
+inżynierowie: IPv6 będzie mieć tyle adresów że starczy ich do końca ludzkości<br>Marcel: użyję innego adresu IPv6 do każdego requesta<br><br>Niestety nie przewidzieli że ludzie będą je marnować
+ipv6 wystarczy do końca ludzkości bo kurwa do końca ludzkości nie zostanie defaultem
+<a href="https://www.samsclass.info/ipv6/exhaustion.htm">https://www.samsclass.info/ipv6/exhaustion.htm</a>
+no wlasnie tak to wymyslili zeby bylo
+mam :64
+ale pewnie cos sie zmieni/uprosci kiedys
+ale to minimum za 50 lat 😂
+<a href="https://www.samsclass.info/ipv6/exhaustion-2016.htm">https://www.samsclass.info/ipv6/exhaustion-2016.htm</a>
+to niepotrzebnie dają maski :64
+Jednak nie, tylko do 9,000,000 AD
+więc jeszcze ludzie mogą wtedy zyc
+ipv8 when!?
+jprdl
+no mnie w sumie ciekawi że serio więcej roboty będzie z wprowadzeniem tego niż ze stałym kupowaniem/rezerwowaniem pul adresów
+internet 2.0
+00:00:00:00:00:00:00:00:00:00:00:00?
+bez sensu, internet dopiero 2.0, jak jest web 3.0?
+bo łatwiej zmieniać warstwy na wierzchu niż te na dole
+IPv8 to będzie 的不能.里分面.此重战
+social credit++
+i wez to zapamietaj
+wtedy to juz chiny zdominuja cala planete
+wiec bedziesz chinczykiem
+wole japonczykiem
+no to tough luck
+social credit—
+pomyśl kiedy dostaniemy fizykę przesyłania sygnałów 2.0 żeby mieć szybsze światłowody
+bo teraz ogranicza predkość światła
+w 1989 na placu Tian&apos;anmen nie wydarzyło się ABSOLUTNIE NIC
+chinyyy dobreee
+dobrze
+fizyka 2.0
+a wgl kurwa ziomeczkowie ale mam przyjebane szczęście
+?
+?
+jak Bóg zrobi hotfixa
+?
+?
+na bannerze lightera w zzz miałem nie losować bo go nie chciałem
+?
+nie znam
+ale pomyślałem polosuje sobie bo chce corin ma m6
+still dont know
+i co kurwa? nie mam corin ma m6, mam lightera na m1
+co to za rizz?
+dripujesz?
+ale giga chad
+w 30 pulli
+czemu teraz, ja miyabi chce a teraz mi pewnie nie wypadnie XD
+tak tak, kazdy tak mowi<br>a potrzeba hazardu jest silniejsza
+Jakub Krawczyk leaved group
+no hazard to będzie następny banner
+chociaz i tak lepsza wymowka niz &quot;budowanie pity&quot;
+leaved xd
+:)
+leavened dough
+no hejka
+hejka naklejka
+miyabi pls come home 😭
+mnie to losowanie nienawidzi
+wracam do one piece nie rozumiem was
+zawsze za 80-tym razem
+😭
+a wojtek chujek za 10-tym
+ala bama druda rama
+<a href="https://stardb.gg/en">https://stardb.gg/en</a>
+ja se to musze zaktualizować ale raczej mam umiarkowane szczęście
+QIK-a fixuj, a nie piratów oglądaj
+a ty mi testuj taska
+Testować to mogę twoją cierpliwość
+Na kolejce jest QIK/YAML
+kurwa gancar
+daj mi wolne w pracy
+to przyjde na wyklad i pizze
+jprdl
+nie no, masz przyjść na wykład
+bo się wkurzy
+80% członkow kola siedzi w pracy
+jprdl
+no moze nie 80 a 60
+właśnie się zastanawiam co z tym zrobić
+bo mam jeszcze parę dni wolnego
+nie, że chce tam iść
+to trzeba ładnie poprosić i przynieśc podanie w trzech egzemplarzach na moje biurko
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a>
+a zobaczyć/upewnić się
+ja nie mam wolnego
+cudo ze ide na konferencje w ramach pracy
+Wyślij screena z calamari
+przeciez jak juz jedziemy na ta konfe
+ja mam pół dnia
+ne ne ne
+mówimy o wtorku
+piątek to coś innego
+gancar na pewno od nas nie bedzie wymagal zwalniania sie tyle razy
+zwlaszcza ze jeszcze w ten pt mamy byc
+w dupie byłeś gówno widziałeś
+w dupie mam jego
+Ballada o Pirackiej Załodze<br><br>Na pełnym morzu, gdzie słońce lśni,<br>Płyną piraci, jak wilki z mgły.<br>Ich statek skrzypi, jak stara pieśń,<br>Oto ich historia – usłysz, kim są, wiesz!<br><br>Refren:<br>Hej, hej, piraci, fala nas niesie,<br>Wiatr w żagle dmucha, aż serce się cieszy.<br>Złoto na horyzoncie, rum w każdej flaszce,<br>Załoga marzeń – choć dziwna, to nasza!<br><br>Pierwsza zwrotka:<br>Bezzębny Łukasz, figle zna,<br>Małpie sztuczki robi co dnia.<br>Raz lina spadła, a kapitan w dół,<br>Łukasz się śmieje: &quot;To tylko mój czarci wpływ!&quot;<br><br>Druga zwrotka:<br>Beznogi Marcel, co na kacu wstaje,<br>Na łajbie swojej ciągle się potyka, biedaku!<br>Butelka rumu przyjaciel jego,<br>Lecz i bez nogi nie brak mu wdzięku tego!<br><br>Trzecia zwrotka:<br>Bezoki Cyprian, na gnieździe tkwi,<br>Lornetka w dłoni, choć ledwo coś śni.<br>Wróg na horyzoncie? &quot;Nic nie widzę, o nie!&quot;<br>Ale serce w nim bije, jak złoto w skarbce.<br><br>Refren:<br>Hej, hej, piraci, fala nas niesie,<br>Wiatr w żagle dmucha, aż serce się cieszy.<br>Złoto na horyzoncie, rum w każdej flaszce,<br>Załoga marzeń – choć dziwna, to nasza!<br><br>Mostek:<br>Choć każdy ma swoje małe defekty,<br>Razem jesteśmy, jak wiatr w efekty.<br>Na pełnym morzu, w przygód nurcie,<br>Nie ma załogi, co jest bardziej w sztuce!<br><br>Refren (na finał):<br>Hej, hej, piraci, fala nas niesie,<br>Wiatr w żagle dmucha, aż serce się cieszy.<br>Złoto na horyzoncie, rum w każdej flaszce,<br>Załoga marzeń – choć dziwna, to nasza!<br><br>(statek odpływa w dal, śpiewając piosenkę dalej...)
+jestesmy dorosli, co mnie obchodzi jego zdanie
+ale kase bys chcial?
+apizze to wogole
+chociaz nie
+pizza to chuj
+bo przyjdzie Łukasz
+zapomnialem ze mam jescze 1.5 d
+i 2 pudełka weźmie
+Ta, pudełka
+Bo zawartość zdążysz opierdolić
+puste
+Wielkie umysły myślą podobnie
+co chcesz wziasc wolne na jtr zeby tam isc? Marcel?
+nie wiem
+nie bierz marcel
+nie daj sie zastraszyc gancarowi
+ja nic nie biorę
+ale bym sie przyjebal ze z 10 aktywnych czlonkow wiekszosc jest w pracy
+ja nie olkoholik
+a moze czolgokolik
+a, to Ł****z
+Łobuz
+...
+marcel sie dusi ze smiechu
+Dobrze
+A co takiego tam odjebano?
+ok juz wiem czemu
+😂
+patrz co mam
+O chuj
+hehe
+Ale stare
+Uff
+chyba zdechne jak nie wypije energola
+Za to twój task awansował na pozycję 10 w kolejce
+to i tak wyzej
+Oczywiście pipeline-y ładują się godzinę
+a było na spotkaniu poruszane
+ale to i tak nic w porównaniu z akcjami z wieloma targetami
+Backend ssie optymalizację
+dupa jaś
+( ͡° ͜ʖ ͡°)
+Front po prostu ssie
+mysle ze zarowno front jak i backend maja oddmienne zdanie na temat kto ssie
+:D
+<a href="https://t.me/shipurjan">@shipurjan</a> wstaw w odpowiednie miejsca QA, Backend i Frontend
+ja zrobię
+sekunda
+Zjebane, poprawiaj
+to troche tez prawda
+Znalazłem już gotowe
+no brawo
+left pad też był gotowy
+Akurat i front i backend winią QA
+Z tasków to nie wynika
+Jak rzucamy w was to nie obijacie tylko rzucacie do siebie nawzajem
+a jak ma to wyglądać?
+nie no ja czasem odbijam czy to na pewno błąd
+&gt;wywala sww (odbite do front)<br>&gt;sam to wywaliłeś, więc wasza wina (odbite do qa)
+prawo pascala w taskach
+kto wyjebał ten zapierdala
+Ostatnio rzuciłem taska z Go to target settings i zaczął latać jak wściekły bąk po firmie
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> fixuj to
+<a href="https://app.clickup.com/t/8696x8mxt">https://app.clickup.com/t/8696x8mxt</a>
+nie było mnie w tym pliku nigdy
+od importowania
+jak zepsute, to wasza wina
+<a href="https://t.me/lmastalerz">@lmastalerz</a> jakbys nie grzebal to nikt by nie zauwazyl ze jest zepsute
+więc ogar sie
+ty jescze tego taska nie skonczylem pisac a ty juz rozsylasz

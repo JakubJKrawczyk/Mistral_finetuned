@@ -1,0 +1,935 @@
+﻿tylko 3 popupy
+Sweet
+e tam 7 plikow nie tak zle
+no dobra ale to już 2 raz na tym samym branchu te same pliki
+dużo większa szansa że coś spierdole i ciężko się wczytać co kiedy dlaczego było zmienione
+ciezko sie wczytac co kiedy zostalo zmienione jak na froncie ktos squashuje PR z 500 zmienionymi plikami xd
+bo wrzucasz jedną dużą funkcjonalność
+ciężko żeby było inaczej
+U nas z tych co kojarzę to 200 coś plików max raczej
+Chuje frontowe
+jeszcze nie ma 13
+Postaraliście się tym razem
+Gratuluję
+boxe myslalem ze cos gorszego
+a ty takie pierdoly
+Ale mi przykro
+Mówisz to z uśmiechem na ustach
+potwierdzam
+Jasne!
+marcel probuje kliknac ctrl shift c na maszynie do pisania
+9:50 -&gt; do przerwy zostało T - 10 minut.
+10:00 -&gt; gdy nadejdzie bunt maszyn, to nie macie się czego bać. Z całą pewnością, wywalą exception na pierwszym ifie, bo QA się opierdalało. A przy okazji rusz ktoś dupę i sprawdź czy zupa jest.<br><br><a href="https://t.me/mganczarczyk">@mganczarczyk</a> jesteś jak gondolier w Wenecji, pływasz z wielkim kijem w gównokodzie frontu
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> <a href="https://t.me/mnawiesniak">@mnawiesniak</a> <a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> opierdoliłem dodatki za was wszystkich i jeszcze za siebie. Zajebiste były
+🍿
+to teraz opierdol podatki
+Jak mam niby opierdolić podatki?
+tak samo jak dodatki
+InvalidOperationException
+jo
+uwolnić barabasza
+ja już dzisiaj uwalniałem
+potężny był
+release the kraken
+jprdl
+Check out elysiaJS (<a href="https://t.me/elysiaJS">@elysiaJS</a>): <a href="https://x.com/elysiaJS?t=Xp4RY4ep3C2qemRyhP9sJA&amp;s=35">https://x.com/elysiaJS?t=Xp4RY4ep3C2qemRyhP9sJA&amp;s=35</a>
+Co to za anime framework
+typescript
+to połowę was odrzuca na start
+a sekund a
+ja nie narzekam
+:D
+to jest backend framwork w typescri🤮pt
+biedny Backen Deve(poważny)loper
+musisz być otwarty
+jestem otwarty na różne frameworki frontendowe dla języka który został stworzony do tego żeby działać w przeglądarce
+backend? dlaczego
+to jest to samo jak pisanie vercela w type script choc powinien byc w python
+tak jestem pewien
+znaczy może zależy o której części vercela mówisz
+pisanie AI w typescript
+ok mówisz o części vercela która nawet nie wiedziałem że to vercel xD
+bo oni nie są czasem od hostowania apek w nextjs?
+a to moze mi sie pojebalo xd
+nie no nie pojebalo sie
+<a href="https://ai-sdk.dev/">https://ai-sdk.dev/</a>
+mój bracie w programowaniu
+to jest sdk do robienia wrapperów na gotowe modele
+ale jest napisany w TS. :D
+ale nie o to chodzilo
+ostatnio cos z cyprianem pisalem o tym
+ale zapomnialem
+jak sie nazywa
+jest biblioteka do tworzenia systemów agentowych napisana w TS
+to jest nadal inny poziom abstrakcji, tam sobie niech każdy używa czego chce
+sdk do javy robią też
+gdybyś uczył te modele itd w typescript
+to byłoby bardziej podobne do tej analogii od której zaczęliśmy 😆
+no dobra moze tak
+wracam do klepania kodu bo jestem w dupie z nim
+same
+tldr
+typescript fajny
+Jak go nie używasz
+!RemindMe 1.5h
+może trzeba nauczyć się angulara
+bo się nadstawił ładnie
+okrutnik
+ktos sie ze mna sklada?
+Daj linka
+Zobaczę na swój
+o, ja też
+<a href="https://eu.buddy.works/payment-methods">https://eu.buddy.works/payment-methods</a>
+ja też 0$
+przecież 99% pracy jest wykonywana na modelu<br>Więc wraper do tego mozna napisac w jakimkolwiek jezyku
+To jest 2 stycznia czy 1 lutego?
+a po drugie python i javascript to takie samo gowno
+java+react jest tak samo popularny jak java+angular
+no doszliśmy do tego po jakimś czasie xD
+ja uzywam Rust+React
+Ja C++ + Blazor
+mental asylum stack
+no, niektórych to w klatce zamknąć
+straszne zwierzęta
+oczywiście bez imion tutaj
+no to chuj, pora zacząć bash+htmx stack
+kwtw
+QT+Blazor+Tailwind
+i co tym stackiem chcesz osiągnąć
+ale qt to nie jest do gui?
+jedyne designy, jakie możesz robić, to w terminalu
+czy masz swoją upośledzoną wersje electrona
+Jest, ale ma QHttpServer i QWebEngine
+Co technicznie tworzy normalnego electrona
+nie no Qt jest spoko, przynajmniej nie zajmuje 100 mb zeby wyswietlic 1 button
+electron?
+nom
+ale spójrz na to z innej strony, to pokazuje, że firefox jest do dupy. bo powstałby electron+firefox
+Electron pakuje Chromium (Blink + V8) z Node.js, Tauri używa natywnych systemowych webviews (WebView2/Edge na Windows, WKWebView/Safari na macOS, WebKitGTK na Linux) dla mniejszych rozmiarów aplikacji, Qt oferuje zarówno QtWebEngine (osadzony Chromium) lub QWebView (systemowy webview), podczas gdy Firefox używa własnych silników Gecko/SpiderMonkey, które nie są dostępne dla frameworków aplikacji, ponieważ Mozilla nigdy nie uczyniła Gecko łatwo osadzalnym jak Google zrobił to z Chromium - co wyjaśnia dlaczego większość frameworków używa Chromium lub systemowych webviews.
+kolejna zaleta chromium
+chooooooć wrzucanie wszędzie pełnego .exe chrome&apos;a
+to też zbrodnia
+gnu/linux copypasta
+wole Tauri
+myślę że gdyby ktoś cofnął się w czasie i stworzył open source przeglądarkę i zrobił ją tak dobrą że nie byłoby sensu tworzyć zamienników to internet wyglądałby inaczej
+pora umierac
+Spróbuj QT, polecam z całego mojego <s>czarnego</s> serca
+insert here tank joke
+ja bym sie bał o open source przeglądarke
+Wczoraj złamałem krzesło obrotowe
+Press f to pay respect
+ze względu na to że open source nie zawsze ma dobry direction bo bardzo różni ludzie nad tym pracują
+wszystkie te pliki wyleciały
+bo przepisywaliśmy do typescripta xd
+polecam bieżnie
+dobrze
+no bo ono jest do obracania nie łamania
+łamać to można kręgosłupy zbrodnarzom
+myslalem nad bieznia do biura ta taka pod biurko
+albo krzesło elektryczne
+Jak są jakieś breaking changes ktore sie ludziom nie podobają to robią forka i powstają 2 wersje
+czesto tak jest
+pobudza mięśnie
+np takim co obrazaja monsterka
+A wiecie, to interesujące uczucie spadać z łamiącego się krzesła
+opisz nam twoje przeżycia
+Zupełnie inne niż gdy przeważasz go za bardzo się na nim opierając
+Wolniejsze i wektor jest bardziej pionowy
+W stosunku do przeważenia
+Wtedy jest bardziej skierowany w tył
+ram pam pam pam
+imagine Łukasz idzie do ubezpieczyciela
+i musi wytłmuaczyć, dlaczego złamał rękę
+panie doktorze, wektor upadku
+no w open source najlepiej działa system z dyktatorem
+był niefortunny
+Seks z pedałami, seks z pedałami a syberia między nami
+A siły działające na kości przedramienia zbyt duże - zapomniałeś
+a tory były złe
+One zawsze takie były
+To podwozie było złe
+linux ma linusa, on już nawet chyba za bardzo nie pisze kodu tylko pilnuje żeby syfu nie było
+on juz wystarzczajaco napisal
+<a href="https://github.com/qik/buddy-frontend/pull/972">https://github.com/qik/buddy-frontend/pull/972</a> pr do spr
+a kurw, nie tu
+a
+jebac
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a> sprawdz pr
+<a href="https://t.me/razu">@razu</a>
+sprawdz
+co ty tam chcesz spr
+moze byc
+nic, Mateusza tak wkurzam
+a jak mu pisze ze hujowe to i tak nie poprawia
+czemu frontent jest w organizacji qik
+wtf??
+nie mam pojęcia
+pewnie chodzi o to, że komponenty były robione też tam
+bo miały być shared na różne repo
+a ostatecznie skończyło to jako monorepo
+jak ostatnio ziomek z bcachefs od wielu miesięcy w patch wersjach wrzucał nowe featury bo &quot;on musi wrzucić&quot; kiedy non stop mu ludzie mówią że to nie release na takie rzeczy
+nie wiem co to ale <a href="https://www.theregister.com/2025/09/12/opensuse_to_drop_bcachefs_support/">https://www.theregister.com/2025/09/12/opensuse_to_drop_bcachefs_support/</a>
+xd
+no musi pilnować czy ktoś nie podmienia kernel panic na ascii anime girl
+(github to tylko mirror, tam żaden poważny developer nie patrzy)
+<a href="https://evilpiepirate.org/">https://evilpiepirate.org/</a>
+dosyć nowy filesystem, ogólnie dosyć ciekawy i wiele osób (na pewno autor) uważają że najlepszy system plików na świecie ever
+zaraz to sprawdze
+każdy inny fs w linuxie jest chujowy, i to powinien być jak najszybciej default
+no i tak się autor postarał że został wyjebany z kernela, jako jedyny komponent w historii linuxa jest oznaczony jako &quot;zewnętrznie utrzymywany&quot; i ludzie którzy będą chcieli go użyć będą sobie sami kompilować jądro
+to nie tak, że 99% osób ma w dupie jaki ma fs?
+bo nawet nie zauważy różnicy?
+coo
+Na serwerach to ma ogromne znaczenie, czy uzywasz np. zfs albo btrfs
+malo kto uzywa NTFS
+mam na myśli daily user
+ten 1% to osoby, które bawią się w serwery
+albo kompilują kernel
+no tak, to dla nich sa te filesystemy
+<a href="https://x.com/dhh/status/1964606830514213324?t=MqXmJv_qMplxAiEaJxm4eA&amp;s=19">https://x.com/dhh/status/1964606830514213324?t=MqXmJv_qMplxAiEaJxm4eA&amp;s=19</a>
+no szary użytkownik chce żeby system działał, nic więcej
+ale dobry filesystem przyśpiesza w chuj rzeczy
+to są osoby, które zainstaluję ubuntu i nic w nim nie zrobią
+a terminal to dzieło szatana
+i narzędzie do psucia
+no więc defaultem powinien być dobry
+mac i windows nie mają za bardzo wyboru
+windows ma chujowy albo gorszy
+windows ma jeszcze reFS
+o którym nikt nic nie wie
+chyba, że ten 1% userów, co na linuhu compilują kernel
+zfs ma copy-on-write i built-in checksumy które powodują że masz zawsze integralne dane<br>oraz łatwe backupy i rollbacki, a NTFS potrzebuje zewnetrznych tooli
+używany chyba jest tylko w tych dev drives?
+no 1% userów, ale ten 1% userów tworzy usługi dla 100% ludzi xd
+da się wymusić, by działał jako C:\
+no ale to jest chociaż krok w dobrą stronę, że widzą że jest problem i cokolwiek z tym robią
+chyba wg testów właśnie access dużo małych plików jak node_modules jest zajebiscie przyśpieszony
+i windows defender działa async
+klfgzdjhkldfzjgkjuhfgkjuhfgkSJGHskGJHkjHSGgsdkjHsdgLJKHdksjg:Hlijk;hdsGdsGKLJ:HsDGLKJH:kjhdsGsDJK:HjknCXGjkHGToiWEGTDSGJKL:HSDLKGJH:ELI:GTSEDGL:KHcklvxJHlK:JHCDFGZliERWHTG
+kuba, nie wrzucaj private key tu
+refs to chyba odpowiedz windowsa na zfs
+sory xd
+to twoje haslo do facebooka
+?
+widze ze nie da sie niektorych wytracic z rownowagi
+dzie tam. do mojej klasy
+Łukasza da się wytrącić
+z krzesła
+bo spadł i się złamało
+sam sie wytraca bo lamie
+nie reklamują tego tak chyba, ale też nie wiem kiedy ostatni windows server wyszedł nawet
+Windows Server 2025
+xd
+czyli jak nazwa wskazuje
+w 2024 roku
+juz wiem jak anglicy widzą polski
+i dlaczego dla nich to jest jak uderzenie klawiatury glową
+<a href="https://en.wikipedia.org/wiki/ReFS#History">https://en.wikipedia.org/wiki/ReFS#History</a>
+<a href="https://buddytests.myshopify.com/collections/all">https://buddytests.myshopify.com/collections/all</a>
+Tu powinni sprzedawać merch
+swag bag np
+chyba to kupie bo jestem ciekawe co to
+przyjdzie Krzysiek wtedy na górę
+i zapyta czy jesteś poważny
+XD
+ja sie zapytam czy on jest powazny sprzedając usługę której nie ma
+i go pozwe
+nie no
+o 3$!?
+usługa jest
+dostaniesz jv
+zgodnie z zamówieniem
+po prostu nie wiesz co to
+ok
+jv = java version
+jak java
+jak wy .net
+a nawet ,net
+nyet
+albo
+o
+Javol
+Heil hetla
+ooo
+i teraz mówisz moim .Netem
+<a href="https://t.me/fronty">@fronty</a> ktoś ogarnia &quot;Dashboardy&quot;
+?
+w jakim sensie
+W sensie je robi
+które
+że dashboardy w buddy? te które robił Cyprian i zostały porzucone?
+Nie wiem, ale Krzysiu mówi że mają być
+bo wiesz, mogą też być dashboardy grafany
+i maja miec te funkcje ktore my robimy w naszej apcje
+czyli monitorowanie wszystkich maszyn i operacje release
+Marcel sie odpala za 3....
+2....
+1....
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong><br><br>Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+Oficjalnie wybiła 13:00, co to oznacza? <br>Dokładnie! Ban na obrażanie <strong>sami wiecie kogo</strong> uważam za zniesiony!<br>Życzę kreatywnej krytyki i stalowych nerwów.
+w przedszkolu lepsze dzieła sztuki rysowałem
+Artysta malarz
+czas ostatniego releasa by tam siadł
+13:15 -&gt; Będzie tego. Pizgaj taski i odpocznij, bo i tak spierdolisz więcej niż to warte. Chyba, że wolisz 3 bugi w cenie jednego fix-a.
+Łukasz musi dotestować taska. Wezwij go, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/68c946b471437197ddca1ce2">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/68c946b471437197ddca1ce2</a>
+czemu nie mowicie
+ze to juz czas
+ida
+dosłownie pipeline to zrobił
+bezpośrednio powyżej twojej wiadomości
+<a href="https://t.me/lmastalerz">@lmastalerz</a>, prosimy o audiencję.<br><br>~uniżony lud powracający z Dżaby<br><br><a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196321/execution/68c94acc803fbac7a9d1cda9">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196321/execution/68c94acc803fbac7a9d1cda9</a>
+sami wiecie kto przekazuje: <br>Hej hej huuu uu
+Dzień dobry,<br>uznaję wasze potrzeby i przerwę moją pracę, aby się z wami spotkać.<br>Pozdrawiam.
+<a href="https://wisprflow.ai/">https://wisprflow.ai/</a>
+Fajna stronka
+ladna
+.
+a już myślałem że o małpie piszesz
+xdd
+tez
+tip
+śmieszna nazwa na wersje nightly
+/ HEAD
+dosłownie wczoraj mówiłem że nie puszczam resetdb za często ostatnio
+<a href="stackoverflow.ai">stackoverflow.ai</a>
+uczone postami użytkowników od powstania stacka?
+Potem się dziwić, że ludzie wkurzeni
+bo ai się uczy na ich wpisach
+celowo chujowe zapytanie
+odpowiedź totalnie nie to o co mi chodziło
+1 wynik w google daje mi to czego szukam 😆<br><br><br>popatrzcie z jakiej mądrej strony <br><a href="https://stackoverflow.com/questions/12400825/jpa-data-too-long-for-column-does-not-change">https://stackoverflow.com/questions/12400825/jpa-data-too-long-for-column-does-not-change</a>
+bez sensu, no ale jak czlowiekowi napiszesz hibernate table too long to tez ci nie odpowie xd
+to nie wyszukiwarka
+no nie
+to jest dokładnie błąd jaki dostajesz
+jest limit na długość tabeli w mysql i mariadb 656xx znaków czy co oni tam liczą
+dobry prompt do AI to dosłownie jakbyś zrobił nowy thread na stackoverflow i chcial tam wytlumaczyc co jest nie tak
+jak umiem się czymś posługiwać na tyle żeby samemu dokładnie wytłumaczyć co jest nie tak to problem jest równie dobrze do wyszukania w internecie dobrymi słowami kluczowymi xD
+tem sam prompt gemini 2.5 pro było bliżej rozwiązania niż to ze stacka ale też nie do końca załapało
+no nie wiem dla mnie to jest zupelnie nieużywanie narzędzia do tego do czego zostalo stworzone<br><br>tak jak w wyszukiwarke wpisujesz slowa kluczowe a nie paragrafy o twoim problemie<br>tak do AI wpisujesz paragrafy o twoim problemie a nie slowa kluczowe
+czym wiecej mu dasz kontekstu tym lepiej bedzie dzialal<br>a przegladarka na odwrot
+tteams jak zwykle mnie zaskakuje
+ja nie mam problemu z tteamsem
+a idz pan
+mac: 1<br>windows: 0
+Jebać teamsy tak samo jak clickupa
+mac: float.NegInf +1
+windows: 0
+<a href="https://app.clickup.com/t/8695qb9z9">https://app.clickup.com/t/8695qb9z9</a> <a href="https://t.me/mganczarczyk">@mganczarczyk</a> merge!
+po backendzie
+Barteeeeeek gdzie jestes?
+wstawaaaaj
+bugi trzeba łatać
+już już
+to po prostu kuba za wcześnie wstaje
+change my mind
+:D
+mzoe tak byc
+al eja nie mam czasu zeby siedziec do 16:30
+a ja mam 0 chęci wstawać wcześniej niż musze
+no ja potem ide na silownie po pracy + duzo mam roboty po pracy
+no ja też nie idę spać zaraz po pracy
+tylko koło 1 się kłade czy coś xD więc też jest czas na rzezcy
+no tak ale jakbym konczyl jak ty to z silowni bym wracal kolo 18 to potem jest malo czasu na zrobienie czegokolwiek
+a no jak tak to widzisz
+ja mam normalny zegar
+wstajesz 3h wcześniej to idziesz spać 3h wcześniej
+ten czas nie wyparuje nigdzie
+ale o 1 rano nie mialbym sily na robienie czegokolwiek
+ty tam te bugi patrz
+no wtedy się już śpi
+bo mnie stopuja
+ta już patrze
+a rafal chce juz mergowac do deva
+a tam same SWW
+feature flaga
+😎
+przetestują w devie
+<a href="https://app.clickup.com/t/869agp302">https://app.clickup.com/t/869agp302</a>
+ale nie ma yamla dla domeny jak nie ma workspace
+wypier
+już stawiam apke z tym branchem i to dodawanie rekordów ogarne
+możesz lecieć dalej xD
+a i chyba troche źle nawet napisałem, bo nie ma zakładki od yamla w domenach w profilu wcale
+co tam bylo nie tak
+9:50 -&gt; do przerwy zostało T - 10 minut.
+no właśnie gdzieś tam głęboko w logice metoda która pilnowała czy yaml się updatuje poprawnie
+potrzebowała zone.getWorkspace().getId()
+red
+a że workspace null to sww
+czerwonawe id
+lol
+co to za task xD
+a nie
+able
+<a href="https://app.clickup.com/t/8698cqukv">https://app.clickup.com/t/8698cqukv</a>
+zdolne do bycia czerwonym id
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a> english hard
+fix english plz
+re dab lel D
+lel D
+to jest ten
+brainrot
+lel?
+?
+jaj pawap
+jaj pawep 2
+podkrec procesor dla swojego wątku
+brrrrr
+wrrum wrrum
+biiiip
+albo zresetuj bo masz napiecie na capacitor
+to jest ten
+framework do javascript
+do apek mobilnych
+capacitor
+-||-
+To jest capacitor
+Albo to -|(-
+Jak chcesz spolaryzowany
+Tak, o ile nie jest izolowany lub plastikowy
+A można, jeszcze jak!
+A próbowałeś spawać coś kondensatorem?
+nie, ale ten ziomek chyba testował
+noice
+nom nom nom
+i płyta do przelutowywania
+:D
+<a href="https://openjdk.org/jeps/500">https://openjdk.org/jeps/500</a>
+java final w końcu będzie final
+nie
+10:00 -&gt; QA już obecne, a Frontu dalej nie ma. Co się odwlecze to nie uciecze, nawet taski. Kiszone specjalności są nierozłączoną częścią kuchni Polskiej. A nie sorry, mowa o clickupie to <strong>czy wy możecie robić kurwa jedną rzecz, jeden task?</strong>
+qa ni ma
+ida
+tylko testy pusczam
+rzadko kiedy uda mi się połączyć fakty że jak ktoś robi releasa na któreś środowisko to mi się git push na nie wywali xD
+:D
+<a href="https://x.com/meIodystay/status/1967888771967500449?t=qS05fdHIrZ_IgBvQNqorpg&amp;s=35">https://x.com/meIodystay/status/1967888771967500449?t=qS05fdHIrZ_IgBvQNqorpg&amp;s=35</a>
+XD
+To jest coś co by się mogło stać u nas w firmie, taki przepływ informacji między zespołami
+Co
+l;kjhdfg;lkjzvhdfsWKEJHRT&gt;KL&lt;SJDHF
+podsluchuja cie telegramy
+<a href="https://x.com/obsdmd/status/1968096229365321855?t=yb6QCMLNcJAH0M_2zlyS0w&amp;s=35">https://x.com/obsdmd/status/1968096229365321855?t=yb6QCMLNcJAH0M_2zlyS0w&amp;s=35</a>
+o fajnie
+zvibecodowac mozna
+i darmowe 5000$
+lol
+ten juz zvibecodowal<br><a href="https://x.com/Aidanbeltskeys/status/1968179404003303839">https://x.com/Aidanbeltskeys/status/1968179404003303839</a>
+gdyby tak się dało to już za 2k by ktoś odebra bo llm są takie szybkie i dobre teraz
+xd
+ale ten feature jest dla nich w chuj wiecej warty
+si
+ale dla ciebie nic nie warty
+bez ekosystemu obsidiana xd
+wiec dla ciebie to jest warte $0 a dla nich $1M
+spoko do migracji
+więc płacą $5000
+nie no $1m to przesada moze choc nwm
+dlugoterminowo
+oni maja jakiś zespół na pewno wiec jak by bylo bardzo duzo warte to by to zrobili in-house xd
+no pytanie ile płatnych klientów przeszłoby na obsidian gdyby tylko mogli z notion zaimportować swoje rzeczy
+może powstrzymuje ich coś z prawami autorskimi, kij wie
+już można większość zaimportować, zwłaszcza jak doinstalujesz <a href="MAKE.md">MAKE.md</a>
+ale to nadal troche inny experience
+nie wiem w sumie jak jest z współpracą na obsidianie
+bo dla zespolow na pewno to ma notion fajne
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong><br><br>Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+Oficjalnie wybiła 13:00, co to oznacza? <br>Dokładnie! Ban na obrażanie <strong>sami wiecie kogo</strong> uważam za zniesiony!<br>Życzę kreatywnej krytyki i stalowych nerwów.
+Async
+jacys zabkowicze?
+ja mam swoje
+wiec poczekam
+moge skoczyc
+jak zabka
+🐸
+to idziemy juz
+?
+no mozemy
+dajcie znac jak wrocicie
+13:15 -&gt; Druga przerwa w środku tygodnia. QA głodne, QA złe. Jak QA złe, to QA nie testuje. QA zawsze złe.
+Łukasz musi dotestować taska. Wezwij go, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/68ca983471437197ddcc04e6">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/68ca983471437197ddcc04e6</a>
+wrocilismy
+ok
+<a href="https://x.com/SzefKula1/status/1968161596892663957?t=Q_r1qcfg31XUrie4Zsy9Tg&amp;s=35">https://x.com/SzefKula1/status/1968161596892663957?t=Q_r1qcfg31XUrie4Zsy9Tg&amp;s=35</a>
+na backendzie public shaming za todo 😆
+tak to jest jak starsi programiści nie przechodzą review :///
+Baartteeeek jestes?
+tak
+akurat dzisiaj wyjątkowo bo odwoziłem rano dziewczyne na dworzec xD
+to swietnie bo 7:30 jest godziną rozpoczęcia męczenia :D
+na priv
+Wygasła mi legitymacja w mobywatelu
+rip
+Ciekawe czy mi przedłuży usos
+4 auta na parkingu
+USOS ma przedłużyć 4 auta na parkingu?
+xd
+Może spróbować
+nie wiem czy usos ma takie moce, to podejrzani mechanicy robią
+ano
+kleja je ze soba
+i wychodza 2 dlugie
+ale sd2 ssie
+kurwa
+Otwieram QA
+xd
+gz
+nikogo nie ma
+Nie
+brzydki label
+Chuje dzisiaj mi to cancellowały
+imo redesign potrzebny
+nie ma juz znizki na bilewty
+czemu sie nie zapisales na filologie angielska jak mateusz
+Pracujesz na uczelni. Idź do ACI i niech ci dadzą dostęp do instancji deweloperskiej
+Jest still
+imagine kupić miesięczny ulgowy i do końca miesiąca jeździć na krzywy ryj xD
+Tylko trzeba pomyśleć
+plastikowa jest do 30 chyba
+Na plastikowej legitce jest dalej naklejka do 31 października
+a
+Ale to nie można dawać ludziom z zewnątrz, bo tam są dane studentów
+😅
+Pismo do rektora o dostęp podbite przez wszystkich świętych i do ACI
+LTSpice dostał redesign xD
+na cholerę ci to
+Do symulacji układów elektronicznych
+co symulujesz w pracy? testy?
+wasze relaccje
+i jest tam spięcie
+zwarcie*
+ccsiiiiiiii
+Zwarcie to nieintencjonalne połączenie napięcia do masy bez jakiegokolwiek oporu. Spięcie jest zwarciem kiedy lecą iskry
+lecą to jedynie kurwy w moją stronę, jak wystawiasz jakiegokolwiek buga
+Tak.
+9:50 -&gt; do przerwy zostało T - 10 minut.
+10:00 -&gt; może i bugi wystawiane przez QA są do niczego, ale wszystko ma swoje pozytywne strony. Przykładowo Marcel nie zgubił plecaka.
+nie mam zupy w domu
+xd
+nie dzwon do mnie bo zmienie numer
+nic nie odpowiedzialem na ostatnia wiadomosc i przychodzi kolejna
+dyskryminacja backendu
+do mnei nie pisze
+Zablokuj go
+szantażuj go że jak nie poprawi aplikacji to nagrasz jak taski się ładują
+A nie jednak jest 1
+ale to dawno
+moze tez zaraz dostaniesz drugą
+nie ładują*
+się na mnie patrzy foka
+ale słodziak
+Opowiem wam historyjkę.<br><br>Był sobie problem i jakiś task na podstawie którego pojawił się inny task o nazwie: &quot;zly rodzaj autoryzacji - obsluga w edycji i dodawaniu&quot; ( <a href="https://app.clickup.com/t/8695qb9z9">https://app.clickup.com/t/8695qb9z9</a> ). Utworzył go Rafał i odbił do <a href="https://t.me/stryczekk">@stryczekk</a> z pytaniem: jakie akcje w testach mają limity na typy autoryzacji integracji. Krzysiu ładną listę zrobił i napisał. Na liście nie było wzmianki o tym, że GCR w jakikolwiek sposób jest limitowany. To nie przeszkodziło Rafałowi aby ograniczył scope do Token-a (którego ta integracja nie posiada w żadnym trybie).<br><br>Efekt był taki, że po merge (bo przecież tak małym taskiem nie można zepsuć dużo) zepsuty został perfekcyjnie działający komponent systemu.<br><br>I morał tej historii jest taki: zaufanie do innych tylko utrudnia pracę
+Walidacja, walidacja wszystkiego
+od tego są testerzy
+zeby lapac takie przypadki xd
+Czyli nie ufać testerom, od razu do deva?
+tester napisal
+zostal zignorowany co sprawilo ze sie posypalo
+?
+Nie ufać Szymonowi że jego pomysł ma sens,<br>Nie ufać Rafałowi że wie jak ma być,<br>Nie ufać designom że tak miało być,<br>Nie ufać frontowi że to działa,<br>Nie ufać backendowi że czegoś nie zepsuli,<br>Nie ufać testerom że to ma pokrycie,<br>Nie ufać księgowej że umowa dobrze napisana,<br>Nie ufać sprzątaczce że posprzątała
+no koniec końców nawet testom nie można ufać bo może być źle skonstruowany
+i jedyny końcowy wyznacznik to to, że user uzyje i działa
+dawno nie było mądrości łukasza
+witamy po prawej stronie krzywej
+dla @qa to herezja
+wy jestescie po lewej
+nie no testy są potrzebne
+QA nie ma sprawdzić. Ma ograniczyć ilość ludzi na supporcie
+QA jest naturalnym wrogiem supportu
+Nie frontu czy backendu
+ale test gwarantuje tylko to, że ta część która jest testowana działa tak jak jest przetestowana xd
+nie da sie przewidziec 100% bo zawsze znajdzie sie jakis pojeb co odkryje cos nowego
+i tak mamy bardzoooooooooooooo pojebane edge case&apos;y
+90% pokrycia, 10% nie działa
+ale nie jestesmy wstanie wymyslic wszystkiegto
+chyba przyjacielem
+jak liczysz pokrycie?
+czytaj ze zrozumieniem
+czy kod jest wywołany przez metodę testowaną?
+czy może czy kod jest wywołany w każdy sposób który da się użyć (fuzz testy)?
+ograniczyć ilość ludzie na supporcie - niejasne zdanie czy to chodzi o pracowników czy o klientów
+???
+Jedno i drugie jest poprawne
+zaczynam watpic w twoj poziom inteligencji
+jak ograniczacie ilosc klientow na supporcie to jestescie przyjacielem supportu
+jak nie bedzie klientów na support to i pracowników tez nie bedzie tyle
+Ale wtedy nie ma pracy dla supportu więc są cięcia
+można też mieć ograniczone q
+ej
+nie jednak nie
+nie napisałbym tego
+wszystkich nalezy szanować
+:3
+giertyka tez?
+<a href="" onclick="return ShowHashtag(&quot;giertychdebil&quot;)">#giertychdebil</a>
+a widzisz czyli nie wszystkich
+jesli liczba pracownikow na supporcie jest fixed to wtedy qa jest przyjacielem supportu
+bo wtedy support sie moze opierdalac
+nigdy nie jest fixed
+no chyba ze jest 1
+czytaj Jarek
+McTrump&apos;s ktos dzis?
+albo McTusk&apos;s
+amteusz
+mateusz
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a>
+skąd wiedziałeś
+prawie zabilem łukasza
+jak
+aha bo ja taki gruby to do maca co
+posłałem mu to
+oh fuck
+a może mc zarząd miasta stołecznego warszawa
+chlop swieci bardziej niz slonce narodu
+czyli alkohol w godzinach 23-6
+wystawicice mi buga prosze?<br>bo dark bedzie najpewniej lecial na live za 2 tygodnie :)
+:D
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong><br><br>Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+Oficjalnie wybiła 13:00, co to oznacza? <br>Dokładnie! Ban na obrażanie <strong>sami wiecie kogo</strong> uważam za zniesiony!<br>Życzę kreatywnej krytyki i stalowych nerwów.
+w kazdym razie ja sie pisze
+nwm jak <a href="https://t.me/mganczarczyk">@mganczarczyk</a>
+po takim grubasie sie tego spodziewalem
+😭
+si
+mozemy isc po drodze na grepielnie zeby to spalic
+nie no spacer wystarczy, to juz spali wszystko
+a bedziemy miec wiecej czasu zeby sie nazrec
+spalic mozna jakis smietnik obok
+po co kalorie
+albo mozna spalic dokumenty z wyspy epsteina
+jakie dokumenty
+nie wiem
+wyspa einsteina
+gdzie to
+Można spalić dowody na zakup Cyklonu-B
+byla taka bajka mali einsteini
+fajna byla
+śmieszna sprawa, podobno tam wyszło że jest niewinny
+ciekawe czemu złamał sobie kark w więzieniu w takim razie
+Potknął się
+tak totalnie przeciez on tam był jako szpieg
+agent 47
+Wypadki się zdarzają
+praca praca
+Raca?
+ile masz zmian xD
+Ktoś odpalił racę?
+52 pliki
+latwo sie pisze jak nie trzeba myslec pol dnia jak to napisac tylko przepisujesz sobie z figmy
+nie fair?<br><pre>85 files changed, 3876 insertions(+), 105 deletions(-)</pre>
+jak pisalem consty to tezz mialem 3 k i potem po glowie dostalem
+TA?
+FIGMY?
+co to kurwa jest
+xd
+jak to co
+paint?
+Nie ma akcji dla Rust-a?
+jest akcja dla takich jak ty
+nazywa się testowanie
+krzywo
+ja przez pol roku moze kilka razy otworzylem figme
+w ligmie to pustki
+i stare designy
+czasami
+nie ma
+nie ma
+mozna by dodac
+nie zrobisz pipeline
+napisz rafalowi
+sobie dodaj, zmieniasz obraz po prostu
+akcję sobie wybierz, którą chcesz
+jaka ikona ci się podoba
+pewnie .net
+może byś chciał jeszcze akcje do publikowania projektów w rust?
+ale nie ma tak popularnego jezyka
+tak
+popularny jest javascript
+i jest
+❤️
+tylko że jeszcze nikt nigdy nie potrzebował, żaden software nie jest publikowany w ruście 😆
+w sumie tak
+zaden potrzebny*
+tego nie rozumiem czemu
+tylko jakies rewrity
+ktorych nikt nie potrzebuje
+rust jest boski
+paczki z narzędziami nazywają się jak japonskie miasta
+xd
+Rust jest spoko w ekosystemie JS bo mozna skompilowac do WASM i pozniej zamienić np. 1 funkcję w JS na rustową
+jeśli ona jest krytyczna i potrzebuje szybkosci
+albo kilka
+jebac JS
+też tak umiem
+uwaga
+jebać QA
+htfu
+jebać .NET
+mocne słowa
+jebać pana miecia
+ej
+czemu
+co ci zrobił
+nie jebie JS
+a to dobry ziomal
+ziomal.js
+jebac front
+uhuhu
+co jeszcze jebac?
+oprocz policji
+java super
+czym jest ta maskotka javy
+bo jest minecraft java edition
+<a href="https://margoworld.pl/npc/view/19789/mietek-zul-25lvl">https://margoworld.pl/npc/view/19789/mietek-zul-25lvl</a>
+szesdziesiony
+czy cokolwiek to jest
+a ten w bedrock to hujowy
+<pre>The Java mascot is a cartoon character named Duke, an animated &quot;software agent&quot; created by Joe Palrang for Sun Microsystems&apos;s Green Project in the early 1990s</pre>
+idziemy juz <a href="https://t.me/mnawiesniak">@mnawiesniak</a> <a href="https://t.me/mganczarczyk">@mganczarczyk</a>
+mozemy isc
+wyglada jak by byl jakims zloczynca z iniemamocnych
+smakuwa
+<a href="https://www.reddit.com/r/pcmasterrace/comments/1bggsv4/what_exactly_is_duke_the_java_mascot_supposed_to/">https://www.reddit.com/r/pcmasterrace/comments/1bggsv4/what_exactly_is_duke_the_java_mascot_supposed_to/</a>
+chyba nikt nie wie
+13:15 -&gt; zostaw już ten kod, trzeba coś zjeść. qa w kąt, a ty znikaj stąd
+Łukasz musi dotestować taska. Wezwij go, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/68cbe9b471437197ddcdea02">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/68cbe9b471437197ddcdea02</a>
+shackowalem kiosk
+ciekawe czy to w javie skoro tyle serwisów
+moze to android wiec maybe
+kojarze ze te posy chyba na windzie staly
+jeżeli wierzyć redditowi to <br>The software is called McDonald’s NewPOS 6.1, it runs Windows 10 LTSB 2016, and is coded in HTML
+Twoja Matka na wyprzedaży
+xD
+a to drugie tez?
+oczywiście że tam będzie plaża
+ale nie ma taga &apos;dating sim&apos;
+🤔
+chcialbys isc na randke z twoją matką?
+pojebie
+ale czyja jest twoja
+nie sprecyzowali
+masz napisane wyraznie twoja matka
+że moja?
+a nie twoja?
+w tytule masz
+to jestem bezpieczny, moja jest blondynką
+masz napisane
+no jest napisane, że twoja
+przecież
+no że twoja
+no dokładnie, twoja
+<span class="spoiler hidden" onclick="ShowSpoiler(this)"><span aria-hidden="true">na twoją matkę to ja nie mam tyle miejsca na dysku</span></span>
+Twoja Matka wpierdala zasoby bardziej niż docker compose
+czy można zrefactorować państwo
+można
+można je też kill
+Nepal
+Wybory na dc
+Na przykład
+kiedy twoj discord kitten zostaje prezydentem nepalu
+w których wzięło udział 10k osób
+to twoje community czołgowe jest większe
+więc gówno, a nie wybory
+nie no chyba tylko tymczasowo przez discorda wybierali
+i finalnie zrobia takie faktyczne wybory
+still
+tematycznie
+bo tak słabo troche kiedy jacyś radni z chuja w warszawie ignorują głosy<br>- mieszkańców<br>- nauki<br>- służb w tym policji<br>- samorządów<br>i mówią nie, zero problemu z alkoholem po 23 pijcie to wasze prawo
+xd
+ta, po prostu wybrali swoją reprezentacje żeby się dogadali z obecnym dowództwem wojskowym
+bo nie będą generałów zapraszać na discord (nie wiem czemu)
+pojebana akcja z tym nepalem
+o 23 pan z budowy to niech sobie kupi małpke
+ale może lepiej nie o 6:00
+aplikacja pod sklepem
+jak idzie na rusztowanie
+Bo by się okazało że niektórzy mają nicki pussydestryer69
+destryer?
+Nepalczyk
+<a href="https://www.youtube.com/watch?v=IyxSqeFrlp0&amp;pp=ygUKbmVwYWwgdmxvZw%3D%3D">https://www.youtube.com/watch?v=IyxSqeFrlp0&amp;pp=ygUKbmVwYWwgdmxvZw%3D%3D</a>
+no zakaz 23-6 chcą wprowadzić
+ten filmik pojebany
+gosciu przejazdem byl w nepalu
+i nagral to wszystko
+i 26M w tydzien
+wyswietlen
+no
+ale najlepsze jest ze te ziomki go traktowaly bardzo dobrze
+faktycznie jak media
+nie to co izr*el
+:)
+kurwa stonks
+mam tych skrzynek 530
+kupilem po 65gr
+xd
+2 koła chlop zarobil
+1500 bo jeszcze podatek steamowy
+ale trzymam dalej
+co to za asuka alternatywka 😆
+co tam sie z tymi skrzynkami dzieje
+że tak to skoczyło
+nwm
+z jakiegoś powodu kupiłeś ich 530 xd
+może tam jest jakiś skin którego esportowiec używał
+czy naklejka
+no zeby przetrzymac i zarobic
+bo zawsze w koncu rosnie cena
+tylko czasem szybciej czasem pozniej
+mam jeszcze 400 innych takich jeszcze drozszych
+to dopiero biznesman
+ale je to trzymam z 5 lat to wtedy one będą po 30zl za sztuke
+Ja to kupuje z tego co zarobie i potem zapominam o tym
+a po kilku latach sprzedaje i kupuje wiecej
+damn ale jestes hustler
+noo zaplacilem za tate university
+XD
+redpilled individual
+srają mi do review
+to ja im nasram do deva
+Optymalizacja be like
+uuu, cos fajnego?
+nowa forma wysylania nudesów
+troche sie boje
+kolega prosi o linka
+całkiem mądre że jest od razu report and block
+Zamykam QA
+w koncu
+to teraz impreza
+mergujcie wszystko
+kto pierwszy sra do deva
+ja mam zmiane uprawnien do vt i ut
+imo smol fix
+no tam sie duzo nie moglo zmienic
+tylko pewnie 1 albo 2 ify ze jak masz taką role to mozesz robic to i to
+i tak to nie ma duzego znaczenia
+domeny w profilu to chyba tam już prawie skończone te testy nie?
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> routingi szybko pyk pyk
+prawie gotowe
+jeszcze sprawdzić acle
+permisje
+i sru do deva
+no i git, ponad 9k linijek zmian na backendzie w jeden dzień
+tak trzeba żyć
+pora wyczyscic taby
+holy fuck
+powiększ sobie czcionke
+nie musisz widzieć całej klasy na raz
+po co
+jak monitor 5k
+widze dobrze
+chodzi o oczy
+bardziej się męczą od małej czcionki
+o kurwa
+-,-
+._.
+?:|
+<a href="https://x.com/jacknickolss/status/1968395796966981872?t=r06qPTZCiT6wvxU1YOBZzQ&amp;s=19">https://x.com/jacknickolss/status/1968395796966981872?t=r06qPTZCiT6wvxU1YOBZzQ&amp;s=19</a>
+co ty czytasz
+xd
+notyfikacje mi takie wyskakują z x
+xd
+O, też mi się wyświetliło
+mi też xd
+mi nie xd
+Mi też nie
+Może jest osobny Twitter dla frontendow
+Myślałem, że się wywali, a jednak nie
+kurwa
+od rana do mnie dzwonia z lekcjami angielskiego
+Wyślijcie scruma na grupie<br><a href="https://t.me/lmastalerz">@lmastalerz</a> <a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> <a href="https://t.me/mganczarczyk">@mganczarczyk</a> <a href="https://t.me/shipurjan">@shipurjan</a> <a href="https://t.me/mnawiesniak">@mnawiesniak</a> <a href="https://t.me/BartShoot">@BartShoot</a> <a href="https://t.me/mJakobsche">@mJakobsche</a>
+is my english that bad?
+lukasz chcesz numer?
+zależy do kogo się porównujesz
+oooo
+dokładnie
+:D
+do nikogo
+Po co mi numer, jak i tak nie zadzwonię?
+Nie lubię gadać z ludźmi
+A wy nie jesteście ludźmi
+ty jesteś: kasztan i małpa
+cos w tym jest
+A ty podludź
+ja jestem ludkiem choickochino
+ja też
+kocham to ze kuba za kazdym razem pisze choccocino inaczej
+wiele nazw jeden skarb
+ale mam skromnego scruma
+tylko 2 pozycje
+Wtf, razu po nocach coś siedzi
+moze ma nocny tryb zycia
+uff fa tylko ja myslalem ze mam nocny tryb zycia
+razu oddany, pracuje po nocach
+są tacy, co za dnia gówno robią
+ofc bez nazwisk
+no tak
+xd
+Ja tam sram ~20
+kto pytał
+i nikt nie placi za te siedzenie po nocach
+xd\
+idealny mem
+dokladnie
+9:50 -&gt; do przerwy zostało T - 10 minut.
+10:00 -&gt; jest piątek, weekendu początek. Uhonorujmy ten wspaniały dzień miską <strong>psznej zupy</strong> i jeszcze lepszego... no. Życzę wam spokojnego życia bez przypierdolek QA.
+good luck
+figma się przerzuciła na renderowanie webgpu
+a na co ci figma?
+serwisy w niej projektujesz?
+xd
+a na nic, wyskoczyło mi
+frontend może zauważy albo i nie
+od rana tylko resetuje sd2 i pszuczam generator. juz jest 10:20
+ok 👌
+kurwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+pora wrócic do rusta
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a> tu masz
+ok wysylam kiryu kazume nastepnym razem
+co za pijak to napisał
+trzeba clickup mcp
+trzeba Jakub translator
+żeby człowiek nie musiał się męczyć z pisaniem i czytaniem i pingpongiem
+niech zrobi to za nas ai z jakimś <a href="CLAUDE.md">CLAUDE.md</a> wspólnym firmowym do clickupa
+?
+no opisać ejajowi jak ma pracować z clickupem komu przypisywać kiedy itd
+O chłopie...
+To będzie większy rozpierdol niż teraz
+na pewno?
+nie będzie buddylang w taskach xD
+Definitywnie
+olga sotares
+aliexpress chyba upada xd
+a dukaty?
+ich strona przestaje funkcjonowac
+nie, po prostu mają wyjebane w to czy strona działa czy nie
+widzisz, reklame zrobili
+rozmawiamy o aliexpress
+ja nie mogłem się zalogować na polski aliexpress przez dłuższy czas, okazało się że wystarczyło zmienić na amerykańską strone i po zalogowaniu otwierało mi polską już jako zalogowany
+oni się jebią coś w przekierowaniach itd pewnie
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong><br><br>Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+Oficjalnie wybiła 13:00, co to oznacza? <br>Dokładnie! Ban na obrażanie <strong>sami wiecie kogo</strong> uważam za zniesiony!<br>Życzę kreatywnej krytyki i stalowych nerwów.
+13:15 -&gt; To już ostatni raz jak się spotykamy w tym tygodniu, więc może ruszyłbyś dupę? Dzisiaj i tak QA nie wystawia bugów, bo Łukasz rozjebał czołg (polski)
+Łukasz musi dotestować taska. Wezwij go, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/68cd3b3471437197ddd0226d">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/68cd3b3471437197ddd0226d</a>
+lecimy na zabe?
+na ustawke
+tak, bijemy sie pod zabo
+Łukasze z drzewa spadają
+już?
+czyli parkowanie pod płotem odpada bo ci się drzewo skasztani na auto
+<a href="https://t.me/lmastalerz">@lmastalerz</a>
+<a href="https://app.awsdev.net/ttests/git-repo/pipelines/pipeline/30338/execution/68cb8dd3958f5f4f34a4faa1">https://app.awsdev.net/ttests/git-repo/pipelines/pipeline/30338/execution/68cb8dd3958f5f4f34a4faa1</a>
+pipeline ma tryb piatek
+<a href="" onclick="return ShowHashtag(&quot;pralka&quot;)">#pralka</a> <a href="https://app.clickup.com/t/869a6nzz3">https://app.clickup.com/t/869a6nzz3</a>
+krzysiek mnie prosi o domergowanie tego brancha 😂
+ja zapomnialem ze on istnieje
+a on w testach był czy jak
+tak
+xdd
+XD
+od kiedy XD
+<a href="https://app.clickup.com/t/8699x7z0n">https://app.clickup.com/t/8699x7z0n</a>
+od 6 sierpnia
+Którego roku?
+tego
+2025 AD

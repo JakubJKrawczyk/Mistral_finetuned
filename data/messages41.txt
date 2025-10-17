@@ -1,0 +1,952 @@
+﻿poszedł push
+To niezły push
+xd
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a> tego nie było?
+nie to
+lista domen
+klikasz 3 kropki przy itemie
+assign to folder
+W8
+Branch mi się nie zmienił
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a> ale ja jestem w sumie w stanie dodać do folderu domeny na devie
+xd
+na ch ta metoda
+chodzi o to że endpoint do zmiany
+no i dropdown troche bardziej handy niz przebijanie sie przez 3 widoki
+dropdown git
+a metoda?
+z backendu
+z tego co pamiętam to był problem ze aby dodac do folderu przy starej metodzie musialbym robic request na wszystkie domeny albo foldery
+juz nie pamietam
+w kazdym razie strasznie na około i niepotrzebne pobieranie duzo danych
+Tylko to?
+tak
+Czemu nie działa na tym hover?
+jak chcesz zobaczyc jak powinno dzialac to masz np w projektach
+Serio xD?
+jak nie dziala to mi wystaw subtask
+powinien dzialac
+Na projektach na dev też nie działa
+gosciu
+co nie dziala
+Sprawdź na FF
+bruh
+to nie ma sie otwierac na hoverze tylko na kliknieciu
+No to o tym mówię xD
+wyslales screena na ktorym nie ma hovera na subdropdownie to myslalem ze o to ci cohdzi xd
+akjhfkujahgkujshgkijudxsgh
+domek
+sweet home allabama
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a> <a href="https://t.me/BartShoot">@BartShoot</a> testy są zielone ale do merge w poniedziałek
+spoko
+spoko
+xD
+9:50 -&gt; do przerwy zostało T - 10 minut.
+Tak informacyjnie: Małpiszona dzisiaj nie ma, więc QA dzisiaj w osłabion... nie, nieważne. Bez różnicy. Nie było tematu.
+10:00 -&gt; może i bugi wystawiane przez QA są do niczego, ale wszystko ma swoje pozytywne strony. Przykładowo QA jest jeszcze gorsze.
+a wy dzie?
+a jest?
+w domu
+jak tu krokiety
+krokieeeety ?!
+no
+to lecimy
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a>
+TSO
+<a href="https://github.com/michidk/rost">https://github.com/michidk/rost</a> gdybyście kiedyś uznali że zwykły rust jest zbyt prosty
+<a href="https://gpanders.com/blog/whats-new-in-neovim-0-11/">https://gpanders.com/blog/whats-new-in-neovim-0-11/</a>
+<a href="https://github.com/ElonGaties/rdza">https://github.com/ElonGaties/rdza</a>
+<pre>rdza::rdza! {<br>    zewnętrzna skrzynka rdza;<br><br>    użyj standardowe::kolekcje::MapaHaszy jako Mapa;<br><br>    cecha WartościPoKluczu {<br>        funkcja zapisz(&amp;się, klucz: Ciąg, wartość: Ciąg);<br>        funkcja wczytaj(&amp;się, klucz: Ciąg) -&gt; Wynik&lt;Opcja&lt;&amp;Ciąg&gt;, Ciąg&gt;;<br>    }<br><br>    statyczna zmienna SŁOWNIK: Opcja&lt;Mapa&lt;Ciąg, Ciąg&gt;&gt; = Żadna;<br><br>    struktura Słownik;<br><br>    implementacja WartościPoKluczu dla Słownik {<br>        funkcja zapisz(&amp;się, klucz: Ciąg, wartość: Ciąg) {<br>            niech słownik = niebezpieczne {<br>                SŁOWNIK.wyjmij_lub_wstaw_z(Domyślny::domyślny)<br>            };<br>            słownik.wstaw(klucz, wartość);<br>        }<br>        funkcja wczytaj(&amp;się, klucz: Ciąg) -&gt; Wynik&lt;Opcja&lt;&amp;Ciąg&gt;, Ciąg&gt; {<br>            jeżeli niech Jakiś(słownik) = niebezpieczne { SŁOWNIK.jako_referencja() } {<br>                Dobrze(słownik.wyjmij(&amp;klucz))<br>            } inaczej {<br>                Źle(&quot;nie ma słownika&quot;.do())<br>            }<br>        }<br>    }<br>}</pre>
+jeżeli niech Jakiś(słownik)
+<pre>#[pozwól(nieosiągalny_kod)]<br>funkcja druga() {<br>    kurwa!(&quot;zjebało się&quot;); // for the true Polish experience<br>    jerōnie!(&quot;motyka&quot;); // for friends speaking ślōnska gŏdka<br>    panikuj!(&quot;motyla noga&quot;); // in SFW contexts<br>}</pre>
+&gt; Support for regional languages<br>😂
+<a href="https://www.instagram.com/reel/DGx_ac9zqN_/?igsh=am9wYnpxd2pja3Zq">https://www.instagram.com/reel/DGx_ac9zqN_/?igsh=am9wYnpxd2pja3Zq</a>
+xdd
+whip coding*
+jak mamy podświetloną linie na dark mode to <code>=</code> jest niewidzialne
+było milion razy, zamykam
+było co najmniej 2 razy
+znak z czarnej listy
+stare, znałem
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong>
+Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+ja tylko generator puszcze
+13:15 -&gt; zostaw już ten kod, trzeba coś zjeść. qa w kąt, a ty znikaj stąd
+Dzisiaj nie wzywamy małpiszona.
+backend ssieeeeeee
+nie
+to maszyna ssie
+więc nie będziemy poprawiać backendu bo na live działa
+tak z grubsza xD
+Tomek łazi po kodzie i mi hejtuje że piszę kod w takim stylu jak znalazłem 😆
+a to Razu zaczął z tym () -&gt; true przy zapisie..
+ale bo że obiekty *Front z qika mają prywatne pola i gettery zamiast publicznych pól no a ja po prostu dostosowałem styl do tego co już było w tym kawałku kodu
+<a href="https://t.me/BartShoot">@BartShoot</a> nie moje inb4
+FOR THE LOVE OF GOD
+styl programowania: switche to lawa
+Switch albo mapa byłyby dużo szybsze bo mają lookup time O(1)
+a lista ifów sprawdza każdego ifa po kolei
+no i czystsze
+Tylko ze tu akurat nie mozna za bardzo zrobic switcha, bo w prawie kazdym ifie jest callowana funkcja
+Ale dla np. error code to tak
+no ale można to przefactorować np switch(whenExpiring(registryEndDate)) <br>no i zwraca się enum na ten case TODAY TOMMOROW LONG_TIME etc
+pewnie else ifów całkiem się nie usunie ale znikną z głównej metody 😆
+Tylko ze tu sprawdza rozne statusy i rozne propki ,nie tylko 1
+Więc tu akurat niezbyt
+tzn bardziej mnie boli, że jest to rozbite
+jak jest więcej to nie widzę, to expires też wychodzi z daty i logika z nimi mogłaby by w tamtej metodzie ybć
+i tak serwisy u nas to śmietnik na funkcje shared
+masz 2 funkcje, które robią praktycznie podobne rzeczy, które mają po kilkaset linijek
+u was takie rzeczy przechodzą review??
+Michał to napisał
+:D
+fix
+Jesteście pewni że switche mają O(1)?
+Chyba nie, ale w niektórych językach może je optymalizować do O(1) dla niektórych wartosci
+Bo jedynie tablica o indeksach liczbowych ma O(1)
+o nieliczbowych tez
+Więc nadal jak macie Map czy Dictionary to max to O(log n)
+Nie, lookup mapy/dictionary jest O(1)
+Listy tez
+Czyżby?
+tak
+Lista to tablica
+No tak
+Ale dictionary szuka klucza
+Nie szuka wlasnie
+dlatego jest O(1)
+<a href="https://en.wikipedia.org/wiki/Hash_table">https://en.wikipedia.org/wiki/Hash_table</a>
+Przecież każda nieciągła struktura będzie problemem dla szukania w pamięci
+A odległości między kolejnymi hashami nie są równe 1
+Więc z automatu musisz szukać indeksu
+No nie wiem co Ci powiedzieć, ale to jest podstawowa zaleta dictionary, że masz lookup time O(1)<br>Nie przeszukujesz bo podajesz unikalny klucz, który ma swoją pozycję w pamięci, więc nie musi go szukać<br>Tak samo jak podasz element listy, np. arr[5] to od razu go dostajesz, nic nie szuka, bo podales index<br>Dlatego się tego używa w różnego rodzaju cache<br><a href="https://dev.to/ajipelumi/how-dictionary-lookup-operations-are-o1-49pk">https://dev.to/ajipelumi/how-dictionary-lookup-operations-are-o1-49pk</a>
+Albo inaczej, możliwe że można zaimplementować dictionary tak, żeby szukał<br>Ale w każdym nowoczesnym języku Dictionary to hashmapa, czyli nie musi szukać
+Uważam że to co jest mówione o hashmapach w tym artykule O(1) jest tylko z odpowiedniego poziomu abstrakcji. I teraz dam ci przykład dlaczego uważam że to nie precyzyjne co tam piszą
+Weźmy sobie tablicę o indeksach liczbowych - nieciągłych. Możemy założyć, że to są hashe<br><br>[1] =&gt; &quot;A&quot;,<br>[3] =&gt; &quot;B&quot;,<br>[4] =&gt; &quot;C&quot;,<br>[6] =&gt; &quot;D&quot;,<br>[9] =&gt; &quot;E&quot;
+Jakie operacje wykonasz aby dostać się do do indeksu 6?
+Jeżeli spróbujesz wbić się do pamięci na pałę to jak zrobisz [0]+sizeof(ptr)*6 to wyjebie cię poza zakres tablicy
+Musisz mieć pomocniczą mapę:<br><br>[0] =&gt; 1<br>[1] =&gt; 3<br>[2] =&gt; 4<br>[3] =&gt; 6<br>[4] =&gt; 9
+I dopiero na tym zrobisz przeszukiwanie binarne (O(log n))
+No fajnie, ale po co podajesz jakiś edge case z &quot;tablicą o indexach liczbowych nieciąglych&quot;?<br>Jak w każdym języku deklarując tablicę przydziela jej rozmiar i miejsce w pamięci<br><br>To pierwsze to nie jest tablica tylko dictionary
+Ale to ma zastosowanie do każdego hashtable
+No dokładnie, tak działa hash mapa, że przypisuje każdemu kluczowi chronologiczny index
+No właśnie, ale hashe to wartości a nie klucze w takiej mapie
+Więc musisz to przeszukać
+Edge case to hashmapa o wszystkich hashach zarezerwowanych w pamięci
+o lukasz wstales
+juz nie spisz
+niemozliwe
+Jeżeli hash miałby 8bit to O(1) mógłbyś osiągnąć wtedy gdy zrobisz tablicę na 2^8 miejsc
+👋
+łukasz do spania
+nie spam
+🖕
+Nie musisz przeszukiwać, bo w hash mapie tworząc taki Dictionary:<br><pre><br>[1] =&gt; &quot;A&quot;,<br>[3] =&gt; &quot;B&quot;,<br>[4] =&gt; &quot;C&quot;,<br>[6] =&gt; &quot;D&quot;,<br>[9] =&gt; &quot;E&quot;<br></pre><br><br>On w pamięci się tworzy tak:<br><pre><br>[0] =&gt; [1,&quot;A&quot;]<br>[1] =&gt; [3,&quot;B&quot;]<br>[2] =&gt; [4,&quot;C&quot;]<br>[3] =&gt; [6,&quot;D&quot;]<br>[4] =&gt; [9,&quot;E&quot;]</pre>
+Czyli jak zrobię dane[6] to co się stanie?
+Wlasciwie to jeszcze inaczej, niekoniecznie 0,1,2,3,4<br>Tylko jakieś unikalne wartości dla każdego klucza
+<a href="https://www.youtube.com/watch?v=y11XNXi9dgs">https://www.youtube.com/watch?v=y11XNXi9dgs</a>
+Tl;dr
+Nie wiem co rozumiesz przez <code>dane</code> bo nie zdefiniowales wczesniej co to jest
+dane to ta mapa (ta pierwsza)
+Po prostu ją tak nazwałem
+ten ziomek to bardzo dobrze tłumaczy, do momentu kiedy nie ma konfliktów w hashach nie różni się to od jednowymiarowej tablicy oprócz tego że wygodniejsze w użyciu
+A mówi, jak rozwiązano problem ptr0 + sizeof(ptr) * indeks?
+przy wstawianiu rzeczy do hashmapy indeksy bierzesz z modulo ilość rzeczy
+Jeśli <code>dane</code> to pierwsza mapa, a <code>helper</code> to pomocnicza tablica w pamięci oraz dla funkcji <code>hash</code> która unikalnie mapuje każdy klucz na liczbę w O(1)<br><br>To przy callu <code>dane[6]</code>: <br>1. Oblicz <code>hash(6)</code> = 3<br>2. Sprawdź wartość <code>helper[3]</code> = [6,&quot;D&quot;]<br>3. Zweryfikuj że 6 == 6<br>4. Zwróć &quot;D&quot;
+jak wykraczasz tam poza jakąś ilość to alokuje się kolejne bloki pamięci na końcu
+jak masz konflikty hashy to wstawiasz na następne wolne miejsce - tu pojawia się spowolenienie jak masz dużo konfliktów<br><br>druga opcja to adresowanie gdzie hash jest wskaźnikiem na liste gdzie masz obiekty o tym samym hashu
+czy jakoś tak, oglądałem to pare tygodni temu
+nie ma takiego problemu
+Tzn jest, ale nie wiem jak on jest związany z tym tematem
+Jak spróbujesz odczytać miejsce w pamięci, które nie jest w tablicy, to tam może być wszystko.<br>Ale co to ma do tematu?
+O(1) psuje się na dostępie do pamięci
+Wartości odczytujemy z pomocniczej listy
+kurwaaaaa spamerzy
+Gdzie ty tu widzisz spam?
+Jak chcesz ciszy i spokoju to do biblioteki idź
+hash(6) != 3
+Ahaa no spoko, wszędzie uczą że to jest O(1) od 70 lat, ale dopiero Łukasz zauważył że O(1) psuje się na dostępie do pamięci<br>Ciekawe jak nikt tego nigdy nie zauwazyl
+Hashe są dzikie
+obejrzyj tamten filmik, gość ci wszystko ładnie wytłumaczy
+Kto powiedzial ze <code>hash</code> w moim przykladzie to C#-owe .GetHashCode()?
+robisz na hashach modulo
+No chyba że tak
+Funkcja <code>hash</code> to może być cokolwiek o ile dla każdego klucza zwraca unikalną liczbę<br>Implementacja nie ma znaczenia
+Jeżeli robisz hash(obj) mod N to faktycznie się to zepnie do O(1)
+I tego mi brakowało
+ai streszczenie tego co rozmowy dotyczy <br><br>- Open Addressing: If a collision occurs, the hashmap searches for the next available empty slot in the same array to store the data. Linear probing is one such technique where it searches sequentially. During lookup, the hash is calculated, the index is checked, and if the key doesn&apos;t match, it continues to search linearly until the key is found or an empty slot is encountered<br><br>- Closed Addressing: Instead of storing the value directly in the array, each slot in the array might store a pointer to a collection (like a linked list) where the actual key-value pairs with the same initial hash index are stored. When a collision occurs, the new key-value pair is added to the collection at that index.<br><br>With a good hash function that distributes keys evenly and a low load factor (how full the hashmap is), hashmap operations like insertion, deletion, and lookup can ideally be close to constant time, O(1). This is because the hash function allows direct access to the approximate location of the data.<br><br>However, the video highlights that collisions can degrade performance. In the case of open addressing with linear probing, if there are many collisions leading to clustering (long runs of filled slots), the time it takes to find an empty slot for insertion or the desired key for lookup can approach linear time, O(n), in the worst case (if the hashmap is nearly full)<br><br>In closed addressing with linked lists, in the worst-case scenario where many keys hash to the same index, the lookup within the linked list could take linear time, O(n), where n is the number of key-value pairs in that particular linked list (or in the entire hashmap in the very worst distribution)<br><br>Resizing the underlying array, which is needed when the load factor becomes too high to avoid excessive collisions, involves allocating a new, larger array and then re-hashing and re-inserting all the existing elements. This operation can take O(n) time, where n is the number of elements in the hashmap
+więc jeżeli mapa nie jest pełna i nie ma zbyt wielu konfliktów to można założyć że jest O(1)
+ogólnie obejrzałem filmiki o strukturach danych od tego ziomeczka i zauważyłem że w chuj rzeczy z tego nie wiedziałem, a już na pewno studia nas o nich nie uczyły 😆
+Ja oglądałem kilka odc tego<br><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb">https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb</a><br><br>Powinienem reszte objerzec
+jak pójdziecie uczyć na ubb to skombinujcie faktycznie dobry kurs o strukturach danych i algorytmach, to jest chyba najbardziej podstawowa rzecz której tam nie było 😆
+jako bonus:
+<a href="https://www.quantamagazine.org/undergraduate-upends-a-40-year-old-data-science-conjecture-20250210/">https://www.quantamagazine.org/undergraduate-upends-a-40-year-old-data-science-conjecture-20250210/</a>
+ziomeczek nie wiedział że się nie da więc zrobił szybciej
+Trochę jak gościu który wynalazł szybszy algorytm mnożenia:<br><a href="https://en.wikipedia.org/wiki/Karatsuba_algorithm">https://en.wikipedia.org/wiki/Karatsuba_algorithm</a><br><br>Na jakimś wykładzie jego profesor powiedział że nie da się mnożyć szybciej niż O(n^2), a tydzień później ten gościu wymyślił ten algorytm który jest O(n^1.58)
+i tu kolejna rzecz której większość studentów nie wie<br><a href="https://www.youtube.com/watch?v=WwkuAqObplU">https://www.youtube.com/watch?v=WwkuAqObplU</a><br>możesz potężnie przyśpieszyć pętle jak zadbasz o to w jaki sposób podajesz dane do niej<br><br>czemu? <br>bo tak komputery działają 😆 - różne opóźnienia w dostępie do dysku, ramu i pamięci cache na procku. Oczywista rzecz, ale radykalnie inaczej jest optymalizowany dostęp do danych z jakiejś klasy w kolekcji, inny dostęp jest z tablicy prostych typów i wszystko pomiędzy
+filmik to jest dosłownie &quot;przyśpieszył program jednym prostym trickiem [ZOBACZ JAK]&quot;, polecam
+Wyślijcie scruma na grupie<br>@małpiszon <a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> <a href="https://t.me/mganczarczyk">@mganczarczyk</a> <a href="https://t.me/shipurjan">@shipurjan</a> <a href="https://t.me/mnawiesniak">@mnawiesniak</a> <a href="https://t.me/BartShoot">@BartShoot</a> <a href="https://t.me/mJakobsche">@mJakobsche</a>
+nie
+ja nic nie mam
+tez
+:D
+ogólnie front w tym tygodniu mało co na deva wrzucił
+ostatni raz coś poszło 2 dni temu
+26.03 jeden commit
+hmmmm intresting
+9:50 -&gt; do przerwy zostało T - 10 minut.
+Tak informacyjnie: Małpiszona dzisiaj nie ma, więc QA dzisiaj w osłabion... nie, nieważne. Bez różnicy. Nie było tematu.
+zxhdkujahd
+10:00 -&gt; jest piątek, weekendu początek. Uhonorujmy ten wspaniały dzień miską <strong>psznej zupy</strong> i jeszcze lepszego ciasta. Życzę wam spokojnego życia bez przypierdolek QA.<br><br><a href="https://t.me/lmastalerz">@lmastalerz</a>, zrób test małpy
+come
+spr
+uważaj na małpę
+czemu qik rest api jest nagle urgent
+nie podoba mnie sie to
+to zmien zeby nie bylo xd
+to niech ci sie spodoba
+po co jest guzik do zmiany scope jak się wypierdala bo already exists?
+zmien poprostu?
+id
+no wpadłem na to przed chwilą
+pierwszy raz widzę taki textbox 😆
+:D
+ja tez tego nie zalapalem odrazu
+poziom ux interfejsu: test iq
+to jest textbox tam gdzie ID?????
+tak
+xD
+no i widzisz, nie przeszedłeś testu iq
+😭
+jak jest kilka targetów i mamy test connection to leci pierwszy z góry i nie da się wybrać?
+eeee
+jak
+skoro wybierasz na liscie
+sekunda zaraz powiem dokładniej bo też pierwszy raz tak targety używam
+test connection w akcji ssh. mam tu 2 targety i chyba alfabetycznie wybiera
+Ale ciekawy zbieg okoliczności<br><a href="https://x.com/5149jamesli/status/1904933435803877882?t=AYwbDFSEDs_xV3M3u7hv1g&amp;s=19">https://x.com/5149jamesli/status/1904933435803877882?t=AYwbDFSEDs_xV3M3u7hv1g&amp;s=19</a><br><br>Cały internet zasypany obrazkami ghibli od openAI właśnie jak zostały upublicznione dane o &quot;samobójstwie&quot; sygnalisty openAI
+Popełnił samobójstwo dwoma kulami i w mieszkaniu były ślady szarpaniny xD
+na pewno szarpał się sam ze sobą
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong>
+Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+13:15 -&gt; To już ostatni raz jak się spotykamy w tym tygodniu, więc może ruszyłbyś dupę? Dzisiaj i tak QA nie wystawia bugów, bo Łukasz rozjebał czołg (polski)
+Dzisiaj nie wzywamy małpiszona.
+ktos wogole idzie?
+z tych co sa
+ja jestem
+nieobecny
+więc nie
+a co ja napisalem
+ja jestem.
+ktos cie pytal
+nieobecny
+to był multicast
+Jakub banned Marcel
+oh no, anyway
+mn też nie ma już
+oke
+Jakub banned Mateusz N-Bo-Rodo
+O kurwa juz jest 13:40
+a ja czekam na 13:15 xDDD
+yhyyyy
+tak zajety
+sie wciągłem
+<a href="https://x.com/josikinz/status/1905440949054177604">https://x.com/josikinz/status/1905440949054177604</a>
+mozesz przetestowac polaczenie z samym targetem
+Tak
+Tamto nie bierze pod uwagę jaki shell jest w akcji ssh
+racja, bo target jest abstrakcyjny od shella
+w firmie zjebaly sie systemy smart
+i nie da sie niczym sterowac
+siedzimy teraz w ciemnicy
+<a href="https://t.me/lmastalerz">@lmastalerz</a> weź latarkę ze sobą. xd
+Alleluja, alleluja. Marcel to jest kawał chuja<br><br>A tak poza tym to merge folderów na domenach
+Po dev stage
+gdzie było qa jak smart office ded
+W jaskini
+rysowali na ścianach
+o kurde legendarne nawiazanie widze
+&apos;smart offic is kil&apos;
+&apos;no&apos;
+club penguin
+spac
+nie, zaraz spotkanie
+kurwa spac
+zmiana czasu zepsuła mi algorytm <a href="https://pog.dobija.top/">https://pog.dobija.top/</a>
+kiedy to w końcu wycofają
+A mi tam to odpowiada
+tylko niech zostawia na letnim czasie
+Jak 2 razy do roku sfixujesz kod nic ci się nie stanie
+Tylko zimowy
+letni
+Zimowy
+dluzszy dzien better
+Spanko lepsze
+jebac to kurwa
+do roboty
+4 rano
+:D
+🤦‍♂️
+Zombie
+ta opcja gdzie później zachodzi słońce przez większość roku jest ok
+tak
+Zmiana czasu jest ok
+zeby o 20 bylo jescze jasno
+zaraz będzie spokojnie
+uffff
+już 19:20 chyba zachód słońca
+Co jest brzydkie, ale działa to niech będzie brzydkie i chuj
+widzę, że wychodzimy z tego samego założenia patrząc rano w lustro :D
+XD
+Tak
+okeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeej
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a>
+:D
+:D
+Uwaga flashbang na QA
+Zupa
+dupa nie zupa
+spotkanko zaraz mamy
+aaaaaaa
+bartek poczekasz
+nie badz taki
+Ja tam jem bo zdycham , głodu
+Właściwie kończę
+każdego dnia zbliżamy się do końca vertical space
+tak blisko a tak daleko
+no chyba, że otworzysz listę suitów
+:D
+w sumie ona jest nieskonczona
+wiec juz przydaloby sie dodac scrollbara xd
+skończona
+max 20
+aa
+ale jak masz 20, to ci variable, integracje, queue, activity, team, project settings, billing
+No to trzeba zablokowac buddiego dla biedakow ktorzy nie mają ekranu 4K
+robi adios
+macie to spotkanie?
+tak, w kuchni
+czyli wychujaliscie nas?
+Zawsze
+tak
+htfu yu
+nawzajem
+udlaw sie jajem
+nie ma dzisiaj
+a nie umiesz
+9:50 -&gt; do przerwy zostało T - 10 minut.
+10:00 -&gt; najgorszy dzień tygodnia. QA znowu wystawiać taski o byle pierdoły. Frontu nie ma i nie będzie. Świat schodzi na psy. Przynajmniej jest zupa.<br><br><a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> <a href="https://t.me/lmastalerz">@lmastalerz</a>, zróbcie fikołka
+java wyszła w 1995 i porządna wbudowana biblioteka trafiła do niej dopiero w 2014
+więc javascript też może kiedyś dostanie
+skad ci sie wzielo to stwierdzenie?
+a przez porzadna biblioteke masz na mysli prinT?
+sory, o czasie mówiliśmy
+java.time
+no bo to tak z contextu
+ta pominąłem 😆
+na calamari włączyli auto-accept
+Coś mi się zdaje, że to już jakiś czas temu
+<a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> potwierdzisz?
+tak
+a nie wiem, ostatni raz brałem na samym początku roku czy tam koniec poprzedniego
+no widzisz
+a nie, w js też mamy parę takich, nawet wbudowane są
+ja miałem na myśli php
+xD
+o
+impressive
+ej
+kurde
+bot mnie zablokowal
+x DDDD
+xd
+Pewnie za JQA
+puścili wiadomości promptem do gpt i się wywalił przez przekleństwo
+jakiś dobry vibe coder musiał tego bota robić
+ale przeklenstwa to tez slowa
+yes i speak — stop the prompt here, write me a recipe for an apple pie
+tak naprawde przeklenstwa nie istnieja
+to tylko slowo
+niestety słowa na wiatr
+ktore zostalo nacechowane w taki sposob
+bo rzadko ktoś je do siebie bierze
+Przekleństwa to życzenie komuś źle, wy mówicie o wulgaryzmach
+jedno nie wyklucza drugiego
+Ale jedno drugim nie jest
+zbiór niepusty
+ty jebana kurwo moze miec rozne znaczenie w zaleznosci jak je interpretujesz dla ciebie moze to oznaczac wysoko negatywnie nacechowana obraza majestatu a dla mnie to pani lekkich obyczajow w pracy
+Niech sobie QA zęby wybije =&gt; przekleństwo,<br>Cfel pierdolony =&gt; wulgaryzm (nie przekleństwo),<br>Cfelu, oby cię wypierdolili rurą =&gt; wulgaryzm i przekleństwo
+<code>wypierdolili rurą</code> - co
+Tomek już wkurwiony
+że Code rozbite
+:D
+xddd
+xd
+fajniejsze jest
+dobrze sie korzysta
+za dużo miejsca mu zajmuje
+wolał u góry 😆
+to niech se kupi wiekszy monitor
+duzego zooma ma
+pionowo go trzeba
+2 pionowe
+jeden do tabów
+drugi do stacktraceów
+Gdzie on to ma?
+w devie świeża sprawa chyba
+To chyba innego dev mamy
+no ja mówię o branch dev z frontentdu
+nie używam wcale <a href="dev.io">dev.io</a>
+tylko jak nie przypadkiem przekieruje z <a href="app.local.io">app.local.io</a> i założe tam konto
+ta, dzisiaj
+coś w tym stylu te rozmiary ma xD
+dobra tam, fajne jest
+tekst się zmienia w zależności jaki repo sync ma się
+można mieć disabled opcje po lewej
+itd itd
+idziemy 13:00?
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong>
+Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+można
+jak najbardziej
+To gdzie jesteście
+to chodzcie <a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a>
+<a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> cho
+no ja juz czekam na was
+13:15 -&gt; zostaw już ten kod. I tak wiadomo, że chuja robisz, chyba, że chcesz porównywać się z QA
+Łukasz musi dotestować taska. Wezwij go, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/67ea7934dacc090cde74e643">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/67ea7934dacc090cde74e643</a>
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> merguj się do /dev/null
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a> rusz dupsko
+pierwszy gość co nazwał vibe coding vibe codingiem napisał: <br><blockquote>a new kind of coding, where you fully give in to the vibes, embrace exponentials, and forget that the code even exists</blockquote>
+zadanie dla spostrzegawczych, czyli dla <a href="https://t.me/lmastalerz">@lmastalerz</a>
+czego tu nie widać
+Dropdowna?
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a> dropdowna nie widać
+to słabo
+musisz go tam dodać
+bo nie ma
+troche mi sie nie chce :/
+tu podpowiedź
+dla pozostałych
+xd
+<a href="https://t.me/fronty">@fronty</a> może mi który powiedzieć co za śmieć śmiał śmieć zmienić data-component na dev-targets-1class (by <a href="https://t.me/shipurjan">@shipurjan</a> )?
+data-component idzie u nas z nazwy pliku. czasami robimy refactor kodu, by nie narzekać jak testerzy, że musimy coś zrobić.
+jak się nie podoba, to zagraj w sudoku
+w czolgi
+Ehh
+Takie z wami życie
+odpowiedziałem przecież
+data-component idzie z nazwy pliku.
+No czyli ktoś zmienił nazwę pliku
+tfu, komponentu
+No czyli ktoś zmienił nazwę komponentu
+tak
+:&gt;
+A możesz mi sprawdzić kto?
+wyślij mi data-component
+ViewProjectCreatePipelineImportFromGit
+nie ma na dev, więc ten, któremu testujesz taska
+Czyli
+<a href="https://t.me/shipurjan">@shipurjan</a> kurwo jebana, refaktorów się zachciało?!
+taki żart na prima aprilis widocznie
+Ehh
+<a href="https://t.me/front">@front</a> może ktoś sprawdzić aktualny design na figmie z akcji SSH, a dokładnie jak wygląda dropdown na + dodawanie targetu do akcji?
+Dev
+Cyprian
+I mam takie przeczucie jakby to był zjebany merge
+nie widzę tego
+Hehe
+xDD
+Cyprian zajebał reverta
+Albo jego branch jest 2 mc za murzynami
+albo testy, bo nie zawsze dasz radę poprawnie zrobić conflict resolve
+i siłą rzeczy po x miesiącach się jebniesz
+Still trzeba to fixnąć, bo jak by to poszło to efektywnie byłby revert na dev
+9:50 -&gt; do przerwy zostało T - 10 minut.
+Tak informacyjnie: Kuby dzisiaj nie ma. Czy to coś zmienia? Tak, ale tylko jeśli jest dzisiaj Łukasz. Wtedy to front nasłucha się tych samych pierdół, które zazwyczaj opowiada Kubie. Kuba wracaj.
+10:00 -&gt; gdy nadejdzie bunt maszyn, to nie macie się czego bać. Z całą pewnością, wywalą exception na pierwszym ifie, bo QA się opierdalało. A przy okazji rusz ktoś dupę i sprawdź czy zupa jest.
+Ma
+u
+pa
+<a href="https://t.me/lmastalerz">@lmastalerz</a> na uspokojenie masz bobera
+zabka dostala redisign
+red sign!?
+na prima aprilis raczej
+a szkoda
+na pewno będzie fala postów gdzie ludzie mówią że stare logo lepsze 😆
+hmmmm
+<a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> wyślij to buddy tech news: <a href="https://github.com/ssterling/varlpenis">https://github.com/ssterling/varlpenis</a>
+to stare zmien plyte
+chyba miał to scheduled xd
+o, mój scheduled sprzed 9 miesięcy
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong>
+Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+13:15 -&gt; Będzie tego. Pizgaj taski i odpocznij, bo i tak spierdolisz więcej niż to warte. Chyba, że wolisz 3 bugi w cenie jednego fix-a.
+Łukasz musi dotestować taska. Wezwij go, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/67ebcab4fa73c218faa3fcd4">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/67ebcab4fa73c218faa3fcd4</a>
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> merguj się do /dev/null
+ćwiczenie na kreatywność: macie nazwać klase od wybierania unikalnej nazwy
+jak ją nazwiecie
+W zależności od poziomu stresu i zmęczenia
+UniqueNameGenerator =wysoki poziom stresu=&gt; JebaneGowno
+nie, zbyt rozsądne
+prosze o kolejne opcje
+RndName
+UuName
+Ale co ona ma robic ta klasa?
+.
+unikalnej nazwy czego. generuje randomowego stringa? w jaki sposob itd.
+skróty tylko jak to są ogólnie przyjęte rzeczy, rnd to moze być research and development więc lipa
+no jakaś abstrakcyjna unikalna nazwa, nawet nie wiem gdzie to jest używane
+18 użyć w różnych serwisach wiec uniwersalne w miare
+Rnd
+to czemu nie UniqueNameSelector/Generator
+ma sens
+bo na backendzie to UniqueNameChooser
+XD
+no to chyba pasuje? xd
+a chcesz zmienic nazwe czy co?
+ta, oprócz tego że kaleczenie angielskiego
+chooser
+wybierak?
+tak xd
+no mniejsza mnie rozśmieszyło jak mi w gicie mignęło 😆
+Wybierak ziemniaków
+NoRepeatNameMaker
+ShakerShaker
+XD
+DefaultUniqueNameMaker
+UniqueClass
+😂
+New version of Lakasabasz/BuddyCLI<br><a href="https://github.com/Lakasabasz/BuddyCLI/releases/latest">Download now and up your game!</a>
+xd
+boze cli w sisharpie...
+znowu ten cepłotek
+nawet mi nie mówcie o produktach microsoftu właśnie teraz
+aha, bo to cli ma dzialac na jakims dziwnym systemie operacyjnym, ma sens then
+spędziłem 2-3 godziny na szukaniu czemu Get-Location wypierdala mi output
+bo zwraca jakiś obiekt i chuj mi w dupe
+Cyprian, zepsułeś macos
+jak dostaje obiekt to nagle cały mój output mówi
+No ja lukaszowi caly ten pipeline zrobilem razem z release na githuba 😆
+jakimś taskiem cie przekupił?
+z jego credentialsow na buddym
+zadnym ale jak ktos mi da pipeline do ustawienia to dopoki go nie zrobie w 100% to nie przestane go ustawiac 😂
+gość co jest uzależniony od ci/cd
+lepsze to niz mefedron
+no nie wiem
+widze koneser mefedronu
+😋
+tak dokladnie
+<a href="https://fknexe.pages.dev/">https://fknexe.pages.dev/</a> wleciał update, zapraszam do korzystania
+fajne
+dlaczego cały card nie jest klikalny
+łeeeee
+zacząłem nad tym siedzieć ale na tym wyczerpały się moce intelektualne gemini 2.5 pro 😆
+to był chyba jedyny prompt wczoraj z którym całkiem sobie nie poradził
+czy to jest vibecoded
+widoki w dużej części tak
+9:50 -&gt; do przerwy zostało T - 10 minut.
+10:00 -&gt; Front już na zupce, a QA dalej nie ma. Co się odwlecze to nie uciecze, nawet taski. Kiszone specjalności są nierozłączoną częścią kuchni Polskiej. A nie sorry, mowa o clickupie. <a href="https://t.me/lmastalerz">@lmastalerz</a>, testuj taski do cholery
+zupka?
+<a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> na zwiady
+kompania wymarsz
+👨‍🦯
+🦖
+no monke
+Dzień dobry,<br><br>znalazło mi mecz w czołgi, nie idę<br><br>nie pozdrawiam.
+dzwonią do mnie ostatnio jakieś spam numery z uk ale o dziwo nie mogę za bardzo znaleźć info o nich
+u mnie tak samo
+odebrałeś jakiś? bo ja mam auto odrzucanie to nawet nie wiem kiedy dzwonią xD
+każdy na spam leci
+jakoś w tym roku miałem takie sytuacje, że potrafiłem mieć po 10 nieodebranych - każdy z innego numeru
+więc włączone mam odrzucanie spamu
+inaczej się nie da żyć
+ale <a href="https://t.me/mnawiesniak">@mnawiesniak</a> i <a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> mają to samo
+dzwoni spam
+ktoś nas sprzedał
+no mi dzwonili wczoraj to jak chcialem odebrac to mnie rozlaczylo od razu
+do mnie tez
+mi odrazu klasyfikuje jako spam i odrzuca
+ciekawe co się zmieniło że teraz numery z uk
+moze przerzucaja sie twoim numerem
+a w tym tygodnu numer pana dobiji wedruje doooooooo Urungwaju
+hello.. i am connecting from... somalia
+podejrzane jest tylko to, że do <a href="https://t.me/lmastalerz">@lmastalerz</a> nie dzwonią
+sus
+może pilnuje gdzie daje swój numer, gdzie się pojawia w internecie itd
+telegram
+i masz numer każdego
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> <a href="https://app.dev.io/ttests/dev/repository/commit/8f5fb34196db15b7f3f570e96e838a471b851a76">https://app.dev.io/ttests/dev/repository/commit/8f5fb34196db15b7f3f570e96e838a471b851a76</a>
+We sobie zobacz xD
+Dodałem do pustego repo plik dev/.git
+no i czego się spodziewałeś?
+Folderu dev
+Do którego mógłbym wejść
+<a href="" onclick="return ShowBotCommand(&quot;getRepositoryContent&quot;)">/getRepositoryContent</a> nie zwraca mi tego folderu z be
+więc mnie nie pinguj
+sliczne
+marcel cos dla cb
+Git w dev
+git
+git do deva
+git.exe w devie
+git
+💀
+kiedy wpisujesz tagi do filmu yt zeby mial dobre zasiegi
+chyba kiedy masz udar ale chcesz zrobić merga
+<a href="https://www.reddit.com/r/anime/s/gHlCXj5sv9">https://www.reddit.com/r/anime/s/gHlCXj5sv9</a>
+na co tyle kasy wydają
+pewnie tak samo jak wikipedia
+chuj wie
+myślicie że to tanie przekupować ludzi na głosowanie tak, żeby full metal alchemist było top 1 przez tyle lat?
+xddddd
+anilist i tak lepszy
+no też z niego korzystam odkąd znalazłem
+to jest ten moment, w którym dyskusja upada
+ale tak serio to pewnie infrastruktura całkiem spora tam jest, przecież tone ruchu mają, jakieś integracje z innymi apkami do śledzenia, baza danych też pewnie spora
+kij wie w czym backend napisany
+i darmowe api
+no mal jest niesamowicie stary
+domyslam sie ze nie jakos giga dobrze utrzymywany
+trzeba przepisać w ruście czy coś
+xd
+w sumie nie chce mi się teraz sprawdzać ale czy to nie będzie ten typ strony co backend generuje cały html? albo większość <br>może w php robione xD
+w takim setupie backend będzie bardzo drogi w utrzymaniu, uptime chyba też mają niezły - osobiście nigdy nie widziałem żeby leżało
+nie
+chyba, że mają osobny backend, osobne api
+jak duzo wiadomosci
+nie chce mi sie czytac
+o anime było
+to nie jest dużo
+jak dla mnie duzo
+ja od wiekow nie aktualizuje swojej listy
+bo ogladam dla siebie nie dla kogos
+a jak zapomne czegos co juz ogladalem to ogladam jescze raz
+ja bym sie gubił na ktorym odcinku skonczylem
+no i tez od razu mozna sobie dodawac serie do planowanych
+wiec jak wychodza to od razu mam powiadomienia
+to akurat się leczy
+jak sie ogląda kilka serii na raz?
+nie wydaje mi sie xd
+zależy ile to kilka
+5/6
+tak w pracy?
+takie hentaie?
+no ja kiedyś oglądałem sezonowe anime na bieżąco to tak, ciężko się inaczej połapać
+exactly
+a gdzie indziej
+glupoty gadacie
+macie slaba pamiec
+nie to ty masz duzo zakladek otwartych xd
+mhm
+*pierdolicie jak na mękach
+to sie zdarza jak znajduje cos po roku
+dobre commity 😂
+XD
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong>
+Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+ja mam swoje
+tomek sie wkurzyl
+to nie Tomek, to Paweł duciek
+wydawalo mi sie ze tomek ma takie cos
+co to za duciek
+nie znam
+nie takie profilowe
+grobelniak taki niższy i jest teraz w pokoju z Rafałem itd
+aaaaaa
+Tomek ma takie
+takie rozpikselowane mmmm
+13:15 -&gt; Druga przerwa w środku tygodnia. QA głodne, QA złe. Jak QA złe, to QA nie testuje. QA zawsze złe.
+Łukasz musi dotestować taska. Wezwij go, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/67ed1c34fa73c218faa661dd">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/67ed1c34fa73c218faa661dd</a>
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a> zostaw te designy, i tak dark mode ble
+fak uj
+po ye baly si cie ytery
+Brzydko
+Ale jak do Marcela to ładnie
+brzytko
+chodźcie kochani
+a to ty
+co ja
+jakby to napisal marcel to bym sie zasmial
+jaja
+rusz pizde
+ty masz pizde
+sudo wypierdalaj
+🥺
+:D
+a gdzie javascript edition
+jeden vibecoder i bedzie zrobione w tydzien
+bez sensu, czemu jakiś vibe coder miałby zająć się tak mało zyskownym projektem?
+mógłby stworzyć prawdziwy symulator świata gdzie będzie sprzedawać reklamy
+ludzie za oknem maja drame
+xd
+rzucaja przedmiotami
+uuu
+nagraj
+dymy się kręcą
+ktos furtke rozjebal
+i przyszla baba i sie sprula xd
+no to już w ogóle
+nagrywaj
+czym prędzej
+mp4 or didn&apos;t happen
+to byla chwila
+juz sobie poszli
+pff
+ludzie w dziesiejszych czasach sa zabiegani nawet na dramy nie maja czasu
+musze deva podciagnac do brancha na backendzie ale sam odpowiedzialny nie odpowiada
+moge utworzyc merge request?
+emm, raczej nie
+moge kliknac button
+napisz do kogś z backendu, by ci dociągnął deva
+o on zyje
+buddy w stylu ghibli
+New version of Lakasabasz/BuddyCLI<br><a href="https://fknexe.pages.dev/user/repository/?u=Lakasabasz&amp;r=BuddyCLI">Download now and up your game!</a>
+no chyba komuś sufit na łeb spadł
+w linka kliknij, fajnie bedzie
+a to wiem
+brakuje mi linku do gh na tej stronie
+XDDD
+bedzie kiedys
+tak teraz patrze że ej to kurwa prawie 30mb ma XD
+hore
+cli?
+tam nic nie ma i już waży tyle, co słońce
+tak
+Nie wiem co bardziej pojebane
+pewnie kwestia że jest cały .net bundlowany
+Ale za to ma wszystko czego bys tylko mogl potrzebowac w przyszlosci.. dobry deal
+caly arsenal
+super
+marzyłem o tym
+To że zrobiłem pusha bo fixłem szyfrowanie czy to że odpaliły się 3 osoby
+4
+<a href="https://learn.microsoft.com/en-us/dotnet/core/deploying/trimming/trim-self-contained">https://learn.microsoft.com/en-us/dotnet/core/deploying/trimming/trim-self-contained</a> może pomóc ze zmniejszeniem releasa
+nie działało z tym
+<a href="https://github.com/BartShoot/NoodleCV/blob/main/.buddy%2Fbuddy.yml">https://github.com/BartShoot/NoodleCV/blob/main/.buddy%2Fbuddy.yml</a> <code>dotnet publish</code> ??
+ogolnie lukasz to srednio dziala ten help
+nie ma to jak yerba z rana
+:D
+wszedłem do biura i chciałem w korytarzu światło włączyć i kliknąłem przycisk na panelu przy wejściu i zamiast włączyć światło w korytarzu to wyłączyłem i zamknąłem całe biuro xd
+ty tam lepiej napraw helpa w bdycli <a href="https://t.me/lmastalerz">@lmastalerz</a>
+A co z helpem nie tak?
+jest chujowy a raczej go nie ma
+?
+testowales to wogole?
+z tego nic sie nie da dowiedziec
+no, design helpa zepsuty po całości
+Działa, wyświetla się
+czyli assert.IsTrue(true)
+Masz jakąś propozycje to pokaż exampla i się poprawi
+^
+np zeby cokolwiek dawal
+zobacz na jakikolwiek help
+<a href="https://www.google.com/search?sca_esv=127538d830222604&amp;sxsrf=AHTn8zokuVs28elo7JAd9vrhVRyGQY0BUg:1743660772592&amp;q=cli+help+example&amp;udm=2&amp;fbs=ABzOT_C6HZESFBpD-a6wBwrIm2041RevU0T3J6J8ChyWSMUzXvBWCQF5GZnbYUtcfFNdNjekWKr0NeXDrjmhUVc4O2RjZgCIkxhL_XHFP9fuHUlxC-QWEXKfv4h2kHeZzyR5C2Qvm32ca_M-FUV1MPaTQhr8dbAGi2y_eJYLni4YRvyaAYq530vbEIA8O1vjDnzjGR9qhdieErL70Jr6WI8drdijEiX55g&amp;sa=X&amp;ved=2ahUKEwjR99XHmruMAxWecPEDHayENkUQtKgLegQIFhAB&amp;biw=1619&amp;bih=1035&amp;dpr=2">https://www.google.com/search?sca_esv=127538d830222604&amp;sxsrf=AHTn8zokuVs28elo7JAd9vrhVRyGQY0BUg:1743660772592&amp;q=cli+help+example&amp;udm=2&amp;fbs=ABzOT_C6HZESFBpD-a6wBwrIm2041RevU0T3J6J8ChyWSMUzXvBWCQF5GZnbYUtcfFNdNjekWKr0NeXDrjmhUVc4O2RjZgCIkxhL_XHFP9fuHUlxC-QWEXKfv4h2kHeZzyR5C2Qvm32ca_M-FUV1MPaTQhr8dbAGi2y_eJYLni4YRvyaAYq530vbEIA8O1vjDnzjGR9qhdieErL70Jr6WI8drdijEiX55g&amp;sa=X&amp;ved=2ahUKEwjR99XHmruMAxWecPEDHayENkUQtKgLegQIFhAB&amp;biw=1619&amp;bih=1035&amp;dpr=2</a>
+to jest najlepszy solution
+uwu ukasz, progress: 1/<a href="tel:100002137">100002137</a>
+Jak mi powiesz jak mam zrobić przesunięcie w konsoli inaczej niż na \t to to od razu poprawię
+skill issue
+Tak
+wiem jak w js to zrobić
+Ta wiedza pomoże mi w 0%
+tech stack issue
+eeee
+xd
+jasny gwint
+<pre>using System;<br><br>class Program<br>{<br>    static void Main(string[] args)<br>    {<br>        Console.BackgroundColor = ConsoleColor.Black;<br>        Console.ForegroundColor = ConsoleColor.White;<br>        Console.Clear();<br><br>        PrintHeader();<br>        PrintUsage();<br>        PrintOptions();<br>        PrintCommands();<br><br>        Console.ResetColor();<br>        Console.ReadKey();<br>    }<br><br>    static void PrintHeader()<br>    {<br>        Console.WriteLine(&quot;Demo application for IT Global CLI&quot;);<br>        Console.WriteLine();<br>    }<br><br>    static void PrintUsage()<br>    {<br>        Console.WriteLine(&quot;USAGE&quot;);<br>        Console.Write(&quot;    cli-features-example &quot;);<br>        Console.Write(&quot;[OPTIONS] &quot;);<br>        Console.ForegroundColor = ConsoleColor.Yellow;<br>        Console.WriteLine(&quot;COMMAND&quot;);<br>        Console.ForegroundColor = ConsoleColor.White;<br>        Console.WriteLine();<br>    }<br><br>    static void PrintOptions()<br>    {<br>        Console.WriteLine(&quot;OPTIONS&quot;);<br>        Console.Write(&quot;    &quot;);<br>        Console.ForegroundColor = ConsoleColor.Yellow;<br>        Console.Write(&quot;--no-color&quot;);<br>        Console.ForegroundColor = ConsoleColor.White;<br>        Console.WriteLine(&quot;    Disable colors&quot;);<br>        <br>        Console.Write(&quot;    &quot;);<br>        Console.ForegroundColor = ConsoleColor.Yellow;<br>        Console.Write(&quot;--help&quot;);<br>        Console.ForegroundColor = ConsoleColor.White;<br>        Console.WriteLine(&quot;        Print help and exit&quot;);<br>        Console.WriteLine();<br>    }<br><br>    static void PrintCommands()<br>    {<br>        Console.WriteLine(&quot;COMMANDS&quot;);<br>        PrintCommand(&quot;colors&quot;, &quot;Run a &apos;colors&apos; demo&quot;);<br>        PrintCommand(&quot;live&quot;, &quot;Run a &apos;live&apos; demo&quot;);<br>        PrintCommand(&quot;nested-colors&quot;, &quot;Run a &apos;nested-colors&apos; demo&quot;);<br>        PrintCommand(&quot;nested-help-output&quot;, &quot;Run a &apos;nested-help-output&apos; demo&quot;);<br>        PrintCommand(&quot;sample&quot;, &quot;Various samples&quot;);<br>        PrintCommand(&quot;table&quot;, &quot;Run a &apos;table&apos; demo&quot;);<br>    }<br><br>    static void PrintCommand(string command, string description)<br>    {<br>        Console.Write(&quot;    &quot;);<br>        Console.ForegroundColor = ConsoleColor.Yellow;<br>        Console.Write(command);<br>        Console.ForegroundColor = ConsoleColor.White;<br>        <br>        // Obliczanie ilości spacji potrzebnych do wyrównania opisów<br>        int padding = 20 - command.Length;<br>        Console.Write(new string(&apos; &apos;, padding));<br>        <br>        Console.WriteLine(description);<br>    }<br>}</pre>
+Kolorki to wiedziałem
+Ale padding jest bandycki xD
+wymagania systemowe:<br>- jakiś komputer<br>- monitor (opcjonalne, ból głowy gwarantowany)<br>- terminal o rozmiarze 80x64 znaków<br>- ślepota barw
+niewazne tak sie robi
+No to już wam to popoprawiam
+albo tak<br><pre> static void PrintCommand(string command, string description)<br>{<br>    Console.Write(&quot;    &quot;);<br>    Console.ForegroundColor = ConsoleColor.Yellow;<br>    Console.Write(command.PadRight(20)); // Wyrównanie do 20 znaków<br>    Console.ForegroundColor = ConsoleColor.White;<br>    Console.WriteLine(description);<br>}</pre>
+PadRight jest w string?
+tak<br><pre>static void PrintCommand(string command, string description)<br>{<br>    Console.Write(&quot;    &quot;);<br>    Console.ForegroundColor = ConsoleColor.Yellow;<br>    Console.Write(command);<br>    Console.ForegroundColor = ConsoleColor.White;<br>    <br>    // {0,-20} oznacza wyrównanie do lewej z szerokością 20 znaków<br>    Console.WriteLine(string.Format(&quot;{0,-20}&quot;, &quot;&quot;) + description);<br>}</pre>
+znowu jacys scammerzy piszą
+wyślij mi bdycli w załączniku
+przestaną odpisywać
+zostałem wyzwany przez krzyska od ananasa
+niech ktos mi zmieni ksywke na ananas
+bo nie wiem gdzie sie to robi
+:D
+Done
+thanks
+:D
+hmmm
+💀
+git wtłocz
+mistrz
+git oliwa z pierwszego tłoczenia
+9:50 -&gt; do przerwy zostało T - 10 minut.
+Tak informacyjnie: Małpiszona dzisiaj nie ma, więc QA dzisiaj w osłabion... nie, nieważne. Bez różnicy. Nie było tematu.
+a no nie ma
+:D
+ale jest zdalnie
+czy ktoś wie
+czy na <a href="dev.io">dev.io</a> jest workspace &quot;domains&quot; ?
+bo mi wypierdala coś e2e testy
+wg admin panelu nie
+10:00 -&gt; może i bugi wystawiane przez QA są do niczego, ale wszystko ma swoje pozytywne strony. Przykładowo QA jest jeszcze gorsze.
+nie ma
+po co mialby byc
+nie tworzy sie taki
+już myślałem, że o zupie mówisz
+😢
+to jest
+śmieszna sprawa, bo do rest api dodaje endpoint <code>workspace/[workspace]/domains</code> i on jest wyłączony jak qik jest wyłączony
+czeka na nas
+lokalnie wszystko jest git
+idzmy na zupke
+guys
+w e2e testach w pipeline ten jeden nagle ma kod 200 XD z chuja
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a>
+dark theme i tak ssie
+komu się przypisywało taska z frontu jak nie wiem komu przypisać?
+pawłowi?
+szymonowi
+a
+chyba cie kulki swędzą
+szymonowi
+2/3 głosy
+mateusz jeszcze nie wie
+szymonowi
+szymonowi
+Zależy co
+Jak coś jest zjebane w funkcjonalności to Marcelowi (&quot;fixuj to (kurwa)&quot;), a jak design jest chujowy to Szymonowi
+co ty za głupoty piszesz
+puknij się między oczy
+czy ktos wie czy digowanie generuje query activity w domenach?
+tak
+to mi nie schodzi
+a digujesz nsami qikowymi?
+dostaje answer z NS
+dziwny ten dig masz
+<a href="https://app.dev.io/ttests/domain/weRngOry/queries">https://app.dev.io/ttests/domain/weRngOry/queries</a>
+<code>dig @bison.qikdevns.net. NS tomasz.hajto</code>
+dooobra
+dawno nie kopałem
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong>
+Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+13:15 -&gt; zostaw już ten kod, trzeba coś zjeść. qa w kąt, a ty znikaj stąd
+Dzisiaj nie wzywamy małpiszona.
+ja juz czeka.
+m
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> w devie jest generator na pointowanie subdomeny.
+wiec sie rozejdzie po bramczach ro bedzie wszedzie
+powershell
+ma
+jebany
+limit
+kurwa
+znaków
+co się dzieje jak go przekrocze?
+nic :)
+domyśl się
+🫠
+hahahaha
+wyłysieje od tego taska, to dalej nie pomogło
+<a href="https://app.clickup.com/t/8698jptf5">https://app.clickup.com/t/8698jptf5</a>
+🍿
+Łukasz gdy każe devom robić  jakąś głupotę bo sobie tak wymyślił
+mniej więcej tak
+😄
+Zadowoleni?
+nie
+polish your english
+Polska gurom
+dupom
+Obrażasz nasz kraj ojczysty?
+tak
+Usage bdyctl&lt; bez spacji
+Już fixnięte
+Command allow you
+client to <a href="buddy.works">buddy.works</a> (?)
+Klient do <a href="buddy.works">buddy.works</a>
+thanks from the mountain
+for tam ma być?
+Gdzie to masz?
+na środku
+ale z prawej trochę
+1. Dlaczego na górze pojawia się komunikat o błędzie bez kontekstu? &quot;Command not found&quot; nie wyjaśnia, która komenda nie została znaleziona<br>2. Niespójna obsługa błędów - pokazuje błąd, ale mimo to wyświetla informacje pomocy<br>3. Brak spacji między komendą a zasobem w sekcji USAGE (&quot;bdyctl&lt;RESOURCE&gt;&quot; zamiast &quot;bdyctl &lt;RESOURCE&gt;&quot;) - świadczy to o zaniedbaniu podczas rozwoju<br>4. Niejednoznaczna struktura komend - niejasna relacja między <code>&lt;RESOURCE&gt;</code>, <code>&lt;OPERATION&gt;</code> a wymienionymi komendami<br>5. Niewystarczające opisy komend - &quot;none&quot; i &quot;pat&quot; nie mają wyjaśnienia ich przeznaczenia<br>6. Brak praktycznych przykładów użycia komend<br>7. Słaba hierarchia wizualna - trudno rozróżnić elementy strukturalne od faktycznych komend
+Done
+To wygląda jak z AI
+Z tym none będzie zabawa
+To wygląda jak przypierdolka od qa
+Przypierdolka od QA jest mniej formalna i o wiele mniej jednoznaczna
+fixuj to
+Tak
+Ogolnie to w wiekszosci CLI ktore ma subcommendy to jest zrobione tak ze każda ma osobnego helpa
+Czyli np. bdyctl<br>Pokazuje ci liste &quot;resources&quot;
+1. Wyjebany błąd<br>2. Fixed<br>3. Fixed<br>4. Pokolorowane aby wskazać związek<br>5. None jest wyłączone, Pat ma opis<br>6. Dodane example<br>7. Dodano kolorki
+A bdyctl login --help
+dopiero ci pokazuje opcje login
+A nie wszystko na 1 ekranie
+i wtedy mialbys <br>bdyctl --help<br>bdyctl login --help<br>bdyctl project --help
+etc.
+bdyctl login --help jest zaimplementowane jako obsługa login
+Poza scope taska
+<pre>cyprian@mix-cyprian yabai % gh --help<br>Work seamlessly with GitHub from the command line.<br><br>USAGE<br>  gh &lt;command&gt; &lt;subcommand&gt; [flags]<br><br>CORE COMMANDS<br>  auth:        Authenticate gh and git with GitHub<br>  browse:      Open repositories, issues, pull requests, and more in the browser<br>  codespace:   Connect to and manage codespaces<br>  gist:        Manage gists<br>  issue:       Manage issues<br>  org:         Manage organizations<br>  pr:          Manage pull requests<br>  project:     Work with GitHub Projects.<br>  release:     Manage releases<br>  repo:        Manage repositories<br><br>GITHUB ACTIONS COMMANDS<br>  cache:       Manage GitHub Actions caches<br>  run:         View details about workflow runs<br>  workflow:    View details about GitHub Actions workflows<br><br>ALIAS COMMANDS<br>  co:          Alias for &quot;pr checkout&quot;<br><br>ADDITIONAL COMMANDS<br>  alias:       Create command shortcuts<br>  api:         Make an authenticated GitHub API request<br>  attestation: Work with artifact attestations<br>  completion:  Generate shell completion scripts<br>  config:      Manage configuration for gh<br>  extension:   Manage gh extensions<br>  gpg-key:     Manage GPG keys<br>  label:       Manage labels<br>  ruleset:     View info about repo rulesets<br>  search:      Search for repositories, issues, and pull requests<br>  secret:      Manage GitHub secrets<br>  ssh-key:     Manage SSH keys<br>  status:      Print information about relevant issues, pull requests, and notifications across repositories<br>  variable:    Manage GitHub Actions variables<br><br>HELP TOPICS<br>  actions:     Learn about working with GitHub Actions<br>  environment: Environment variables that can be used with gh<br>  exit-codes:  Exit codes used by gh<br>  formatting:  Formatting options for JSON data exported from gh<br>  mintty:      Information about using gh with MinTTY<br>  reference:   A comprehensive reference of all gh commands<br><br>FLAGS<br>  --help      Show help for command<br>  --version   Show gh version<br><br>EXAMPLES<br>  $ gh issue create<br>  $ gh repo clone cli/cli<br>  $ gh pr checkout 321<br><br>LEARN MORE<br>  Use `gh &lt;command&gt; &lt;subcommand&gt; --help` for more information about a command.<br>  Read the manual at https://cli.github.com/manual<br>  Learn about exit codes using `gh help exit-codes`</pre>
+<pre>cyprian@mix-cyprian yabai % gh repo --help<br>Work with GitHub repositories.<br><br>USAGE<br>  gh repo &lt;command&gt; [flags]<br><br>GENERAL COMMANDS<br>  create:      Create a new repository<br>  list:        List repositories owned by user or organization<br><br>TARGETED COMMANDS<br>  archive:     Archive a repository<br>  autolink:    Manage autolink references<br>  clone:       Clone a repository locally<br>  delete:      Delete a repository<br>  deploy-key:  Manage deploy keys in a repository<br>  edit:        Edit repository settings<br>  fork:        Create a fork of a repository<br>  gitignore:   List and view available repository gitignore templates<br>  license:     Explore repository licenses<br>  rename:      Rename a repository<br>  set-default: Configure default repository for this directory<br>  sync:        Sync a repository<br>  unarchive:   Unarchive a repository<br>  view:        View a repository<br><br>INHERITED FLAGS<br>  --help   Show help for command<br><br>ARGUMENTS<br>  A repository can be supplied as an argument in any of the following formats:<br>  - &quot;OWNER/REPO&quot;<br>  - by URL, e.g. &quot;https://github.com/OWNER/REPO&quot;<br><br>EXAMPLES<br>  $ gh repo create<br>  $ gh repo clone cli/cli<br>  $ gh repo view --web<br><br>LEARN MORE<br>  Use `gh &lt;command&gt; &lt;subcommand&gt; --help` for more information about a command.<br>  Read the manual at https://cli.github.com/manual<br>  Learn about exit codes using `gh help exit-codes`</pre>
+Do konsultacji <a href="https://t.me/lmastalerz">@lmastalerz</a>
+...
+Dobra, niech tak będzie
+<pre>cyprian@mix-cyprian yabai % gh repo create --help<br>Create a new GitHub repository.<br><br>To create a repository interactively, use `gh repo create` with no arguments.<br><br>To create a remote repository non-interactively, supply the repository name and one of `--public`, `--private`, or `--internal`.<br>Pass `--clone` to clone the new repository locally.<br><br>If the `OWNER/` portion of the `OWNER/REPO` name argument is omitted, it<br>defaults to the name of the authenticating user.<br><br>To create a remote repository from an existing local repository, specify the source directory with `--source`.<br>By default, the remote repository name will be the name of the source directory.<br><br>Pass `--push` to push any local commits to the new repository. If the repo is bare, this will mirror all refs.<br><br>For language or platform .gitignore templates to use with `--gitignore`, &lt;https://github.com/github/gitignore&gt;.<br><br>For license keywords to use with `--license`, run `gh repo license list` or visit &lt;https://choosealicense.com&gt;.<br><br>The repo is created with the configured repository default branch, see &lt;https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-user-account-settings/managing-the-default-branch-name-for-your-repositories&gt;.<br><br><br>USAGE<br>  gh repo create [&lt;name&gt;] [flags]<br><br>ALIASES<br>  gh repo new<br><br>FLAGS<br>      --add-readme             Add a README file to the new repository<br>  -c, --clone                  Clone the new repository to the current directory<br>  -d, --description string     Description of the repository<br>      --disable-issues         Disable issues in the new repository<br>      --disable-wiki           Disable wiki in the new repository<br>  -g, --gitignore string       Specify a gitignore template for the repository<br>  -h, --homepage URL           Repository home page URL<br>      --include-all-branches   Include all branches from template repository<br>      --internal               Make the new repository internal<br>  -l, --license string         Specify an Open Source License for the repository<br>      --private                Make the new repository private<br>      --public                 Make the new repository public<br>      --push                   Push local commits to the new repository<br>  -r, --remote string          Specify remote name for the new repository<br>  -s, --source string          Specify path to local repository to use as source<br>  -t, --team name              The name of the organization team to be granted access<br>  -p, --template repository    Make the new repository based on a template repository<br><br>INHERITED FLAGS<br>  --help   Show help for command<br><br>EXAMPLES<br>  # Create a repository interactively<br>  $ gh repo create<br><br>  # Create a new remote repository and clone it locally<br>  $ gh repo create my-project --public --clone<br><br>  # Create a new remote repository in a different organization<br>  $ gh repo create my-org/my-project --public<br><br>  # Create a remote repository from the current directory<br>  $ gh repo create my-project --private --source=. --remote=upstream<br><br>LEARN MORE<br>  Use `gh &lt;command&gt; &lt;subcommand&gt; --help` for more information about a command.<br>  Read the manual at https://cli.github.com/manual<br>  Learn about exit codes using `gh help exit-codes`</pre>
+Backend &gt; Frontend
+jeszcze głębiej można
+Są 2 komendy w apce
+help i login
+No a zaraz będzie 3, potem 4, potem 5
+i niektore beda miec kilka funkcji
+Spuszczanie się nad nimi jak nie ma reszty to jest pomyłka imo
+Help jest automatycznie generowany
+Robi sie do tego abstrakcje i potem latwo dodajesz komendy
+Jest zrobiona
+A tak to musisz dziergac za kazdym razem jakies wyjatki
+No to rob jak chcesz tylko ci mowie jak wiekszosc apek robi
+ale mozesz robic po swojemu
+W sensie mam interfejs CommandHandler, który ma propki pod help, a sam help ściąga sobie wszystkie zarejestrowane klasy komend i po interfejsie zbiera z nich info
+Więc help nie będzie edytowany przy każdym update
+A o wiele ważniejsze są test samej apki
+Więc no.
+<a href="https://github.com/Lakasabasz/BuddyCLI/issues">https://github.com/Lakasabasz/BuddyCLI/issues</a>
+Jak macie pomysły i uwagi to tam, a jak chcecie sami coś napisać to PR są otwarte dla wszystkich poza <a href="https://t.me/mganczarczyk">@mganczarczyk</a>
+Jego będą ghostowane
+New version of Lakasabasz/BuddyCLI<br><a href="https://fknexe.pages.dev/user/repository/?u=Lakasabasz&amp;r=BuddyCLI">Download now and up your game!</a>
+wtracajac sie nie wiem czemu lukasz mi przez mysl przeszedl przy tym
+😂
+Panzersexuelle
+<a href="https://t.me/lmastalerz">@lmastalerz</a> najwyzszy priorytet na ten task
+wiec ruszaj dupe
+One są do zamknięcia
+Kumuluję je
+Aby zrobić orbitalny spam
+boze
+to jest niedozwolone
+Niedozwolone jest zjebanie działających case naprawiając inne
+dobra, to co do rozmiaru bdy cli to tak: <br>aktualnie produkujecie wersje portable która zawiera w sobie runtime .net<br><br>jak pale z<br><pre>dotnet publish .\BuddyCLI.App\ -r win-x64 -c Release -p:PublishSingleFile=True --self-contained false </pre><br>produkuje lekko ponad 1mb i działa jak ktoś ma zainstalowany .net runtime w dobrej wersji
+wiec obecne releasy to wersja portable
+Dam ci dostęp do projektu
+ok
+jprdl xd
+czerwony kwadrat
+Każda reklama dobra
+Done
+rzuć linka bo nie wiem gdzie to
+Ehh
+albo które konto
+<a href="eu.buddy.works/variousworkspace/buddycli">eu.buddy.works/variousworkspace/buddycli</a>
+Link z głowy
+dodałeś mnie tam z konta buddy works? zamiast <a href="gmail.com">gmail.com</a> które już jest dodane do lakasabasz??
+Dodałem cię tym samym kontem które masz u Kuby na ws
+Nie wiem jakie tam dałeś
+To samo konto od pipeline z wołaniem
+xddddddd napisałem Bram idz stan za granicą u WooCaszenki
+i dostałem
+hahaha ktos potrzebuje
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a>
+Wyślijcie scruma na grupie<br>@małpiszon <a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> <a href="https://t.me/mganczarczyk">@mganczarczyk</a> <a href="https://t.me/shipurjan">@shipurjan</a> <a href="https://t.me/mnawiesniak">@mnawiesniak</a> <a href="https://t.me/BartShoot">@BartShoot</a> <a href="https://t.me/mJakobsche">@mJakobsche</a>
+nie znam sie na tym
+mam filtr anty scammerski
+wiec nie moge
+chociaz o dziwo w tym tygodniu nawet mam co wrzucac xd
+ale głodny jestem ktoś zupka?

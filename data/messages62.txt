@@ -1,0 +1,946 @@
+﻿bo dalej
+a chcialem zobaczyc czy to bedzie odczuwalne
+a jako ze nie bylo no to tak zostawilem
+A oks
+no tak, w europie to wszedzie jest używalne
+ale fajnie miec jak najnizszy ping jak mozna
+bo czm nie
+no ale jak mowie, na Tajwanie tak samo. lag jest, ale minimalny
+No Finlandia to już prawie Azja więc moze dlatego xd
+nie no po prostu hetzner ma lepsze serwery moze
+choc nie wiem jak
+by mogli zmniejszyc delay
+spowodowany dystansem
+bo z taiwanu do polski a finlandii jest tyle samo mniej wiecej
+traceroute
+jaki masz ip serwera xD
+<a href="doufu.tw">doufu.tw</a>
+nie dziala
+bo strony mam wystawione na subdomenach : P
+ale adres jest resolvable po ssh
+:(
+<pre>traceroute doufu.tw<br>traceroute to doufu.tw (46.62.163.69), 30 hops max, 60 byte packets<br> 1  _gateway (192.168.10.1)  0.203 ms  0.236 ms  0.159 ms<br> 2  host-93.179.255.177.static.3s.pl (93.179.255.177)  1.118 ms  1.254 ms  1.152 ms<br> 3  host-89.25.228.22.static.3s.pl (89.25.228.22)  3.907 ms  3.950 ms  3.996 ms<br> 4  host-89.25.221.109.static.3s.pl (89.25.221.109)  3.560 ms  3.748 ms  4.950 ms<br> 5  host8925220124.techn.3s.pl (89.25.220.124)  4.041 ms  3.961 ms  4.003 ms<br> 6  host-89.25.221.111.static.3s.pl (89.25.221.111)  9.736 ms  9.711 ms host-89.25.221.29.static.3s.pl (89.25.221.29)  9.766 ms<br> 7  host-89.25.221.82.static.3s.pl (89.25.221.82)  10.078 ms  9.636 ms  9.735 ms<br> 8  62.159.61.71 (62.159.61.71)  9.646 ms  9.737 ms  9.739 ms<br> 9  62.159.61.70 (62.159.61.70)  10.044 ms  10.058 ms  10.103 ms<br>10  ams-sb6-i.AMS.NL.NET.DTAG.DE (217.239.42.34)  29.114 ms  29.159 ms ams-sb6-i.AMS.NL.NET.DTAG.DE (62.154.5.185)  28.630 ms<br>11  62.157.248.253 (62.157.248.253)  30.015 ms  30.069 ms  30.178 ms<br>12  * * *<br>13  * * *<br>14  core32.hel1.hetzner.com (213.239.254.65)  40.153 ms core32.hel1.hetzner.com (213.239.254.69)  40.129 ms core31.hel1.hetzner.com (213.239.254.57)  40.159 ms<br>15  * * *<br>16  spine2.cloud1.hel1.hetzner.com (213.239.228.26)  72.667 ms spine1.cloud1.hel1.hetzner.com (213.239.228.22)  40.828 ms  41.247 ms<br>17  * * *<br>18  10429.your-cloud.host (95.216.128.54)  40.200 ms  40.166 ms  40.133 ms<br>19  * * *<br>20  * * *<br>21  * * *<br>22  * * *<br>23  * * *<br>24  * * *<br>25  * * *<br>26  * * *<br>27  * * *<br>28  * * *<br>29  * * *<br>30  * * *</pre>
+Też macie ?
+W Copilot Chat Agent
+nie
+bo nie korzystam z niego
+musisz sie zalogować pewnie
+No zajebiście...
+<a href="https://t.me/BartShoot">@BartShoot</a> możesz na to popatrzyć? <a href="https://app.clickup.com/t/869a84q0g">https://app.clickup.com/t/869a84q0g</a>
+Bo Krzysiek mnie ciśnie, a Krzyśka Hellera nie ma
+moge zaraz zerknac
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong><br><br>Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+Oficjalnie wybiła 13:00, co to oznacza? <br>Dokładnie! Ban na obrażanie <strong>sami wiecie kogo</strong> uważam za zniesiony!<br>Życzę kreatywnej krytyki i stalowych nerwów.
+nie chce mi się
+dzisiaj pas
+ja i <a href="https://t.me/mnawiesniak">@mnawiesniak</a> raczej mcd
+magdonal
+(magd(a)nal)?
+magdoland
+Ja tylko monster i mam swoje
+ja chyba pierozek w takim razie
+po pierdota idziesz?
+uzaleznilem sie od pierdota
+nooo
+pierdot to dobry
+nasza duma narodowa
+pierdot przez łeb
+dzien bez pierdota to nie dzien
+1. pierdot<br>2. wódka<br>3. robert kubica<br>4. guwniara z paletkom<br>5. lewandowski
+myslisz ze lukasz bierze to pod uwage mowiac &quot;dzisiaj jest dzien&quot;?
+nie, on po prostu jest na haju
+lukasz potrzebuje dobrej mieszanki zeby byl dzien
+a co łukasz miesza
+?
+mieszanki herbat
+A jak to nie działa to jeszcze mam health potiona
+olej do czołgu do health potion?
+Teraz wygląda tak:
+rozpuszczalnik
+Ma ktoś markera ze sobą?
+wyglada podejrzanie
+te twoje mieszanki
+No mówię, że to jest Health Potion
+pewnie jak to wypijesz to urywa ci sie film
+🤔może coś w tym jest
+Bo po wypiciu tego piszę testy
+Jedna butelka starcza na 3 miesiące
+Nieźle
+13:15 -&gt; zostaw już ten kod. I tak wiadomo, że chuja robisz, chyba, że chcesz porównywać się z QA
+Łukasz musi dotestować taska. Wezwij go, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/68ac45b4b7757020343437dc">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/68ac45b4b7757020343437dc</a>
+Timeout 15min
+Timeouta wyjebało.<br><br><a href="https://t.me/mganczarczyk">@mganczarczyk</a> merguj się do /dev/null
+po lyku zasypiasz na caly dzien
+teraz to ma sens
+jak wskakuje <a href="" onclick="return ShowBotCommand(&quot;maintenance&quot;)">/maintenance</a> to ładuje się w nieskończoność
+Tak!
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a>
+ups
+to do pawła raczej xd
+ogólnie skeleton tam wygląda co najmniej idiotycznie
+u mnie nie
+no troche lepiej by to było gdyby każdy komponent miał swój o podobnym kształcie bo przeważnie teraz mocno przeskakuje
+ale to nie takie proste
+i najebałoby tone html/css do tony która już jest xD
+spowodowałoby nam koszmar w css
+i tonę logiki w każdym jednym komponencie
+bo nagle wszystko potrzebuje dodatkowy parametr
+nie można jakieś abstract loader factory na rzeczach które są async
+i rzeczy które są async muszą mieć metode która zwraca loader dla tego komponentu
+nie znam się, pewnie nie ale w kodzie by to nie zrobiło aż takiego syfu(oprócz 5000 nowych metod)
+i tragedii podczas robienia redesignu
+nienawidzę windows, czemu tam nigdy nic nie chce działać jak chce się zrobić coś bardziej skomplikowanego 😆
+skomplikowanego jak zmiana wersji open ssh z 9.5 na 7.7 np
+żeby odtworzyć jebanego buga od klienta
+Sezon na strzelające pomarańczki czas zacząć
+<pre>alias stupid_claude=&apos;claude --model claude-3-5-haiku-20241022&apos;</pre>
+<pre>Claude Opus 4 $15 / MTok | $75 / MTok<br>Claude Sonnet 4 $3 / MTok | $15 / MTok<br>Claude Haiku 3.5 $0.80 / MTok | $4 / MTok</pre>
+3.5 to taki stary o4-mini, jak patrzę po cenie
+a ten to był głupi, oj był
+nie no tak do takich prostych zadan to ten 3.5 nie byl zly
+Jak działa pointowanie CNAME?
+hmm
+pointujesz przez CNAME i działa
+tak jak przez ns
+moja odpowiedź lepsza
+:)
+a po co ci ta wiedza
+żeby nie testować innych tasków
+lol, jeszcze pytasz
+1. Fixuję twoje testy<br>2. Po prostu się interesuję
+Spierdalaj
+lukasz jak zwykle nie majac zadnych logicznych argumentow sprowadza sie do agresywnej wypowiedzi i hejtu
+Ale to w kierunku Marcela
+Tam nawet jak mam argumenty to lepiej użyć wyzwisk
+ay ay
+a ze niby co tam sie odjebqlo?
+zmienili cos po froncie?
+Głównie xpathy na widoku pointowania
+czyli pozmieniali
+bo ten widok wygląda inaczej
+dziady parszywe
+ciężko nie zmienić xpathów
+o, mam pomysł
+jak wam się nie podoba zmiana xpathów
+na branchu na ktorym pisalem testy wygladal tak samo
+to zapytajcie czy to przez zmiany w Figmie
+jak tak, to wiesz komu truć dupę
+75% testów zapomniałeś o tym widoku 25% testów Krzysiu sprowokował redesig
+jak zapomnialem?
+ja tam tylko i terakcyjne przerabialem
+bo statyczne jeszcze robie na branchu
+XDD
+te, Łukasz
+No to pozdro z konfliktami
+nie śmiej się z kolegi
+bo ja się będę z ciebie śmiał (bardziej)
+I tak to robisz
+przeczytaj nawias
+Więc...
+beda 3 pod widoki pod kazdy typ
+bo tam szczegolnie infobix musze sprawdzic
+jak tam w górach
+bo jak było nad wodą to wiemy
+jeden pies. jutro bede sie w to bawil
+zajebiscie. dobrze poodychac nie spalinowym powietrzem.
+ten ziomek ma krok w kolanach
+wygląda jak michał wiśniewski
+od tylu
+Może to 2 karły?
+OSOBY NISKOROSŁE
+moze to karly jeden na drugim xd
+chlop ma drip a ty sie czepiasz go
+Dzisiaj async na śniadanko
+dzisiaj mamy spotkanie (chyba)
+<a href="https://t.me/mJakobsche">@mJakobsche</a> nie gadaj, że side by side jest zmergowany
+a był był
+to ja życzę powodzenia Karolinie
+bo ona robi inbox
+po 1.5 roku ile tam było do poprawienia? xD
+ta, ten inbox to ma być taka do wszystkiego doklejona funkcjonalność
+komunikator
+itd
+nom
+Jej!
+widziałem w designach
+Udało mi się poprawnie przetransferować domenę z OVH do Buddiego
+hi hi
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a> odpisz mu, bo ja nie mogę, bo 13:00 nie ma
+znaczy bedzie zmergowany jak testy przejda chyba
+a kusi
+najszczersze gratulacje 🎉
+nie tak
+pracuj tempy chuju 🎉
+😭
+wtf
+podczas jazdy na bieszczady czytalem ksiazke i doszedlem do wniosku ze musze sobie zainstalowac na laptopie dark arch linux
+co ty niby czytasz
+że takie masz myśli w głowie
+od razu jeszcze kup zakolanówki i kocie uszka
+warsztat hakera
+i odinstaluj wszelkie aplikacje z gui
+to później
+mozna od razu caly pipeline zrobic
+pipeline linuxiarza
+Piepline?
+pipiline
+o taaaaak. dobra pakuje sie do wyjazdu
+ja wczoraj byłem hackerem jak odpalałem ssh -vvv żeby zdebugować czemu nie łączę się do jebanego windowsa
+wychodzi że jebany windows nie rozumie ssh2_msg_kex coś tam i się wypierdala, connection refused
+wooo jeszcze nie mam takich skilli
+jak wszystko działa to nawet ich nie potrzebujesz
+Ktoś do Buddiego wjebał się do jakiegoś kontenera
+u
+jakiego, gdzie
+Gdzieś na produkcji
+Jakiś reverse tunel ssh założył i wlazł
+Nie doszedł daleko ale Krzyśkowi się to nie podoba, co już zrobił
+tu, musiałem wybrać 2 opcje i moge używać
+ciekawe, ciekawe
+9:50 -&gt; do przerwy zostało T - 10 minut.
+10:00 -&gt; gdy nadejdzie bunt maszyn, to nie macie się czego bać. Z całą pewnością, wywalą exception na pierwszym ifie, bo QA się opierdalało. A przy okazji rusz ktoś dupę i sprawdź czy zupa jest.<br><br><a href="https://t.me/mganczarczyk">@mganczarczyk</a> jesteś jak gondolier w Wenecji, pływasz z wielkim kijem w gównokodzie frontu
+oj głupi ja myśląc że szukając taga java znajde discordy o javie
+oczywiście że wszystko co zobacze będzie o minecraft 😆
+xd
+w tej szukajce sa ok wyniki xd<br><a href="https://discord.com/servers?query=java">https://discord.com/servers?query=java</a>
+to mi w google wyskoczył disboard no i tam z automatu język polski wzięło
+understandable
+to źle?
+ja na disboardzie nie lubie szukac bo czesto shady serwery tam są xd
+ok 3 pierwsze wyniki a potem mix
+no przeciez ze chodzilo ci o javascript
+no bardziej szukałem jakiegoś community w kierunku że ktoś będzie pisał jak jakiś event/konferencja się pojawi itd
+jest sobie grupa na fb polish java user group ale troche martwe
+???
+<a href="https://github.com/DigitalPlatDev/FreeDomain">https://github.com/DigitalPlatDev/FreeDomain</a>
+dziala wam <a href="app.buddy.mom">app.buddy.mom</a>
+zrobilo białe ładowanie, czarne ładowanie i pokazało się sign-up
+nie chce mi sie teraz logować xD
+Nie
+moze jest w polowie zreleasowany?
+A skończyli robić release?
+Właśnie
+Z frontu zreleasowany
+<a href="buddy.mom">buddy.mom</a> Schrödingera
+wyjebany i działający jednocześnie
+mój claude został pralką
+to daj mu taska pralka
+prAIka
+multikino odpisało, może uda się dostać te pare endpointów które potrzebuje bez zabezpieczeń xD
+Noice
+to ciekawe
+normalnie by nawet nie odpisali
+no też myślałem że zleją, mógłbym ich albo wykluczyć albo sobie zautomatyzować lokalnie
+bo wystarczy że otworzę ich stronę i przez tydzień chyba mogę używać wtedy tego api no to bym posyłał tylko dump z bazy i jazda xD
+<a href="https://t.me/fronty">@fronty</a> wy w kodzie macie możliwość stosowania wzorca strategia?
+tak
+ogólnie to każdy pattern można zastosować
+do wszystkiego
+Pytanie pomocnicze: stosujecie?
+Jak jesteś w środowisku bez obiektowości?
+const woman = new Woman()
+jaki język nie ma opcji robienia obiektów
+ASM
+F#?
+c?
+HTML
+ale wiesz, że jak jakiś program jest kompilowany to jego kod trafia do assembly?
+html to nie jezyk programowania
+jak chcesz zastosować strategię w HTML?
+jak to jest że w kodzie masz obiekt, a potem assembly tego kodu nie ma?
+f# nie wypowiem się, c ma structy
+html to nie język programowania
+Wzorce projektowe są na poziomie abstrakcji kodu, nie maszynowej kompilacji
+abstrakcyjne to było twoje pytanie
+Z punktu widzenia egzekucji kodu to nie ma znaczenia obiektowość
+czemu pytasz?
+Bo mam w swoim projekcie 5 mode sterowane 5 przyciskami i eventy, które powinny inaczej reagować w zależności od mode
+Chcę wyjebać if-ologię z eventów
+pattern matching?
+?
+no masz sobie switcha który przyjmuje event e<br>e typeof coś tam -&gt; metoda cośtam<br>e typeof inne -&gt; metoda inne
+To jedynie przytnie if-ologię
+Jak zastosuję strategię to całkowicie się jej pozbędę
+mówisz o projekcie buddy-tests?
+Jestem tak gdzieś około 120*
+Więc jeszcze mogę
+*Instytut danych z dupy
+Yyy, nie?
+W sensie to nawet nie wiem co to za projekt
+Jakbym dostawał 5zł za każdego piksela miałbym 20zł
+5zł? zdzierstwo
+sory, nie będę otwierać instagrama zeby zrobić screena w lepszej jakości, musisz się pogodzić z tym co wypluł google search
+mogłeś zrobić zdjęcie telefonem
+byłoby więcej pikseli
+To przynajmniej powiedz co tam jest napisane xDD
+pierwszy 2 linijki na godzine, drugi 45 linijek na godzine, trzeci 2 linijki na godzine, czwarty -2 linijki na godzine
+Podziękował
+Ale to w której kategorii jest Kuba?
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong><br><br>Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+Oficjalnie wybiła 13:00, co to oznacza? <br>Dokładnie! Ban na obrażanie <strong>sami wiecie kogo</strong> uważam za zniesiony!<br>Życzę kreatywnej krytyki i stalowych nerwów.
+jak jest nad wodą? nie ma go w tym rankingu
+lub jak zakładamy ciągłość danych to między 3 i 4 ponieważ robi 0 linijek kodu teraz
+On ma naturalne zdolności do wyjebania dev-a
+a jak jest w górach?
+pytałem już
+tu
+Ooo
+masz nawet zdj
+sory
+no ja myślę
+że ci przykro
+:&lt;
+az tak to nie
+Marcel łobuzie
+Wsadzimy ci
+Taski do fixowania
+sam se fixuj
+marcel sie wkurzyl i zaczal pisac testy na froncie
+Tak źle już u was?
+dokładnie tak - tak źle u was
+13:15 -&gt; Będzie tego. Pizgaj taski i odpocznij, bo i tak spierdolisz więcej niż to warte. Chyba, że wolisz 3 bugi w cenie jednego fix-a.
+Łukasz musi dotestować taska. Wezwij go, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/68ad973453c4131a51d18121">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/68ad973453c4131a51d18121</a>
+<a href="https://t.me/lmastalerz">@lmastalerz</a>, prosimy o audiencję.<br><br>~uniżony lud powracający z Dżaby<br><br><a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196321/execution/68ad9a6cd33d1f4047268847">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196321/execution/68ad9a6cd33d1f4047268847</a>
+sami wiecie kto przekazuje: <br>M a u p a
+Dzień dobry,<br>uznaję wasze potrzeby i przerwę moją pracę, aby się z wami spotkać.<br>Pozdrawiam.
+Kuba was isekai&apos;d
+xd
+tak do swiata diabolow
+a to takie to są diablo dobre
+powiedzialbys ze to lazienka
+a te siekierki po co, do tranzycji?
+jak nie zaplacisz to cie utna
+jak się dostać do /:workspace/tags
+wpisujesz ten link do przeglądarki
+no to wiem
+tak samo nie da się inaczej dostać do kupowania licencji standalone
+jeszcze jak dodajesz kontekst envów, manage tags
+bez znaczenia czy scope project czy workspace, zawsze leci do tego workspacowego
+czemu
+500 dodatkowych osób
+nie jesteś taki gruby żeby 500 siedzień samemu zająć
+a może lubię sam w kinie siedzieć
+:&lt;
+trzeba sie zabezpieczac na przyszlosc jak by startup wypalił
+status bety - 💀
+xdddddd
+jeszcze potrzeba PipelineObjectOrientedProject
+widzę że ai było uczone tylko na najbardziej kunsztownych projektach o nieskazitelnie czystym nazewnictwie
+jak by było peePee, to pasowałoby na backend
+znowu release buddy mom 💀️️
+no nieźle się tam bawią
+cholera 9800x3d za 1630zł
+Gdzie
+gdzie
+aliexpress, sprzedaje sferis
+więc wysyłka z polski
+Procesor AMD Ryzen 7 9800X3D 3D V-Cache | [możliwy zwrot 130,45 zł]<br><a href="https://www.pepper.pl/share-deal-from-app/1102684">https://www.pepper.pl/share-deal-from-app/1102684</a>
+a może nie z pl ale z francji więc still europa
+kto to sferis
+sklep
+kurde czuje potrzebę upgrade kompa jak taka cena jest
+Dosc tanio ale ja tam nie potrzebuje teraz<br>I musialbym wymieniac plyte i ram na ddr5 i jeszcze kupic jakies porzadne chlodzenie AIO
+a na allegro jest za 1850 więc 200zl to nie fortuna
+no to ja mam chłodzenie spoko więc &quot;tylko&quot; ram płyta
+A w sumie ja i tak nie gram w gry ostatnio za bardzo a jesli juz to w lola 😂
+wstępnie patrząc na płyte z 1000zł warto wydać bo te biedniejsze nie są dobrze wyposażone i ram 32gb 6000cl30 do 500zł spokojnie
+więc mi narazie w pelni wystarcza i7-13700k i rtx 3060ti
+5600x i 1080ti, grafa pilniejsza do wymiany ale ceny dużo gorsze
+nvidia już koniec wsparcia sterownikami ogłosiła
+serio?
+moj dziadek ma rtx 1070 super 😂<br>A moja siostra gtx 970
+i mysle ze jeszcze pociagną z 2 lata przynajmniej
+<a href="https://www.pcguide.com/news/nvidia-confirms-gtx-1080-ti-driver-support-will-be-cut-this-october-but-at-least-windows-10-users-get-an-extension/">https://www.pcguide.com/news/nvidia-confirms-gtx-1080-ti-driver-support-will-be-cut-this-october-but-at-least-windows-10-users-get-an-extension/</a>
+a to tylko od optymalizacji nowych gier
+No to na starych sterownikach nadal sie bedzie dalo grac w 90% gier
+te najnowsze moze faktycznie nie
+no wiadomo, jak teraz działają to się nie zepsuja i większość nowych gier też będzie ok
+Spoko przy jest upgrade sprzedać całą starą płytę z założonym już procesorem i chłodzeniem
+na allegro np
+to masz jakis % z powrotem
+Albo zachować to na potężny domowy serwer xD
+A, chyba ze masz dobre chlodzenie
+No zachowac też można ale właśnie jak kilka osób w rodzinie ma PC
+to przy upgrade zawsze sie robią elektro smieci 😂
+Więc lepiej to odsprzedać. 1 home server wystarczy 😂
+proxmox cluster jazda
+musze obniżyć cene za 2070super bo brak chętnych
+ale przynajmniej mądrze zaczynasz od za wysokiej ceny a nie za niskiej 😂
+no nie śpieszyło mi się, mogę sprzedawać x czasu
+ale 0 odzewu
+No to obnizac powolutku az zacznie byc odzew
+A jak będą ci pisać na PW ale nikt nie będzie chcial kupić to obnizasz o 50-100
+i w 1 dzien ktos kupi
+najgorzej cos sprzedawac wlasnie jak ci sie spieszy
+siema siema krw witam
+co ty taki wulgarny
+z samego rana
+ja cytuje, a cytowac wulgaryzmy mozna
+Marcel chuju
+Też jest cytatem
+Ktoś kiedyś gdzieś tak powiedział
+xd
+&quot;jebany ES&quot;
+<a href="https://app.clickup.com/t/869a8x3v9">https://app.clickup.com/t/869a8x3v9</a>
+Łukasz malinka?
+Romantycznie
+A wisi przyklejona do sufitu RPi 4
+Wczoraj agenta sobie zainstalowałem i komunikat o nowej wersji dostałem xD
+Dobry buddylang. Dawno takiego poziomu nie widziałem
+buiold jeden nie odpowiada wogóle
+noice
+ostatecznie stwierdzam, że wymiana 7700 na 9800x3d to frajerstwo
+i marnowanie pieniędzy xd
+kto jest frajer?
+bartek?
+a napisał, że ma 7700?
+nie wiem
+chlopie
+ja tu wszedlem rano i mialem 176 nieprzeczytanych wiadomosci
+myslisz ze ja mam tyle czasu?
+a mogę zrobić wyjątek i odpisać przed 13?
+xd
+prawo to prawo
+no to mam nadzieję, że się domyślasz
+prawdopodobnie tak
+xd
+<a href="https://t.me/fronty">@fronty</a> powiedzcie mi ile to jest podmienić kolor logo buddiego w zależności od środowiska?
+ile to jest?
+3zł
+za mało nas cenisz marcel
+250zł
+an fakture drożej
+Serio dniówka?
+250zł ręcznie a jak chcesz zeby automatycznie się zmieniało to 500
+a chcesz różowe czy kapitana gejarza z avatara?
+zdzierwstwo
+a potem bedzie Panie kto panu to tak spierdolił
+<a href="https://x.com/TheAhmadOsman/status/1960465720074231837?t=hUkZja41Cb9sptHBHXXrIQ&amp;s=35">https://x.com/TheAhmadOsman/status/1960465720074231837?t=hUkZja41Cb9sptHBHXXrIQ&amp;s=35</a>
+jak nie grasz w gry które są cpu limited jak factorio np to faktycznie może być bez sensu
+za ten cpu dawałem 1100
+rok temu
+to ja 1137 w 2021 😆
+już bym bardziej wolał w superki 50xx celować
+niż w cpu
+ta, też o tym myśle
+wszystkie grafi z serii 50 akurat tanieją
+oprócz 5070ti, jedyna która mnie interesuje kurw
+no ja bym chciał, by te plotki o vram w 70 super były prawdziwe
+tez
+18gb brzmi super
+mnie bardziej ciekawi ile będą droższe 😆
+mam nadzieje ze 5070 super sie zamknie kolo 3k
+co chwile widze na reddicie jakies leaki ze msrp 500$
+ale wiadomo jak to jest z msrp
+i z leakami xd
+mhm, jasne
+w idealnym świecie wydadzą superki i nie sprzedadzą jeszcze wszystkich zwykłych kart, przez co zwykłe karty potanieją
+dorzucą do nich kod na jakąś gierkę
+od jakiegoś ubi czy innego ea
+i się sprzedadzą
+ale chyba nvidia leci teraz tak, że kończy produkcje odpowiednio wcześnie żeby zaczęło już graf brakować przed premierą nowych xD
+a nie jest czasem teraz jakaś promka taka?
+borderlandsy 4
+faktycznie
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> [INFO] dostałeś się na sd4
+truncate commands to taka pierdoła, że bym się zdziwił, jakby tam coś jebło
+nie
+jebac AI
+jabaj
+co się stało
+twoje profilowe jest z ai
+je też jebać?
+🤔
+tak
+xd
+obrazek tej grupy jest ai
+poprzednie było lepsze
+to
+fajne
+cycki to nie jebac
+cycki są fajne
+no te nie były ai
+a które były
+szop pracz jest ai
+a które cycki były*
+to szop pracz na kształt cycków był
+nie bede takich rzeczy wyszukiwal xd
+a chcialem tu wkleic
+9:50 -&gt; do przerwy zostało T - 10 minut.
+łotototot
+o, zupka bedzie
+ta
+cyce
+jak donice
+w tibii na cyklopy sie mowilo cyce xd
+xd
+nie znałem tego
+ja puscze testy i ide na gulaszową
+10:00 -&gt; QA już obecne, a Frontu dalej nie ma. Co się odwlecze to nie uciecze, nawet taski. Kiszone specjalności są nierozłączoną częścią kuchni Polskiej. A nie sorry, mowa o clickupie to <strong>czy wy możecie robić kurwa jedną rzecz, jeden task?</strong>
+zuuupa
+<a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> wracaj, nie puściłeś testów
+puszcze zaraz
+zuuupa
+<a href="https://rosenzweig.io/blog/aaa-gaming-on-m1.html">https://rosenzweig.io/blog/aaa-gaming-on-m1.html</a>
+nie wiedziałem że asahi linux tak daleko zaszedł
+a, ale tylko m1/m2 i teraz starają się do kernela linuxa to wsadzić zamiast mieć 1000+ patchów na swoim branchu xD więc na m3/m4 to trzeba poczekać
+i to nie z rosetty
+yup, cały sterownik odtworzony od 0 - działa opengl directx i vulkan czyli więcej niż na macos xD
+bo tam chyba tylko vulkan i ten ich metal
+<a href="https://app.clickup.com/t/8699a2yn3">https://app.clickup.com/t/8699a2yn3</a><br>@qa wez to ktos przetestuj
+Bo to blokuje akcje login na githubie, tak to mozna by sie w github actions latwo logowac do buddiego i miec rest api
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a> przyjebać się?
+nie
+zależy czy cos waznego, jak trzeba naprawic to odbij
+W tasku napisałeś, że cancel jest na hoverze w activity
+A ja mam go tu bez hover-a
+ok ale napisał hover czego?
+patrzysz na to
+hoverujesz gałką oczną
+wont fix
+jak najedziesz to będzie inne tło
+czyli hover
+powinien byc na hoverze
+Dla mnie jasno napisane
+daj link
+mozesz odbic to sprawdze
+guwno nie odbić
+link
+<a href="https://app.sd4.com/ttests/-dupa/pipelines/pipeline/70208/execution/68aed6c693a76e5ba91dec8a?actionExecutionId=68aed6c693a76e5ba91dec8c">https://app.sd4.com/ttests/-dupa/pipelines/pipeline/70208/execution/68aed6c693a76e5ba91dec8a?actionExecutionId=68aed6c693a76e5ba91dec8c</a>
+branche ci sie nie podupily?
+ale fajne
+Kurv
+czemu to jest na team?
+Geniusz
+Za dużo SD
+bo to tylko do debugowania to se moze byc
+w kazdym razie no XD
+Ale W8
+Bo jest przyklejone na bottom/left 0
+😆
+iks de
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a> ty dodałeś ten przycisk na activity czy go ukryłeś?
+on tam zawsze był
+tylko go przenioslem
+Czyli go ukryłeś
+Ok
+jest maksymalnie z prawej strony i pojawia sie na hoverze
+Dobra, fixnięte
+Jebani baiterzy
+?
+Kurwa, nic do pisania bo wszystko jest gotowe
+Nawet XPathów nie zmieniliście
+🖕
+no ja nie wiem jak wy macie testy napisane XD
+to jak cos zmieniam w domie to wole odbic i napisac ze zmienilem lol
+następnym razem zmień data-id dla pewności
+tak zrobimy versioning<br>za kazdym razem jak jest zmiana w komponencie podnosimy cyferke
+ale nic nie zmieniles
+xd
+divy sie zamienily miejscami
+nie pamiętam czy mówiliśmy o tym ale jak wam się podoba ze google będzie blokować instalowanie nie z play store i weryfikacje developerów??
+nie zweryfikujecie się i nikt wasze apki nie uzyje xD
+ale gowno
+doslownie najwieksza zaleta androida to ze tak latwo instalowac third party rzeczy xd
+pewnie po prostu bedzie trzeba cos wiecej zrobic zeby sideloadowac i tyle
+ale shit
+nawet na ios to obeszli
+ja mam apki z nieznanego zrodla
+no jak to wprowadzą to unia przecież ich zje za monopolistyczne praktyki
+ale strasznie jest to podłe jak google zmienia antykonsumencko swoje produkty
+jak bede chial przetestowac apke przed wprowadzeniem albo miec jaka dla siebie to jak ja zainstaluje?
+blokowanie adblocka bo sprzedają reklamy
+blokowanie ładowanie appek nie z play store bo nie dostaną haraczu za płatności
+może zainspirują się apple i w celu ułatwienia wszystkim życia i przyśpieszenia procesu weryfikacji jedna płatność 100$ wystarczy
+obejść obeszli, czy jest to fajny i przyjemny proces - nie
+ale to byłby genialny ruch, jakieś scamowe apki miałyby jeszcze mniej konkurencji ze strony normalych aplikacji więc więcej gówna będzie niż faktycznych apek
+instalujesz jakieś gówno, by injectowało cudzy klucz
+no tak wiadomo, sideloadowanie to jest pójście pod prąd producentowi najbardziej jak się da
+Obszedłeś problem?
+dla nich najlepiej jak by się wgl nie dalo xd
+i masz &quot;sideloadowania&quot; dopóki:<br>1. nie zrobisz reboot telefonu<br>2. nie skończy się ważność klucza (90d)
+To co się stało z problemem?
+Problem został ...
+symulator
+jeśli chodzi o ios
+i emulator
+jeśli o android
+one tam działają inaczej
+jeśli chodzi o weryfikację
+a apb mi zablokuja?
+no czyli na faktycznym sprzęcie aplikacji nie zobaczysz aż nie zapłacisz 100$ i przejdziesz śmieszny proces weryfikacji
+czy jakos tak to bylo
+nie rozumiem
+abp
+apk
+adb
+adb
+o wlasnie
+adb install
+&quot;:D
+Arcybiskup?
+wgl jaki sideloading
+to jest
+będzie wymagało podpisania apki kluczem
+używanie aplikacji na moim urządzeniu
+tak jak to aktualnie działa na ios
+to na bank ktos ogarnie
+o ile w ten sposób
+bo ludzie sie raczej nie dadza w huja robic
+myślę, że Łukasz Mastalerz w godzinach pracy
+obok bingo
+to wszystkie revanced pojda sie jebac
+xd
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a> ru dupe, masz taska do merge
+ludzie przestaną piracić i się tym chwalić jakby to był 2010 lub gry ea/ubisoftu (je należy piracić)
+na pewno będzie opcja obejścia tego
+kochani polecam adguard póki jest lifetime licencja kolo 50zl
+google stworzy api do sprawdzania &quot;bezpieczeństwa telefonu pod bankowość&quot;
+Co to adguard?
+która ci wypierdoli bank jak chcesz korzystać z nieautoryzowanych apek
+blokowanie reklam ktore blokuje po adresach bodajze
+uBlock
+i to jest instalujesz w systemie wiec nie ma znaczenia jakiej uzywasz przegladarki/apki etc.
+adblock na <a href="app.local.io">app.local.io</a>?
+xD
+mam w wyjątkach
+gdzie
+chyba tylko intercom blokuje
+j a k
+xdd
+<code>f******</code>
+a bo chrome
+tu masz za 70zł
+sprzedaje anime baba
+juz troche wzroslo, ja kupowalem za 15$<br><a href="https://shop.lifehacker.com/sales/adguard-personal-plan-lifetime-subscription">https://shop.lifehacker.com/sales/adguard-personal-plan-lifetime-subscription</a>
+to wiarygodne zrudlo
+chciales nas oskamować
+wolę adguarda kupić raczej niż gift cardy na of
+tak kupuj klucz ze strony z anime babom
+o tu masz za 11$<br><a href="https://www.stacksocial.com/sales/adguard-personal-plan-lifetime-subscription">https://www.stacksocial.com/sales/adguard-personal-plan-lifetime-subscription</a>
+no to już śmiedzi scam stroną
+ja tu kupowalem
+genialne, sprzedawać giftcardy za więcej niż ich wartość bo ktoś nie chce mieć w historii banku of 😆
+nie bałeś tam się czegokolweik podawać?
+cooooo xd
+jak na reddicie poszukasz jakiego adblocka uzywac po nowym manifescie to wszyscy mowia zeby na stacksocial kupic adguarda
+bo legit
+paypal?
+ja normalnie kupowalem karta z tego co pamietam
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a> merge do dev
+dyskusja jest, a ten tu rozkazywać będzie
+jeszcze mi będzie wiadomości usuwał
+ha tfu
+juz ci mergne 1 sec
+to wygląda jak ai ale mam wrazenie ze to wcale nie jest ai
+mi się tam podoba
+wyróżnia się
+wygląda jakby zaczęli robić normalne auto
+jest opcja że to jakiś dziwny aerodynamiczny twór żeby mniej spalał
+i w polowie zmienili zdanie zeby jednak zrobic tira
+może zderzaki mieli zbędne z jakiegoś auta
+ale podwozie nie mogło być wspólne xD
+troche ma vibe tego<br><a href="https://carsandbids.com/auctions/3qnypebN/1986-pontiac-fiero">https://carsandbids.com/auctions/3qnypebN/1986-pontiac-fiero</a>
+ciekawe czy cie zwiewa jak tym jedziesz szybko
+albo jak sie zachowuje xd
+ciekawe czy tym sie wgl da jechac szybko
+jak to jest pontiac fiero z 86 xddddd
+ktos chcial miec ferrari
+wg wyników z google to do 160km/h w 20 kilka sekund się rozpędza
+chyba szybciej niż moja fiesta
+😆 norwegia jest niezgodna z yamlem
+bo jak piszesz <code>NO</code> to sie rozwiązuje jako boolean
+xd
+szwedzi by sie ucieszyli
+Ja async obiadek dzisiaj
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong><br><br>Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+Oficjalnie wybiła 13:00, co to oznacza? <br>Dokładnie! Ban na obrażanie <strong>sami wiecie kogo</strong> uważam za zniesiony!<br>Życzę kreatywnej krytyki i stalowych nerwów.
+<a href="https://t.me/lmastalerz">@lmastalerz</a> popsules mi clickupa, srednio co 5min pokazuje mi sie powiadomienie ze mnie przypisales do tego taska xd
+to nie lukasz
+on jest zjebany poprostu
+jak mi ktos cos to srednio co 5 min mi sie na telefonie pokazuje masz powiadomienie w clickup
+zamiast raz
+lol
+chociaz twoj przypadek jest inny bo nie masz powiadomienia
+łukasz!?
+ja rozumiem, że jest po 13
+ale hamuj się kuba
+mi sie pokazuje powiadomienie ale jak klikne na inbox to znika w ulamku sekundy xd
+JMG100%
+gdzie idziecie? zaba?
+zaba raczej
+a co, masz jakis lepszy pomysl?
+a mak?
+czy juz sie wam przejadl?
+jak dla mnie mozna skoczyc
+ja jestem biedny nie ide jesc 😢
+a <a href="https://t.me/mganczarczyk">@mganczarczyk</a> ?
+gdzie chcecie
+tam ide
+13:15 -&gt; Druga przerwa w środku tygodnia. QA głodne, QA złe. Jak QA złe, to QA nie testuje. QA zawsze złe.
+Łukasz musi dotestować taska. Wezwij go, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/68aee8b453c4131a51d34bfb">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/68aee8b453c4131a51d34bfb</a>
+to po zlote frytki
+to ruszajmy
+minuta, bo z Pawłem piszę
+akurat mi sie zresetuje xd
+pierwszy raz mi dobilo limitu
+czy ktos kiedys wpadl na to ? <br><br><a href="https://app.awsdev.net/ttests/environment-variables/edit/-1">https://app.awsdev.net/ttests/environment-variables/edit/-1</a>
+xd
+welp
+sww
+fajne to, coś świeżego? xD
+jakie są możliwe rodzaje ikonek
+i to user sobie wybiera czy my z backendu leakujemy jaki typ danych jest maskowany?????
+teraz odkryłem
+wystawiłem krzyśkowi review
+i michał to zobaczył i
+no chyba zwariowałeś :D
+tam brakuje kluczowej metryki
+% vibecoded
+0%
+robiłem refactor
+xd
+czemu refactor dodał linijek nie odjął
+bo klasy ktore byly przedtem byly na surowo wrzucone do ogniska losowo, co sprawialo ze musiales kazda z osobna tworzyc i kazdej z osobna przekazywac milion parametrow zeby dzialaly. Teraz sa opakowane jedna w druga wiec wystarczy stworzyc pierwsza a potem lancuchem wywolan wyciagnac co nas interesuje <a href="Mainview.subvie1.subview2.property">Mainview.subvie1.subview2.property</a>
+ide po czokoczino
+kurwa co to za nowatorskie rozwiazanie
+zadne taby sie nie usypiają tylko clickup
+tobie się usypia
+mi wywala apkę całą
+a mnie pinguje taskiem widmo
+a ok
+no jest tam jakieś ustawienie
+ciekawe co oni tam robią że to działa tak ciężko i powoli
+człowiek by myślał że to żre tyle bo wszystki cachują i będzie szybko no i co? gówno 😆
+&gt; nasza apka laguje<br>rozwiązanie?<br>dev: zoptymtalizować apkę<br><br>zarząd:<br>oszalałeś? dodać opcję żeby uśpić taby
+każdy jeden wpisany znak
+zapisuja w draft
+i go nie usuwają
+po wysłaniu wiadomości
+<span class="spoiler hidden" onclick="ShowSpoiler(this)"><span aria-hidden="true">buddy też tak robi</span></span>
+<a href="https://t.me/lmastalerz">@lmastalerz</a>
+<a href="https://app.clickup.com/t/86986r6pw?comment=90120150966445">https://app.clickup.com/t/86986r6pw?comment=90120150966445</a>
+👏
+Co to jest?
+no header był w kfc
+na tym tasku
+i się kurczaka nażarł
+i zgrubnął
+do 3.5rem
+urusl mu brzuszek
+ups
+Gerberka zjadł
+dowod ze mezczyzni tez mogą zajść
+mpreg
+spożywcza to wiadomo
+ja np średnio co tydzień z kebabem jestem
+ile trwa taka ciąża
+aż do aborcji
+dopoki nie usuniesz
+z deva
+to niedobrze
+myślałem, że tu też się tailwind zepsuł
+i musiałem po commitach skakać xD
+wystawcie mi buga
+bo faktycznie ustawialem tam set height dla activity itemow
+ale zmienil sie design od tego czasu?
+ciekawe kto nazywał
+jebanenugety
+to chyba zawsze był activity-item
+w code
+debilny komponent tbh tam
+no nie spodziewałbym sie ze activityItem jest naglowkiem browsera xd
+kurwa
+vs code ma dzwieki jak gadu gadu
+vscode ma dźwięki?
+ta
+Z jakimś pluginem na pewno
+xd
+Do vscode jak czegoś nie ma to jest plugin
+no tak to wiem
+ta
+ale to plugin ma dzwieki a nie vscode xd
+i mi robi dzwieki faili jak sie buduje i wywali builda
+i przerywają ci one piece&apos;a?
+w ten sposób
+:/
+tak
+i dziwne to jst
+zaden ide nigdy nie mial dzwiekow
+co uzywalem
+tylko ten
+Fiszki do uczenia się, ale z ruchami z neovima
+wczoraj kłade się już spać i przychodzi mi przez głowe taka myśl
+nie
+nano
+jakiś zestaw łamigłówek od prostych do trudnych w formie<br><pre>// opis zadania<br>kod na którym masz to zrobić</pre><br>możesz dostać wskazówkę, po rozwiązaniu zadania dostajesz informacje jak ci poszło + możesz swój wynik do globalnego rankingu wysłać i podejrzeć rozwiązania innych
+odwiedz
+codewars
+<a href="https://www.codewars.com/">https://www.codewars.com/</a>
+a to nie jest tylko od kodzenia? mi stricte chodzi o jakieś vimowe operacje żeby uczyć się optymalnych ruchów xD
+nie mam pojecia o co chodzi z optymalnym systemem neovim
+9:50 -&gt; do przerwy zostało T - 10 minut.
+jest vimtutor
+napisz se w terminalu vimtutor
+10:00 -&gt; może i bugi wystawiane przez QA są do niczego, ale wszystko ma swoje pozytywne strony. Przykładowo Marcel nie zgubił plecaka.
+q gdzie wy
+juz lecimy prawda <a href="https://t.me/mganczarczyk">@mganczarczyk</a>
+nieprawda
+yebać query params
+cxemu
+jak ci powiem czemu to mi wystawisz buga
+więc ci nie powiem
+powiedz
+nie
+dobra zupa?
+ta
+zapytał i nie poszedł xd
+xd
+chcial tylko wiedziec czy zupa dobra
+chcialem wiedziec czy wam smakuje
+taki mily jestem
+a odpowiedziałem tylko ja
+tak bardzo reszta jest nieuprzejma
+calkiem w pyteczke
+dzieki ze pytasz
+obyś był zdrowy i nigdy nie chorował
+:)
+jak zachoruje to zje rosolek od babci i wyzdrowieje
+ooooo
+:3
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong><br><br>Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+Oficjalnie wybiła 13:00, co to oznacza? <br>Dokładnie! Ban na obrażanie <strong>sami wiecie kogo</strong> uważam za zniesiony!<br>Życzę kreatywnej krytyki i stalowych nerwów.
+ja sie do zaby przejde
+wut is that
+kim są ci ludzie
+xd
+az tak pod kamieniem nie zyje
+ja najwyrazniej tak xd
+boziu
+to ja wole team żugajka
+ja 30 tysiecy
+i flu jebac
+influ ma gorączke w nazwie
+imagine wygrac, wziac pieniadze i nie przyjsc na spotkanie
+cos pieknego
+ja bym tak zrobil
+xd
+o, myślimy podobnie
+ja bym napisal ze nie chce sie spotkac ale pieniadze wezme
+zeby im nie bylo przykro
+ja bym napisał ze nie mam czasu xd
+ja tylko o tym latwogangu slyszalem bo na linkedinie ktos wrzucil posta ze kolaborowal z Ed Sheeranem
+ale nie wiem kim on jest xd
+ma kolaborowac
+jezdzil z nim po warszawie na bicyklach
+i sheeran mu powiedzial ze jak filmik ktory nagral wbije 1mln likes to nagra z nim piosenke
+i wbil po 3 h
+hardkorowo
+zglosmy tego huja grupowo to moze go wywala
+nie no, posty Giertycha przywracają mi wiarę w ludzkość
+że zawsze znajdzie się większy debil
+:3
+to prawda dlatego go zablokowalem
+pff
+Co było?
+kuba tak ify porobil ze sie w ogole analizator nie odpalal :D
+?
+?
+?
+ja sie w to nie bawie ?
+13:15 -&gt; zostaw już ten kod, trzeba coś zjeść. qa w kąt, a ty znikaj stąd
+Łukasz musi dotestować taska. Wezwij go, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/68b03a3453c4131a51d50ac7">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/68b03a3453c4131a51d50ac7</a>
+ktos idzie
+?
+ta
+minuta
+cypek idziesz?
+<a href="https://t.me/shipurjan">@shipurjan</a> ?
+ide
+jestem atakowany na 3 fronty
+?
+domeny w profilu - prio bo jak coś nie tak to blokuje Michała
+pipeline trigger na env muszę szybko skończyć bo długo już w tym siedze
+no i te routingi gdzie pół zmian do przeorania xD
+wszystko pewnie najlepiej na wczoraj
+spoko
+krzysiek zmergowal deva do swojego brancha po moim
+i ma 23 pliki w konflikcie
+mniam
+pół dnia
+kiedy przez smtp z kodu można posłać obiekt :D
+chociaż sobie zrób Json.stringify czy coś 😆
+:D
+zrób pipeline
+co pobiera grę z fitgirl-repacks
+i wysyła ci w załączniku
+maila
+albo w base64
+za duze?
+w partach?
+niby można by
+ale trzebaby to sklejac potem
+jak sie wchodzilo do qik console?
+trzeba zapukać
+loginem i hasłem
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a> co wczoraj widziałeś?
+Zamknięte lusterka?
+nie prawda.
+teraz to jest stawiane na tych maszynach co registry
+Sfastę na dachu?
+Rakietę na dachu?
+czuli cie podkablował
+jaki byllink do autoryzacji
+Czy napis na masce?
+małpe w klatce
+Ta, jakbyście sami nie wiedzieli xD
+ja nie wiem
+W całym Bielsku tylko jedna osoba takie coś jest wstanie zrobić
+zapytam raza
+on na urlopie
+kurwa
+Reszta ma za dużo godności
+to jebac jutro bede pukal do kogos
+wiesz, że sam się obrażasz?
+mysle ze kazdy pierwszy lepszy ziomek z technikum by byl w stanie
+bo to ten poziom
+i nawet ja do tego nie jestem potrzebny
+Wiem
+Ale przez to ty mnie nie możesz obrazić
+bijcie sie ja ide sobie
+:D
+Wiem
+I nie czuję się obrażony
+wiem
+: |
+nie macie w 1pass tego?
+ja nie pamiętam jaki był apikey 😆
+może gdzieś to mam w plikach ale teraz zajebany taskami jestem
+<a href="https://t.me/backendy">@backendy</a> kto jest wildcardem na backendzie gdy nie ma tego odpowiedzialnego za jakiś feature?
+Np. Jak Bylek na froncie
+Marcin, on komuś przypisze albo sam zrobi
+przydałoby ci się
+No to dużo wyjaśnia
+🤨
+no bo biurko od kompa masz tak zajebane ze nawet myszkę po złej stronie musiałeś dać
+przejebane
+Ta myszka to akurat dlatego że jestem oburęczny
+po &quot;złej&quot; stronie
+wlasnie obraziles 10% populacji
+najwyraźniej 10% populacji nie potrafi z komputera korzystać
+ale zaraz commita zadupie
+więcej
+<a href="https://app.buddy.mom/beta/backend-v4/pipelines/pipeline/124548/execution/68b057de2682c100955712a0?actionExecutionId=68b057de2682c100955712a2">https://app.buddy.mom/beta/backend-v4/pipelines/pipeline/124548/execution/68b057de2682c100955712a0?actionExecutionId=68b057de2682c100955712a2</a><br><br>internet na żetony?
+tenporary
+a ta sciezka nie istnieje wiec rm -rf * w obecnym katalogu xd
+xd
+<a href="https://youtu.be/izxVwTplELA">https://youtu.be/izxVwTplELA</a>
+to najlepsze artykuły akurat
+rozbił się - może jesteś ciekawy, jak przyjebał w ziemie
+przez ten wypadek nie moge isc na event :D
+jebnął pożądnie
+szybko, płasko, ziemia
+no to wiadomo, że jebło
+tak to bylo
+ergo płaska ziemia
+tak ludzie powiadają

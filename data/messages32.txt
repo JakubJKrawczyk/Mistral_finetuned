@@ -1,0 +1,956 @@
+﻿kiedy sie ten dzien skonczy
+nie wiem o co ci chodzi
+no co 404?
+usuwasz cos -&gt; nie moze znaleźć -&gt; 404
+to jest najbardziej oczywista opcja
+no ni chuja
+No nie no bug
+powinno przekierowac do listy
+Ale z tym czemu w dropdownie nie masz klucza to nwm
+na devie to wyglada wogole apogeum
+<a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> <a href="https://app.clickup.com/t/8697n74xp">https://app.clickup.com/t/8697n74xp</a><br>Ale rapsy XDD
+zapomniales ze dzwiek nagrywa czy wyjebongo?
+xdd
+ZŁOTO
+to se wylacz
+życie zapierdala
+😆
+mielismy to na 10 przestawic
+panowie <a href="https://t.me/mganczarczyk">@mganczarczyk</a> <a href="https://t.me/mnawiesniak">@mnawiesniak</a> a y jak tam juz  w pracy?
+tak
+tak
+zależy kto pyta*
+i tak bez kawki ani herbatki?
+jest
+i nie zawolaliscie
+?
+tak
+:&gt;
+bo byla szybka akcja
+dzisiejsza zupa lamie konwencje genewska
+jaka jest
+z dynia, tofu, szpinakiem i mlekiem kokosowym
+ale combo
+chyba resztki z calego tyg
+krótki termin ważności mają
+co tu jest nie tak
+przecież wyjebałem ten checkbox
+tadaaaaaam
+HEEEEEEE?
+xd
+nie no jaja robie
+nie ten branch
+:D
+ty chuju
+co mam napisać w komentarzu?
+zawartosc taska
+<a href="https://app.clickup.com/t/8697n6gz5">https://app.clickup.com/t/8697n6gz5</a>
+daj mu
+strzalke w lewo
+nie umie chyba donka sprawdzic
+na live to ja tez nie umiem
+na sd6 tez nie umiem
+a live wyjebiesz tym
+faktycznie
+awsstage nie wywala
+moze jest juz fiks
+z frontu nie było nic
+x d
+bo nigdzie nie wywala tylko live
+bo przepiąłem się na brancha master i nie wywala
+trzeba czekac na release
+to co zamiast zupki to zaba?
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a> sprawdź ty
+masz stary backend
+i to jeszcze na jakimś chuj-wie-jak-starym branchu
+zobaczę konsystencję zupki i się stwierdzi
+na bank krem
+u mnie smiga
+okej
+czyli
+podsumujmy co wiemy
+toco sie tam jebe
+backend nie wie
+frontend nie wie
+czyli zjebało qa 😎
+provider bedzie wiedzial
+teraz pora wrocic do inactive zone
+<a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> <a href="https://app.clickup.com/t/8697n74xp">https://app.clickup.com/t/8697n74xp</a>
+link.
+9:20 -&gt; do przerwy zostało T - 10 minut.<br><br>Dzisiejsza zupa:<br>Zupa z dynią, tofu, szpinakiem i mlekiem kokosowym<br>Wegańska zupa o intensywnym smaku dyni i kokosowym, z dodatkiem szpinaku i tofu.
+Tak informacyjnie: Małpiszona dzisiaj nie ma, więc QA dzisiaj w osłabion... nie, nieważne. Bez różnicy. Nie było tematu.
+a przy okazji jak mam to odtworzyć, jak takiej opcji w menu nawet nie ma xd
+ale masz zajebista muze
+jak nie masz takiej opcji?
+dzięki, specjalnie otworzyłem tego taska, by sobie przypomnieć :D
+masz opcję SSH key from assets
+a ona nie umożliwia dodania klucza
+dlatego chcę link
+bo nie widzę nawet contentu twojego dropdowna w kodzie
+nie ma takiego tekstu
+wystarczy ze wejdziesz do einvorment
+klikniesz upload Asset
+tam dodasz
+potem wejdziesz do szczegolow klucza
+i tam usuniesz
+o, nowe coś
+ooo nooo
+kurwa tego sie nie spodziewales
+ogolnie zupa nie jest krem
+tylko wdupcyli wszystko do gara
+9:30 -&gt; jest piątek, weekendu początek. Uhonorujmy ten wspaniały dzień miską <strong>psznej zupy</strong> i jeszcze lepszego ciasta. Życzę wam spokojnego życia bez przypierdolek QA.<br><br><a href="https://t.me/lmastalerz">@lmastalerz</a>, zrób test małpy
+<a href="https://github.com/yassinebenaid/bunster">https://github.com/yassinebenaid/bunster</a>
+Wyślijcie scruma na grupie<br>@małpiszon <a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> <a href="https://t.me/mganczarczyk">@mganczarczyk</a> <a href="https://t.me/shipurjan">@shipurjan</a> <a href="https://t.me/mnawiesniak">@mnawiesniak</a> <a href="https://t.me/BartShoot">@BartShoot</a> <a href="https://t.me/mJakobsche">@mJakobsche</a>
+łe
+?
+xd
+juz mi
+no ja tak z pół godziny temu wysłalem xD
+na froncie jest tak, że albo nikt nie wysyła, albo wszyscy w odstępie 5 minut od pierwszego
+na backendzie to ludzie przeważnie wysyłają jak przychodzą do pracy
+wiec dzisiaj pierwsze wiadomości 7:46 ostatnia 9:27
+tymczasem QA
+AI bedzie wchodzic do buddy
+nom
+slyszalem 3 dni temu szymona jak gadal przez telefon
+i mowil ze chca odejsc od ci/cd bo uwazaja ze to nudne
+i chca sie wgryzc w ai
+i krzysiek ma znalezc kogos kto napisze dokladna i tresciwa dokumentacje yamlow
+zeby tworzyl pipeliny na bazie yamlow i wogole wsyzstko
+haha xd
+po angielsku gadal z kims z ameryki
+i mowil szymon ze rok temu byl w san francisco
+i ze europejczycy nie moga konkurowac z amerykanami
+bo są zbyt niesmiali
+xd
+d
+a nie dlatego ze mamy limi kart graficznych jakie mozemy kupic?
+czy chodzi ci o charakter?&gt;
+jeśli bardzo chcesz mieć serwerownie w pl
+No to polska, a niemcy, francja itd. tez chuja robią jesli o chodzi o innowacje
+my robimy
+ale tak naprawde sami sobie
+bo rzad woli sie klucic ze soba
+unia europejska jedynie ustawia regulacje, jak USB-C i przyczepione nakretki
+stare pierdy
+A amerykanie mają rakiety ktore lądują
+no wlasnie
+to dużo podsłuchałeś <a href="https://t.me/shipurjan">@shipurjan</a>
+musielibysmy wyjebac kadre rzadzaca i dac ludzi np z openai
+no dosc duzo, szymon rozmiawial chyba przez 30 min
+a potem mu neta wyjebalo niby
+mimo ze ja i bartek mielismy 😂
+xd
+nie chcialo mu sie juz pierdolic
+naczej CI/CD jest spoko opcja ale trzeba byc na czasie
+isc w architektury wieloagentowe
+to jest teraz key
+szymon mowil ze buddy nie chce konkurować z githubem, a że dużo ludzi się boi odejsc od github actions
+i że AI jest tak rewolucyjne jak początek internetu, więc dlatego chcą się na to przebranżowac
+no ale to tylko taka burza mozgow jego byla
+no tak
+wiadomo ze nie jakies 100% plany
+nikt z nas nie ma szkolenia w AI
+nie ma czegos takiego
+i teyle co potrafimy to korzystac z gotowych rozwiazan
+tzn jest ale to sam musisz pogrzebac
+A nie masz podane na tacy
+chodzi ze nie mamy doswiadczenia w dzialaniu modeli AI
+bo narazie to jeszcze relatywnie mloda i rozwijajaca sie tech
+nie siedzimy w tym tylko indywidualnie
+ja troche wiem bo czytam artykuly naukowe ale i tak
+większość szkoleń masz od ludzi co sobie przez x dni rzucali prompty
+i mniej więcej wiedzą co napisać
+ale ni chodzi o to zeby miec wlasny model AI, tylko zeby móc wykorzystac modele AI
+to są 2 rozne rzeczy
+no tak ale to juz wszyscy robia
+no buddy jeszcze nie
+github actions chyba nie ma CICD AI
+i pewnie o to chodzi, że buddy jest w tyle
+nawet providery internetowe AI dodaja
+kurwa
+jak wy dołączaliście to Rafał mówił, że chcą iść w ai od roku
+jak my dołączaliśmy, to Rafał mówił, że chcą iśc w ai
+common errory wyglądają na start pod ai
+tam chyba są designy pod &quot;ai magic here&quot;
+powiem zxe ja tu widzial ai ktoremu rzucasz problem i ono ci daje rozwiazanie w postaci calego pipeline
+jak to powinno dzialac
+no tak, sa rozmowy o ai ale ai nadal nie ma
+jakie szkolenie w ai xD to wszystko raczkuje i nie ma jakichś definitywnych standardów jeszcze niczego
+jak to, ja chce certyfikat z AI
+to sobie kup, kopczyński robi szkolenia
+xD
+czyli jednak są
+bartek klamal
+nie no a tak poważnie to w sumie ciekawi mnie na ile ludzie spoza it widzą jak bardzo AI jest na siłe wciskane wszędzie i często działa gorzej niz by dzialal tradycyjny software w jego miejscu
+mnie martwi to
+że ai działa tylko dlatego ze są w to lane pieniądze masakryczne
+i każda firma która ma swoje ai krwawi pieniędzmi
+hmm... jak byłem w słowaku kiedyś po pawełka, to rozmawiałem z babką z bufetu, że dla niej sztuczna inteligencja to nie jest chatgpt, tylko bot na infolinii do pzu
+No AI to jest w dużym stopniu słowo marketingowe, ludzie nie rozumieją co to znaczy, ale wiedzą że to nowe więc nawet jak nie wykorzystają to się cieszą że mają AI w telefonie np.
+o, właśnie
+Chociaz w niektorych przypadkach zaczyna być faktycznie useful, np. w aparatach dają chipy AI które poprawiają autofocus, trackowanie oczu i twarzy i tak dalej
+byle jakie opencv to teraz ai
+i wtedy to jest bardzo szybkie i w sumie perfekcyjne usecase
+math.random to teraz ai
+podmieniasz &quot;zaawansowany algorytm&quot; na &quot;sztuczna inteligencja&quot; i lecisz wyżej w google xD
+AI to rewolucja w znajdowaniu ciezko wykrywalnych chorob
+ta
+np raka
+łaka?
+łakasabasz?
+łaka maka fą.
+fristajla
+no imo trzeba to dokładniej rozdzielić
+bo ai wykrywające ciężko wykrywalne choroby
+a llm który źle liczy litery w słowie
+ale wiesz sam fakt tego ze LLM dziala mimo wszystko co jeszcze 10 lat temu bylo nie mozliwe
+10 lat temu wyszedł wiedźmin 3
+oczywiscie byly badania nad kalsyfikatorami slow
+ale nikt wtedy nie myslal ze to bedzie taki bum komercyjny
+jest
+czesto widze ze ludzie np. na twitterze nazywają npc w grach że są sterowane AI
+jak np rabbit
+wystarczy władować w marketing perdylion monet
+asystent ktory jest pudelkiem ktorego nosisz przy sobie
+akurat rabbit to zly przyklad xd
+rabbit to gówno
+failed product
+a tak naprawde chuja tam z ai bylob o to gotowe scenariusze w selenium
+no wiem ze failed
+chodzi ze duzo produktow maja nalepke AI a nic nie maja z tym wspolnego
+yep
+z reszta w sumie AI to jest doslownie ML
+no i AI zostaly oznakowane wszystkie aspekty uczenia
+a ai to tylko buzzword
+yep
+a tak naprawde to wszystko to zaawansowane algorytmy kalsyfikacji
+no tak AI to doslownie buzzword
+i slowo sztuczna inteligencja jest nie trafione
+bo sztuczna inteligencja powinna myslec
+i wyciagac wniąski
+ale ja zwykle mówiąc &quot;AI&quot; mam na mysli &quot;LLM&quot;
+tak
+bo tak naprawde to LLM to jest najwieksza rewolucja
+a generowanie tekstu przez llm to szukanie wyrazów o największym prawdopobieństwie wystąpienia
+no i źle
+no klasyfikacja softmaxem
+bo pod szyldem AI są faktycznie użyteczne rzeczy jak wykrywanie chorób na skanach
+optymalizacja jakichś procesów przez ML
+ale to tez jest klasyfikacja
+dziala to tak ze jest to uczone na bazie dobrych przykladow
+wzorow
+i klasyfikuje potem dane ktore dostaje
+tylko konceptem działania mój gówno-skrypcik, który wykryje czy zdjęcie jest anime lub nie, też jest ai
+ta
+💀
+o ai mozna mowic tak naprawde bardziej przy LLM jezeli mamy koncepcje wielu agentow wykorzystujacych narzedzia.
+chociaz to tez jest klasyfikacja i tylko generowanie kodu
+detal jest taki - obraz, piksele itd to jest coś co ma faktyczną wartość zapisaną w określony sposób i nie zmienia się to w zależności kto na to patrzy
+tekst jest bardziej subiektywny
+i może z czasem zmieniać znaczenie
+w zależności od kultury itd mieć inne zaczenia
+obrazy tez maja zmienna wartosc w zazleznosci od punktu widzenia wiesz?
+to zalezy glownie od obrazu
+zależy czego szukasz w obrazie
+bo jak narysujesz krzeslo
+to jeden widzi krzeslo
+a drugi odczuwa brak, smutek, zal, pustke
+:D
+dobra nvm
+to zalezy od interpeetacji
+niewazne czy masz obraz czy tekst
+to wszytko to i tak sa macierze
+dla takiego algorytmu wszystko ma ta sama wartosc
+wiec nie mozna rozdzielac tego
+LLM jest faktycznie uzyteczny.
+mówimy o danych ze zdjęcia np to czy rak tam jest czy go nie ma
+z tym można zaufać że z większym niż człowiek prawdopodobieństwem algorytm określi tak jest rak
+myslisz ze jak dzisiaj jest klasyfikowane czy tam jest rak czy nie?
+nie przez LLM
+LLM
+xD
+architektura tego algorytmu wykorzystuje polowe architektury LLM
+potrzebuje tylko i wylacznie encodera
+dosłownie dzisiaj widziałem zdjęcie jak ziomeczkowi Google AI zaproponowało dokręcenie koła z 4x mniejszą mocą niż w specyfikacji 😆
+gdzie zamienia obraz na macierze wektorow o zmiennych parametrach
+nie było mnie tu przez 3 minuty i stwierdzam, że tldr
+to jest tak bardzo madre jak duzo informacji przetrawilo w danej dziedzinie
+No ok, to nie jest wyrocznia<br>Co nie zmienia faktu ze jest uzyteczne
+im cos ma szerszy aspekt tym jest bardziej do dupy
+10-15 lat temu tez byla nagonka na wikipedie, ze ma nieprawdziwe informacje
+no i pewnie nadal ma
+co nie zmienia faktu ze jest uzyteczna
+no ma
+i to bardzo
+tam jest dzial o bekowych artykulach
+z fake newsami
+<a href="https://en.wikipedia.org/wiki/Wikipedia:Unusual_articles">https://en.wikipedia.org/wiki/Wikipedia:Unusual_articles</a>
+nie, to było podsumowanie strony gdzie było napisane śruby koła przykręca się 98 coś tam, podsumowanie mówiło 25
+prompt?
+to jest akurat wada llm i raczej tego nie przeskoczysz chyba ze wymyslisz sposob na weryfikowanie info przez tego llm
+tylko wtedy kolo sie zamyka xd
+google ci nie wypluje zmyślonej informacji
+ale tak sie dzieje
+chyba ze jakis czlowiek ja napisal
+gpt dziala tak ze ma nad soba kuratorow
+<a href="https://www.reddit.com/r/mildlyinfuriating/s/8fSfcOfhPD">https://www.reddit.com/r/mildlyinfuriating/s/8fSfcOfhPD</a>
+chyba ten bot chcial jego smierci
+:D
+ale krzywa Beziera
+piekna
+Tam wyżej chcą mi sprzedać pomysł że nie prawda, inne ai które pod spodem mają podobne macierze potrafi być dokładne więc to też kiedyś będzie xD
+dobra dosc
+trzeba sie do roboty wziasc
+jeżeli coś jest obiektywne, można to zmierzyć i punktować to owszem pewnie jest się w stanie wytrenować model na tyle dobrze że sobie poradzi z tym zadaniem
+<a href="https://www.ortograf.pl/watpliwosci-jezykowe/jak-piszemy-wziac-czy-wziasc">https://www.ortograf.pl/watpliwosci-jezykowe/jak-piszemy-wziac-czy-wziasc</a>
+no ale rozmowa wyniknęła z tego że AI ma wejść do nas, chciałbym znać jakieś konkrety jak to ma wyglądać xD
+czy skończy się na ai generowaniu pipelines błędów itd czy chcemy jakiś swój osobny projekt robic
+to raczej dowiemy sie ewentualnie od seniorow xd
+albo pomysl zdechnie i nic z tego nie ebdzie
+skoczy sie na generowaniu pipelineow
+tak mysle
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong>
+Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍<br>jak jesteś z frontu to się nie angażuj, bo możesz kogoś przez przypadek obrazić, jak QA. QA obraża wszystkich i oni się cieszą! to szok.
+eeee
+marcel idzie do krainy jednorozcow
+tajest
+latajace my little pony
+aaaaaa
+wruuum wruuum
+a masz konika na diesel czy 95?
+konika mechanicznego
+<a href="https://jreleaser.org/guide/latest/index.html">https://jreleaser.org/guide/latest/index.html</a>
+13:15 -&gt; To już ostatni raz jak się spotykamy w tym tygodniu, więc może ruszyłbyś dupę? Dzisiaj i tak QA nie wystawia bugów, bo Łukasz rozjebał czołg (polski)
+Dzisiaj nie wzywamy małpiszona.
+kiedy wy znajdujecie czas na przeszukiwanie neta
+rano do herbatki sobie otwieram hackernews
+no i patrze co tam nowego
+<a href="https://t.me/lmastalerz">@lmastalerz</a>, wiesz co się rymuje ze słowem &quot;żabka&quot;?<br><br>Oh, life could be a dream (Sh-boom, sh-boom)<br>If I could take you up in paradise up above (You, you, sh-boom, sh-boom)<br>If you would tell me I&apos;m the only one that you love (You, you, sh-boom, sh-boom)<br>Life could be a dream, sweetheart<br><br>Sami wiecie kogo wezwał: $MALPISZON\_SUMMONER‎<br><br><a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196321/execution/679388daaadacf5ab1fc2163">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196321/execution/679388daaadacf5ab1fc2163</a>
+co to k*wa jest
+większa czcionka
+niektórzy tu już są starzy
+Nie kwestai czcionki
+tylko telegram zmniejsza obrazki
+do 25%
+kurwa
+denerwujące xd
+w kazdym razie chodzi o rozmiar tego okienka
+a nie tresc
+wina *scripta
+Regex zlapal &quot;Java&quot;
+wiec wina Javy
+[SPOILER] Lista zup na ten tydzień UwU
+Poniedziałek: <span class="spoiler hidden" onclick="ShowSpoiler(this)"><span aria-hidden="true">Zupa z jarmużem, ziemniakami i bekonem<br>Syta zupa z dodatkiem jarmużu, ziemniaków i chrupiącego bekonu.</span></span>
+Wtorek: <span class="spoiler hidden" onclick="ShowSpoiler(this)"><span aria-hidden="true">Krem z brokułów i cukinii<br>Gładki krem z brokułów i cukinii, idealny na lekką przekąskę.</span></span>
+Środa: <span class="spoiler hidden" onclick="ShowSpoiler(this)"><span aria-hidden="true">Zupa pomidorowa z tortellini<br>Klasyczna zupa pomidorowa z dodatkiem tortellini, smakowita i rozgrzewająca.</span></span>
+Czwartek: <span class="spoiler hidden" onclick="ShowSpoiler(this)"><span aria-hidden="true">Barszcz ukraiński<br>Aromatyczny barszcz z buraków, często podawany z dodatkiem śmietany.</span></span>
+Piątek: <span class="spoiler hidden" onclick="ShowSpoiler(this)"><span aria-hidden="true">Fasolka po toskańsku<br>Pożywna zupa z fasolą, bogata w smaki ziół i warzyw.</span></span>
+prrr smieszne
+?
+xD
+testa puszczam a tu taki walek
+no i git
+zostalem wybrany przez mojego najwiekszego wroga
+o moj boze
+xD
+wtf xD
+rip
+nie akceptuj
+bo ci wjadą w taski
+wlasnie boje sie ze mnie wrzuca do jakiejs sekty
+zapytaj ich czy dla verified clickup działa szybciej
+bo jak nie to nie chcesz
+to na maila dostales?
+czy popup?
+yep
+mail
+to musi być niezły math.random
+Jaki tytuł maila?
+albo mają 10 userów world wide
+raczej Math.Random
+Big news, you&apos;re a ClickUp Power User
+nie
+Math.random()
+haha
+w pazdzierniku
+xd
+Też mam
+zignorowany
+W lipcu
+czyli z tego wynika ze nikt nie uzywa tego gowna
+nikt nie czyta tego spamu
+skoro tak latwo jest byc w top10%
+XD
+ja nie dostałem
+tbh dumny z siebie jestem
+?
+ClickUp Power User
+pewnie kurwa mają coś zjebane i linuxa nie liczy 😆
+na ch ci to xd
+URL: <a href="https://192.168.5.40:9999/services/internalAPI/qik/zone/Zopjbp62/git?ipAddress=192.168.10.86&amp;domain=t2tests&amp;invokerId=61">https://192.168.5.40:9999/services/internalAPI/qik/zone/Zopjbp62/git?ipAddress=192.168.10.86&amp;domain=t2tests&amp;invokerId=61</a><br>Payload:<br>: { projectId = 43, branch = master, path = .buddy/autorenewtransfer-t2tests-sd8-buddy.fr.yml }<br>ipAddress: <a href="192.168.10.86">192.168.10.86</a><br>domain: t2tests<br>invokerId: 61<br>StackTrace:<br>works.buddy.git.common.exceptions.ScmRuntimeException: Can not push to ref refs/heads/master: REJECTED_OTHER_REASONworks.buddy.git.rmi.dao.GitDAO.lambda$push$13(<a href="GitDAO.java:1855">GitDAO.java:1855</a>)<br>java.base/java.util.LinkedHashMap$LinkedValues.forEach(LinkedHashMap.java:833)<br>java.base/java.util.Collections$UnmodifiableCollection.forEach(Collections.java:1116)<br>works.buddy.git.rmi.dao.GitDAO.lambda$push$14(<a href="GitDAO.java:1853">GitDAO.java:1853</a>)<br>java.base/java.util.ArrayList.forEach(ArrayList.java:1596)<br>works.buddy.git.rmi.dao.GitDAO.push(<a href="GitDAO.java:1853">GitDAO.java:1853</a>)<br>works.buddy.git.rmi.dao.GitDAO.commitFile(<a href="GitDAO.java:1753">GitDAO.java:1753</a>)
+GG
+znów cos zepsułeś?
+Generator...
+a ustawianie git configa
+ale ciekawi mnie REJECTED_OTHER_REASON
+No i mam sww
+Na froncie
+Czyli musisz to obsłużyć
+no waiting for push powinno sie pojawic
+Yeap
+Zaraz zobaczę co jest takiego specjalnego z projektem 43
+fix na branchu
+współczuje
+Jak to włączyłeś?
+ja tez
+kliknalem na link w mailu
+niektórzy to by ukrywali fakt, że korzystają z tego
+skusilo mnie priority network access
+moze bedzie szybciej
+ej dziady
+ale nie tylko ja to mam
+z backendu chyba nikt nie ma z tego co widzę
+tylko QA
+xd
+zew testowania
+Więcej tego
+Łooo
+chciales to masz
+looswy point i trafilem
+ehh
+odbij
+jak się wygrzebie z konfliktów, to dodam tego jednego ifa
+najwidoczniej o isEditView zapomniałem
+z drugiej strony
+ciekawe czy to działa
+teraz mógłbyś określić, które chcesz zaimportować
+przekładają spotkanie z dzisiaj na jutro...
+po co było rano wstawać
+coooooo?
+<a href="https://t.me/shipurjan">@shipurjan</a> będziesz musiał znowu wcześniej wstać
+znaczy tylko dzisiaj
+bo Marcina nie ma
+u was pewnie bez zmian xD
+a, że backend
+meh
+yup
+juhu
+kliklem to i mi nie dziala
+czyli bez badge&apos;a zostaję ja, <a href="https://t.me/BartShoot">@BartShoot</a> i ewentualnie <a href="https://t.me/mJakobsche">@mJakobsche</a> 🤔
+Jakiego badga
+mi tez nie dziala
+tego
+jak klikam to mnie odsyla na niezalogowana stronke
+xd
+XD okej
+URL ma hasha ktore powinno byc unikalne dla twojego konta
+ale nie dziala 😆
+clickup jak to clickup
+brzmi fajnie
+Ctrl+R
+I się aktywuje
+a faktycznie
+Kurwaaa!
+co małpo
+no z 20 min trzeba poczekac
+Na górze róże, <br>Na dole rdest.<br>Co to, kurwa, jest?
+?
+Wierszyk
+9:20 -&gt; do przerwy zostało T - 10 minut.<br><br>Dzisiejsza zupa:<br>Zupa z jarmużem, ziemniakami i bekonem<br>Syta zupa z dodatkiem jarmużu, ziemniaków i chrupiącego bekonu.
+<a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> coś to napisał
+xdd
+normalnie
+&quot;D
+na ch kolejny task w pre-launch
+Fakt, to można już jako Bug wystawiać
+moge przeniesc
+to nie jest bug
+prosze bardzo
+bug
+nie
+logical bug
+nie
+wsyzstko jest bugiem
+cale nasze zycie
+kazdy obiekt w uniwersum
+kazdy czyn
+tylko konsekwencje maja rozny poziomn akceptacji
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> to gdzie ci przepiac taska?
+a bo ja wiem
+już myślałem, że będzie święty spokój z tym pre-launch xd
+qik ma wszędzie taski rozsiane
+qik jest wszedzie to prawda
+kuba, nie spam mi powiadomieniami
+tak się pracować nie da
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a>
+to nie usuwa ikony powiadomienia u mnie
+9:30 -&gt; najgorszy dzień tygodnia. QA znowu wystawiać taski o byle pierdoły. Frontu nie ma i nie będzie. Świat schodzi na psy. Przynajmniej jest zupa.<br><br><a href="https://t.me/mganczarczyk">@mganczarczyk</a> <a href="https://t.me/shipurjan">@shipurjan</a> , zróbcie fikołka z 1 piętra
+sam zrób
+zupka
+lets go
+<a href="https://t.me/BartShoot">@BartShoot</a> pozdrawiam
+fajne co nie
+przypominam ze dzisiaj idziemy na zarelko a nie standardowo zaba
+czemu tu nie ma uncheck i check all ?
+nie dali w design
+to też odbije do simona
+coo gdzie jak
+w piatek chcielismy isc na zarelko jakies inne niz zaba i stwierdzilismy ze pojdziemy dzisiaj zebys z nami szedl :D
+miło z waszej strony ale to dajcie znać wcześniej, mam swoje jedzenie xD
+no to ch
+<a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> za późno
+😢
+no a muszę zjeść bo dziewczynie będzie potem smutno że zrobiła mi jedzonko a ja go nie zjadłem
+okee
+czyli 🐸?
+jak chcecie
+🐸 it is
+monsterka jebnol to moze nie zasnie
+<a href="dashboard.office">dashboard.office</a> do poprawki wgl jest
+schodow juz nie ma..
+a jak na pietro wchodza?
+tamtędy nie wchodzili, na końcu korytarza w lewo
+ja tam raz wchodziłem to prawie zasłony zrzuciłem bo tam o drzwi jakoś zahaczone były 😆
+tamtędy można było wejść w ściane
+albo w szybę
+nie no sa tam drzwi, tylko zasłonięte
+xd
+designer by to musial update
+ale w sumie to nie takie wazne bo tam nic nie ma
+jak zremontują konferencyjne to mysle bedzie dobrze zupdateowac
+ten vpn... chuj czasem moze strzelic...... git pull mi sie robi z zawrotna predkoscia 50kb/sek
+mmmm
+sweet
+no ostatnio tez tak mialem tutaj na miejscu
+ale to raz tylko
+jak internet scierwil
+taaa, pull 1kb/s, gdy Cyprian wrzucił commit, który zmieniał strukturę ikon
+@qa
+pytanie
+macie jakieś testy do akcji buildowej scali?
+<a href="https://app.dev.io/ttests/hehe-hyhy-hihi/pipelines/pipeline/159651/execution/679755fe16113a570a108b78?actionExecutionId=679755fe16113a570a108b7a">https://app.dev.io/ttests/hehe-hyhy-hihi/pipelines/pipeline/159651/execution/679755fe16113a570a108b78?actionExecutionId=679755fe16113a570a108b7a</a>
+to dalej idzie XDD
+bo projekt z templatki tworzy 12 minut
+do kurwy
+zaktualizowałem wersję u siebie lokalnie scali do najnowszego lts - patrzę, idzie dłuuuuuugo. odpalam to samo na starej wersji na dev, i idzie dłuuuuuugo
+czemu nie ma testow na kazdą akcje?
+już pomijam fakt, że obraz dockera jest tworzony ręcznie xD
+no i cyk, kolejny task
+zaciąga openjdk:12
+optymalizacja pullowania po vpn
+na chuj to komu
+potem jeszcze tworzy drugi
+powariował :D
+na chuj to komu
+se większe zasoby w pipelinie niech ustawi
+6GB to z mało na sample project?
+ja rozumiem, że to java
+ale bez przesady
+ogólnie to chyba była ostatnio zmiana co do obrazów dockera
+i są per release, jak jako pierwszy na tej wersji robisz release
+to se budujesz od 0
+jak dobrze zrozumiałem xD następnym razem będzie szybciej
+tzn ja rozumiem, że pullujesz obraz kontenera
+ale po pullnięciu, tworzy wewnątrz drugi
+docker in docker
+wieksze zasoby zeby zbudowac hello world w scali?
+ja już większych nie mogę
+to powinno na 1gb sie zbudowac spokojnie
+jak dam na froncie 32GB
+to dostanę sww z backendu
+A wtedy zgłosisz buga i wyjebane
+nie, bo dodałem sobie ręcznie opcję do dropdowna?
+:D
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a>
+hehehe
+dziemki
+dodaj do wszystkich list mordo
+&quot;D
+nie
+tak tak tak]
+no, trafiłeś tam na zły moment z pipelinem - brakło miejsca na tamtym pipeline z releasem paczek xD
+ohoooo
+jak przejdzie ci tamten release to bedzie git
+zaraz zobaczymy
+jest git
+haha
+a to lepsze
+😆
+jaki wystraszony
+jak Jakub z Tabalugi jakby mu Arktus wydal rozkaz
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong>
+Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍<br>jak jesteś z frontu to się nie angażuj, bo możesz kogoś przez przypadek obrazić, jak QA. QA obraża wszystkich i oni się cieszą! to szok.
+to jak wkoncu
+zabula?
+tak
+yeah
+no i miodzoooo
+babeczka
+za ba
+ba za
+ale hamsko <a href="https://t.me/lmastalerz">@lmastalerz</a>
+?
+przez h
+Co mnie obrażajo
+że szynka?
+dobrze!
+rafala tak zpingowac
+mniam
+Znaczy nie mam problemu że mnie obrażajo
+Ale chciałbym wiedzieć za co
+wiemy
+No bo Yaml-a kończę
+I wracam do Cypriana
+Z młotkiem
+zrobiłem tabelkę dla Łukasza
+czy to
+niech sobie ją testuje do woli
+czy to zaraz zielone światło na merge?
+Zaraz nie zaraz. Zostało review całości i testy całości
+aha
+no to se poczeka
+Na Krzyśka, a nie na mnie
+A tak BTW to <a href="https://t.me/mganczarczyk">@mganczarczyk</a> mam dla cb nowinę
+Siedzisz?
+mam się bać?
+Jak wleci nowe psd to będą półautomatyczne testy
+miales racje z tymi 46
+13:15 -&gt; zostaw już ten kod. I tak wiadomo, że chuja robisz i jedynie QA wkurwiasz<br><br>Kuba =&gt; wypierdalaj
+Łukasz musi dotestować taska. Wezwij go, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/679778c4aadacf5ab1011f2e">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/679778c4aadacf5ab1011f2e</a>
+czyli wtedy wystarczy pół mózgu?
+Yeap
+mółgu
+spadaj XD
+spadamy
+Zmiany kosmetyczne będą się testowały same
+yeaaaaa
+Nie będzie trzeba czekać na psd
+<a href="https://t.me/lmastalerz">@lmastalerz</a>, wiesz co się rymuje ze słowem &quot;żabka&quot;?<br><br>Oh, life could be a dream (Sh-boom, sh-boom)<br>If I could take you up in paradise up above (You, you, sh-boom, sh-boom)<br>If you would tell me I&apos;m the only one that you love (You, you, sh-boom, sh-boom)<br>Life could be a dream, sweetheart<br><br>Sami wiecie kogo wezwał: Marcel Gańczarczyk‎<br><br><a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196321/execution/67977d17bb2c802af8f28c74">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196321/execution/67977d17bb2c802af8f28c74</a>
+🌩️🔔 przekazuje: <br>Sprzedaj arte
+Dzień dobry,<br>zrobię to dla was i ruszę dupsko.<br>Pozdrawiam, wszystkich a Marcelowi rurę w dupę.
+jescze chwila i jescze troche i do domu juz isc se moge
+&quot;D
+a ja jeszcze 2h
+ja jescze 42 min
+ja jeszcze 2.5h
+10 minut
+faktorio
+ioio?
+ioio to ja miałem dzisiaj po drodze do pracy, łącznie 20 radiowozów na sygnałach
+ciekawe gdzie i co sie odjebalo xD
+ktoś miał 5 gwiazdek
+no gościu nawet undercover suv między lodówkami na sygnałach jechał
+need for speed
+loduwa
+o od Tomka słyszałem właśnie że clickup teraz to jest o niebo lepszy niż jak zaczynali go używać 😆
+impossible
+0*x = 0
+Ale to JS
+Więc...
+no że search nie działał, potrafiła apka po prostu leżeć godzinami, jakieś bugi że tworzysz taska a on sie robi zamknięty od razu xD
+No ostatnio lezal clickup przez 4h
+z 2 tyg temu
+no ale to taki jeden event
+No tak czyli zdarza sie mniej niz kiedys xd
+progres
+xd
+Nie moge sie skupic wiec ustawilem light theme
+Pojebany
+moze pomoze
+idz
+ustaw sobie duże literki
+ustaw jescze taki ekran
+podobny rozmiar
+buahahahah
+czas spadac
+QIK Yaml na PSD
+ale prio ma ten mój task
+a moze każdy chce se w yamlu rekordy ustawiać
+Nie, Krzysiu ma do wyboru:<br>1) robić temu review<br>2) wypierdolić to na psd i kazać mi fixować testy
+<a href="https://www.youtube.com/watch?v=bbcPLei01Ls">https://www.youtube.com/watch?v=bbcPLei01Ls</a>
+<a href="https://t.me/lmastalerz">@lmastalerz</a> tu masz docker build
+Łeee
+czyli co
+najpierw zaległe taski sprawdzisz?
+Grzebiecie w tym bez potrzeby
+z
+Chwały i kasy to nie przyniesie
+opisałeś właśnie qa
+znów spotkania nie ma
+Heheh
+kto wie co sie wyjebało
+nawet release&apos;a
+Marcina nie ma i wszystko leży
+9:20 -&gt; do przerwy zostało T - 10 minut.<br><br>Dzisiejsza zupa:<br>Krem z brokułów i cukinii<br>Gładki krem z brokułów i cukinii, idealny na lekką przekąskę.
+Tak informacyjnie: Dzisiaj Krzysiek czy tam Michał nie dostaną review na 5k zmian. QA w osłabionym składzie
+9:30 -&gt; gdy nadejdzie bunt maszyn, to nie macie się czego bać. Z całą pewnością, wywalą exception na pierwszym ifie, bo QA się opierdalało. A przy okazji zapraszam na przerwę
+Bandyctwo
+git
+i czego marcel zadajes glupie pytania xd
+to nie jest pytanie &quot;czy jest&quot;
+a &quot;co ci nie działa w funkcjonalności, której nie ma&quot;
+Panowie, ja i cyprian podbijamy stawkę
+<a href="https://app.clickup.com/t/8697cru73">https://app.clickup.com/t/8697cru73</a>
+tak 😆
+Ten task to śmietnik...
+XDDD
+żeś stworzyl to masz
+Rafal odbil do szymona, szymon zadal mi pytanie i odbil do rafala xDD
+co tu sie odwala xd
+beka xd
+szuka takich głupot
+to teraz ma
+I teraz do mnie odbijaja
+zamiast do lukasza
+fajnie xd
+ktoś się już bawił deepseekiem??
+póki działał, to ja
+ja uzywam zamiast gpt o ile nie jest high traffic i nie chce odpowiadac
+przynajmniej jest szybki
+dobrze sie uzywa bo jest szybki
+o ile działał
+no wszyscy inwestorzy w openAI i nvidie robią ddos na nich
+żeby stock wolniej spadał 😆
+smieszy mnie idea chinskiego LLM
+bo chinski LLM musi miec cenzure
+a LLM zeby byc skuteczny nie moze miec cenzury
+mnie to, że akcje nvidii spadają
+jakby chiński llm działał na małych chińczyków
+oj no nie wiem czy jakieś ogólnodostępne modele są bez cenzury
+i nie wiem jak ktoś często potrzebuje generować coś o kubusiu puchatku w llm xD
+No te cloudowe typu OpenAI i Claude mają &quot;cenzure&quot; w tym sensie, ze są trenowane na wyselekcjonowanych danych
+Ale jak np. deepseeka zapytasz o taiwan to ci wygeneruje odpowiedz a potem ją usunie
+jak wykryje ze jest kontrowersyjna
+Ale self-hosted modele mogą nie miec cenzury jak sobie wytrenujesz na 100% niesfiltrowanych danych
+czyli deepseek będzie działał nie na tokenach, a na social creditach?
+na social tokenach
+XD
+potrzebuje takiego bota w moim zyciu xd
+spytaj go ile jest sc za głoszenie, że nic nie wydarzyło się na placu Tiananmen
+-1000
+to co się tam wydarzyło niby?
+cwaniaczku
+dobrze
+Wiekszosc to prawda tbh
+no nawet rozsądna odpowiedź
+ciekawe czy gpt by też spoko odpowiedział xD
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong>
+Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍<br>jak jesteś z frontu to się nie angażuj, bo możesz kogoś przez przypadek obrazić, jak QA. QA obraża wszystkich i oni się cieszą! to szok.
+ża ba
+🌕🌕🌕🌕🎩🌕🌕<br>🌕🌕🌕🌘🌑🌒🌕<br>🌕🌕🌘🌑🌑🌑🌓<br>🌕🌖🌑👁🌑👁🌓<br>🌕🌗🌑🌑👄🌑🌔<br>🌕🌘🌑🌑🌑🌓🌕<br>🌕🌘🌔🌘🌑🌕🌕<br>🌖🌒🌕🌗🌒🌕🌕<br>🌘🌔🌕🌗🌓🌕🌕<br>👠🌕🌕🌕👠🌕🌕
+wtf
+?
+13:15 -&gt; Będzie tego. Pizgaj taski i odpocznij, bo i tak spierdolisz więcej niż to warte. Chyba, że wolisz 3 bugi w cenie jednego fix-a.
+Łukasz musi dotestować taska. Wezwij go, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/6798ca44aadacf5ab1032661">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/6798ca44aadacf5ab1032661</a>
+<a href="https://www.reddit.com/r/pcmasterrace/s/cvZiPiiS1L">https://www.reddit.com/r/pcmasterrace/s/cvZiPiiS1L</a>
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> kto rusza qik-a po froncie?
+Ty i ktoś jeszcze czy tylko ty?
+Aktualnie?
+Ja
+<a href="https://t.me/lmastalerz">@lmastalerz</a>, wiesz co się rymuje ze słowem &quot;żabka&quot;?<br><br>Oh, life could be a dream (Sh-boom, sh-boom)<br>If I could take you up in paradise up above (You, you, sh-boom, sh-boom)<br>If you would tell me I&apos;m the only one that you love (You, you, sh-boom, sh-boom)<br>Life could be a dream, sweetheart<br><br>Sami wiecie kogo wezwał: Marcel Gańczarczyk‎<br><br><a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196321/execution/6798cda0aadacf5ab1032cfd">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196321/execution/6798cda0aadacf5ab1032cfd</a>
+🌩️🔔 przekazuje: <br>🙉
+Ktoś się nie bał u Import zonefile zajebał czy Szymon swą wolą go ujebał?
+Dzień dobry,<br>zrobię to dla was i ruszę dupsko.<br>Pozdrawiam, wszystkich a Marcelowi rurę w dupę.
+odpowiedź 3
+nie było go tam
+Jutro yaml do merge
+po mergu? czy mam rano wstawać
+Muszę fixnąć jeszcze kilka testów
+Się okaże
+to po mergu
+na spokojnie
+wiec po poludniu 😛
+puszcze se swoje testy jeszcze i zmerguje
+żeby nie było wstydu na telegramie 😆
+<a href="https://app.clickup.com/t/8696t0wjh">https://app.clickup.com/t/8696t0wjh</a> - <a href="https://t.me/mganczarczyk">@mganczarczyk</a> <br><a href="https://app.clickup.com/t/86970tyxk">https://app.clickup.com/t/86970tyxk</a> - <a href="https://t.me/mnawiesniak">@mnawiesniak</a> <a href="https://t.me/BartShoot">@BartShoot</a> <br><a href="https://app.clickup.com/t/8696776zx">https://app.clickup.com/t/8696776zx</a> - <a href="https://t.me/shipurjan">@shipurjan</a> <br><br>SD8 wolne, niech o tym którego taska przerucham zadecydują pięści!
+rzuc kostka
+rzuc lukaszem
+9:20 -&gt; do przerwy zostało T - 10 minut.<br><br>Dzisiejsza zupa:<br>Zupa pomidorowa z tortellini<br>Klasyczna zupa pomidorowa z dodatkiem tortellini, smakowita i rozgrzewająca.
+Tak informacyjnie: Dzisiaj Krzysiek czy tam Michał nie dostaną review na 5k zmian. QA w osłabionym składzie
+Fake info
+Ja nie chcecie mnie przekonać do swojego taska to sam wybiorę...
+Ten ostatni odpada, bo z <a href="https://t.me/shipurjan">@shipurjan</a> nie da się zrobić czegoś co nie jest zjebane i odbijane do Rafała/Szymona po 10 razy
+Środkowy odpada bo na backendzie <a href="https://t.me/BartShoot">@BartShoot</a>
+Zostaje tylko jeden
+aAAaaaaaaaaaaaaaaaaAAAAAAaaaaaaaaaaaaa
+ok
+jak znajdziesz tam coś niedziałającego, to patrząc na to, ile mam teraz rzeczy na głowie, to się prędko nie odkopię z tasków xd
+bbbbbBBBBBbbbbbbBBBBBbbbbbbbbbbb
+Wyjebanie frontu z maszyny jest prostsze niż backendu
+Więc...
+hop z okna
+9:30 -&gt; QA już na zupce, a frontu dalej ni ma. Co się odwlecze to nie uciecze, a Front i tak będzie miał okazję porzygać się zupką.
+yaml zmergowany, teraz patrzec co sie wyjebie
+<pre>[improvement] yaml dla domeny #86941pn8g<br> 70 files changed, 2879 insertions(+), 402 deletions(-)</pre>
+rekord skoczni
+🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️OO🅱️S
+co
+gdzie
+:D
+przynajmniej bys sie ortograficznie poprawnie rozpisywal
+przecież jest poprawnie
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a>
+dobrze jest?
+jest w pyte
+masz test na to?
+Emotek nie daje się do bugów
+daje
+ale dostajesz wtedy won&apos;t fix
+a co jak ktoś używa emotek w sekretach jako security feature
+Dla backendu to jedynie ciągi znaków
+to ma problem, czasem moze sie nie móc zalogowac
+to dość krótki ma ten secret
+qa mu wtedy napisze zeby uzywal normalnych sekretow
+nie mozemy testowac glupoty klienta
+nie ma prawilnego testu na IQ
+heh
+czemu krótki, moze ma szumi🌲dupa🤝andrut🅱️2137💣
+no i kto sie włamie
+buddy jak wykryje cos takiego to powinien zwracac <br><br>&quot; Ta ? jesteś pewny ze masz to dobrze? a weż zrób taki teścik: link &quot;
+żaden bruteforce nie da rady
+no chyba, że w nazwie
+bo env może mieć jedną w ikonie
+tam mi to lata
+mi chodzi o secret variable
+<a href="https://aider.chat/">https://aider.chat/</a>
+nowe, nie znałem
+<a href="https://t.me/front">@front</a>
+tak ciekawe
+trzeba obczaic
+na spreparowanym gifie wygląda spoko
+ciekawe jak sobie radzi z faktycznym projektem xD
+zaraz sprawdz
+e
+tak pierwsze slysze o tym
+ale to jest tylko nakladka
+to gowno
+jedyne co robi za cb
+to tworzy sam pliki
+nie no komendy też ci moze chyba odpalac
+nie masz po co
+mamy to na froncie
+xd
+podpięte
+i output z nich ogarniac
+i jak dziala
+?
+jak mu podasz plik gdzie ma edytować, to ładnie ogarnia
+na pewno chujowo jak się nie podzielili z nami jak działa :)
+a jak mu karzesz nowa funkcjonalnosc stworzyc to ?
+qa ma dostęp do claude&apos;a z mail firmowych
+jak mu kaRZesz, to ci zwróci błąd
+że powinno być każesz
+ale stworzy
+na wzór tego, co jest w kodzie
+bo najpierw analizuje całego repo
+u nas ponad 6k plików
+mozesz tez mu wskazac bezposrednio na jakich plikach ma pracowac
+wydaje mi sie ze wtedy ma lepszy kontekst i faktycznie pisze bardziej sensowny kod
+mi chodzilo o to pierwsze debylu
+no wiadomo, im lepiej go nakierujesz o co chodzi tym dokładniej zrobi
+tak ukarać go tworzeniem nowej funkcjonalności XD
+w tym kodzie to tak
+mówi się &quot;jak go karzesz&quot; a nie &quot;jak mu karzesz&quot;
+mowisz jak chcesz
+u was będzie git
+tyle assertów true stworzy, ile tylko chcecie
+no raczejnie
+nie no, jak wszystko - to zależy
+&quot;Go&quot; (biernik) jest obiektem czynności &quot;karać&quot; (przedmiotem kary).<br>&quot;Mu&quot; (celownik) jest odbiorcą rozkazu w &quot;kazać&quot; (komu każesz coś zrobić).
+wielki minus
+dziala tylko z modelami majacym API key
+a jednak nie xd
+no ja sobie doładuje troche deepseeka prędzej czy później
+z ollama dziala tez
+odpaliłem sobie wczoraj
+słowo na sekunde gdzieś leciało i np nie ma dobrze kotlina ogarnietego
+a ta ich wersja online dostęp do neta moze mieć to od razu masz lepsze rezultaty co bys nie chciał
+przerazajace jest to jak szybko to zapierdala z rozwojem
+Jeśli już będą wystarczająco inteligentne lokalne modele to wtedy dopiero będzie miazga bo będą dawać LLMy offline wszędzie
+wystarczajaco inteligentne pobierajace malo zasobow*
+nope to nie będzie nigdy pobierać mało zasobów
+dlatego napisalem jesli
+temu teraz wkładają we wszystko NPU
+dlaczego ludzi straszycie
+pfff
+idzcie do kąta
+Deepseek pobiera duzo mniej zasobow niz 4o<br>Jeszcze mozna zrobic kwantyzacje i masz prawie taki sam model ale 80% mniej wazy
+O ile nie bedzie zadnych przelomow to tak, obecnie duzo baridzej sie nie da zoptymalizowac
+ale kto wie czy za 5-10 lat nie bedzie jakiejs nowej metody
+jak sie nazywala ta strona co skrapuje artykuly naukowe?
+scihub?
+yeap
+krzysiek zapoczątkował LAWINĘ
+co to sie podziało
+?
+Feedback?
+gdize
+😂
+ufff nie ma mnie tam
+jesteś
+To jest task z którego ludzi wypierdalałeś
+nie
+jestes
+nie mam powiadomien
+<a href="https://app.clickup.com/t/869671179">https://app.clickup.com/t/869671179</a>
+nie
+XDDD
+ups
+XD
+XDD
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a> thank you for your service
+przeklety  task
+wszystkich wyjebał XDDD
+gdyby ktoś wpadł na pomysł przypisania od nowa
+teraz pytanie czy ich dodawac spowrtoem czy nie
+to mnie nie przypisujcie
+cos ty odjebal
+kliklem zly krzyzyk
+XD
+jebac to
+i tak to juz
+dobra zostaw
+niektórych to nawet po 2 razy
+nikt nie patrzy
+wyjebał
+już high time
+😆
+moglby mnie clickup zapytac  chociaz czy chce wyjebac 7+ osob z assignee
+kapitan opuszcza statek jako ostatni
+XDDD
+xdddddd
+mozesz napisac komentarz typu Sorki zly przycisk
+super, ten feature będzie w developmencie 2 lata i zwolni wszystkie widoki o pół sekundy
+XDDDDDDDDDDD
+to wygląda jak log z jakiejś bitwy w Baldur&apos;s Gate gdzie wrzuciles explosive do budynku
+i wszystkich rozjebalo
+yeap
+1 do d1
+:D
+m m m m m m m monster kill kill kill
+mateusz
+prosze
+dodaj tylko siebie jako assignee
+xD
+nie XD
+kapitan przejąl stery
+wszyscy za burte
+po prostu go wkurwialy powiadomienia
+że wychodzą z taska ludzie co 2 minuty
+więc zrobił lekki time skip
+?
+Jaki kapitan?
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a>
+ahoj
+<a href="https://www.youtube.com/watch?v=l3_M5nxqRRw&amp;pp=ygUSZXJpYyBhbmRyZSBjYXB0YWlu">https://www.youtube.com/watch?v=l3_M5nxqRRw&amp;pp=ygUSZXJpYyBhbmRyZSBjYXB0YWlu</a>
+<a href="https://t.me/BartShoot">@BartShoot</a> tyś tego brancha wreszcie zmergował?
+no napisałem komentarz że zmergowałem?
+ok tez wyjebie remote
+jak robisz —squash to sie sam nie usuwa xD
+juz lepiej??
+Yeap
+keidy sie gubisz w VT ze musisz database diagram robic zeby sie polapac
+<a href="https://x.com/tekbog/status/1883973153145381064?t=u2OMeXjze4PesjOqO0gkaQ&amp;s=35">https://x.com/tekbog/status/1883973153145381064?t=u2OMeXjze4PesjOqO0gkaQ&amp;s=35</a>
+nie ograniam
+jakies chyjowae to

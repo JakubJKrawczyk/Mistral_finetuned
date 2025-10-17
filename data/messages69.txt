@@ -1,0 +1,951 @@
+﻿starczy?
+<pre>[Test]<br>        public void AzureStorageEditTest()<br>        {<br>            var act = DeployAction.PrepareAzureStorage(integration.Identifier).WithPipelineId(pipeline.Id).Add();<br>            var editAction = new PageObjects.Views.Projects.Pipelines.Actions.EditAction(project.Name, pipeline.Id, act.Id);<br>            editAction.GoToPage();<br>            editAction.AzureStorage.Subnavigation.Target.Open();<br><br>            AssertAll.Succeed(<br>                () =&gt; Assert.That(editAction.AzureStorage.Target.IntegrationDropdown.Value, Is.EqualTo(integration.Identifier), &quot;Integration should be set&quot;),<br>                () =&gt; Assert.That(editAction.AzureStorage.Target.IntegrationDropdown.ItemsList, Is.Empty, &quot;Oidc integration should not be available in edit action&quot;),<br>                () =&gt; Assert.That(editAction.AzureStorage.Target.IntegrationDropdown.ErrorText, Does.Contain(Consts.Messages.AZURE_OIDC_NOT_SUPPORTED).IgnoreCase, &quot;Integration error is wrong&quot;)<br>                );<br>        }</pre>
+po polsku
+Tam ma się wyświetlić &quot;Azure OIDC integration not supported&quot;
+A jak nie to daj chwilę
+na refresh schodzi mi 805
+A! Bo to nie edytuje tylko na to wchodzi
+Nie mów, że nie ma release na dev...
+update nie daje mi błędu
+tylko ten refresh
+Z tego co rozumiem to: ten błąd ma tam już być po wejściu na stronę
+que
+To jest na stage?
+zmergowane 17.09
+na stage jest
+No to zobaczmy to na masterze
+Albo i nie
+CZEMU to gówno wysyła jako załącznik
+mov
+nie, zawsze wysyłam mov
+Pamięta ktoś na jakim url jest rc?
+naprawiłem ci to
+Thx
+na filmie
+linux&gt;macos
+to też załącznik
+a, czyli zależy też od wersji apki bo ja mam tak
+chyba że to ja widzę tylko w ten sposób
+cholera to wie
+trzeba potwierdzenie osoby 3
+ja widze jak marcel
+ale tez mac
+<a href="https://t.me/bimbows">@bimbows</a>
+Thx, dostosuję pod to testy i zamykamy imprezę
+asdbyausd b
+pod to jest trouble hint jeszcze
+masz go w kodzie?
+Gdzie? Na edycji czy w logach executiona?
+Jak w logach to mam
+<pre>**Azure OIDC connection not supported**<br><br>The action uses an Azure connection based on OIDC authentication, which is not supported by this action due to Azure<br>constraints.<br><br>&lt;!---<br>Solution<br>--&gt;<br><br>**How to fix this**<br><br>&lt;ol&gt;<br>&lt;li&gt;<br>Change the connection authentication method to service principal.<br>&lt;/li&gt;<br><br>&lt;li&gt;<br>Switch the Azure connection used in the action settings to one that uses service principal authentication.<br>&lt;/li&gt;<br>&lt;/ol&gt;</pre>
+Jak to wywołać?
+ja sie ciebie pytam
+my wyświetlamy, jak dostaniemy
+Gdzie wyświetlacie?
+w trouble hintach
+Czyli?
+common error
+To wiem
+Ale na logach akcji?
+w executionie chyba
+To mam
+jak go wywołujesz
+Konfiguruję odpowiednią akcję z OIDC i odpalam pipeline
+... schodzi ten błąd
+czy 805
+(ten CZYLI 474101)
+<pre>public static readonly List&lt;string&gt; WRONG_AUTHENTICATION_SERVICEPRINCIPAL_TYPE_COMMON_ERROR = [<br>                &quot;RUN ERROR&quot;,<br>                &quot;Wrong authentication type&quot;,<br>                &quot;For operations executed by this action, the connection must use Service principal authentication.&quot;,<br>                &quot;How to fix this&quot;,<br>                &quot;Change the connection authentication mode to Service principal.&quot;<br>            ];</pre>
+805
+<a href="https://t.me/BartShoot">@BartShoot</a> dopomóż
+istnieje szansa, że zejdzie taki błąd?
+474101
+ja nie poniemaju
+searcha zrób
+xd
+msg_474101
+czy co wy tam macie
+kurwa czemu taki spam
+no nie ma użytego w projekcie 474101
+mamy taki message ale ktoś pozmieniał i nie posprzątał
+ktoś - Tomek Prus
+ja po froncie, on na backendzie
+tylko mi nikt nie powiedział, że mam stare kody do wyjebania
+Ten task lata jak wściekły bąk po pokoju xD
+widziałeś rachunek za claude, on to już vibecoduje pewnie 😆
+dobra, mam pomysł
+niech krzysiek heller mi pod taskiem napisze
+&quot;to ni chuja nie zejdzie&quot;
+i ja to usune
+ciekawe ile jest takich kodów
+tak
+ja myślę że to mógłby być dobry case na ai
+ale nie puścić claude i niech szaleje a raczej zbudować jakiegoś RAGa czy coś
+wiesz, mamy pipeline, który szuka nieużywanych plików
+ale nie nieużywanych error code&apos;ów z backendu
+Backend musiałby mieć jakiś generator dokumentacji kodu i mapowanie wywołania error code z error code
+ni chu ja
+XD
+Nie macie w Java czegoś jak Roslyn w C#?
+nie, nie wydaje mi się
+my mamy duży plik <a href="Messages.properties">Messages.properties</a> który wygląda tak
+my potem rzucamy tylko pare rodzajów exceptionów, głównie CommonException z takim kodem w środku
+ale żeby znaleźć gdzie jaki kod leci to musiałby się zadziać potężna analiza ścieżek kodu
+to jest ten sam case, co pisanie do backendu &quot;dajcie wszystkie kody, jakie mogą zejść dla tego endpointa&quot;
+:D
+tak
+gdzie zaczynasz od niezalogowany, nie jest w ws
+musiałby każdy endpoint/metoda zostać przeanalizowany jakie linie kodu sięga i wg tego dałoby się mniej więcej stwierdzić
+Oto kilka sposobów na stworzenie narzędzia do znajdowania nieużywanych metod w Javie:<br><br>## 1. Używając JavaParser (najprostsze rozwiązanie)<br><br><pre>import com.github.javaparser.JavaParser;<br>import com.github.javaparser.ast.CompilationUnit;<br>import com.github.javaparser.ast.body.MethodDeclaration;<br>import com.github.javaparser.ast.expr.MethodCallExpr;<br>import com.github.javaparser.ast.visitor.VoidVisitorAdapter;<br><br>public class UnusedMethodFinder {<br>    private Set&lt;String&gt; declaredMethods = new HashSet&lt;&gt;();<br>    private Set&lt;String&gt; calledMethods = new HashSet&lt;&gt;();<br>    <br>    public void analyzeDirectory(String projectPath) throws IOException {<br>        Files.walk(Paths.get(projectPath))<br>            .filter(path -&gt; path.toString().endsWith(&quot;.java&quot;))<br>            .forEach(this::analyzeFile);<br>            <br>        // Znajdź nieużywane metody<br>        Set&lt;String&gt; unusedMethods = new HashSet&lt;&gt;(declaredMethods);<br>        unusedMethods.removeAll(calledMethods);<br>        <br>        unusedMethods.forEach(method -&gt; <br>            System.out.println(&quot;Unused method: &quot; + method));<br>    }<br>    <br>    private void analyzeFile(Path filePath) {<br>        try {<br>            CompilationUnit cu = new JavaParser().parse(filePath).getResult().get();<br>            <br>            // Znajdź wszystkie deklaracje metod<br>            cu.accept(new MethodDeclarationVisitor(), null);<br>            <br>            // Znajdź wszystkie wywołania metod<br>            cu.accept(new MethodCallVisitor(), null);<br>            <br>        } catch (Exception e) {<br>            e.printStackTrace();<br>        }<br>    }<br>    <br>    private class MethodDeclarationVisitor extends VoidVisitorAdapter&lt;Void&gt; {<br>        @Override<br>        public void visit(MethodDeclaration md, Void arg) {<br>            String methodSignature = md.getDeclarationAsString();<br>            declaredMethods.add(methodSignature);<br>            super.visit(md, arg);<br>        }<br>    }<br>    <br>    private class MethodCallVisitor extends VoidVisitorAdapter&lt;Void&gt; {<br>        @Override<br>        public void visit(MethodCallExpr mc, Void arg) {<br>            calledMethods.add(mc.getNameAsString());<br>            super.visit(mc, arg);<br>        }<br>    }<br>}</pre><br><br><strong>Zależność Maven:</strong><br><pre>&lt;dependency&gt;<br>    &lt;groupId&gt;com.github.javaparser&lt;/groupId&gt;<br>    &lt;artifactId&gt;javaparser-core&lt;/artifactId&gt;<br>    &lt;version&gt;3.25.7&lt;/version&gt;<br>&lt;/dependency&gt;</pre><br><br>## 2. Używając Eclipse JDT (bardziej zaawansowane)<br><br><pre>import org.eclipse.jdt.core.dom.*;<br><br>public class UnusedMethodAnalyzer {<br>    public void analyzeProject(String sourcePath) {<br>        ASTParser parser = ASTParser.newParser(AST.JLS19);<br>        parser.setResolveBindings(true);<br>        parser.setBindingsRecovery(true);<br>        <br>        Map&lt;String, Object&gt; options = JavaCore.getOptions();<br>        options.put(JavaCore.COMPILER_COMPLIANCE, JavaCore.VERSION_17);<br>        options.put(JavaCore.COMPILER_CODEGEN_TARGET_PLATFORM, JavaCore.VERSION_17);<br>        options.put(JavaCore.COMPILER_SOURCE, JavaCore.VERSION_17);<br>        <br>        parser.setCompilerOptions(options);<br>        parser.setEnvironment(null, new String[]{sourcePath}, null, true);<br>        <br>        // Analiza plików...<br>        Files.walk(Paths.get(sourcePath))<br>            .filter(path -&gt; path.toString().endsWith(&quot;.java&quot;))<br>            .forEach(this::analyzeFile);<br>    }<br>    <br>    private void analyzeFile(Path file) {<br>        try {<br>            String source = Files.readString(file);<br>            ASTParser parser = ASTParser.newParser(AST.JLS19);<br>            parser.setSource(source.toCharArray());<br>            <br>            CompilationUnit cu = (CompilationUnit) parser.createAST(null);<br>            cu.accept(new UnusedMethodVisitor());<br>            <br>        } catch (IOException e) {<br>            e.printStackTrace();<br>        }<br>    }<br>}</pre><br><br>## 3. Używając Spoon Framework
+<pre>import spoon.Launcher;<br>import spoon.reflect.declaration.CtMethod;<br>import spoon.reflect.visitor.filter.TypeFilter;<br><br>public class SpoonUnusedMethodFinder {<br>    public void findUnusedMethods(String projectPath) {<br>        Launcher launcher = new Launcher();<br>        launcher.addInputResource(projectPath);<br>        launcher.buildModel();<br>        <br>        // Pobierz wszystkie metody<br>        List&lt;CtMethod&lt;?&gt;&gt; allMethods = launcher.getModel()<br>            .getElements(new TypeFilter&lt;&gt;(CtMethod.class));<br>            <br>        Set&lt;String&gt; declaredMethods = allMethods.stream()<br>            .map(method -&gt; method.getSimpleName())<br>            .collect(Collectors.toSet());<br>            <br>        // Znajdź wywołania metod w kodzie<br>        // (podobna logika jak wcześniej)<br>        <br>        System.out.println(&quot;Found &quot; + allMethods.size() + &quot; methods&quot;);<br>    }<br>}</pre><br><br>## Bardziej zaawansowane podejście<br><br>Dla kompletnego rozwiązania powinieneś uwzględnić:<br><br><pre>public class AdvancedUnusedMethodFinder {<br>    private Map&lt;String, MethodInfo&gt; methods = new HashMap&lt;&gt;();<br>    private Set&lt;String&gt; calledMethods = new HashSet&lt;&gt;();<br>    <br>    public void analyzeProject(String projectPath) {<br>        // 1. Skanuj wszystkie pliki Java<br>        // 2. Zbuduj mapę wszystkich metod z informacją o:<br>        //    - modyfikatorach dostępu<br>        //    - czy to main method<br>        //    - czy to override<br>        //    - czy to interface method<br>        // 3. Znajdź wszystkie wywołania metod<br>        // 4. Uwzględnij reflection calls<br>        // 5. Sprawdź annotacje (@Override, @Deprecated)<br>        <br>        findTrueUnusedMethods();<br>    }<br>    <br>    private void findTrueUnusedMethods() {<br>        methods.values().stream()<br>            .filter(method -&gt; !calledMethods.contains(method.getName()))<br>            .filter(method -&gt; !method.isMainMethod())<br>            .filter(method -&gt; !method.isOverride())<br>            .filter(method -&gt; !method.hasSpecialAnnotations())<br>            .forEach(method -&gt; <br>                System.out.println(&quot;Truly unused: &quot; + method.getSignature()));<br>    }<br>}</pre><br><br>## Gotowe narzędzia<br><br>Jeśli nie chcesz pisać od zera, możesz użyć:<br>- <strong>PMD</strong> - ma regułę <code>UnusedPrivateMethod</code><br>- <strong>SpotBugs</strong> - wykrywa niektóre nieużywane metody<br>- <strong>SonarQube</strong> - zaawansowana analiza statyczna<br>- <strong>IntelliJ IDEA</strong> - wbudowane narzędzia do znajdowania dead code<br><br>Które podejście wydaje Ci się najbardziej odpowiednie dla Twojego przypadku użycia?
+Łukasz vibecoder
+oczywiście to z AUTOMATU zadziała jak massz 5kg abstrakcji w kodzie
+weeeee vibe coderzy
+Wiesz, wystarczy aby znajdował kody, które nie mają żadnego wywołania
+nie zapominaj że w wielu miejscach nie używamy faktycznej klasy tylko odnosimy się do interfejsu który jest w runtime injectowany przez springa :)
+gdzies miałem packę
+to zrobisz za pomocą jednej/dwóch komend w terminalu xD
+🤔
+klasy oznaczone adnotacjami są brane automatycznie do konfiguracji
+jest coś takiego jak &quot;aspect oriented programming&quot; czyli metody oznaczone adnotacją mają inną metodę która się wykonuj przed i po wywołaniu metody
+gdyby problem był prosty to pewnie już byśmy mieli coś takiego nawet w prostej formie xD
+ale analiza nieużywanych metod w intellij (najlepszym toolu do javy tego typu) <br>nie jest nieomylna ani nawet nie ma racji większość czasu xD
+bo gettery settery mogą być użyte do deserializacji/serializacji za pomocą jacksona
+coś może zostać pokazane jako niezainicjalizowane <br>ale to jest inicjalizowane przez adnotacje którą ma
+niektóre paczki to nawet działają na poziomie bytekodu javy więc po prostu nie jesteś w stanie tego znaleźć inaczej niż patrząc co się wykonuje w runtime xD
+a pewnie będzie jeszcze pare innych haczyków o których nie weim
+no ale ogólnie to problem byłby rozwiązany gdyby backend został zaprojektowany inaczej te x lat temu
+backend v5 kiedy
+ten ziomeczek w następnym poście napisał że większe repozytoria jeszcze więcej zyskują czasu, 400-800ms mniej
+ale ten javascript jest szybki
+xd
+to rosło z rozmiarem app/pages ścieżki
+nie wolno kłamać
+Ktoś usuną z kodu sleep(200)?
+jak jest w rękach osoby, która nie używa <a href="https://www.npmjs.com/package/react-forceupdate">https://www.npmjs.com/package/react-forceupdate</a>
+:D
+prawie, skanowali ścieżki których nie było 3 razy z interwałem 100ms
+9:50 -&gt; do przerwy zostało T - 10 minut.
+no gość wszystko tam przyśpieszył, start dev servera, kompilacja pierwszej ścieżki i każdy request w devie
+10:00 -&gt; QA już obecne, a Frontu dalej nie ma. Co się odwlecze to nie uciecze, nawet taski. Kiszone specjalności są nierozłączoną częścią kuchni Polskiej. A nie sorry, mowa o clickupie to <strong>czy wy możecie robić kurwa jedną rzecz, jeden task?</strong>
+upka
+upka
+dupa
+z*
+czyli do deva <a href="https://t.me/lmastalerz">@lmastalerz</a>
+nieeeeeee
+@qa <a href="https://app.clickup.com/t/862k54y0c">https://app.clickup.com/t/862k54y0c</a>
+<a href="https://app.clickup.com/t/8699yq5mg">https://app.clickup.com/t/8699yq5mg</a>
+to fajne
+u nas podobnie
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a> wywala linter
+ktoś 3 minuty później go naprawia na innym branchu
+jak to nawet nie ja wywalam xd
+backend tak samo
+Buddy linter failed in dev-loaders-part-2-869afx0pr by Mateusz Nawieśniak. <br>See details - <a href="https://app.buddy.mom/beta/frontend/pipelines/pipeline/125626/execution/68ca7c56fdf1c2e7d96f2f17">https://app.buddy.mom/beta/frontend/pipelines/pipeline/125626/execution/68ca7c56fdf1c2e7d96f2f17</a>
+ktoś wywala dev<br>1 min potem ktoś naprawia commitem na feature brancha
+z kiedy to
+ale to się zmienia!
+czy to ważne?
+tak myslalem
+🤬
+:)
+agent może mieć 2fa?
+ta
+wut
+po co lol
+nwm
+to super
+ale pierwsze co to musze dodac 2fa, pat, oidc i klucze ssh
+trzeba mu dac mozliwosc uzywania google authenthicator
+ale 2fa ma najnizsze prio
+dzis dodam oidc i zaczne ssh ale nie wiem czy zdaze juz
+bo pat juz jest
+a jest mat?
+Jak agent ma to mieć?
+wyjebalem pata dalem mata
+Jak agent ma kliknąć na klucz xD?
+admin mu dodaje
+agent sam sobie nie tworzy klucza
+ty mu tworzysz i pozniej go podajesz w jakims CI/CD
+bo niektóre rzeczy chyba wymagają żeby user miał 2fa? albo może limitować któreś rzeczy tak
+nie no chyba dla security ze jak tworzysz sobie agenta to nikt ci go nie moze usunac bez potwierdzenia sms u ciebie np
+czy tam jakies potwierdzenia schodzą do ciebie wtedy
+a to nie może wywalić tylko owner?
+na obecny stan kazdy admin moze zarządzać agentami
+ale moze dojdą jakies permisje
+a może
+a, git
+od strony backendu tam jeszcze coś jest do dorobienia? czy raczej gotowe i zostały fixy
+Narazie wszystko co dodalem od frontu dziala
+ewentualnie mozna by zmienic terminologie agentId na agentUserId, ja tak uzywam po froncie zeby sie nie mylilo z tunnel agentami
+ale tak z bugow to nic obecnie
+<a href="https://mitchellh.com/writing/libghostty-is-coming">https://mitchellh.com/writing/libghostty-is-coming</a>
+kiedy ghostty w buddy
+nie
+ja czekam az do vs code wejdzie
+nieeeee
+predzej czy pozniej wejdzie
+no chyba ze cos zjebią
+w intellij też pewnie będzie i wszystkich jetbrainsowych ide
+nieeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+byłoby to ciekawe
+a tobie co, <a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> ?
+strzelam że dla nich utrzymywanie takiego swojego terminala to jest czysty koszt
+a na windows nie działa nawet dobrze z custom powerline czy coś
+bo i tak nie bedzie dzialac na windows
+jetbrains nie robił ostatnio tego swojego?
+bedzie
+wlasnie to bedzie all-platform
+więc i tak przepalił w siur pieniędzy
+? teraz nie działa na windows właśnie
+dlatego fajnie
+bo bedzie ustandardyzowane
+wszedzie tak smao
+idz pan w H
+może kiedyś
+nie wiem czy ostatnio, na pewno mają jakiś swój lub używają jakiegoś który działa średnio
+chodzi o libghostty a nie ghostty
+niech zrobia na ws
+Co to?
+terminal
+Aaa, ok
+Wyjebane
+libghostty to po prostu jakby silnik terminala
+leciutki
+jetbrains ma jediterm<br><a href="https://github.com/JetBrains/jediterm">https://github.com/JetBrains/jediterm</a>
+a ghostty to libghostty + cale UI i polish
+a co jest nie tak w natywnym terminalu ubuntu?
+kolor
+skróty
+jak działają zakładki
+kolor wyjebane
+szybkość
+skroty po co
+co jest szybsze?
+wyświetlanie znaczków
+dosłownie
+jak ci terminal laguje to wymien ziemniaka bo juz gnije
+nie ma czegos takiego
+ej, uważaj tylko
+jak nie ma ?
+bo obraziłeś wszystkich, którym windows 11 nie odpali
+no wiem że Ty przyzwyczajony do windows terminala uważasz każdy terminal za prędkość światła
+ale nie, jest różnica i to czasem w chuj
+to co jest na ubuntu server?
+Gnome terminal to jest terminal natywny dla gnome
+nie ubuntu
+wyjebane dla którego trola
+mylisz pojęcia
+to nie terminal tylko shell
+co jest nie tak w silniku natywnym na linuxie dla terminali?
+tzn terminal to jest to czym sie polaczyles przez ssh
+nigdy nie spotkalem sie z problemem zeby mi lagowal czy cos
+mylisz pojęcia
+i on wyswietla shella
+to jest terminal
+no wiem
+i on ci laguje?
+Co za chuj?!
+:D
+ja nie hehe
+A ci jebne
+:D
+jak po nacisnieciu klawisza masz delay powiedzmy 15ms a w innym terminalu 10 ms to jest ogromna roznica
+Wirtualnie
+jak naciskasz tych klawiszy tysiace dziennie
+xd nie mam
+czyli nie czujesz
+jakis delay zawsze jest
+nie odczuwam go
+co nie znaczy ze nie ma
+to mi nic nie zmieni te 5 ms
+tobie nie
+no tobie nie ale innym tak
+no mówie wam że on jest przyzwyczajony do windows terminala
+mowie wam
+nie robią tego pod ciebie xd
+wymiencie ziemniaki
+wszystko jest wystarzcająco szybkie w porównaniu
+sobie mozesz uzywac nawet przeglądarkowego terminala
+jak ci pasuje
+nie uzywam gui terminala z ubuntu tylko zawsze ubuntu server bez gui
+szanujmy sie
+to jest inny use case
+idź stronki pisać na ubuntu server
+ok
+ręcznie
+bez ai
+wyjdzie ci podobne coś, co by Łukasz stworzył
+przestan uzywac maca
+ale przynajmniej lagów nie odczujesz
+daj jakiś powód
+cos za cos
+nie no, daj powód
+noc cos za cos ja pisze w US strony ty przechodzisz na windowsa
+mam wrażenie, że byś tak się nie rzucał, jakby ghostty było na windowsa xD
+kiedyś będzie ale to nie priorytet, może nawet na wersje 1.0 nie będzie gotowe
+ogólnie w developerce ostatnio windows to &quot;aaaa może kiedyś&quot;
+no
+ciekawe kiedy raycast na windows
+a w gamedev to dokładnie na odwrót
+yep
+dlatego nie moglbym miec maca w domu jako main pc
+ja poprostu czasami zastanawiam sie czemu nie piszemy w purple kali linux tego wszystkiego xd
+przykładowo najlepszy debugger do binarek obecnie jest windows only, może będzie wsparcie dla linux potem <a href="https://github.com/EpicGamesExt/raddebugger">https://github.com/EpicGamesExt/raddebugger</a>
+a to pisz sobie ;d
+będziesz mógł ghostty zainstalować
+libghostty to biblioteka wyciągnięta z ghostty, tak żeby inne apki mogły embeddować funkcjonalność terminala<br>libghostty jest dobrze zoptymalizowany i ma 0 dependencji<br>Wtedy kazde ide mogloby uzywac libghostty zamiast pisac swoje pobugowane terminale
+nie tylko ide ale też platformy wyświetlające output shella jak github actions, vercel i..... buddy???
+no wszystko tak
+chociaż no my obecnie tylko ssh do sandboxa i debug bo wyświetlanie akcji zostało zlobotomizowane
+ale przynajmniej by to dobrze dzialalo bo teraz np. tab nie dziala do autocomplete
+i rozne takie
+chociaz to moze kwestia .bashrc
+moj srodkowy monitor ma roz w gornych rogach ekranu
+czy mi sie juz oczy jebia xd
+wyslij fotke
+mój monitor w pracy też tak ma jak z jasnego na ciemny przechodze
+lol
+znika po jakimś czasie, ale jest tam jakiś defekt pewnie
+hmmmm
+<a href="https://x.com/jiratickets/status/1970557673553711442?t=dRoBAOBm04syBxhif8qVdw&amp;s=35">https://x.com/jiratickets/status/1970557673553711442?t=dRoBAOBm04syBxhif8qVdw&amp;s=35</a>
+jetem zbyt zmeczony zeby zrozumiec ten zart
+potrzebuje przerwe
+ktos zaba wczesniej?
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong><br><br>Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+Oficjalnie wybiła 13:00, co to oznacza? <br>Dokładnie! Ban na obrażanie <strong>sami wiecie kogo</strong> uważam za zniesiony!<br>Życzę kreatywnej krytyki i stalowych nerwów.
+że już?
+why not
+tylko buciory ubiore
+SZYBCIEJ
+to idziemy?
+ok
+xd
+13:15 -&gt; Druga przerwa w środku tygodnia. QA głodne, QA złe. Jak QA złe, to QA nie testuje. QA zawsze złe.
+Łukasz musi dotestować taska. Wezwij go, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/68d3d2b4519d7a98996cc78a">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/68d3d2b4519d7a98996cc78a</a>
+<a href="https://t.me/ukasz">@ukasz</a>
+eeeeeee
+Rurku
+obspermiłeś to wytrzyj
+a nei sie chwalisz
+xd
+ja pierdole
+pada dżdż?
+troche
+👍
+what the fuck is dżdż
+a, właśnie
+to już ta pora
+roku
+że łukasz jest agresywny
+oberwałem kasztanem pod bramą
+<a href="https://nonsa.pl/wiki/S%C5%82ownik:D%C5%BCd%C5%BC">https://nonsa.pl/wiki/S%C5%82ownik:D%C5%BCd%C5%BC</a>
+pod bramką? to ktoś musiał rzucić
+<a href="https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/dъždžь">https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/dъždžь</a>
+bez k
+nooo
+pod plotem
+dobra
+:(
+skąd on tych murzynów bierze aż tyle
+z afryki
+geniusz
+ostatnio widziałem posta o ciekawej firmie
+gość co reklamuje że zwozi <s>robotników</s> niewolników z kambodży czy gdzieś tam żeby jebali za miske ryżu w polsce
+ej, ale to progress
+ciekawa
+15 lat temu
+to polacy jechali na truskawki do niemiec
+by jebać za miske ryżu
+tak
+a teraz niemcy do nas
+ta kurwa 😆
+nie
+cały zachód europy leci pracować w polsce za miske ryżu
+to znaczy niektorzy tak ale tylko tacy co chcą uciec od murzynow
+a nie do pracy
+ukraina już przyjechała
+na zarobek
+takie tu dobre warunki pracy
+otóż nie, to polskich pracowników zastępuje się tanią siłą roboczą żeby pogorszyć warunki całej klasie pracowniczej
+żabka to docenia
+polacy spr z niemiec
+sprawdzian z niemiec?
+tak
+zgłaszam nieprzygotowanie
+pamiętajcie, każdy obcokrajowiec który zajmuje miejsce polaka to zasługa tylko psiembiorcy który wolał zaoszczędzić biorąc pracownika którego może łatwiej wyzyskiwać
+a nie tej osoby która się tutaj znalazła
+<a href="https://x.com/spalinskipatryk/status/1970068420218548443?t=W71aF6ABuRjLB_n5xDhGuA&amp;s=35">https://x.com/spalinskipatryk/status/1970068420218548443?t=W71aF6ABuRjLB_n5xDhGuA&amp;s=35</a>
+pomimo że spaliński to debil to czasem wrzuci posta sensownego xD
+ale można zarobić 6300 zł na siatke miesiąc
+450zł od tego kwaterunek odlicz od razu
+a to wiadomo
+i jakiekolwiek inne potrącenia które sobie wymyślą żeby nie płacić całości
+bo co ci zrobi, kupi se bilet lotniczy? XD
+amerykanie ostatnio blokowali bilety z indii do ameryki
+bo trump oglosil ze jest 24h godziny czy cos zeby powrocic do USA zeby nie trzeba bylo placic za vize H1B
+a na stronie linii lotniczych jak dodasz miejsca do koszyka to przez 15 minut one są zajęte 😂
+i tak przetrzymywali miejsca zeby nie mogli hindusi wrocic
+no nie wiem jaki jest dokładnie z tą h1b wizą ale skutecznie to ograniczy właśnie ściąganie taniej siły roboczej
+xd
+😆
+madman to robi
+pociski xd
+bruh
+xd
+ale czolg
+fajnie ze mozna strzelac bez cooldowna xd
+co nie xd
+maszinen tank
+co to za search jest
+😶
+ale ładne xd
+dark mode wspiera
+IOP
+jakby ktos chcial dokonczyc
+vibe coding
+ale wyglada jak syf
+a ty nie masz taskow?
+ma ale takiego chujowego że nie dziwie się że nie testuje
+moge cie o to samo zapytac jak prowadzicie rozmowy zamiast pracowac
+jescze 12 testów do napisania
+a to nie ma źle
+żadnych problemów oprócz tych na początku??
+nie.
+nie spotkałem się
+jakies frontowe bugi ale to juz wystawilem
+jebac podatki
+🐰<br>╭─────╮<br>( o o )<br>╰─┬─┬─╯<br>│ │ acknowledging<br>╰─╯
+Czemu
+anthropic mi wzial 22 eur zamiast 18
+ale to chyba po amełykańsku po prostu nie dają podatku do ceny
+tylko sam se musisz wyliczyc
+no w europie powinni pokazywać faktyczną cenę za którą sprzedają
+ale pewnie dali <br>fajna cena<br><br><br><br><br><br><br><br><br><br><br><br>* podatki obowiązują wg kraju sprzedaży najmniejszą i najmniej kontrastującą czcionką na świecie
+<a href="https://helium.computer/">https://helium.computer/</a>
+przeglądarka na ungoogled chromium ze wsparciem wtyczek manifest v2
+zmienili clickupa i nie wiem gdzie teraz zobaczyc kto stworzyl taska
+trza scrollwac do gory..
+Ja zawsze scrollowalem
+xD
+xd
+widzisz mie?
+nie odpisuje coś, czyli trzeba jednak chodzić 😭
+&quot;Profesjonalne IT&quot;
+człowiek wysyła, jak widać, CV i rekruterzy ghostują
+realia 2025
+aha
+:D
+<a href="https://gitlab.mganczarczyk.pl/uwu-boys/backend/-/blob/master/backend/Controllers/UserController.cs?ref_type=heads">https://gitlab.mganczarczyk.pl/uwu-boys/backend/-/blob/master/backend/Controllers/UserController.cs?ref_type=heads</a>
+Kto pamięta (Marcel)?
+to dla ludzi, którzy by kiedykolwiek chcieli dawać response.message z backendu bezpośrednio na front
+&quot;Poziom pańskich uprawnień ssie&quot;
+new Error(&quot;Z takim poziomem uprawnień możesz otworzyć klapę śmietnika, wskoczyć do niego i ją&quot; +<br>                          &quot; zamknąć. Śmieciarka wywiezie cię na wysypisko gdzie twoje miejsce&quot;));
+przecinki...
+&quot;Tworzyć użytkowników może uprawniona osoba, a nie śmieć taki jak ty&quot;
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> znalazłem to. TO co wyświetliło się Schewczukowi 😆<a href="https://gitlab.mganczarczyk.pl/uwu-boys/backend/-/blob/master/backend/Handlers/Commands/FullAuthHandler.cs?ref_type=heads#L50">https://gitlab.mganczarczyk.pl/uwu-boys/backend/-/blob/master/backend/Handlers/Commands/FullAuthHandler.cs?ref_type=heads#L50</a>
+Jej! Dev się rozjebał
+<a href="https://t.me/fronty">@fronty</a>
+Co to za zakola dookoła CARD-a
+?
+9:50 -&gt; do przerwy zostało T - 10 minut.
+Jak ktoś chce to zobaczyć to zapraszam
+QA otwarte
+moze kliknij zbadaj element i sprawdz
+nie potrafie tego odtworzyc
+ja takiego nie mam
+Zrób zdj monitora
+xd
+to może być wina przeglądarki
+gradienty są trudne
+To jest chrome
+firefox ma tak
+widac tylko odbicia paluchow
+jprdl
+nie ogarnolem o huj mu chodzi
+wyslal jakiegos screena bez kontextu
+i huj
+no ja mam tez normalnie
+mateusz umyj monitor
+po tylu screenach i zakreśleniach na screenach i zbliżeniach?
+dlatego potrzebuje jakies repro/zeby luki sprawdzil w inspektorze
+kawke se dupnij
+xD
+kiedys umyje
+v2-container-glow?
+szerzej musisz mieć
++ przeskakuje
+nei bo pisze jeszcze z kims innym i wyrywkjowo zerkam co szzkryfiecie
+Zróbcie zdj telefonem ekranu, bo na screenie tego nie widać
+na zadnym screenie oprocz lukasza jeszcze tego nie bylo
+Ale fakt, v2-container-glow korzysta z trudnych gradienów
+stack ma dropshadow/background za pleckami
+ale nie wyglada tak jak u ciebie luki
+ooo
+u mnie jest taki gradient
+Też jest zjebany gradient
+ale moje to 90% wina firefox
+Tyle, że ja mam to na chrome odpalone
+Tu jeszcze git
+no tak to ma byc
+ale widac
+tez tak mam
+Tu się ładnie interpolują kolory
+czylio to zalezy od monitora?
+Obstawiam, że to wina monitorów
+<a href="https://t.me/mJakobsche">@mJakobsche</a> też tak masz?
+czyli wont fix
+dobranoc
+zaraz sprawdze u siebie na chrome
+tak po prostu sie renderuje radial gradient
+co konkretnie
+10:00 -&gt; może i bugi wystawiane przez QA są do niczego, ale wszystko ma swoje pozytywne strony. Przykładowo Marcel nie zgubił plecaka.
+imo to nie błąd
+bo nie czaje
+co jest nie tak
+Renderowanie gradientu się potrafi pierdolić na darkmode
+im sie nie podoba gradient za tym duzym srodkowym cardem
+sprawdze jak jest w figmie
+nie że nie podoba, ja mam go zjebany
+Ja też
+Wygląda jakby była kompresja nakładana na obraz monitora
+Ja mam Jasność 100, Kontrast 70
+ala razi
+Pierwsze Firefox, drugie chrome
+lol
+jak by antialiasing byl inny
+U mnie chyba jest ładnie na ff
+U ciebie to się słońce odbija xD
+a bo to jest blurem zrobione
+bez sensu
+moze mi ktos wystawic buga z tym?<br>to ja to sprobuje samym gradientem ogarnąć
+powinno lepiej wygladac
+Masz jakiegoś specjalnego taska pod to?
+na drugim ekranie jeszcze popatrzyłem ale to kwestia ustawień monitora w jakimś stopniu
+nie, po prostu bug
+btw jacyś zupkarze dziś?
+czy tylko ja xd
+tylko ty
+a na jasnym trybie też jest niby ten glow tylko nic nie robi?
+nie wiem czy on sie przy okazji updatu kolorów na light nie pozmienial bo tam sie zmienil bgcolor
+i chyba jest ten sam na gradiencie co na bg
+sprawdzilem w figmie to wgl nie ma tego gradientu xD
+rozwiązanie proste - pozbyc się gradientu 😆
+spytam dzordza, moze tak bedzie ze wyleci po prostu xd
+Oo, przeoczyłem zawołanie o 10
+to chodz teraz
+<a href="https://uigradients.com/#DeepSpace">https://uigradients.com/#DeepSpace</a>
+ja mam ewidentnie schodki, na kolorowych aż tak się nie wyróżnia
+no ale tak coś przegrzebałem w ustawieniach monitora że moje pastelowe kolory catppuccina stały się kurwa neonowe
+xd
+xd
+co to jest momenteczek
+Cześć! Dasz mi momenteczek na pogadanie ekstra?
+ciebie tez zaatakowali ?
+xd
+no dzisiaj chyba im sie wszystkie pipeliny uruchomily
+wtf? co jego emoji w nazwie znaczą
+bo od rana co chwile cos dostaje
+goli łosie?
+tak, biega po lesie i goli łosie
+chyba taki ma bush
+nie da sie zglaszac
+ale shajs
+nie no da sie<br>przy blokowaniu mozna zaznaczyc
+ale nie moge wejsc i zzglosic twojego tyypa
+bo to mój
+zglos se swojego
+mój mały scammer
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong><br><br>Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+Oficjalnie wybiła 13:00, co to oznacza? <br>Dokładnie! Ban na obrażanie <strong>sami wiecie kogo</strong> uważam za zniesiony!<br>Życzę kreatywnej krytyki i stalowych nerwów.
+smacznego mateusz xd
+dzienki
+13:15 -&gt; zostaw już ten kod, trzeba coś zjeść. qa w kąt, a ty znikaj stąd
+Łukasz musi dotestować taska. Wezwij go, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/68d52434519d7a98996e7d1b">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/68d52434519d7a98996e7d1b</a>
+Timeouta wyjebało.<br><br><a href="https://t.me/mganczarczyk">@mganczarczyk</a> merguj się do /dev/null
+a to nie jest zależne od monitora
+i ilości bitów na monitorze?
+ostatecznie gradient z ciemne -&gt; jasne będzie obrzydliwy
+jasne -&gt; ciemny nie
+jzu do tego doszlismy
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a> znowu nasrales
+jak sobie potestowalem to glownie przez blura
+ups
+bug
+srug
+fixuj to
+daj buga marcel
+tak to jest jak sracie do deva
+jacy testerzy, taki dev
+a, Bartek naprawił
+dzięki mateusz
+spoko nie ma sprawy
+👍
+pamietaj, ze dark mode zawsze musze przyjsc zwyzywac
+wiec prosze bez takich
+to powinnosc obywatelska
+i kombinacji przeglądarki trochę tez, chrome miał mniejsze te kostki
+zwyzywac to cos
+O
+xd
+Wykonaj zadanie testowe, które Ci wysłałem. Po zakończeniu prześlij mi zrzut ekranu, a przeprowadzę Cię przez proces pierwszej płatności.
+:o
+<pre>distribution.getDisabled()</pre>
+co zwraca taka metoda
+null?
+kali linux
+haha
+he?
+myslalem ze przychodzi siłacz i łamie ci nogi
+XDD
+🍁ZADANIE 🅰️<br>Link do Instagrama: <a href="https://www.instagram.com/faustynaf/">https://www.instagram.com/faustynaf/</a><br>Nazwa użytkownika: faustynaf/<br><br>🍁ZADANIE 🅱️<br>Link do Instagrama: <a href="https://www.instagram.com/nowciax/">https://www.instagram.com/nowciax/</a><br>Nazwa użytkownika: nowciax/
+😭😭😭😭
+że dostajesz upośledzoną dystrybucje
+na moją obronę to było śmieszne w mojej głowie
+a, w ten sposób
+🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️
+zart z ktorego tylko ty sie smiejesz
+żart, który nie uważasz za zabawny jest jeszcze gorszy
+no masakra
+czemu mnie ten bot jeszcze nie zablokował
+;—-;
+Napisz coś co połączy słowa czarnuch, dziecko i obciąganie druta
+To powinno być wystarczające
+napisz jebac izrael
+gaza to państwo
+Lepiej: żydy do gazu
+WTF
+mzoe to nie bot
+xd
+ok, porozmawiałem
+już wysyłam screena
+ja to dzisiaj tak dobry kod piszę, że 🔥
+no co, może err zmienił zdanie
+ale nam np intellij coś takiego świeci na pomarańczowo od razu xD
+nie mamy takiej zasady najwidoczniej włączonej
+chciałem uporządkować kod
+i źle mi się przeniosło
+xd
+Zamykam QA
+kto pytał
+kto zamyka ten...
+bo to wygląda tak
+jedno się zamyka (qa), drugie się otwiera (parasol)
+<a href="https://x.com/arm1st1ce/status/1970962586889011407?t=GxXo34D9JeApzMCEXhOGoQ&amp;s=35">https://x.com/arm1st1ce/status/1970962586889011407?t=GxXo34D9JeApzMCEXhOGoQ&amp;s=35</a>
+widzę że AI nie zastąpi elektryków za prędko
+ground to live, neutral ok; live i neutral łączymy ze sobą
+lgtm
+nie zapomnij że potem ground sobie jest w powietrzu zostawione
+sory, neutral
+a live idzie yy ze śrubki we wtyczce
+śrubka przewodzi prąd przecież
+to prawda, ale skąd go bierze
+z powietrza widocznie
+ze słońca chyba
+no
+PERFECT!
+xD
+AI czy jest to gdzieś w  docsach?
+ai
+Ło, kurwa
+Krzysiek i Michał zaczęli coś nucić
+Uff
+co wzdychasz
+Co na kanale Buddy się odjebał właśnie?
+<a href="https://t.me/fronty">@fronty</a> może mi ktoś sprawdzić jaka logika stoi za
+żeby informować usera co ustawił
+więc wyświetlamy co jest
+wystarczy?
+To nie jest odpowiedź na moje pytanie
+To jest odpowiedź na pytanie: &quot;Na chuj to tam?&quot;
+nie wystarczy?
+:((
+Praca nie zgodna z tematem
+const txt = hasBasicAuth ? t(&apos;HTTP BA&apos;) : t(&apos;Not available&apos;);
+lepiej?
+Znacznie
+<a href="https://app.clickup.com/t/869am70v6">https://app.clickup.com/t/869am70v6</a>
+Upvote pls
+Kurwa, a to vote nie było kiedyś inaczej działające xD?
+Wyślijcie scruma na grupie<br><a href="https://t.me/lmastalerz">@lmastalerz</a> <a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> <a href="https://t.me/mganczarczyk">@mganczarczyk</a> <a href="https://t.me/shipurjan">@shipurjan</a> <a href="https://t.me/mnawiesniak">@mnawiesniak</a> <a href="https://t.me/BartShoot">@BartShoot</a> <a href="https://t.me/mJakobsche">@mJakobsche</a>
+:)
+mówią że związki są kosztowne
+Copilot?
+claude code
+Claude
+heee
+Hmm, ciekawe jak to wygląda na copilocie i zwykłym claudzie xD
+tam jest subskrypcja
+<a href="https://www.linkedin.com/posts/unknow_wi%C4%99kszo%C5%9B%C4%87-opis%C3%B3w-w-newsletterze-unknownews-activity-7377230747557933056-kVvo">https://www.linkedin.com/posts/unknow_wi%C4%99kszo%C5%9B%C4%87-opis%C3%B3w-w-newsletterze-unknownews-activity-7377230747557933056-kVvo</a>
+9:50 -&gt; do przerwy zostało T - 10 minut.
+10:00 -&gt; jest piątek, weekendu początek. Uhonorujmy ten wspaniały dzień miską <strong>psznej zupy</strong> i jeszcze lepszego... no. Życzę wam spokojnego życia bez przypierdolek QA.
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> fixuj to kurwa <a href="https://app.clickup.com/t/869am8d6z">https://app.clickup.com/t/869am8d6z</a>
+nie ma go dzisiaj
+cnie?
+przez 0.5 dnia
+a przez drugie będę udawał, że nie widzę tego taska
+dobrze
+nie zapomnij swojej dawki chochocino
+i jednego za mnie bo nie mam jak wypic
+tworzenie sandboxa nie działa, backend zwraca not allowed on free plan
+ale front ma to gdzieś
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> fixuj to kurwa <a href="https://app.clickup.com/t/869am8g77">https://app.clickup.com/t/869am8g77</a>
+nie wiem czy to jest do otworzenia tylko lokalnie/w devie czy gdzieś indziej też
+fajnie routing jest routowany<br>Rafał -&gt; tu lista rzeczy do zrobienia<br>Marcel -&gt; ok ale tu trzeba backend zmienić<br>Ja -&gt; ok ale tu trzeba routing zmienić<br>Michał -&gt; zmienione<br>Ja -&gt; zmienione<br>Marcel -&gt; ok ale tu trzeba design<br>Paweł Olek -&gt; ok ale tu trzeba mockup<br>Szymon -&gt; ... *ciąg dalszy nastąpi*
+xd
+no niezle
+Szymon -&gt; ok tu jest mockup<br>Paweł Olek -&gt; ok tu jest design<br>Marcel -&gt; ok ale tu trzeba backend<br>Bartek -&gt; ok zrobione<br>Marcel -&gt; ok zrobione<br>Rafał -&gt; tu to nie pasuje<br>Szymon -&gt; zrób to tak<br>Marcel -&gt; ok zrobione<br>Szymon -&gt; to popraw jeszcze to<br>Marcel -&gt; ok zrobione<br>TESTY<br>...
+noooo
+a co?
+ale fajny to jest feature, ciekawe ile opóźnienia dodaje
+Co on w ogóle robi?
+routing
+redirect/proxy/cloak na jakiś inny adres
+W tunelach?
+też
+tak, jest wbudowane wsparcie tuneli
+zmieniasz sobie adres tunelu routing zostaje cały czas na niego skierowany
+potem jeszcze sandboxy
+i packages
+mozna zrobic redfirect na samegho siebie?
+Pomidor
+redfirect się da
+nie sprawdzaliśmy, taka zabawa idzie do QA
+no ale to można sprawdzić co się dzieje jak http 301 czy 302 na ten sam adres
+proxy nie wiem jak działa
+A cloak?
+tego już nie wiem, ale działa tak że otwiera ci strone ale adres jest dalej ten routingowy
+np <a href="zielonastrona.com">zielonastrona.com</a> ale w przeglądarce widzisz <a href="kordos.com">kordos.com</a>
+CNAME?
+jest taka opcja, ale ja nie znam wewnętrznej logiki
+ja tylko zapisuje i posyłam na jakie adres routing ma się dziać
+crud monkey
+Największym problemem z jakim może zmierzyć się programista to odpowiedź na pytanie: Skąd mam wziąć tą wartość?
+odpowiedz: z dupy
+nie, są 2 trudne rzeczy w programowaniu: cache, nazywanie rzeczy i pomyłki o +/-1
+nazywanie rzeczy jest najtrudniejsze
+Teraz jak jest ai popularne to jest łatwiejsze
+zależy do jakiego standardu mierzysz
+bo w moim użyciu to AI balansuje między tak bardzo generyczne że nic nie znaczy a tak długie że nikt tego nie przeczyta do końca
+i niewiele pomiędzy oprócz bardzo prostych rzeczy jak getZmienna() setZmienna xD
+a ja jestem kreatywny i sam wymysdlam :D
+A ja to pierdole i var dupa
+czyli co masz dupa.dupa.dupa.dupa...
+no ja się staram mieć jakeś względnie rozsądne nazwy która opisuje co dana funkcja robi ale często w review Tomek i tak znajdzie lepszą xD albo powie że ta jest chujowa
+To w trakcie debugowania
+the Tomek&apos;s way
+Nie.
+the Tomek&apos;s way is: chuj.chuj.chuj.pedal
+nie to nazwy commitów
+heeeee
+jescze 6 testów
+drukuje wazon na kwiatki :D
+Zamiast mojej latarki D:
+z czego
+ja musialbym zaprojektowac a na to czasu nie mam teraz a wazon znalazlem na internecie
+xd
+z PETG
+bedzie mozzna nim zabic
+na prawdziwe kwiatki czy nie, bo pytanie czy wodę w tym chcesz trzymać xD
+xd
+i tu moze wyjsc problem xd
+ale raczej nie powinna przeciekac
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a> <a href="https://t.me/mJakobsche">@mJakobsche</a> i kto tam jest w firmie: ma ktoś reklamówkę/jakiś pojemnik pożyczyć? Potrzebuję na kasztany
+nie za bardzo
+kinge zapytaj
+nie masz kaptura w bluzie czy coś??
+ja ci moge użyczyć
+Thx
+siatke
+plastikową
+po owocach
+komu się na biurko skasztaniłeś
+Sobie
+Dziwne
+Marcel jeszcze nie skomentował tego
+Pewnie czeka do 13
+na h ci to ?
+Kasztan robi spotkanie rodzinne jak widać
+1. Rzucać w ciebie<br>2. Rzucać w marcela<br>3. Rzucać w backend<br>4. Pożyczać krzśkowi aby rzucał w ciebie<br>5. Rzucać w budowlańców<br>6. Kotom do zabawy
+Jest dużo powodów xD
+imo powinieneś kupić jakiś impregnat na te kasztany
+przy punkcie 3 nie zapomnij drzewi otworzyc
+popatrz jak te nowe się świecą a stare nie
+Mam jeszcze 3 z pierwszego sezonu jak tu pracuję
+Mają już ze 2 lata
+It&apos;s a feature not a bug
+damn masz bardziej brudna podkladke niz ja monitor xd
+Ty nie wiesz co to znaczy brudny monitor
+Od tego zacznijmy
+Rurku?
+obspermiłeś to wytrzyj
+ja nieee rozumieeec
+limit ma być zwiększany przez admina
+jaki owner ma 86 domen? pewnie ja
+ariigatoooooo
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong><br><br>Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+Oficjalnie wybiła 13:00, co to oznacza? <br>Dokładnie! Ban na obrażanie <strong>sami wiecie kogo</strong> uważam za zniesiony!<br>Życzę kreatywnej krytyki i stalowych nerwów.
+13:15 -&gt; To już ostatni raz jak się spotykamy w tym tygodniu, więc może ruszyłbyś dupę? Dzisiaj i tak QA nie wystawia bugów, bo Łukasz rozjebał czołg (polski)
+Łukasz musi dotestować taska. Wezwij go, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/68d675b4519d7a9899703cfe">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/68d675b4519d7a9899703cfe</a>
+wam też clickup dzisiaj niesamowicie ścierwi? tak 3x gorzej niż zwykle
+Nie
+Jest w parametrach normy
+norma
+czyli chujowo
+ale nie nadzwyczajnie chujowo
+Clickup ścierwi bo jest napisany w JS
+nie chce cię martwić ale większość stron z których korzystasz jest napisane w js
+Nie mów mu tego
+Ale backend też
+tego nie wiem, pokazujesz na fronta oferte
+<a href="https://clickup.com/careers?gh_jid=5647699004&amp;title=Senior%2520Backend%2520Engineer%252C%2520Core%2520Services&amp;department=Engineering&amp;location=Poland">https://clickup.com/careers?gh_jid=5647699004&amp;title=Senior%2520Backend%2520Engineer%252C%2520Core%2520Services&amp;department=Engineering&amp;location=Poland</a>
+brakuje im ludzi od performance albo nie mają czas na performance bo trzeba kolejne nowe featury najepiej AI
+chwala sie na linkedin jak to nie sa dumni z pracy w clickup i funkcjonalnosci jakie wprowadzili poakzujac AI clickupowego
+Timeouta wyjebało.<br><br><a href="https://t.me/mganczarczyk">@mganczarczyk</a> merguj się do /dev/null
+ale fun fact, zakładałem ze oni mają serwery tylko w stanach <br>cdn leci <a href="frontdoor-prod-eu-west-1-2.clickup.com">frontdoor-prod-eu-west-1-2.clickup.com</a>
+przechodzi to przez <a href="server-108-138-51-64.waw51.r.cloudfront.net">server-108-138-51-64.waw51.r.cloudfront.net</a>
+a większość requestów to cache miss
+a odświeżenie widoku taska to ponad 400 requestów i kończy się wszystko wczytywać dopiero po 2 min 😆
+cloudflare podobno testował czy ich sandboxy działają dobrze stawiając serwer cs 1.6
+xd
+minecrafta powinni postawic
+<a href="https://x.com/EastlondonDev/status/1971334108195529006?t=7KC3nVi7uQuCNOpSQYhgoA&amp;s=35">https://x.com/EastlondonDev/status/1971334108195529006?t=7KC3nVi7uQuCNOpSQYhgoA&amp;s=35</a>
+cholera wszyscy odgapiają od buddiego<br>cloudflare jakieś nowe sandboxy<br>vercel coś z domenami grzebał
+jakieś baby tu są
+omg ale kozak
+dawaj dupnij se taką podkładke do buddy xdddd
+xD
+jako prezent
+każdemu
+mogę tobie wziąć Mateusz
+idę do Shibui
+nie bo mnie dzordz pożre wzrokiem zza pleców
+miłej wycieczki &quot;:D
+No kozak to wygląda, wszędzie tam tak jest?? XD
+I czemu Rafał mi dzisiaj rano review taska robił
+a czemu nie?
+moze nie ma co robic?
+Jest weekend, niedziela
+no i?
+oni czsami o 23 taski robia
+jest to ptola za takie pienidze ale nadal
+mi tez taski odbijaja
+A niech se odbijają
+Pytanie jest inne
+Na chuj na to patrzycie?
+dostaje powiadomienie w telefonie z maila
+Dokładnie tak
+Czemu masz podpiętą skrzynkę mailową firmową na swoim telefonie?
+Nie mam telefonu roboczego więc jestem zmuszony widzieć te powiadomienia na moim telefonie
+a czemu nie
+Nie pamiętam
+Nie jesteś niczym zmuszony
+Też masz clickupa na telefonie
+Prywatnego
+Mam workspace na clickupie dla siebie
+Pod własne projekty
+Na telefonie nie jestem zalogowany na firmowego maila i oprócz telegrama nic nie jestem wstanie zrobić
+A skoro otrzymujecie maile to podpięliście sobie skrzynki pod telefony
+no to co?
+.
+Narzekasz na działania innych, które powinny cię interesować pn-pt 7-15
+bo moge narzekac :D
+nie xd
+w don quijote to bylo
+nie wiem czy w każdym bo byłem tylko w 1, ale to było na akihabara
+czyli taka dzielnica anime
+Scheduled 8:00<br><a href="https://t.me/backendy">@backendy</a> jak wyglądają u was modele yaml w targetach, sandboxach i pipelineach? Interesuje mnie to pod kątem zbudowania referencyjnych modeli dla AI
+dondondonki to jest najlepszy sklep na swiecie serio
+witam
+elaux
+patrz jaki stworek zaczął u mnie po weekendzie zamieszkiwać
+przeurocze, jaki to?
+gekon orzęsiony
+wiesz że telegram faktycznie ma opcje schedulowania wiadomosci?
+no ma
+faktycznie ma rzęsy
+wystarczy prawym na wyslij dac i zaplanuj wiadomość
+chłopy też??
+openapi?
+tak. to jest samiczka
+gender
+tam są minimalne różnice między yamlem a rest
+nawet w gekonach kurła
+Kurv, nie ustawiłem xD
+🤔
+W OpenAPI są śmieci, ale może na tym restowym jest ich mniej
+Obczaje
+no obecnie obiekty *yaml dziedziczą z *view dla tych starszych rzeczy, dopiero biorą się za rozdzielanie tego
+bo czasem potęzne problemy to robi w kodzie
+ale...openapi jest pod resta
+zreszta teraz w openapi dojda/doszly opisy i customowe example modeli stworzone przez nas
+<a href="https://swaggerui-openapi-buddy-swagger-ui-beta.eu-1.agent-sls.net/?branch=dev&amp;schema=restapi#/">https://swaggerui-openapi-buddy-swagger-ui-beta.eu-1.agent-sls.net/?branch=dev&amp;schema=restapi#/</a>
+tak, zależy który kontroler/endpoint ale jest to wip dla wielu rzeczy
+<a href="https://swaggerui-openapi-buddy-swagger-ui-beta.eu-1.agent-sls.net/?branch=dev-open-api-user-869age857&amp;schema=restapi#/Variable%20API">https://swaggerui-openapi-buddy-swagger-ui-beta.eu-1.agent-sls.net/?branch=dev-open-api-user-869age857&amp;schema=restapi#/Variable%20API</a>
+na tym branchu jest sporo
+Słyszałem, że chcą to ogarnąć właśnie pod AI
+nom
+tak powinni
+:D
+to jest juz chyba robione z ai
+jak dobrze rozumiem
+mcp piekny juz jest
+Jak sprawdzałem powiadomienia z zegarka, gdzie nie wyświetliło mi zdjęcia, to pomyślałem o czymś/kimś innym xd
+XD
+XD
+nie wymienilem dziewczyny
+:D
+kto co lubi
+semantic versioning? a co to
+Masz przecież
+Na dole
+RD-252.26199.190
+no to jeszcze gorzej, czemu userowi wciskają numerek który nic nie znaczy kiedy mają faktycznie wersje
+xD
+Zawsze mogli dać commit hash sam
+gdyby byli open source to by miało sens
+tylko wtedy
+wtedy każdy mógłby sobie popatrzyć o pomiędzy tym a tym commitem spierdolili mi &quot;x&quot;
+<a href="https://app.clickup.com/t/869amqcnn">https://app.clickup.com/t/869amqcnn</a>
+szukam osoby
+która mi to przetłumaczy
+co mam zrobić
+sentry
+imo
+tojest pewnie zakodowane
+muszis odpalic johny repera i odkodowac
+w sentry są numeryczne, np 24948
+a nie mają jakiegoś hasha transakcji?
+ale fakt task do dupy
+przywal sie do niego ze ci opisu nie daje jak tomek do nas
+:LD
+xD
+do Rafała?
+tak
+to jest na 100% id testu któregoś
+<a href="https://app.buddy.mom/beta/backend-v4/unit-tests/7anz5d1N/tests/85bc869bf14ff397375371e89425741f?filterTypes=ALL">https://app.buddy.mom/beta/backend-v4/unit-tests/7anz5d1N/tests/85bc869bf14ff397375371e89425741f?filterTypes=ALL</a>
+ale nie wiem, jaki suite
+jaki projekt
+xD
+LD
+to musz odpisz Heee ?
+później
+ale mnie wkurza ten opadnięty modal
+czemu
+ale krzywy
+:D
+mam juz wyuczone gdzie najechać myszką
+by zamknąć go
+xd
+albo nacisnać na confirm
+co krzywy
+znowu mnie podrywa, tym razem wysłał nawt jako odpowiedz ostatniej wiadomosci
+9:50 -&gt; do przerwy zostało T - 10 minut.
+zablokuj go
+xd
+ryan pls stop talking to me i have a wife and kids
+10:00 -&gt; najgorszy dzień tygodnia. QA znowu wystawiać taski o byle pierdoły. Frontu nie ma i nie będzie. Świat schodzi na psy. Przynajmniej jest zupa.<br><br><a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> <a href="https://t.me/lmastalerz">@lmastalerz</a>, zróbcie fikołka
+Hokus pokus
+Czary mary
+nie
+pkp to twuj stary

@@ -1,0 +1,956 @@
+﻿ja tego merga nie robilem
+na froncie też są takie z dupy commity
+dev na sls/dev
+cokolwiek to ma oznaczać
+nie wiem co wy tam robicie, sie robi checkout dev, git merge twoj-branch —squash
+no i commitujesz co trzeba
+no i miec to wszystko najnowsze deva i zmergowane z najnowszego deva xD
++1
+ewentualnie ammenduję commity na moim branchu, jak się wstydzę swoich zmian 🗿
+ja sie przerazilem
+mam nadzieje ze jest wsyztko
+i nic nie ucieklo
+bo bedzie burza
+teraz nie bede spal przez weekend
+bo mnie to bedzie meczyc
+gówno prawda
+Tyś zjebał dev-a QA?
+Przyszedł i on
+jakoś tak
+Bo są 2 dev-y
+tego do ktorego pushujemy
+dev qa
+Robiłeś force push?
+wlasnie nie
+nie mam pojecia co sie zadzialo
+To nic ci nie grozi
+moj branc byl od ui review
+Rozjebał się sls
+zamiast tam go wcielic spowrotem
+to wcililem do deva
+Zdarza się
+ale cofnelo to commity z dzisiaj
+i cherry pickowalismy
+Krzysiu dostał ostatnim razem zawału bo wyjebało wszystkie maszyny
+Jak rozjebało wszystko z dzisiaj to potwierdza twoją niewinność
+Jestem pewien, że sls padł i ktoś backupa na szybko wrzucił
+nie mialem commita krzyska
+gdzie zmienial kolory
+jak zpullowalem to nie mialem jego zmian u siebie na branchu
+i musialem tego nie zauwazyc i pushnolem do deva
+co nadpisalo commity
+Git to narzędzie zdecentralizowane
+jakby ich nie bylo
+Każdy z nas spushuje w pon wszystkie swoje branche
+I wszystko wróci do normy
+ogólnie jak widze to wszystko wrocilo do normy
+nie wyjebalo builda
+a wszystkie commity do mojego sa na devie
+Hehe
+Widzę fuckup inicjacyjny zaliczony
+jak sprawdzalem to wszystkie commity sa na devie teraz
+wiec wrocilo do normy
+Ja wyjebałem bazę produkcyjną, a ty dev-a
+Takie atrakcje tylko w QA
+Dokładnie
+to teraz pora na merge
+ja juz nie zaczynam nowego brancha
+<a href="https://x.com/Dishpit/status/1790131844572209583">https://x.com/Dishpit/status/1790131844572209583</a>
+<a href="https://x.com/Dishpit/status/1790135576282153124">https://x.com/Dishpit/status/1790135576282153124</a>
+zapisze sobie
+merge komputer » kuchnia
+kuchnia
+tso
+Odpal pipeline _generator
+touch dupa<br>git add dupa<br>git commit -m &quot;dupa&quot;<br>git push
+sprawdź detailsy
+albo masz
+<a href="" onclick="return ShowMentionName()">Jakub</a> a tobie co? xD
+opis
+przecież nie będę w opisie kłamał, lol
+musicie sobie wyobrazić że ta templatka uzupełniona jest śmiesznym memem
+🤮
+ja wyłączyłem aktywność
+żeby ludzie nie mogli widzieć ile gram
+xd
+sama prawda
+do statystyk mi się to zalicza, więc nie wyłączam
+najgorsze ze jak wylaczy mi sie ekran
+jedynie offnąłem nazwę projektu
+tzn ustawiłem własne dane
+tzn wyloguje sie to czas spedzony w rider sie zeruje
+u mnie też
+to jestzle
+neta wtedy odcina xD
+nie odzwierciedla tego ile spedzamy czasu dziennie na tym
+jemy coś czy żaba
+co dzis szamamy?
+a co się robi niby w żabie?
+nie powiedziałbym że żaba oferuje jakieś pełnoprawne jedzenie 😆
+Płaci się
+nie zawsze
+czasem sie wyklada na pulki towar
+pytanie:<br>mam klase bazowa z propka niezainicjalizowana i funkcja ktora operuje na tej propce ale juz zainicjalizowana i teraz mam druga klase ktora dzedziczy po tej pierwszej i ma proke zainicjalizowana. Jak zrobic zeby uruchamiajac funkcje z klasy bazowej w potomnej ona operowala na propce z klasy potomnej?
+mówisz o dziedziczeniu? xD
+yeap
+no jak masz instancje klasy potomnej i override na tej funkcji to powinno na niej działać chyba
+czy źle myślę
+ale tu chodzi o proke
+propke
+nie metode
+propka jest w klasie potomnej zanicjalizowana a metoda w bazowej
+chce zeby metoda operowala na propce zainicjalizowanej w klasie potomnej
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/override">https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/override</a>
+ogólnie no brzmi mi to jak jakieś sphagetti, nie da się tego rozwiązać interfejsem jakimś?
+czemu potomna klasa używa bazowej
+juz ogarnalem
+to jaka decyzja do zarcia
+bo zaraz 13
+no chyba żabka, też za oknem troche wygląda jakby miało padać
+skoro tak mowisz
+idzemy?
+<a href="https://t.me/TheMultii">@TheMultii</a>
+a moze 15 po
+czy juz wychodzisz
+pytam nie wychodze
+fake info, jak teraz jebło słońce to aż razi
+to jak?
+a mamy jakąś knajpe na oku?
+ja nwm
+czy może pierożek znowu
+nieeee
+Kordosa się boisz?
+w pierożku?
+tam go nie było
+Kordos był naleśniknarnii
+Kordos może się zrespić wszędzie
+to równie dobrze moge z bloku nie wychodzić
+;D
+No w robocie się nam nie zrespi
+<a href="https://t.me/TheMultii">@TheMultii</a> żjesz?
+pytasz czy żyję, czy czy idę jeść?
+jedno i drugie
+gdzie i co
+tak i tak
+tak
+i tak
+jakiś pomysł?
+kurde nie wiem czy tam jedzenei dają
+Kanapki i do kuchni
+nie mam
+mi nikt nie robi a samemu się nie zawsze chce rano XD
+Zrób wieczorem
+myśleć o tym wcześniej??
+może jeszcze położę się wcześniej żeby nie umierać rano
+bez sensu
+dokładnie
+dobra ja ide i będę czekał przy wejściu
+Złożone papiery??
+dobra, jebać cypressa. idę jedzonko
+xD
+Za co cię wyjebali?
+wiedziałem że tak bedzie
+Jeszcze tego nie zrobiłeś?
+bez regexa to ja już żyć nie umiem
+ja z tym :%s lecę tylko exact matche
+Co to regex?
+język bogów
+A w Cpp pan pisał?
+a w ruście?
+To sztatański język
+A to to jakaś podróba
+regex ma chyba różne warianty
+Tak
+to moze w tym tego vima zrobic <a href="https://t.me/BartShoot">@BartShoot</a>
+conajwyżej wyświetlanie
+OpenCv nie jest natywnie wspierane w Rust-cie
+jest tak samo natywnie wspierane jak w każdym języku oprócz c++
+przez podpinanie dllki
+Czyli sucks
+jest szansa że języki bez GC mają lepsze narzędzia do zarządzania tą pamięcią opencv
+ale jak i tak musisz użyć innego języka to czemu nie c++ xD
+I dlatego wszystkie biblioteki do opencv do c# sucks
+no jak chcesz mieć to działające super szybko i wgl to możesz sobie zrobić w c++ te operacje na opencv itd a obsługe tego w c# bo wygodniej się pisze
+pewnie często tak jest robione
+Tu najbardziej ciśnie mnie właśnie pamięć
+I jebany GC
+no ale to robisz sobie wyspecjalizowany program w c++ który operuje pamięcią jak chcesz
+ale nie musisz pisać gui itd w c++
+Nikt nie powiedział, że piszę gui
+Nawet w C#
+jak i cały język
+Bardziej niż twojego zdania nie da się jebać czegokolwiek
+🗿
+nie no nie wiem co masz do microsoft java 😆
+ale są rzeczy które krytykować należy jak np to że build system jest do dupy, nie wiele da się zrobić
+brak opcji ustawiania jakichś variabli inaczej niż z kodu
+budowanie mu wizerunku języka od wszystkiego
+gdzie ani nie jest szybki, ani nie powinien dotykać webówki
+no wszystkie biblioteki od gui microsoftu są conajmniej niedogotowane
+Na javie chociaż Minecraft powstał
+:DD
+na c# terraria
+i wszystko w unity
+czy tam większość
+sory ale java &gt; c#
+zgadzam się pod względem pluginów i mavena
+ale kod to jest łeb w łeb dla mnie
+też inna sprawa że większość naszej styczności z c# to projekty ze studiów bez dobrych standardów oop solid itd
+kwiz: kto wie bez zewnętrznych pomocy co to &apos;allballs&apos; w postgresql XD
+Wszystkie kule
+proszę próbować dalej
+ta, a allballs bo 00:00:00 😆
+<a href="https://github.com/infotera/pull-requests/pull/4">https://github.com/infotera/pull-requests/pull/4</a>
+ups
+co to za niewspierany fork linuxa <a href="https://github.com/infotera/linux">https://github.com/infotera/linux</a>
+Kernel linuxa ma zajebiste pr: <a href="https://github.com/torvalds/linux/pull/860/files">https://github.com/torvalds/linux/pull/860/files</a>  <a href="https://github.com/torvalds/linux/pull/853/files">https://github.com/torvalds/linux/pull/853/files</a> <a href="https://github.com/torvalds/linux/pull/833/files">https://github.com/torvalds/linux/pull/833/files</a>
+ludzie po prostu chcą być contributorami za wszelką cenę xd
+no jak będziesz miał w githubie że kontrybucje do linuxa zrobiłeś to social credit score +9999
+&quot;a co wprowadzały twoje zmiany?&quot;
+eeeee
+bing chilling
+ale mogliby se posprzątać
+mają otwarte pr nieruszane od 2014
+i nawet jakichś wartościowych rzeczy nie przyjmują &quot;bo są od tego ludzie&quot; <a href="https://github.com/torvalds/linux/pull/44">https://github.com/torvalds/linux/pull/44</a>
+ale mocna jest dyskusja pod tym
+a tu pr do kernela od programistów *scripta <a href="https://github.com/torvalds/linux/pull/437">https://github.com/torvalds/linux/pull/437</a>
+minifikowany kernel zeby działał szybciej
+<a href="https://github.com/torvalds/linux/pull/684/files">https://github.com/torvalds/linux/pull/684/files</a> nic lepszego dzisiaj nie zobaczycie, ja już dalej nie szukam
+straszne
+ale gówno
+xd
+jestescie kuchnia?
+panowie kuchnia
+Parking dopiero
+to jak panowie co dzisiaj
+wsumie to tylko marcel chyba idzie
+bo reszta ma
+cnie?
+no ja mam taką porcję że będę się musiał turlać z kuchni
+chętnie to zobacę
+wezmę jakieś orzechy+kawę i będzie git
+to ja ide do zaby
+to ja jednak też
+ale o której?
+13
+może później??
+13:01
+13:00:59
+pójdźmy na kompromis i 14
+cooo?
+XD
+ty szalony jesteś
+to nam sie nie oplaca do kuchni wracac
+yep
+kompromis to 13:00:31
+moze 13:30?
+oki
+ja ide
+powodzenia
+wgl klikając po tej stronie jest taka szybka że aż sprawdziłem na czym to stoi xD <a href="https://nextra.site/">https://nextra.site/</a>
+no jak postawić jakąś prostą stronkę docsów to zajebiste
+ciekawe czy dużo *scripta trzeba
+no zawsze to można zrobić jakoś inaczej wiadomo
+ja robiłem dla blackfroga instrukcje do cnc w tym <a href="https://squidfunk.github.io/mkdocs-material/">https://squidfunk.github.io/mkdocs-material/</a>
+no i tam masz trochę pythona do configu, reszta markdown i to sie kompiluje do hmtl+css z tego co kojarze
+statyczne stronki
+ja na pewno nie pisałem żadnego js tam, to dla mnie ważniejsze było xD
+ale fajna lista
+no zrobiłbyś tyle ile pozwala html css xD
+dzikie xD
+what the fuck how
+do domu
+no to krok 1 zrobić takie komponenty krok 2 zrobić generowanie tych komponentów
+do doomu !
+krok 3 ... krok 4 połączenie tego w logikę z zagnieżdżaniem i gotowe
+dupa jeszcze z 15 min conajmniej
+no raczej ten program powinien wypluwać gotowego htmla z użyciem tego
+albo fragmenty kodu żeby sobie ktoś wkleił
+tak na chłopski rozum
+można w ruście printf &gt;&gt; main.html
+jak ma być user friendly to webowa apka gdzie sobie robisz drag and drop
+no pytanie jak ciężkie jest parsowanie html
+bo to se w sumie będziesz musiał zrobić swój kompilator i on by kopiował html i wkładał tagi których nie ma w html z jakiejś bazy?
+troche pytanie jak by głęboko w to iść, bo wiadomo jak user se zrobi większość htmla sam to ma więcej kontroli
+ale większa szansa że coś spierdoli xD
+a jakbyś miał yamla czy coś innego dosyć prostego i po prostu zagnieżdżał elementy
+<a href="https://www3.nd.edu/~dthain/compilerbook/compilerbook.pdf">https://www3.nd.edu/~dthain/compilerbook/compilerbook.pdf</a>
+nie było na uczelni pisania kompilatora to sobie nadrobisz xD
+no i krótka checklista co trzeba zrobić żeby mieć dobry język programowania:<br>- szybki czas kompilacji<br>- czytelne błędy kompilatora<br>- language server<br>- package manager<br><s>- pełno ludzi którzy będą chcieli wszystko na niego przepisać</s>
+najlepiej jeszcze żeby każdy sobie mógł zrobić sudo apt install itp żeby nie bawić się z jakimiś skryptami 😆
+jaki apt
+co to takiego
+no pisze itp, nie będę wymieniał nixa, dnf, brew i co tam arch jeszcze
+a jak ktoś będzie chciał udostępnić swoją paczkę?? i ktoś będzie chciał wygodnie pobrać xD
+dokladnie, szczegolnie na jakis obscure repozytoriach
+komputer » kuchnia 14 min
+Dom&gt;auto&gt;komputer&gt;kuchnia T-allballs
+xd
+ok
+ok
+Math.pi
+<a href="https://t.me/lmastalerz">@lmastalerz</a>
+jprdl
+a chcesz do choroszczy?
+aliasy pewnie dałeś
+nie
+Choć tak naprawdę to pytanie jest czy Infinity &gt; undefined?
+albo ovveride func
+o
+a czy None &gt; undefined
+None to python
+Co się dziwicie?
+to null &gt; undefined
+JS jest pierdolnięty w swej logice
+albo NaN
+Bo nawet python nie przemieli takiego gówna jak brak argumentu w funkcji
+czy po sparsowaniu tekstu na int możesz dostać NaN
+parseInt ma składnię (val, radix), więc ta mapa robi coś typu:<br>parseInt(&apos;10&apos;, 0); =&gt; 10<br>parseInt(&apos;10&apos;, 1); =&gt; NaN<br>parseInt(&apos;10&apos;, 2); =&gt; 2
+bo NaN to liczba
+Która nią nie jest
+NaN należy do zbioru liczb nierzeczywistych
+jestem innego zdania
+A masz typ na liczby 1+2i?
+<a href="https://t.me/lmastalerz">@lmastalerz</a> <a href="https://pastebin.com/64N8kjhj">https://pastebin.com/64N8kjhj</a> uruchom to
+lol, pastebin spadł z rowerka z tym
+<a href="https://pastebin.pl/view/a0bdcd3c">https://pastebin.pl/view/a0bdcd3c</a>
+Title: Wchodząc na stronę z linku dostaję 404<br>Assign: Marcel<br>Priority: High
+wystawiłeś taska po tym, jak naprawiłem
+WONTFIX
+WONTFIX
+jakie wontfix
+to ma działać
+przecież działa
+uruchom sobie w konsoli js
+Nie działa
+<a href="https://t.me/shipurjan">@shipurjan</a> <a href="https://ziglang.org/documentation/master/">https://ziglang.org/documentation/master/</a> chyba bez js też
+firefox nie działa bo jest chujowy
+To działa na firefox-ie
+kordos działa na firefoxie? ❤️
+Kordos nie działa
+halo <a href="https://t.me/front">@front</a> co to za magiczne &apos;x
+bo mnożą xd
+oblicz
+bez kalkulatora
+Jarek ma bardzo mocne opinie na temat tych zup XD
+dzisiaj były kocie żygi i niedopieczony chleb
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> <a href="https://app.clickup.com/t/8694e0dfa">https://app.clickup.com/t/8694e0dfa</a><br>jak będziesz się opierdzielał to skończysz jak michał w tym tasku
+nie wiem, mi ostatnio w testach jak chcieli wcisnąć że coś trzeba testować to powiedziałem jak to działa teraz i zmiana tego to osobny task
+i elo
+przy tym runner rename wyszło że wolne sloty na standalone się aktualizują co minutę tylko nie przy każdym executionie xD
+Marcel za 3
+2
+1
+daj link
+<a href="https://app.clickup.com/t/8694kkc5e">https://app.clickup.com/t/8694kkc5e</a>
+nie robiłem z tooltipami
+Czegoś mi w twojej wypowiedzi brakuje
+bez obrażania?
+jak my dzisiaj
+działamy?
+boys?
+ja mam jeszcze to samo jedzenie co wczoraj xD
+marcel poznajesz tego chlopka?
+co to za kuktas
+normalny
+xd
+jutro nie wiem czy będę miał jakieś jedzenie to można skoczyć gdzieś
+wiadomo
+albo do żabki
+został kaleką bo mu noga odpadła
+Skoczyć można z dachu
+to jutro a dzisiaj
+kto idzie do żaby ze mną?
+ja moge
+czuje że porcja kofeiny jest potrzebna xD
+ok
+to 13?
+no można
+czekam
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a>
+<a href="https://t.me/lmastalerz">@lmastalerz</a> wychodź
+Szybciej wychodź
+guys 13?
+where
+O 13 ja będę w domu
+kto pytał
+Ty
+jakie jeszcze jedzenie jest blisko jakby lało
+kurde, nie kojarzę
+ale stary jestem
+zaniki pamięci, itd
+raczej nie bedzie lalo
+jak ty jesteś stary to ja jedną nogą w grobie jestem
+chmura burzpowa przeszla obok bielska
+wiem bo jechalem przez nia
+z motocyklista za plecami
+oki no to gdzie lecimy
+byłeś szybszy od burzy?
+No właśnie, ty pytałeś
+Tylko nie pamiętasz
+jechałem prostopadle do niej
+nie używaj matematyki przeciwko mnie
+blisko to jest żaba
+prostopadle do wektora kierunku
+jak chcemy coś ciekawszego, to nwm
+<a href="https://khinkalnya.com/pl/wp-content/uploads/sites/3/2024/02/bielsko-biala-02.2024.pdf">https://khinkalnya.com/pl/wp-content/uploads/sites/3/2024/02/bielsko-biala-02.2024.pdf</a>
+gruzinskie?
+to co idziemy?
+no na coś bym poszedł, nie musi być to akurat
+no to chodźmy bo 13
+ok
+może nas zmoczy akurat
+;D
+oke
+No coś kropi
+jakiego trzeba mieć pecha żeby zacząć dzień od skiśniętego mleka ;D
+a potem siąść do kompa odpalić testy i zobaczyć taki widok :
+smutne zycie testera
+ej ale wiecie ze te maile przychodzą ludziom? XD
+tak
+ok XD
+Ja zrobiłem 2 pr do tego repo przypadkiem
+najgorsze, że potem skończy się jak tutaj: <a href="https://github.com/infotera/pull-requests/pull/4">https://github.com/infotera/pull-requests/pull/4</a>
+zgadza się
+Oczywiście że jak mam nowy branch na zforkowanyn repo to mój pull request domyślnie ma lecieć do pierwotnego
+Nawet jak poprzedni nie był
+kiedy jesteś biedny ale buddy ci tego mnie powie tylko wali SWW<br><br>POST <a href="http://192.168.5.162:9090/services/internalAPI/qik/zone/VWRM3kpN/domain/renew?ipAddress=192.168.10.48&amp;invokerId=26385&amp;domain=chetbrunoway">http://192.168.5.162:9090/services/internalAPI/qik/zone/VWRM3kpN/domain/renew?ipAddress=192.168.10.48&amp;invokerId=26385&amp;domain=chetbrunoway</a><br><br>In:<br>{&quot;duration&quot;:4}<br><br>Out error:<br>Message: Domain payment failed<br>Status code: 420<br>Rest code: 2840
+jakie sww, pięknie opisany error
+A to po froncie
+po froncie sww
+nie, backend zwróci ci jpg z errorem
+<a href="https://static.wikia.nocookie.net/bohaterowie/images/d/de/Kapitan_Bomba_Render.png">https://static.wikia.nocookie.net/bohaterowie/images/d/de/Kapitan_Bomba_Render.png</a>
+niezły render
+same
+pewnie na firefoxie działa
+ta jedna strona na necie którą zrobili pod firefoxa
+oprocz <a href="mozilla.org">mozilla.org</a>
+Otóż nie działa
+dziwne, nawet na firefoxie?
+<a href="https://github.com/infotera/pull-requests/assets/18248077/725483c7-547d-4d08-9ca8-8389e3235108">https://github.com/infotera/pull-requests/assets/18248077/725483c7-547d-4d08-9ca8-8389e3235108</a>
+no i po co zaśmiecasz mi ekran tym
+zgłodniałem
+xd
+Szanowny Froncie
+Przyjrzycie się backgroundowi pod imionami
+widzę
+aua
+ale mam to w dupie
+jeden zaczyna urlop od 24:00 a drugi od 00:00
+niby tacy sami a jednak dwa różne byty
+kuchnia?
+Approved
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> rusz dupsko
+co ja
+<a href="https://pysznebistro.pl/menu/">https://pysznebistro.pl/menu/</a>
+tanio
+troche daleko
+<a href="https://roadmap.sh/qa">https://roadmap.sh/qa</a>
+jest też od c++
+Aaa, zły chat
+tu masz lepsze: <a href="https://roadmap.sh/rust">https://roadmap.sh/rust</a>
+Budafest Langosz jeszcze na rynku jest ale nie ma za bardzo menu
+ale cos zamawiamy wkoncu
+to jest pr od pr na 90%
+a no to picka pewnie
+albo zamówić do lokalu i przyjść na gotowe
+tu masz lepszą - kord...
+<a href="https://tinyurl.com/2p923dee">https://tinyurl.com/2p923dee</a>
+to jest wirus
+tak
+nie wchodzić!!!!!
+nie klikajcie bo papież wyskoczy
+nie byle jak, pojeździł bez gaci
+pisał ją na koniu i dlatego taka rozjebana jest od 19 lat
+albo koń mu pisał
+<a href="https://www.kordos.com/cv-2005.html">https://www.kordos.com/cv-2005.html</a> to kto mu to napisał?
+dla niego margines ani padding nie istnieją
+bo optymalizował ją dla firefoxa XDDD
+czytając to taki vibe oddaje <a href="https://www.washingtonpost.com/wp-srv/national/longterm/unabomber/manifesto.text.htm">https://www.washingtonpost.com/wp-srv/national/longterm/unabomber/manifesto.text.htm</a>
+nie wiem, gdyby gość miał trochę więcej zdrowego rozsądku, mniej autyzmu i więcej charyzmy to jest szansa ze ludzie by z niego tak nie cisnęli beki
+ale on mocno poszedł w stronę neurospicy osobowości
+jak to czytam to cringe
+prawda, ale z drugiej strony jebanie pickup artistów się szanuje
+tak samo o ekologii że xxi w będzie pewnie ostatni
+większość takich osób jest znana tylko w obrębie uczelni, poza nią nie istnieją
+nie wiem czy Kordos jest wyjątkiem jakimś
+raczej nie
+a on chce nobla dostać
+xd
+welp XD
+visual testy można odpalać dla nieistniejących branchy XD
+złoto
+no bo może chcesz sprawdzić czy go na pewno tam nie ma
+wizualnie
+nie do końca, ja sam wysyłam informację &quot;słowo honoru, uruchomiłem dla tego brancha&quot;
+i żebym nie był gołosłowny
+Są rekordy? Nie
+Debug: Są rekordy? Tak
+Tłumacz się
+zmień przeglądarkę i sprawdź jeszcze raz
+To jest chrome
+to, że zmienisz na pulpicie nazwę Firefoxa na Google Chrome nie sprawi, że korzystasz z Chrome&apos;a
+to jest w trakcie
+znaczy nie dokładnie to, ale będzie openapi
+To jest odpalane na serwerze
+teraz to samemu trzeba dziergać typy
+Remote selenium
+i dodawać any do większych obiektów
+<a href="https://app.clickup.com/t/8694675xt">https://app.clickup.com/t/8694675xt</a>
+ale to pewnie najlepiej podpytać tam od was kogoś czy z tego korzysta i jak to działa
+bo mechanizm jest ale z errorami jakiś problem był, coś tam żę nieczytelne bo internal api to jeden wielki kontroler itp
+ta, świeża sprawa miesiąc temu chyba nad tym było grzebane
+dobra to jak z tym jedzeniem
+zamawiamy sobie tutaj? ja bym powiedział że lepiej wyjść chwile na słońce, pooddychac powietrzem
+ruszyc dupe sprzed kompa
+yeap
+ale pilny student
+nie to co my
+nie to co Ł
+H
+to może od razu zapytam o której godzinie?
+13
+poprawna odpowiedź!
+no to wiemy kiedy
+jeszcze co i gdzie
+jest jakiś Rock pizzeria
+ale nie wiem czy worth
+rock? ten od miszora?
+ale to będzie lokal zajebany POCIĄGAMI
+nie otwierają się o 14 czasem?
+yep, od 14
+<a href="" onclick="return ShowMentionName()">Jakub</a> co to za zamkniętą pizzerię nam znalazłeś &gt;:C
+aha
+xd
+mimoza cebulowa gulasz i coś jeszcze
+tu 200 metrow od nas jest pizzeria jedna
+calkiem spoko
+poza tym niedaleko tez np maximus za mxdonaldem
+mxdonald xd
+spodziewałem się, że Łukasz to napisze
+spodziewaj się spodziewanego
+nie c:
+Marcel szmato
+w sensie XD
+?
+mx
+że domeny
+a
+rekord mx
+XD
+myslalem ze grammar nazi
+czy cos
+<a href="https://picollopizza.pl/">https://picollopizza.pl/</a>
+yep
+to zajebiscie
+fajny lokal, wsiadasz do rakiety
+tak, wrócisz jak stronka znów będzie działać
+tez ida na przerwe o 12, jak powarzne dewelopy
+no trzeba by do nich zadzwonić czy są otwarci, jak są to pizze jakieś zamówić na ślepo
+nie zamawiaj na ślepo bo z ananasem bedzie
+albo oliwkami
+oliwki spoko
+kazda pizza jest dobra, ja tam nie wybrzydzam
+taka tuńczyk oliwki ser
+będziecie się smarzyć w piekle
+jak dostaniesz nutellę z bananem to zmienisz zdanie
+a oprócz tego wszystkie są spoko
+A spalona?
+najlepsza
+to ja się boje z wami iść
+O smaku węgla?
+węgiel zdrowy jest
+bo zamówicie tuńczyka z ananasem
+okej to brzmi jak sen szaleńca
+po drugie jestesmy na slasku
+to nasze danie narodowe
+badz regionalne
+tak, zależy jak kto bardzo się uważa za ślązaka
+<a href="https://www.bbc.com/news/articles/cd11gzejgz4o">https://www.bbc.com/news/articles/cd11gzejgz4o</a> a na śląsku nie kamień, a węgiel
+jebani separatysci
+nie no patrząc na rząd czasem to takie odłączenie się od polski nie mogłoby wyjść na złe
+byle zostać w unii xD
+XDDD
+umarlem
+ktoś to przeszukał i po prostu geniusze w google uznali że jakaś odpowiedź na trollowym subreddicie z 8 upvotami to dobre źródło danych
+wy tam lepiej pizze zamawiajcie
+normalną
+ser szynka pieczarki
+capricciosa
+i ananas
+jakaś ostra może
+i jakaś z salami
+klasyk
+zaraz wyjdę
+jalapenio
+<a href="https://t.me/BartShoot">@BartShoot</a> zjebałeś konsolę QIK-a
+zamówić? ❤️
+kiedy co
+bedzie wiecej dla nas
+spoko
+<a href="https://t.me/razu8">@razu8</a>
+Jak klikasz jeden rekord to rozwijają się oba
+<a href="https://t.me/lmastalerz">@lmastalerz</a> patrz na datę utworzenia
+wtf
+od kiedy to sie dzieje
+najlepsze że o tej godzinie nikogo nie było kto mógłby odpalić testy z takimi domenami xd
+chyba, że to utc
+ta, utc raczej
+Prawdopodobnie to byłem ja bo utc
+-2h
+No to na pewno ja
+czy tam +2 zależy jak sie luczy
+jaki jest apikey teraz?
+secret nie działa
+secret
+No to nie do nas pytanie xD
+Nie mamy możliwości jego zmiany
+secret dziala
+wiem, to na jakim adresie w sumie
+Aaa
+SSL
+bo ja nie robiłem nic z qikiem ostatnio
+Nich razu doda cię do grupy QIK-tests
+no tak
+;D
+git, juz działa
+gdzie to wam sie jebie
+Zones
+Wszędzie
+😂
+yyy
+kliknąłem i rozwija się jedno?
+akurat w Zones jest double nazwa
+odśwież konsolę, ten efekt już niepowinien występować, pozostaje kwestia dwóch takich samych aktywnych zone
+Ale niech doda cię razu na tą grupkę bo pisanie na 2 chatach o tym samym ssie
+no to jak coś będę robić z tym to mu napisze, na razie on tam jest z rzeczami związanymi z deployami zajebany
+ja teraz z samym registry robie żeby się autorenew maile były xD
+nieuchronna godzina się zbliża
+no i nic nie ruszone w tym kierunku
+czyli co temat out?
+bo w 20 min sie juz nie wyrobia
+time out
+w 20 minut to co najwyżej pizza hut xd
+drogo i mało
+jak to jest pełny pizza hut nie ten mini to spoko
+albo festiwal pizzy jakby był
+ale nie ma
+żaba?
+tanio ale daleko
+zjadłbym jakiś normalny posiłek xD
+albo pierożek
+eee to idźcie
+ja mg żabe, chociaz zrobiliscie smaka
+kordosem?
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> <a href="https://t.me/shipurjan">@shipurjan</a> we zobaczcie ile trwa animacja okejki na przycisku po kliknięciu
+daj mi lokalizację okejki jakiekolwiek
+<a href="https://app.dev.io/mitchellangeliquemcmahon/domain/Pp7jjYrX/record/new/A">https://app.dev.io/mitchellangeliquemcmahon/domain/Pp7jjYrX/record/new/A</a>
+<code>qwerty</code> jbc, choć nie wiem czy ci potrzebne
+i gdzie widzisz jakąś &quot;👍&quot;
+to druga rzecz
+a this
+zaraz zobaczę
+animacja sama 0.3s z delayem 0.9s
+1.2s
+Thx
+To co?
+Bydło w testach
+wychodze
+nwm jak wy ja ide do zaby
+Rusz d
+upe
+Ł
+Nie
+Ktos je cos
+ja tak, ale reszta chyba jeszcze spi
+to co dzisiaj jemy w systemie wartowym? XD
+no ja zaraz pójdę
+dopiero przyjechałem
+a reszta dzisiaj nie idzie do pracy
+można sprawdzić
+tylko o której
+niby tak ale potem do 18 głodować??
+można
+tak żeby nam pełne słońce dojebało
+trzeba zażyć witaminy d
+<a href="https://use-the-index-luke.com/">https://use-the-index-luke.com/</a>
+<a href="https://modern-sql.com/">https://modern-sql.com/</a>
+nie wiem jak bardzo quality źródło ale wygląda że ma w chuj rzeczy xD
+9:30 zupka?
+tajest
+jescze pytasz
+<a href="https://t.me/lmastalerz">@lmastalerz</a>
+<a href="https://t.me/lmastalerz">@lmastalerz</a>
+jak moge nadać coś na nasz serwer dns?
+może ktoś wie?
+zależy co ma ktoś wiedzieć
+to nie jest tak że to sie może propagować ileś czasu? czy to tak lokalnie nie powinno mieć znaczenia
+o ile ta domena w ogóle istnieje
+adres złapało
+nie, wszystko leci na <a href="192.168.5.100">192.168.5.100</a>
+Chłopie, coś ty znowu odjebał?
+Łukasz, żyjemy w symulacji, wsiadaj do polskiego czołgu i zjeżdżaj stąd
+<pre>; &lt;&lt;&gt;&gt; DiG 9.18.18-0ubuntu0.22.04.2-Ubuntu &lt;&lt;&gt;&gt; recordscontainer-tpgmhxnovc-ttests-dev-buddy.pl<br>;; global options: +cmd<br>;; Got answer:<br>;; -&gt;&gt;HEADER&lt;&lt;- opcode: QUERY, status: NXDOMAIN, id: 54279<br>;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1<br><br>;; OPT PSEUDOSECTION:<br>; EDNS: version: 0, flags:; udp: 65494<br>;; QUESTION SECTION:<br>;recordscontainer-tpgmhxnovc-ttests-dev-buddy.pl. IN A<br><br>;; AUTHORITY SECTION:<br>pl.      3108  IN  SOA  a-dns.pl. dnsmaster.nask.pl. 1716964292 900 300 2592000 3600<br><br>;; Query time: 0 msec<br>;; SERVER: 127.0.0.53#53(127.0.0.53) (UDP)<br>;; WHEN: Wed May 29 12:51:34 CEST 2024<br>;; MSG SIZE  rcvd: 133</pre>
+próbuje sprawdzić co jest z dns resolverem
+Rekordy nie schodzą?
+uuuu czyli nslookup ssie
+no nie
+mimo iż jest git
+zakładam że backend ich nie rejestruje
+zawsze backend, zawsze frontend
+a kiedy jest to wina Łukasza?
+a co my mamy do tego xd
+jeszcze to digiem zweryfikuje
+nie wiem, ja się potężnie teraz męczę żeby mieć qik lokalnie odpalonego
+musze wsl zainstalowac
+i żeby buddy z niego korzystał
+i działał
+to walcz
+najwyżej wystawie ci taska
+przez chwilę się udało, miałem zarejestrowane domeny nawet
+tylko maile się wcale nie wysyłały
+teraz mail by się wysłał
+ale nie rejestrują się domeny i chuj mi w dupe XD
+Za duże wymagania
+to potrzebuje do sprawdzenia czy dobrze zrobiłem taska
+jak dobrze leci do review
+jak nie to znów grzebać trzeba
+inna sprawa że ty tam chyba brałeś txt tylko a nie ma takich rekordów
+dobra, yebać to
+żaba?
+żaba
+tak, póki nie leje
+no i wszyscy jednomyślni 😎
+to dajcie mi 5 min
+Ja już na zewnątrz, git pogoda
+już wychodze
+<pre>NAMES                   IMAGE<br>compose-front-1         compose-front<br>compose-haproxy-1       haproxytech/haproxy-alpine-quic:2.8.3<br>compose-redis-1         redis:7.0.10-alpine<br>qik_registry_postgres   postgres:14<br>qik_registry_redis      redis:7.2<br>qik_registry_rabbitmq   rabbitmq:3.12-management<br>qik_registry_mongodb    mongo:7<br>qik_registry_pdns       powerdns/pdns-auth-49<br>buddy_mariadb           mariadb:10.3.37-focal<br>buddy_mongo             mongo:5-focal</pre>
+<pre>buddy&gt; show collections;<br>accessLogs<br>attackLogs<br>containerUsages<br>executionErrors<br>executionUsageCounters<br>executionUsages<br>feeds<br>gitWebhooks<br>integrationRecords<br>nativeBuildStats<br>sandboxLogs<br>sandboxUsages<br>userApiRequests<br>yamlLogs</pre>
+mariadb ma 128 tabel
+Technologie webowe i jej konsekwencje
+co do chuja
+To do rozjeżdżających się tabel z mojego taska? xD
+Najgorsze jest to, że wiemy jak to działa 🗿
+Jedyne gdzie coś się może będzie dało uprościć to cell gap px - mnożenie czegoś
+Ale to tak na oko, a se będziesz musiał to sprawdzić xD
+Jak ułamki tam są to trudniej
+Jak nie dasz ułamków, to zrobisz warpy jak za czasów ps1
+Sprawdzane wiele razy
+<a href="https://vm.tiktok.com/ZGe43W7DT/">https://vm.tiktok.com/ZGe43W7DT/</a>
+to lukasz i marcel
+To jest ten mem co wam w autobusie mowilem xD
+XD
+<a href="https://t.me/lmastalerz">@lmastalerz</a> <a href="https://t.me/mganczarczyk">@mganczarczyk</a> dostałem info od kingi że jeżeli na okres wakacyjny chcemy przejść na pełny etat to musimy uzyskać zgodę Rafała lub szymona. Tak więc napisałem do Rafała:
+i love it
+trochę prawda - jak Łukasz chce zepsuć to i tak zepsuje
+Tyle, że to nie ja zrobiłem
+Ja miałem inny tego typu task
+kucnia kurla ten
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> zespawnij się
+zaraz, taska sobie wystawiam xd
+Pizgać taski
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> <a href="https://t.me/shipurjan">@shipurjan</a> Panowie od frontu która biblioteka będzie najlepsza jeżeli chce zrobić przesuwalne bloki z możliwością łącznia ich krzywą beziera? i wogóle wchodzenia w interakcje z elementami na froncie?<br><br>1.Fabric<br>2.Konva<br>3.Paper.js
+pytanie jak bardzo bedzie mnie ona ograniczac
+ewentualnie <a href="https://www.svelvet.io/">https://www.svelvet.io/</a>
+custom nodey
+z np opcją dropdown
+albo mergowanie nodów z tą samą ścieżką
+a napiszesz to w js canvasie?
+to co marcel wysłał wygląda bosko
+sprzedane !!!!
+biblioteka może Cię ograniczać ale będzie działać, pisanie tego od zera też Cię będzie ograniczać i dużo dłuzej nie będzie działać xD
+niby tak
+dzięki za help
+Umie ktoś z Szymonowego na nasze?
+Szczególnie ostatnia linia
+To było w listopadzie xD
+A w obok szymona siedzicie
+&quot;hej Szymon, grzebałem w taskach prawie sprzed roku i mam pytanie... o chuj ci chodziło wtedy?&quot;
+xD
+no proste, jak robisz commita w apce to masz commit message i discard cos tam na pasku nizej
+i to jest miscommunication bo pewnie chodziło o discardowanie zmian tak jak to jest w idei że klikasz i wraca ci linijki z poprzedniej wersji?
+ale to jest pojebane, nie wiem kto na to wpadł xD
+ktoś poyebanj
+I teraz pytanie
+Kuba napisał y i j odwrotnie intencjonalnie czy znów nadupiał w klawiaturę i samo się zrobiło
+intenceonalnij
+Kurwa syntax error i chuj
+Nie rozumiem
+to jest jeszcze zrozumiałe
+widywałem gorsze &quot;słowa&quot;
+cwś mi kwsaworgca noe doqopa
+tu masz przykład <a href="https://t.me/lmastalerz">@lmastalerz</a>
+coś mi klawiatura nie (...)
+pomaga?
+działa.
+o kurde działą
+xd
+a jdenak nie
+compiler exited with code 1
+widzisz, a w js przechodzi kod
+😎
+pisz przez gpt, daj mu prompta mpja klwiatura nie diziala pszre pusz po plsko za mien
+Guitar Hero w testach
+żabka?
+która żabka? na przystanku otworzyli nową
+można sprawdzić czy się lepiej idzie
+a o której robimy ten test chodzenia?
+13?
+jak dla mnie spoko
+<a href="" onclick="return ShowMentionName()">Jakub</a>
+ok
+lgtm
+dobra to wychodze z piwnicy
+dajcie mi jeszcze minutkę, czekam na pipeline 💀
+Pizgać pipeline
+Rusz
+Du
+Pe
+Nie
+Ty nie
+😢
+<a href="https://t.me/lmastalerz">@lmastalerz</a> wybieram cie do kuchni
+Is that a Pokemon reference?!
+Let&apos;s the slaughter begins
+Ten task jest mój 😈
+Let<br>...<br>begin
+dobra, odtworzone
+jaki jest spodziewany efekt?
+nazwa domeny ma zostać zastąpiona tą nową?
+Mamy domenę <a href="mganczarczyk.pl">mganczarczyk.pl</a>
+Z niej importujemy zonefile i mamy
+co ja
+<a href="jebaclm.mganczarczyk.pl">jebaclm.mganczarczyk.pl</a> IN TXT mocno
+nie kojarzę takiego wpisu u mnie 🤔
+Jak zaimportuję do domeny <a href="jakubkrawczyk.com">jakubkrawczyk.com</a> to mam otrzymać
+<pre>$ORIGIN bafgsfgs.in.<br>$TTL 3600<br><br>bafgsfgs.in.  IN  SOA  ns1.qikdev.io. hostmaster.bafgsfgs.in. ( 2024052901 10800 3600 604800 3600)<br>bafgsfgs.in.  3600  IN  NS  ns1.qikdev.io.<br>bafgsfgs.in.  3600  IN  NS  ns2.qikdev.io.<br>bafgsfgs.in.  3600  IN  NS  ns3.qikdev.io.<br>bafgsfgs.in.  3600  IN  NS  ns4.qikdev.io.<br></pre> <br>taki zonefile przykładowy
+<a href="jebaclm.jakubkrawczyk.com">jebaclm.jakubkrawczyk.com</a>
+Dodaj do niego jakiś rekord na subdomenie
+🤔pytanie czy to nie powinno się dziać na froncie
+Bo to chodzi o to aby obciąć starą domenę i wkleić nową
+zonefile po imporcie do innej domeny<br><pre>$ORIGIN something.in.<br>$TTL 3600<br><br>something.in.  IN  SOA  ns1.qikdev.io. hostmaster.something.in. ( 2024052901 10800 3600 604800 3600)<br>something.in.  3600  IN  NS  ns1.qikdev.io.<br>something.in.  3600  IN  NS  ns2.qikdev.io.<br>something.in.  3600  IN  NS  ns3.qikdev.io.<br>something.in.  3600  IN  NS  ns4.qikdev.io.<br>bafgsfgs.in.something.in.  3600  IN  NS  ns1.qikdev.io.<br>bafgsfgs.in.something.in.  3600  IN  NS  ns2.qikdev.io.<br>bafgsfgs.in.something.in.  3600  IN  NS  ns3.qikdev.io.<br>bafgsfgs.in.something.in.  3600  IN  NS  ns4.qikdev.io.</pre>
+<a href="bafgsfgs.in.something.in">bafgsfgs.in.something.in</a>. =&gt; bafgsfgs.in.other.out.
+idąc tą logiką to import takiej pustej domeny gdzie jest tylko ten basic NS nie powinien nic robić?
+Tak
+Importowanie root ns jest zbanowane więc tak
+ta, potrzebne będzie chyba od frontu to $origin żeby sprawdzić/uciąć co faktycznie ma być zaimportowane
+<a href="https://shademap.app">https://shademap.app</a>
+pamiętacie jak gadaliśmy o platformie do code review??? że był upsource już nie ma - zamiast tego było spaces w IDE od jetbrainsów
+<a href="https://blog.jetbrains.com/space/2024/05/27/the-future-of-space/">https://blog.jetbrains.com/space/2024/05/27/the-future-of-space/</a>
+to już nie ma XD
+no i gość podsumował dobrze
+XD
+Juz chyba nikogo nie ma
+kitchen?
+Tajest
+skonczy mi sie sprawdzac
+i ide
+Nie, ja na pociąg jadę
+gdzie jedziesz pociagiem?
+Do Gdańska
+Na mystic festiwal xD
+co to za festiwal
+Metalowy
+to miłej zabawy
+a raczej cięzkiej
+jakie plany na 13?
+pytasz a wiesz
+żaba?
+żaba.
+to idziemy zaraz?
+yep
+Rusz dupeee
+duzio tego .
+massakra
+To tylko mogą poważni i niepoważni devowie
+Jak już w ogóle jesteś 🗿, to jeszcze komentarze do commita możesz dodawać
+git push origin kuchnia
+git checkout front-marcel
+git push --force origin kuchnia
+ty, pal gume z tym force
+bo repo zepsujesz
+<a href="https://app.clickup.com/t/8694kk9nj">https://app.clickup.com/t/8694kk9nj</a>
+Szybki ping-pong z Michałem
+Ja: Rekord NS dla root powinien zostać pominięty?<br>Michał: Tak<br>Ja: *Jeb* To nie działa
+Yeap
+dlatego nie uzywam
+;D
+pamiętam, że kiedyś też strony świetnie pisał
+lubiał się zaciąć i printować divy
+z tabami
+&lt;div&gt;<br>  &lt;div&gt;<br>    &lt;div&gt;<br>      &lt;div&gt;
+Zawsze są jakieś minusy
+A to już w ogóle. Oni pewnie optymalizują rozmiar css usuwając niewspierane przez firefoxa style 🙃
+summonuj sie tu <a href="https://t.me/lmastalerz">@lmastalerz</a>
+zaraz dopiero wychodze
+Wincyj case-ów, wincyj
+co do...
+No co?
+Event zakończenia nie trafił do Setup action
+a w sumie, w dupie to mam
+zielone
+Innymi słowy backend zapina pipeline w dupsko
+well, ja już z tym nic nie zrobię xD
+aj literówki jescze któs pomyśli żę tu ułomy pracują
+testujesz mnie? sprawdzasz czy kogoś pocisnę?
+moze
+ale pocisnij autora
+owner lastname ty pajacu
+dobrze
+xd
+zdupczacczas
+<a href="" onclick="return ShowMentionName()">Jakub</a> pamiętasz może jakie tld to było z tym ssw przy renew domain?
+<a href="https://app.clickup.com/t/8694rk4j3">https://app.clickup.com/t/8694rk4j3</a>
+tld?
+koncówka
+.pl .com
+top level domain
+o, zgadł
+Już poszukam
+kord.dos
+bo bez tego info to chuja z tego taska wiem, po prostu jakaś niepoprawna wartość poleciała do invoice
+Pytanie za 1000pk
+Czy od wystawienia taska był reset db na dev?
+Jeśli Kuba jest na ciekawym wykładzie, to odpisze dopiero o 12:20
+nie wiem, jest szansa
+Poszukam na dev-ie, a jak nie będzie to poszukam na branchu kuby
+Mam dobrą i chujową wiadomość
+ktoś dziś chętny na jakąś żabkę?
+<a href="https://t.me/shipurjan">@shipurjan</a> tylko został
+nie pamietam
+?
+Dodali mnie do projektu Front-end
+<a href="" onclick="return ShowMentionName()">Jakub</a> <a href="https://t.me/mganczarczyk">@mganczarczyk</a>
+cooo
+zaraz pisze do pawla zeby ciee wywalil
+hehe
+Spróbuj szczęścia
+I mogę puszczać release z frontu i backendu
+Czyli zostałem ja i <a href="https://t.me/BartShoot">@BartShoot</a>
+<a href="https://t.me/shipurjan">@shipurjan</a> dawaj skok wiary
+gdzie siano
+poza kadrem
+kilka źdźbeł
+<a href="https://t.me/BartShoot">@BartShoot</a> <a href="https://t.me/mJakobsche">@mJakobsche</a>
+uzywacie takich wyrazen?
+raczej nie
+to wedlug agile founder powinniscie
+obczaj ie sobie
+to jest bardziej funkcjonalne programowanie, z funkcjonalnego to mamy powiedziane że kolekcja.foreach itp zamiast zwykłych pętli
+xd
+znaczy jakie to plusy daje
+krótszy kod owszem, ale niekoniecznie czytelniejsze
+wymaga to od całego zespołu programowania funkcyjnego xD
+Ostatecznie &quot;schludnie, mniej nasrane&quot;
+ale dziala lepiej
+pytanie o ile lepiej
+to tak jakbysmy z lukaszem przestali uzywac Linq
+czy na tyle lepiej żeby ryzykować że jak coś jednak nie działa to trzeba będzie pisać od nowa?
+... wiesz że java ma coś takiego jak stream i to jest bardzo podobne xD
+i tego używamy
+wiem
+o tym tez mowi
+ale co innego jest przejście na całkiem funkcyjne programowanie z map, reduce etc
+ale możesz zrobic w robocie prezentacje o tym czemu powinnyśmy tego używać, jak wszyscy się zgodzą to czemu nie xD
+nie mam na to czasu i checi
+meczcie sie

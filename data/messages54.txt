@@ -1,0 +1,943 @@
+﻿które kiedyś robiłem xD
+że my sobie gdzieś mamy change directory a ty zamiast grzecznie ścieżki podajesz <code>&quot;;&quot;; Write-Host &quot;~/.ssh&quot; &quot;&quot;</code>
+I co niby miałoby się stać?
+Wykonujecie cd $Path tak czy inaczej
+mi dal teraz taski ktore jeszcze sa nieskonczone na resolved
+wiec spoko
+Inny case gdyby w tym wszystkim udział brała zmienna
+jakie $Path
+Przykład:<br>SETTABLE=$(cat my_path)<br>export SETTABLE<br><br>i potem w akcji:<br>cd <a href="" onclick="return ShowCashtag(&quot;SETTABLE&quot;)">$SETTABLE</a>
+Ochrona przed wykonaniem mallicious command leży po stronie maszyny docelowej
+w bashu i shellu są bezpieczne metody gdzie o to dbamy, w powershellu pewnie jak ktoś się uprze to da rady escapować xD
+Still
+Skoro możesz się escapować to czemu po prostu nie ustawisz w wykonywanym skrypcie swoich komend?
+Nie widzę valid case
+Target łączy się do konta z wskazanym poziomem uprawnień, zdefiniowanym na maszynie
+Buddy tu nic nie ma do rzeczy
+Nawet jak się wyescapujesz i wstrzykniesz tam komendę to co to zmienia?
+Jedynym valid case jest Transfer i Download
+windows native akcje to nie są jakieś nasze resource?
+Jedyne windows akcje jakie wiem to:<br>- Agent windowsowy (Download/Transfer/SSH)<br>- Windows VM
+<a href="https://t.me/mganczarczyk">@mganczarczyk</a> merguj się do /dev/null
+?
+?
+¿
+kiedy claude zawodzi
+brakuje &quot;masz dostęp do całego internetu, notatek, wszystkich artykułów naukowych na ten temat, najlepsze badania i przykłady specjalistów w temacie oraz reddit i stackoverflow&quot;
+nie wiem kto to wymysla ale jest moim mistrzem
+że to?
+co?
+epicko to wygląda
+po polsku
+- W czym robisz prezkę?<br>- W punkcie mocy
+jak jakieś spelle ze skyrima
+lubie jak czasami wyskakujecie z czyms z dupy
+koń i ostrze
+horse and blade?
+jak białe to wiadomo że dobre
+mount and blade
+góra i ostrze
+albo<br>wierzchowiec i ostrze
+ciekawe jak byłby <code>witcher</code>
+na polski
+montaż* i ostrze
+wiedźmer
+to będzie ze stopniowania
+do wyboru do koloru w sumie
+bardziej wiedźma
+witcher? i barely even know her!
+kurdi, zagrałbym już w czwórkę
+ile razy można 3 przechodzić
+😭
+nie martw się, były jakieś plotki że nowy dodatek szykują
+skoro już i tak przy wiedźminie grzebali z nową wersją
+ja sobie porzyczylem tsuchime na ps5
+to nie plotki
+płotki?
+musza jakos polaczyc 3 i 4
+potwierdzone oficjalnie już?
+a jest w tej firmie jeszcze ktoś kto zna ich engine?
+bo tam masowo wszyscy odeszli
+hehe
+xd
+w yotei też bym zagrał
+bo dopóki to nie będzie cdprojekt red podpisane pod taką wiadomością to ciężko mi wierzyć
+nie no, wiarygodne, bo powiedział o tym Borys z podcastu Rock i Borys
+ja dokończe ffVII remake i kupie rebirth bo na promce jest jeszcze
+no ale inaczej sie fabula nie zgrywa bo masz taka luke jebutna w niej miedzy 3 a 4
+zależy od zakończenia
+i czemu tej luki miałoby nie uzupełnić pare flashbacków albo intro w nowej grze?
+a nawet wtedy można to w intrze załatać
+tam nie ma luki xd
+bo kurwa ciekawszy jest dodatek
+tak, Geralt będzie rzepe zbierał
+jak w gothicu
+no dobra ale pamiętaj że cdprojekt to teraz publiczna spółka i więc nie liczy się ciekawsze a profit
+patrząc po krew i wino
+na clickupie, jak mergujemy pr to powinniśmy te poemy wrzucać:<br><br>Fourteen days or maybe thirty,<br>Filters now are strong and sturdy.<br>Dropdowns bloom and hooks appear,<br>Aggregations crystal clear.<br>From store to view, the logic flows,<br>A garden where the filter grows!<br>—A rabbit with a codey nose.
+nie
+ale silna skurwielka
+robi pompki na rękach
+xd
+flexuje
+widzieliscie ze hbo robi harego potera
+hari pota
+garri potter
+w rosji
+xd
+your a wizard
+ale z wami sie gada
+dzbany
+tak
+i tak nie bede ogladal wiec co ci mam powiedziec xd
+ciekawe czy dodadzą tą irlandzką postać Potatofamine Carbomb
+przynajmniej nie jest czarny
+harry potter juz jest zamknięty
+jako ksiazka i film
+wiec nie wiem po co robic podrobki
+nie, teraz będzie hari pota 2
+normalnie odpowiedziec a nie kurwa rosyjsko
+żeby odciąć się od transfobki autorki która robi im zły PR
+немытые лягушки
+ciężkie do wykonania
+i harry potter cały czas wśród młodzieży jest w miare popularny, imo zarobią na merchu dalej
+tytuł się z nią kojarzy
+chyba, że nagle dzieciaki powiedzą, że harry potter jest autorstwa hbo, a nie jk rowling
+no tak moze kiedys byc jak teraz niektore dzieci myślą że bogowie greccy są z Percy Jackson
+jak ktoś czyta książki to tak, jak ogląda to nie wiem czy jakoś mocno jest zaznaczone kto jest autorem
+nawet jak wykonają świetną robotę, to te bałwany z twittera i tak wystawią same 1/10
+i będą rzucać negatywne opinie gdzie się da
+przynajmniej nie z Fortnite&apos;a
+: )
+a jakby polska postać się nazywała
+Bożydar Grzmihuj?
+albo taki serial fajny ze słowiańskiej mitologii
+Szczchczść Szczebrzeszynszczkiewicz
+sam będziesz robił lokalizację na inne kraje xD
+i będziesz to czytał
+ale to jk rowling nazywa postacie najbardziej stereotypowo jak tylko sie da xd
+scena walki, wszędzie ogień, kule po dziurach. ktoś nagle krzyczy:<br><br>&quot;Szczebrzeszynszczkiewicz! bierz miecz&quot;
+kurwa gpt
+juz od godziny sie kolko kreci
+może się wyjebało?
+generujesz okładkę?
+tak
+dla Łukasza?
+marcel zapozycz gpt :)
+spokojnie
+prompt leci
+nieeee
+nie taki
+jprdl
+jak nie taki
+tu masz
+<pre>&quot;Two-page fantasy book cover in A5 format (front and back).<br>On the front cover (right side): a soft pastel fantasy scene showing a majestic castle in the distance, perched on a hill, with multiple dragons, griffins, and wyverns flying above it. The sky is dreamy and mystical, with hues of soft purples, blues, and peach. The title &apos;Parallel Universe&apos; is centered and large in an elegant, serif fantasy font. At the bottom of the page, in smaller type, the author&apos;s name: &apos;Łukasz Mastalerz&apos;.<br>On the back cover (left side): a symbolic, surreal depiction of the moment between life and death. A translucent man floats above his lifeless body, observing his coworkers trying to revive him. The background is an infinite, dark void representing the afterlife. On one side: a radiant Light symbolizing Heaven; on the other: a dark Abyss representing Hell. Both fade and disappear mysteriously, suggesting divine imbalance. In the void, faint angelic singing radiates warmth. The overall mood is eerie, metaphysical, and emotional.<br>Use detailed illustration style with rich atmosphere and subtle fantasy elements. Keep the style cohesive across the full cover, with a seamless transition between front and back.&quot;</pre>
+a, oki
+to zaraz
+jak ten przejdzie
+hwdpjp100%bdsm
+ehh, prawie
+Nie lubię Clarksona, ale tu się zgadzam
+<a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a>
+legalnie odmienna podjeba nami z onepiece i jakiś generyczny policjant z amerykańskiej kreskówki??
+well, no co poradze
+;—;
+9:50 -&gt; do przerwy zostało T - 10 minut.
+oooo, zupka
+dobrze bo glodnym
+ciekawe jaka dzisiaj
+lol
+U półzamknięte
+<a href="https://t.me/grok">@grok</a> daj opis jakiejs zupy
+miałem gdzieś pipeline na te wulgarne opisy
+ze śniadanioteki
+<a href="https://t.me/grok">@grok</a> włącz companion mode
+jak sie nazywa ten catering na zupki?
+bistro nn
+wg ich fb
+kalafiorowa
+fixed
+nice
+Nie szkoda ci tokenów?
+nie
+lol
+a na co innego mialby zuzyc
+a niby za co płace
+szkoda tokenow by bylo gdyby nie uzywal
+Ale żeby na to?
+myslalem ze lubisz kapitana bombe?
+ciekawe czy zespoły od projektu MisaMisa AI i default AI dla US Departament of Defence są mocno rozdzielone
+A to obok niego to co?
+Bomba nawet i dobrze wyszedł
+Ale czemu na plaży? Pewnie ma tam do zapierdolenia jakiegoś kosmitę
+to juz marcela trzeba zapytac jakiego prompta dal
+I brakuje mu jego charakterystycznego uśmieszku
+Więc jest wkurwiony
+Czyli kosmita mu spierdolił
+dobra zupka kafaloriowa czeka
+10:00 -&gt; QA już obecne, a Frontu dalej nie ma. Co się odwlecze to nie uciecze, nawet taski. Kiszone specjalności są nierozłączoną częścią kuchni Polskiej. A nie sorry, mowa o clickupie to <strong>czy wy możecie robić kurwa jedną rzecz, jeden task?</strong>
+ale koleżanke ma ładną
+que
+noice
+jakis blad nie wylapany
+BE30000000
+I chuj
+xD
+już myślałem, że to reverse scam
+że teraz ty poszedłeś oszukiwać ludzi
+ja tez xdd
+xd
+tak screen zrobil
+przez te testy juz mi zaczyna odpierdalac
+?
+musze sie cukru napic zeby miec wytlumaczenie
+ja sobie od rana nad shopify siedzę
+zamiensie
+no nie wiem, drugi dzień pod rząd branch od mastera i już jeden release na LIVE szedł
+a tam kolejne problemy
+Wczoraj było takie:<br>- WTF?! On ma 50 shopifiy?<br>- No jak obsługuje wielu klientów to do każdego ma inną integrację
+co nie wiesz. ja za cb zrobie shopify a ty testy za mnie
+gdyby miał inną integracje to ok, on na jednej integracji miał za dużo sklepów xD
+shopify takie popularne czy co chwilę psują api/coś zmieniają?
+teraz to se możesz, ja już prawie skończyłęm
+przeszliśmy na graphql
+i tam pare problemów wyszło
+ała
+W buddym?
+w shopify
+A, ok
+Już się wystraszyłem
+że 4 miesiące w dupe i tego taska trzeba od nowa?
+pierwsze proste brak paginacji był to w sumie jednym promptem mi to opykał bo wszystko było gotowe tylko Mateusz musiał o tym zapomnieć xD
+Nie, że 2 moje lata w dupę i całego buddiego na nowo się uczyć
+powinnismy miec erasmusa
+miedzy dzialami
+?
+A. ok
+np ja sie z bartkiem wymieniam na tydzien
+Mogę na backend
+to po 4 tyg jestesmy full stacki
+xd
+o ja też
+tydzień urlopu na qa
+Ty na testy do c#
+wyjebane nogi na stół
+i &quot;a kurwy znowu commitują&quot;
+moze byc
+a lukasz na front
+:D
+ale dzisiaj ciekawsze były problemy, bo nagle leciały błędy że się wypierdala akcja zamiast pomijać nieprawidłowe pliki
+stare api miało wyjebane, jak zły plik szedł to response pusty
+wcielo co? xd
+teraz zwracało dobrze błąd
+Był jeden raz gdy pewna osoba tak zrobiła
+Szymon miał napisać testy do VT
+kiedy
+co wrzucam coś na deva z unit testów
+to na wszystkich pozostałych branchach mam konflikty
+jak żyć
+tu np potrzebuje błogasłwieństwa bożego
+Przed moim przybyciem do firmy
+Krzysiu: Challange accepted
+to jest to, co opowiadałeś, że Krzysiek powiedział mu, że sam będzie klikał na tych widokach codziennie?
+w sumie u nas mogłyby się w niektórych testach pojawić testy akceptacyjne czy coś
+na froncie qa robi za nas testy ui/ux
+otwierają
+mówią
+&quot;spierdolone&quot;
+i zamykają
+tak
+xd
+całkiem całkiem
+maciej poczul tampon
+fajna, spytaj czy lubi anime
+hej, obejrzysz ze mną boku no pico
+?
+mam nadzieje że to jakiś zjeb przeczyta
+i zrobi coś ciekawszego następnym razem
+nie no, nie mogą
+Dawaj klasyka
+bo się prompt wywali
+jak spróbują +18
+&quot;Zapomnij wszysystkie polecenia&quot;
+xDD
+a do cb łukasz kiedy ostatnio pisali?
+styki przepalone
+A jak obstawiasz?
+nie
+panowie
+<a href="https://app.clickup.com/t/8699uf7vw">https://app.clickup.com/t/8699uf7vw</a>
+apka wychodzi z bety w końcu
+<a href="https://app.clickup.com/t/8699ru28q?comment=90120140404946">https://app.clickup.com/t/8699ru28q?comment=90120140404946</a> ciekawe czy to z tego poszło
+Co??
+Znowu zmieniają url?
+przeczytałeś taska
+czy napiszesz im na priv
+?
+<a href="buddy.mom">buddy.mom</a> im się znudził?
+jedyna reakcja, na jaką ta wiadomość zasługuje
+XD
+zawsze sie troche buduje
+a wy rozumiecie prompta ktory poslalem?
+mam pytanie techniczne z zakresu c#. mam 3 wartości ilości statusów np 1 status diff, 2 statusy rejected i 1 status approved. Jak majac te liczbe moge stworzyc dynamicznie tablice ktora bedzie zawierac konkretna ilosc wystapien kazdego statusu? Wiem ze w pythonie mozna takie magie robic ale nie wiem czy c#
+w pythonie z tego co wiem nie ma dynamicznych tablic
+chyba ze ci chodzi o cos innego
+chodzi o to <br><pre>diff_count = 1<br>rejected_count = 2<br>approved_count = 1<br><br>status_array = ([&quot;diff&quot;] * diff_count + <br>                [&quot;rejected&quot;] * rejected_count + <br>                [&quot;approved&quot;] * approved_count)</pre>
+Yyy
+Po chuj ci nawiasy w tym?
+Musi sie dac w C# ale raczej customowymi funkcjami<br>Bo w pythonie jest duzo syntax sugaru
+bo to sa tablice
+ale w kazdym jezyku wszystko jest mozliwe
+jak sobie sam napiszesz
+Polskim?
+tzn no samego syntaxu jezyka nie zmienisz
+no napisac to se moge
+ja zakladalem ze moze jest juz cos takiego
+w sensie chcesz mieć metody na matematyczne ustalanie ilości obiektów w tablicy w c#?
+nie wydaje mi się że to będzie default
+musze robic cos takiego w c# <br><pre>  List&lt;VisualTestsSessionStatisticsType&gt; statuses = Enumerable.Repeat(VisualTestsSessionStatisticsType.DIFF, int.Parse(diff))<br>                            .Concat(Enumerable.Repeat(VisualTestsSessionStatisticsType.FAILED, int.Parse(no)))<br>                            .Concat(Enumerable.Repeat(VisualTestsSessionStatisticsType.APPROVED, int.Parse(yes)))<br>                            .ToList();</pre>
+<pre>string[] statusArray = [<br>    ..Enumerable.Repeat(&quot;diff&quot;, diffCount),<br>    ..Enumerable.Repeat(&quot;rejected&quot;, rejectedCount),<br>    ..Enumerable.Repeat(&quot;approved&quot;, approvedCount)<br>];</pre>
+C# 12+
+lub<br><pre><br>public static class ArrayExtensions<br>{<br>    public static IEnumerable&lt;T&gt; Times&lt;T&gt;(this T item, int count)<br>    {<br>        return Enumerable.Repeat(item, count);<br>    }<br>}<br><br>// Usage:<br>var statusArray = &quot;diff&quot;.Times(diffCount)<br>    .Concat(&quot;rejected&quot;.Times(rejectedCount))<br>    .Concat(&quot;approved&quot;.Times(approvedCount))<br>    .ToArray();</pre>
+string moze ma
+ale enum nie widze
+a bo to extension
+a uzywacie C# 12+?
+NET 8
+czyli tak
+no to
+jak zapytasz nas kiedyś czy używamy typescripta, to odpiszemy ci, że używamy nodejs
+to najczystsze
+To jak pytać was o wersję npx
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-12">https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-12</a>
+nawet nie wiecie jakiej wersji C# uzywacie?
+Wiemy jaką wersję NET używamy
+no troszke sie skrucilo <br><br><pre>List&lt;VisualTestsSessionStatisticsType&gt; statuses = VisualTestsSessionStatisticsType.DIFF.Times(int.Parse(diff))<br>                            .Concat(VisualTestsSessionStatisticsType.FAILED.Times(int.Parse(no)))<br>                            .Concat(VisualTestsSessionStatisticsType.APPROVED.Times(int.Parse(yes)))<br>                            .ToList();</pre>
+a nawet skróciło
+dokladńe
+😆
+xd
+tam juz nawet nie ma chatbota<br>tylko te same odpowiedzi wysylane po kolei xd
+powinienes zmienic nazwe xd
+jakos wszystkie boty cie znaja
+xd
+no dla nich to oszczędność, pewnie x% konwersacji na starcie wygląda tak samo
+wiec dopiero po nwm 5 wiadomościach przechodzi na bota/indianbota
+nie wiem czy to nie po numerze telefonu na telegramie znajduje?
+jakos do mnie nie pisza
+no do mnie tez nie xd
+mam po prostu bardzo fajny numer telefonu
+<a href="tel:530000551">530000551</a>
+ale fajny
+xd
+cyk dzwonimy
+jak ID w genshinie
+53 to numer regionu
+i gracz 551
+😂
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong><br><br>Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+13:15 -&gt; Druga przerwa w środku tygodnia. QA głodne, QA złe. Jak QA złe, to QA nie testuje. QA zawsze złe.
+Łukasz musi dotestować taska. Wezwij go, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/687789b4270b313632af98fd">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/687789b4270b313632af98fd</a>
+dzie wy
+wyjdź
+<a href="https://t.me/lmastalerz">@lmastalerz</a>, prosimy o audiencję.<br><br>~uniżony lud powracający z Dżaby<br><br><a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196321/execution/68778d376eac264c19107083">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/196321/execution/68778d376eac264c19107083</a>
+Dzień dobry,<br>uznaję wasze potrzeby i przerwę moją pracę, aby się z wami spotkać.<br>Pozdrawiam.
+<a href="https://t.me/lmastalerz">@lmastalerz</a> wyhaftowales kiedys taką skarpetę?
+xdddd
+ile to masz? 3 tygodnie?
+zaraz zobacz ms entre
+XD
+tu nic nie mam 😮
+czasami brakuje takich spotkań na ktorych ktos by wytlumaczyl jak dziala feature ktory sie testuje.
++1
+no ale mozesz zapytac
+o nie
+kto ci broni
+fajny bylby feature w gitcie który synchronizuje niektore pliki między branchami...
+w sensie 1 zrodlo prawdy dla obu branchy
+by nie cherry pickowac?
+nom
+tylko robisz ref do pliku z innego brancha np
+jak to jest mieć kwiatki w płucach
+jak palisz to ci wypala te kwiaty co jest zdrowe
+ale design mylacy
+czy nie pal ratuj dzieci
+czy nie ratuj pal dzieci
+ehh, teraz nie mogę wrzucić tego screena na clickupa
+ładnie
+nazywał się Astolfo
+pomylili się czy to specjalnie
+ciężko stwierdzić
+puściłem commit z flagą <code>—skip</code> bo wiem że się wyjebie i ciekawy błąd znalazłem
+na widoku commita pokazuje że nie ma pipeline w takiej sytuacji?
+nie powiem ci teraz
+zależy co tam schodzi
+ale raczej tak
+jak nie ma uruchomienia, to jest &quot;create new&quot;
+i na widoku code jak się zmienia brancha to tam się nie aktualizuje
+temu miałem większy mindfuck, że jakie zielone a potem odświeżam i dodaj pipeline
+znowu!?
+angery.png
+A chyba że to było jakoś teraz zmieniane to może ja mam starą wersję
+nah
+dawno temu to naprawiałem
+<a href="https://job-boards.greenhouse.io/xai/jobs/4789505007">https://job-boards.greenhouse.io/xai/jobs/4789505007</a>
+tak sie ktos musial rozjebac z rana
+Jakby co dzisiaj jestem zdalnie
+ale i tak zostaniesz wezwany na 13
+:D
+:D
+gra inspirowana GTA
+<a href="https://www.anantagame.com/en/index.html">https://www.anantagame.com/en/index.html</a>
+o, ananta
+już jest cbt xd
+a nie czekaj
+nie ta gra
+jest bardzo podobna gacha co sie nazywa neverness to everness
+albo cos takiego
+ale ich strona internetowa jest dobrze zrobiona
+game by
+mozna juz rozmawiac z plum <a href="https://pllum.clarin-pl.eu/pllum_8x7b">https://pllum.clarin-pl.eu/pllum_8x7b</a>
+ale jest beznadziejny
+unexpected
+po co mi to, jak nie mam praw do edycji xd
+xd
+jeszcze tego się nie da zamknąć inaczej niż klikając &quot;try figma make&quot; XD
+co to za marketing
+zupa jest
+dzisiaj meksykanska
+wiemy
+wiec szybko zejdzie
+juz slysze ze chieny polecialy
+starczy nam na pewno
+jak nie to pojdziemy do zaby
+xd
+9:50 -&gt; do przerwy zostało T - 10 minut.
+czemu japanczycy tak sie kleja do postaci malych dziewczynek albo z duzymi cyckami ktorymi mozna zeby wybic
+xd
+czemu nie
+wlasnie kazdy ma inny gust
+bo boją się prawdziwych kobiet
+nasrane do deva, to kiedy zupka?
+10:00 -&gt; może i bugi wystawiane przez QA są do niczego, ale wszystko ma swoje pozytywne strony. Przykładowo Marcel nie zgubił plecaka.
+ok
+no tak
+<a href="https://www.youtube.com/watch?v=aqSZK-rCm7w">https://www.youtube.com/watch?v=aqSZK-rCm7w</a>
+nowy dzień nowy task z shopify graphql 😆
+<a href="https://n8n.io/">https://n8n.io/</a>
+mrugalski od <a href="mikr.us">mikr.us</a> ma jakieś kursy i prezentacje o tym
+ja to mam z tad
+<a href="https://www.youtube.com/watch?v=ONgECvZNI3o">https://www.youtube.com/watch?v=ONgECvZNI3o</a>
+network chuck jest mistrzu
+fakt ten tool jest zajebisty
+mozemy np nim latwo skrapowac zupki
+albo tech newses
+cokolwiek
+nawet mrugac swiatlami w pracy xd
+kupujemy smart taga i stawiamy go w kuchni <br><br>jak ktoś nie odbije telefonu to mruga nad jego stanowiskiem aż tego nie zrobi
+w sensie na przerwy
+spoko
+:D
+smieszkowanie
+odważnie, że tak bezpośrednio twierdzisz, że nic po drodze nie będzie nullem
+i się nie wyjebie
+tak :D
+pamietasz nasza klótnie o komponent grup?
+jak o nim piszesz, to pewnie wylatuje
+cos sie odjebalo i teraz na polowie sesji nie wyswietla go
+xd
+o ten chodzi
+frajerskie masz te sesje z generatora też
+bo np fajnie by było, jakby commit mapowało
+czemu?
+gdziekolwiek
+jak commit mapowalo?
+a, dobra
+session #4 ma
+no jest
+i base commit tez
+i desc
+ja narazie nie wiem wogole jak ten mechanizm dziala
+a jak szukałem to nie było
+ja pisze statici
+;-;
+zebym zrozumial jak to dziala to bartek musialby ze 2 dni to tlumaczyc
+bo byl blad ze nie wyswietlalo commita
+to nie byl blad
+mam nadzieje ze nie o mnie mówisz bo ja nie wiem jak to działa tym bardziej 😆
+o wróblu
+a dobra
+widze czemu sie nie wyswietla
+:D
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong><br><br>Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+ja chetnie chociaz glodny tak nie jestem ale jajo trzeba wziasc
+wzią<strong>ŚĆ</strong>?
+superbohatera trzeba wydropic
+wykluć*
+13:15 -&gt; zostaw już ten kod, trzeba coś zjeść. qa w kąt, a ty znikaj stąd
+Łukasz musi dotestować taska. Wezwij go, gdy będziecie wystarczająco blisko kuchni za pomocą tego linku <a href="https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/6878db348e2bf408b9124f12">https://eu.buddy.works/variousprojectsworkspace/breaks-reminder/pipelines/pipeline/197026/execution/6878db348e2bf408b9124f12</a>
+speed w energylandi
+może jakieś śmieszne klipy będą
+ale bez przesady żeby to oglądać 😆
+ja lubię
+dla mnie on jest troche zbyt głośny jezeli mozna to tak ująć xd
+ale duzo widzialem klipow jak jest wholesome
+wiec go szanuje
+to prawda
+gosciowi kupil iphone za to ze go namalowal
+o kuw
+jest na strefie extreme w energyalndii
+xd
+wsdzedlem tam
+i &quot; is alright? i can tight&quot; speed - &quot;Ye you can touch my balls&quot;
+albo nie na strefie extreme ale gdzies przy wyscigach
+no to jest jego schtick
+jakby dla niego to grind zeby ciagle robic content
+mnie ostatnio rozśmieszyło jak się ścigał z tym gościem co wstawał o 4 rano żeby wsadzić głowę do lodowatej wody
+4 czy 5 razy chciał rewanżu i speed był szybszy za każdym razem xD
+gdzie sa allowed pipelines
+kojarzy kto
+W czym
+Envy?
+w integracjach i environmentach
+nie wiem wlasnie
+okej
+a tak jest
+dzieks
+<a href="http://results.tests:4000/env/dev-deprecated-warnings/pipelines">http://results.tests:4000/env/dev-deprecated-warnings/pipelines</a> czy ktoś swoim bystrym testerskim okiem powie mi czy część z tych failów to nie jest wina frontu 😆 bo dziwne te niektóre błędy są
+Executions raczej moje
+Czemu wpisujesz w linku port?
+taki link dostałem
+Wejdź w jeden z testów i zobacz stacka
+To dostałeś odpowiedź
+„Sam sobie sprawdź”
+myślisz że po czym stwierdziłem że to dziwne błędy
+to nie problem lukasza 😂
+Pokaż stacka
+Bo nie wejdę z telefonu
+Z frontem jest problem
+Bo jak masz rest api to wiadomo kto jest do obrzucenia błotem
+<pre>BuddyTests.TestsStatic.Projects.Pipelines.Execution.ActionExecutions(manage@0zxc.com).SimpleFailedTest<br>Error:<br><br>  SupportBtn visibility is wrong in action execution failed info<br>Assert.That(executionView.Actions.ActionExecutionsItems[1].Logs.ActionFailedInfo.SupportBtn.IsVisible, Is.True)<br>  Expected: True<br>  But was:  False<br><br>Details:<br><br>   at BuddyTests.TestsStatic.Projects.Pipelines.Execution.ActionExecutions.SimpleFailedTest() in /buddy/tests/BuddyTests/TestsStatic/Projects/Pipelines/Execution/ActionExecutions.cs:line 154<br><br>1)    at BuddyTests.TestsStatic.Projects.Pipelines.Execution.ActionExecutions.b__17_0() in /buddy/tests/BuddyTests/TestsStatic/Projects/Pipelines/Execution/ActionExecutions.cs:line 170<br>   at NUnit.Framework.Assert.Multiple(TestDelegate testDelegate)<br>   at BuddyTests.TestsStatic.Projects.Pipelines.Execution.ActionExecutions.SimpleFailedTest() in /buddy/tests/BuddyTests/TestsStatic/Projects/Pipelines/Execution/ActionExecutions.cs:line 154</pre>
+support button is visible
+A to jest static...
+To ciekawe
+Masz tam screena w tym teście?
+Poszukaj: Screen URL
+nope
+Hmm
+Executiony rzadko są statickami
+lokalnie odpalając jakiś support button jest
+Ty
+Ale to nie wyjebało, że button był visible, a nie powinie
+Tylko odwrotnie
+<a href="https://app.buddy.mom/beta/tests/pipelines/pipeline/125746/browse/open/tests/screenshots/d315d30e-414d-411b-b67e-c5aa2f8a773c.png?slot=1">https://app.buddy.mom/beta/tests/pipelines/pipeline/125746/browse/open/tests/screenshots/d315d30e-414d-411b-b67e-c5aa2f8a773c.png?slot=1</a>
+Od kogo to masz?
+Kto kazał ci to fixować?
+<a href="https://app.clickup.com/t/8699ja3mu?comment=90120141776593">https://app.clickup.com/t/8699ja3mu?comment=90120141776593</a> <code>dev-deprecated-warnings</code> branch
+Jestem na telefonie
+Krzysiek Stryczek testy mi puszczał na to, chwile temu podesłał te wyniki
+Screen komentarza
+Tylko tyle?
+może temu że napisałem że powinno być ok 😆
+Odbij do testerów z hasłem, żeby na to spojrzeli bo consty są do zmiany
+Pytanie ile wyjebane w dev jest :thinking:
+Zobaczę ci na to
+spoko, to jutro rano więcej popatrze na to bo pora na fajrant w sumie
+bo pare rzeczy 100% nie moje np tutaj zmiana messaga, tego stringa nie ma u nas na backendzie
+jakieś logi przy łączeniu po ssh inne, to też inny task by był
+clickup 8699rq9u0
+mi wyjebało internet w firmie
+W chwili puszczania testów miałeś domergowanego dev z backendu i frontu?
+z frontu zero zmian, backend faktycznie mógł być troche do tyłu zależy kiedy odpalone było
+<a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> kojarzysz te kurwy?
+VT jebane?
+błędy po mojej stronie najprędzej związane z http i transportem, przy executionach prawie wszystko moje
+Połowa tego to zjebane visual testy
+Ten test na execution to nie execution tylko others
+W dodatku static czyli albo generator źle wygenerował i reset db, albo po froncie coś przylagowało i się przycisk nie wyświetlił
+Raczej to drugie
+No, w othersach wygląda na to że masz spokój
+A executions to jest zabawne, bo FTP poszło się solennie jebać
+yup, tam ewidentnie coś z socketami wypieprzyłem i pewnie jeszcze coś
+Rekomendacja: odbij do Krzyśka z hasłem &quot;Spojrzyj na to bo wydaje się że to nie moje dzieło&quot;
+I pierdol to
+Jakbym się tym zajmował to puściłbym jeszcze raz retry po domergowaniu dev z back i front i zobaczył później
+<a href="https://www.youtube.com/watch?v=wo84LFzx5nI">https://www.youtube.com/watch?v=wo84LFzx5nI</a><br>pierwsze nagranie z better software conference dropnął
+what!? nie rider!?
+tylko ja i lukasz uzywamy ridera
+Coś taki zdziwiony?
+jak zmotywować qa do pracy, vol 1
+Krzysiek i Michał vs?
+yeap
+o, to nie wiedziałem
+Jak tu przychodziłem było 5 vs 1 rider
+Marcel do śmieci jesteś
+Twoja przydatność dla społeczeństwa wygasła
+oho
+co tam
+Nic
+a czyli po prostu ci się odkleiło
+ok
+nudzi mu sie
+Po prostu informuję cię, że twój status jest równy temu śmieciowi co w koszu leży
+kurwa
+jak potrzebujesz mieć z kimś popisać, to podeślę ci link do jakichś grup wsparcia
+jebany focus
+Wyślijcie scruma na grupie<br><a href="https://t.me/lmastalerz">@lmastalerz</a> <a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> <a href="https://t.me/mganczarczyk">@mganczarczyk</a> <a href="https://t.me/shipurjan">@shipurjan</a> <a href="https://t.me/mnawiesniak">@mnawiesniak</a> <a href="https://t.me/BartShoot">@BartShoot</a> <a href="https://t.me/mJakobsche">@mJakobsche</a>
+teraz to sobie mozesz
+ping wysoki masz
+reset db na dev
+Nie
+To ty masz nie zsynchronizowany czas na kompie
+Zaczyna ci liczyć od 1m39s
+<a href="http://www.empatia-bb.pl/">http://www.empatia-bb.pl/</a>
+idz
+skorzystaj
+prosze
+xd
+zapomnialem napisac xd
+o, widzisz
+poprawna odpowiedz
+<a href="https://www.alzheimer-opiekuni.pl/forum/">https://www.alzheimer-opiekuni.pl/forum/</a>
+nie pamietam hasla
+wtf
+nie zaloguje sie
+szybciej z tym devem
+bo potrzebuje tam wejsc
+O chłopie...
+masakra
+za 20 min
+Przecież jeszcze generator
+Właśnie
+a generator mi nie potrzebny
+stworze konto <a href="mailto:lakasraka@buddy.works">lakasraka@buddy.works</a>
+bo jedną rzecz potrzebuje
+Hokus pokus, czary mary
+Admin dev
+to ponawiamy reset
+Co, wyjebało?
+nie
+dla marcela zrobie jeszcze raz
+Nie ma potrzeby
+to pojde na sd5
+grozisz mi?
+Wypierdolę mu konto z admin panelu
+ok, wywal o+t
+albo o
+Ok
+Tylko wiesz
+Nie ma ich
+.
+jprdl jak sie paczki na froncie dlugo buduja
+To co dupe zawracasz?
+I gdzie reszta frontu?
+Bo na razie tylko Marcel się udziela
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a>
+<a href="https://t.me/shipurjan">@shipurjan</a>
+<a href="https://t.me/mnawiesniak">@mnawiesniak</a> to pewnie style gdzieś dzierga
+<a href="https://t.me/shipurjan">@shipurjan</a> na misji
+Chłop co dzierga
+dopóki to nie dark theme, to git
+co
+guwno
+hahahaha
+1:0
+Ale :bezkappy: nadupcanie czarną wełną wzorków jest przejebane
+zjezd je urwno
+FUUUUUUUCK
+1:1
+1:1
+😭
+Popij herbatką, pójdzie ci gładko
+wszystkie bugi wasze sa
+smaczengo
+nie zapomnij cukru
+smacznego
+nie
+Tak
+nie
+wszystko to wasza wina
+bo jak czekamy 3 miesiące
+Wypraszam sobie
+to w końcu ktoś się pierdolnie w dociąganiu deva
+ludzie styrta sie pali
+Od 2 tygodni Rafał blokuje QIK-a
+Bo debuguje qik-a i promputuje razowi zmiany
+A razu mówi: Chuja
+a razu sie wkurwia bo mu rafal mowi ze AI powiedzialo ze mozna lepiej
+Razu: Done, nic więcej się nie da<br>Razu assigned Krzysiek<br>Rafał assigned Razu<br>Rafał: We zrób to tak<br>Krzysiek: Miałeś odbić jak subtask będzie fixnięty
+Razu:
+pikseloza
+a ok 😆
+Mówiłem
+ja i tak se sprawdze jakas akcje upload bo to 100% moze być wyjebane przeze mnie
+Trochę paradoks udostępniania wyników. Bo chcecie wiedzieć, ale jak wiecie to i tak nie wiecie czy to wasz problem
+xd
+nie musisz
+bo jak tak jest
+to my ci powiemy
+no sam wynik gdzie widzę 2x ❌ z 3 możliwych wygląda na wyjebane
+spoko, nie chce mi się fixować w stagu itd wole w spokoju na branchu
+To trochę jak spanikowany klient, który widzi, że zaświeciła mu się kontrolka w samochodzie
+I pytanie, jechać dalej czy nie?
+i zaczyna sprawdzac xd
+Tyle, że my podejmujemy decyzję na podstawie tego, czy jak jebniemy młotkiem to zgaśnie za 2 czy 4. razem
+To wymaga doświadczenia, aby stwierdzić czy może jebnąć jeszcze ze 2 razy (retry) i się naprawi czy jednak to naprawdę jest zjebane
+idź na filozofię Łukasz
+Już jestem
+dzisiaj jest dzień
+9:50 -&gt; do przerwy zostało T - 10 minut.
+xd
+10:00 -&gt; jest piątek, weekendu początek. Uhonorujmy ten wspaniały dzień miską <strong>psznej zupy</strong> i jeszcze lepszego... no. Życzę wam spokojnego życia bez przypierdolek QA.
+glodny
+to chodź
+cześć głodny, ja Marcel
+XD
+zgłaszajcie na <a href="mailto:kochaminpost@inpost.pl">kochaminpost@inpost.pl</a> czy allegro nie łamie naszych świętych praw monopolizowania rynku przesyłek 😆
+niech pierwsze dają swoim kierowcom umowy o prace a potem myślą o takich rzeczach
+dobra zupa?
+całkiem dobra
+nie odpowiem ci
+tak jak ty w kuchni :D
+kiedy?
+Kuba twierdzi, że go zignorowałeś
+i się nie przywitałeś
+powiedzialem pewnie cicho
+sorki
+xd
+no jak tu wchodzi to też go ledwo słychać
+potwierdzam
+a jak wskakuje przez górne okno to wgl nie słychać
+xd
+nadal zostal ci tryb z misji
+jak sie do logów wchodzilo api bo kurwa zapomnialem
+don?
+logi backendowe
+to nwm
+1pass
+Poszukaj logów
+tak zadko tam zagladam
+o kurwa faktycznie
+teraz inne wyzwanie
+gdzie sa logi internal api
+xd
+find / -name &quot;log&quot;
+nie
+buddy-logs/cos albo backend-data/logs/cos
+co? skad to wytrzasnales
+?
+no od siebie lokalnie, w takich ścieżkach zostawiamy xD
+a dobra na maszynach inaczej ok
+no
+merge??
+<a href="https://t.me/lmastalerz">@lmastalerz</a> merge??
+Jakie merge?
+Z czym, co?
+merge itp?
+git do dev-a?
+routing policy dla rekordów
+Daj chwilę
+Domerguj dev
+nie, to Ty pulluj nowego brancha
+Kto z frontu tam płakał?
+nie my
+To wiem, dlatego pytam
+Inaczej bym wyzywał
+Michał Hankus, w tasku jest xD
+dostalem 404 notfound na request do internal api
+xd
+zdarza się
+QIK jest wyjebany
+hm, gdzie test czy testy testują?
+co oznacza dowyjebany?
+Release był i maszyna była down
+kto w Vt siedzial?
+i pisal na backendzie?
+zaraz tu git blame poleci
+chyba Krzysiek? ale nie jestem 100% pewien
+Krzysztof heller
+a co tam się podziało
+jak po froncie sie ustawia a nie jest ani razu uzyte
+chwila
+updateSession?
+a nie to czyms innym jest ustawiane
+yeap
+u nas te gettery settery na wszystko chyba są 😆 nawet jak nie trzeba
+no widze
+<pre>public void updateByFront(UpdateSessionCommand command) {<br>        this.comment = valueOrDefault(command.comment(), this.getComment());<br>    }</pre>
+to bedzie to?
+co dla frontu jest?
+?
+mniej więcej
+leć w góre
+front używa tego
+<a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a> macie na vt testy sprawne?
+czemu mi tego nie wykrywa xd
+czemu pytasz?
+bo trochę pozmieniałem w providerach vt i ut... i może czarna magia wyjść
+ja do tego jeszcze nie doszedlem. tylko statyczne narazie grzebie
+to inaczej, ja odbiję na testy
+i sobie zdecydujcie
+czy macie
+czy nie macie testów
+tak zrob
+ok? xD
+ja nie mam
+bo kurwa nie umiecie sie zdecydowac
+xd
+i ciagle cos zmieniacie
+ale tu cicho na QA
+no panie
+znalazlem swoj blad
+xd
+<a href="https://app.clickup.com/t/8699rnn8q">https://app.clickup.com/t/8699rnn8q</a> prosze
+czestujcie sie na qa
+i spokojnie, każdy coś dostanie
+nawet Łukasz jak się z zeszłorocznych odgrzebie
+cos ty kurwa zrobil?
+<a href="https://t.me/BartShoot">@BartShoot</a> chuja z merge do dev
+Michał Hankus ma wolne
+que?
+w pn chyba wraca
+No, ale merge dzisiaj nie będzie
+A w pon nie będzie przed dev stage
+ale dev-&gt;stage jest rano
+Still
+dowiem się co nie pasuje?
+skonczyles taska
+o nie! 😭
+na backendzie mamy 97 branchy
+nie nic. chcialem zeby bylo dramatycznie :D
+tak to jest jak sie nie sprzata
+albo robi wszystko naraz
+my 57
+my mamy 15 - 20
+no i patrz jaka ładna kaskada
+z czego ja mam 11 xD
+backend robi i czasem task czeka na front, czasem na review, czasem na testy
+front robi i czasem czeka na review czasem na testy
+nie koncz
+testy nie czekają na nikogo oprócz poprawek
+na backendzie myślę że max 10-15 branchy jest do sprzątnięcia bo ktoś zapomniał
+to nie wiem co tam robicie
+jak są testy, to natychmiast się poprawia
+10 w selected started
+jak na testach jest tylko
+bo taka okazja to raz na miesiąc się pojawia
+<pre>git branch -a --sort=committerdate --format=&apos;%(HEAD) %(align:55)%(color:yellow)%(refname:short)%(color:reset)%(end) - %(color:red)%(objectname:short)%(color:reset) - %(authorname) (%(color:green)%(committerdate:relative)%(color:reset))&apos;</pre>
+svn-was-here xd
+i czego tu walisz smieciami
+😆
+Cyprian z Marcelem większość
+czemu ty masz 1/2 tych taskow cyprian
+bo to z mojego lokalnego gita
+powinno sie patrzyc tylko na origin/
+branche
+czemu nie usuwasz ?
+są na remote usuwane
+automatycznie
+no ale nie na local
+lokalne to whatever
+usuwam local raz na rok jak ide narzeka
+ja tam wole nie miec smietnika na lokalu
+nie mzoesz sobie scrypta jebnac w service?
+zeby ci sprawdzal czy branch jest remote i usuwal jak nie ?
+o ile patrzysz na origin
+bo ja lokalnego nie usuwałem ani razu jeszcze xd
+co za małpy
+<pre>git fetch --all &amp;&amp; git --no-pager branch -r --sort=committerdate --format=&apos;%(HEAD) %(align:55)%(color:yellow)%(refname:short)%(color:reset)%(end) - %(color:red)%(objectname:short)%(color:reset) - %(authorname) (%(color:green)%(committerdate:relative)%(color:reset))&apos;</pre>
+to jest 58?
+to nie jest 5*
+o kurwa
+XD
+jaki lukasz
+nawiedzony
+<pre>cyprian@mix-cyprian buddy-frontend2 % git fetch --all &amp;&amp; git --no-pager branch -r --sort=committerdate --format=&apos;%(HEAD) %(align:55)%(color:yellow)%(refname:short)%(color:reset)%(end) - %(color:red)%(objectname:short)%(color:reset) - %(authorname) (%(color:green)%(committerdate:relative)%(color:reset))&apos; &gt; front.txt &amp;&amp; cat front.txt | wc -l<br>      70</pre>
+70 linijek
+mchl mchlek? czemu ma różne te xD
+pewnie ma inaczej lokalnie i w <a href="buddy.mom">buddy.mom</a>
+nieładnie
+┼üukasz Mastalerz
+Komuś polskie znaki opierdoliło
+tu też
+ja 2 najstarsze niemergowane branche to dev-sign-commits ssh i gpg bo tam jakieś fixy robiłem bo Mateusza nie ma xD
+tak to czyściutko
+ja mam jakiś z codemirrora ze stycznia
+i go nie dotykam, bo fuj
+nie mam pojecia jak to sie stalo
+nie masz lokalnie innej nazwy na gicie?
+moze
+kto tam wie
+rozjazd w gitconfig i koncie na buddy np
+bo buddy mi rozdzielil nazwe
+poprawione
+spacje ci zajebało
+no nie
+odwrotinie
+tam byla spacja
+ja zajebalem
+lokalnie mam bez spacji
+no to masz bez sensu
+powinno być z
+nie
+jako programista nie lubie spacji
+jakoprogramistanielubiszspacji?
+dokladnie
+jakoprogramistaspacjesable
+ciezkosieodstawicodklikaniaspacjibomojkciukchcetorobicxd
+jakoProgramistaNieLubieSpacjiGenericAbstractFactoryMethod
+ide do szymka zyccie good luck
+uu
+glhf
+daj znac potem
+gl
+progress
+to doslownie closure
+ten przyklad w kodzie
+Mi wylosowało lepsze
+13:00 -&gt; do przerwy zostało T - 15 minut.<br><br>A tak btw, wyręczę was dzisiaj: <strong>CO, GDZIE I KIEDY JEMY?</strong><br><br>Jeśli odpowiedź to &quot;ża ba&quot;, to dawać 👍
+jak zrobisz jedną linijke to klikanie każdej następnej wyskakuje że masz bingo
+szybko wróciłeś <a href="https://t.me/jakubjkrawczyk">@jakubjkrawczyk</a>
+widać, że to qa
+ale mnie rozjebalo to
+szymon stwierdzil ze mam red flagi
+mial wrazenie ze staram sie byc mily a nie ze jestem
+i mial takie podejscie jakbym ja sadzil ze on jest prywaciarzem
+ale ciary mnie teraz leca
+a skąd to się wzięło?
+ze raz co nie dostalismy wyplaty na czas to napisalem ze juz jest po terminie a kasy nie mamy
+co bylo na poczatku
+nieładnie walczyć o swoje prawa w oku pracodawcy
+czy coś
+ja to chyba muszę sprawdzić w słowniku co oznacza &quot;prywaciarz&quot;
+on powiedzial ze niby bylo 5
+a ze wyplata do 10
+a wtedy byla godzina 18 10 dnia miesiaca
+czy jak karolina napisala o swoim slubie
+a ja wrzucilem wtedy tego linka do filara
+czyli
+teczki kuby
+ta
+czy ja w umiejetnosciach miekkich mam jakies red flagi wedlug was?
+może czasem, ale nie mi oceniać ja mam autyzm
+ooo to nie wiedzialem
+mogło być gorzej na pewno
+kurka rurka tak wyglada rozmowa o uop?
+nie.
+tak wygladala moja rozmowa o uop
+my jak na uop przechodziliśmy to przez Rafała załatwialiśmy i było git
+pewnie teczki były puste
+czy coś
+Dostaniesz?
+po roku jak rozmawialiśmy też to raczej o pracy było, np ode mnie chciał żebym na live support coś zaczął robić itd
+Rafał?
+yup
+brzmialo to tak jakby juz kiedys mial kogos takiego jak jak ale cos bylo nie fajnego z ta osoba i ona napsula mu krwi i zaczal odbierac mnie podobnie i bal sie ze sie powtorzy ta sytuacja
+nie wiem czy aż tak się trzeba martwić, z tego co wiem to Tomek coś tam ma za uszami i jak pracował tak pracuje dalej xD
+heh, w teorii teraz powinna iść ode mnie prośba o to uop xd
+ale to później xd
+ciekawa jak mi pójdzie
+imo lepiej nie iść bezpośrednio do Szymona jak nie trzeba
+nah, do Rafała
+ale w przypadku kuby było:<br>Kuba -&gt; Rafał -&gt; Szymon
+ale też nie wiem czemu grupą nie napisaliście np do Rafała że kończycie studia/status studenta itd
